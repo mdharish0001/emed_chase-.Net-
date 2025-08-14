@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "xOIFUVPyFJ0GsvBmD4dsedcC6JhMCXu/FC1plc85XFybjnVhcgHVjqn+6y+gCOEPLH9r62Bh5pHw8HrSkHDmlw==",
+  "success": true,
+  "projectFilePath": "D:\\testproject\\Emedlogix\\emedl_chase\\emedl_chase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.13.0\\microsoft.identitymodel.abstractions.8.13.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.13.0\\microsoft.identitymodel.jsonwebtokens.8.13.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.identitymodel.logging\\8.13.0\\microsoft.identitymodel.logging.8.13.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.13.0\\microsoft.identitymodel.tokens.8.13.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.13.0\\system.identitymodel.tokens.jwt.8.13.0.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\files\\RIVERA Ervin_20250729_Empire Plan of New York.pdf",
+      "PackagePath": "staticwebassets\\files\\RIVERA Ervin_20250729_Empire Plan of New York.pdf"
+    },
+    {
+      "Id": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\files\\ecw_credentials.json",
+      "PackagePath": "staticwebassets\\files\\ecw_credentials.json"
+    },
+    {
+      "Id": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\files\\private.pem",
+      "PackagePath": "staticwebassets\\files\\private.pem"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.emedl_chase.props",
+      "PackagePath": "build\\emedl_chase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.emedl_chase.props",
+      "PackagePath": "buildMultiTargeting\\emedl_chase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.emedl_chase.props",
+      "PackagePath": "buildTransitive\\emedl_chase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.emedl_chase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
