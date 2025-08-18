@@ -1,15 +1,27 @@
 {
   "Files": [
     {
-      "Id": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\files\\RIVERA Ervin_20250729_Empire Plan of New York.pdf",
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Phillips George_2025-08-13.xml",
+      "PackagePath": "staticwebassets\\Output\\Phillips George_2025-08-13.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Polk John_2025-08-13.xml",
+      "PackagePath": "staticwebassets\\Output\\Polk John_2025-08-13.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Reed Takira_2025-08-13.xml",
+      "PackagePath": "staticwebassets\\Output\\Reed Takira_2025-08-13.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\RIVERA Ervin_20250729_Empire Plan of New York.pdf",
       "PackagePath": "staticwebassets\\files\\RIVERA Ervin_20250729_Empire Plan of New York.pdf"
     },
     {
-      "Id": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\files\\ecw_credentials.json",
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\ecw_credentials.json",
       "PackagePath": "staticwebassets\\files\\ecw_credentials.json"
     },
     {
-      "Id": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\files\\private.pem",
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\private.pem",
       "PackagePath": "staticwebassets\\files\\private.pem"
     },
     {

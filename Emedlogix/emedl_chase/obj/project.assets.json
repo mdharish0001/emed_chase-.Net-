@@ -795,11 +795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\testproject\\Emedlogix\\emedl_chase\\emedl_chase.csproj",
+      "projectUniqueName": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\emedl_chase.csproj",
       "projectName": "emedl_chase",
-      "projectPath": "D:\\testproject\\Emedlogix\\emedl_chase\\emedl_chase.csproj",
+      "projectPath": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\emedl_chase.csproj",
       "packagesPath": "C:\\Users\\mohamed\\.nuget\\packages\\",
-      "outputPath": "D:\\testproject\\Emedlogix\\emedl_chase\\obj\\",
+      "outputPath": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BU6UM1MYyXtZXlaAjOPIqOa96UjuIbhcVIEY/Ztpi3Q=",
+  "Hash": "zqRJoD+JFZX/ULWJa2jm3wkQImZv2UyC80TPYfNN/n4=",
   "Source": "emedl_chase",
   "BasePath": "_content/emedl_chase",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "emedl_chase\\wwwroot",
       "Source": "emedl_chase",
-      "ContentRoot": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
       "BasePath": "_content/emedl_chase",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\files\\ecw_credentials.json",
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\ecw_credentials.json",
       "SourceId": "emedl_chase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
       "BasePath": "_content/emedl_chase",
       "RelativePath": "files/ecw_credentials.json",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\files\\ecw_credentials.json"
     },
     {
-      "Identity": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\files\\private.pem",
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\private.pem",
       "SourceId": "emedl_chase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
       "BasePath": "_content/emedl_chase",
       "RelativePath": "files/private.pem",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\files\\private.pem"
     },
     {
-      "Identity": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\files\\RIVERA Ervin_20250729_Empire Plan of New York.pdf",
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\RIVERA Ervin_20250729_Empire Plan of New York.pdf",
       "SourceId": "emedl_chase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\testproject\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
       "BasePath": "_content/emedl_chase",
       "RelativePath": "files/RIVERA Ervin_20250729_Empire Plan of New York.pdf",
       "AssetKind": "All",
@@ -72,6 +72,63 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\RIVERA Ervin_20250729_Empire Plan of New York.pdf"
+    },
+    {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Phillips George_2025-08-13.xml",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "Output/Phillips George_2025-08-13.xml",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Output\\Phillips George_2025-08-13.xml"
+    },
+    {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Polk John_2025-08-13.xml",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "Output/Polk John_2025-08-13.xml",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Output\\Polk John_2025-08-13.xml"
+    },
+    {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Reed Takira_2025-08-13.xml",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "Output/Reed Takira_2025-08-13.xml",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Output\\Reed Takira_2025-08-13.xml"
     }
   ]
 }

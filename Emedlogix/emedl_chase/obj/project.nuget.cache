@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xOIFUVPyFJ0GsvBmD4dsedcC6JhMCXu/FC1plc85XFybjnVhcgHVjqn+6y+gCOEPLH9r62Bh5pHw8HrSkHDmlw==",
+  "dgSpecHash": "759bVfChQkovtzpOmI3U+GM53VVZXU1u9Du+mlK68blHxChktsKn30icJ7niklI8RzKo31WiLx3rGO03xP9puQ==",
   "success": true,
-  "projectFilePath": "D:\\testproject\\Emedlogix\\emedl_chase\\emedl_chase.csproj",
+  "projectFilePath": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\emedl_chase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\mohamed\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",

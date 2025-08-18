@@ -1,4 +1,5 @@
-﻿using emedl_chase.Model;
+﻿using emedl_chase.Helper;
+using emedl_chase.Model;
 using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -68,23 +69,25 @@ namespace emedl_chase.Controllers
            
             var get_patient_json = await FhirApiCaller.CallFhirApiAsync(bearer, name);
 
-            var fhir_id = "";
+            //var fhir_id = "";
 
-            foreach (var item in get_patient_json)
-            {
-               fhir_id=item.fhir_id;
-            }
-            var get_encounter_json = await FhirApiCaller.CallApiForEncounter(bearer, fhir_id, convert_dos);
+            //foreach (var item in get_patient_json)
+            //{
+            //   fhir_id=item.fhir_id;
+            //}
+            //var get_encounter_json = await FhirApiCaller.CallApiForEncounter(bearer, fhir_id, convert_dos);
 
-            var get_binary_data= await FhirApiCaller.CallApiForDocrefresh(bearer, fhir_id);
+            //var get_binary_data= await FhirApiCaller.CallApiForDocrefresh(bearer, fhir_id);
 
 
-            var get_binary = get_binary_data.binaryid;
+            //var get_binary = get_binary_data.binaryid;
 
-            var get_binary_xmldate =await FhirApiCaller.CallApiForBinary(bearer, get_binary);
-            
+            //var get_binary_xmldate =await FhirApiCaller.CallApiForBinary(bearer, get_binary);
+
+            //var call_xml_reader_file = XmlConvertor.xmlconvertor(get_binary_xmldate, name, convert_dos);
+
             //return Ok(get_patient_json);
-            return Ok(get_binary_xmldate);
+            return Ok(get_patient_json);
             
         }
     //    [NonAction]
