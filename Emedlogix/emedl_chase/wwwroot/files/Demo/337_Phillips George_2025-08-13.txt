@@ -1,0 +1,617 @@
+Allergies
+Allergies : No Information
+Results
+Results : Component
+Results : Value
+Results : Reference Range
+Results : Notes
+Results : LIPID PANEL, STANDARD (7600) (Not yet reviewed by provider)
+Results : Interpretation:
+Results : Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Results : Notes/Report:
+Results : NON-FASTING
+Results : NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+Results : CHOLESTEROL, TOTAL
+Results : 184
+Results : <200 mg/dL
+Results : HDL CHOLESTEROL
+Results : 54
+Results : > OR = 40 mg/dL
+Results : TRIGLYCERIDES
+Results : 70
+Results : <150 mg/dL
+Results : LDL-CHOLESTEROL
+Results : 114
+Results : Reference range: <100
+Results : Desirable range <100 mg/dL for primary prevention;
+Results : <70 mg/dL for patients with CHD or diabetic patients
+Results : with > or = 2 CHD risk factors.
+Results : LDL-C is now calculated using the Martin-Hopkins
+Results : calculation, which is a validated novel method providing
+Results : better accuracy than the Friedewald equation in the
+Results : estimation of LDL-C.
+Results : Martin SS et al. JAMA. 2013;310(19): 2061-2068
+Results : (http://education.QuestDiagnostics.com/faq/FAQ164)
+Results : CHOL/HDLC RATIO
+Results : 3.4
+Results : <5.0 (calc)
+Results : NON HDL CHOLESTEROL
+Results : 130
+Results : <130 mg/dL (calc)
+Results : For patients with diabetes plus 1 major ASCVD risk
+Results : factor, treating to a non-HDL-C goal of <100 mg/dL
+Results : (LDL-C of <70 mg/dL) is considered a therapeutic
+Results : option.
+Results : COMPREHENSIVE METABOLIC PANEL (10231) (Not yet reviewed by provider)
+Results : Interpretation:
+Results : Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Results : Notes/Report:
+Results : NON-FASTING
+Results : NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+Results : GLUCOSE
+Results : 87
+Results : 65-99 mg/dL
+Results : Fasting reference interval
+Results : UREA NITROGEN (BUN)
+Results : 15
+Results : 7-25 mg/dL
+Results : CREATININE
+Results : 0.66
+Results : 0.60-1.24 mg/dL
+Results : EGFR
+Results : 135
+Results : > OR = 60 mL/min/1.73m2
+Results : BUN/CREATININE RATIO
+Results : SEE NOTE:
+Results : 6-22 (calc)
+Results : Not Reported: BUN and Creatinine are within
+Results : reference range.
+Results : SODIUM
+Results : 138
+Results : 135-146 mmol/L
+Results : POTASSIUM
+Results : 4.2
+Results : 3.5-5.3 mmol/L
+Results : CHLORIDE
+Results : 104
+Results : 98-110 mmol/L
+Results : CARBON DIOXIDE
+Results : 26
+Results : 20-32 mmol/L
+Results : CALCIUM
+Results : 10.1
+Results : 8.6-10.3 mg/dL
+Results : PROTEIN, TOTAL
+Results : 7.9
+Results : 6.1-8.1 g/dL
+Results : ALBUMIN
+Results : 5.2
+Results : 3.6-5.1 g/dL
+Results : GLOBULIN
+Results : 2.7
+Results : 1.9-3.7 g/dL (calc)
+Results : ALBUMIN/GLOBULIN RATIO
+Results : 1.9
+Results : 1.0-2.5 (calc)
+Results : BILIRUBIN, TOTAL
+Results : 0.7
+Results : 0.2-1.2 mg/dL
+Results : ALKALINE PHOSPHATASE
+Results : 49
+Results : 36-130 U/L
+Results : AST
+Results : 18
+Results : 10-40 U/L
+Results : ALT
+Results : 18
+Results : 9-46 U/L
+Results : HEPATIC FUNCTION PANEL (10256) (Not yet reviewed by provider)
+Results : Interpretation:
+Results : Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Results : Notes/Report:
+Results : NON-FASTING
+Results : NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+Results : PROTEIN, TOTAL
+Results : 7.9
+Results : 6.1-8.1 g/dL
+Results : ALBUMIN
+Results : 5.2
+Results : 3.6-5.1 g/dL
+Results : GLOBULIN
+Results : 2.7
+Results : 1.9-3.7 g/dL (calc)
+Results : ALBUMIN/GLOBULIN RATIO
+Results : 1.9
+Results : 1.0-2.5 (calc)
+Results : BILIRUBIN, TOTAL
+Results : 0.7
+Results : 0.2-1.2 mg/dL
+Results : BILIRUBIN, DIRECT
+Results : 0.2
+Results : < OR = 0.2 mg/dL
+Results : BILIRUBIN, INDIRECT
+Results : 0.5
+Results : 0.2-1.2 mg/dL (calc)
+Results : ALKALINE PHOSPHATASE
+Results : 49
+Results : 36-130 U/L
+Results : AST
+Results : 18
+Results : 10-40 U/L
+Results : ALT
+Results : 18
+Results : 9-46 U/L
+Results : LIPOPROTEIN (a) (34604) (Not yet reviewed by provider)
+Results : Interpretation:
+Results : Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Results : Notes/Report:
+Results : NON-FASTING
+Results : NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+Results : LIPOPROTEIN (a)
+Results : 151
+Results : Reference Range  <75
+Results : Risk:
+Results : Optimal          <75
+Results : Moderate         75-125
+Results : High             >125
+Results : Cardiovascular event risk category
+Results : cut points (optimal, moderate, high)
+Results : are based on Tsimika S. JACC
+Results : 2017;69:692-711.
+Results : CBC (INCLUDES DIFF/PLT) (6399) (Not yet reviewed by provider)
+Results : Interpretation:
+Results : Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Results : Notes/Report:
+Results : NON-FASTING
+Results : NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+Results : WHITE BLOOD CELL COUNT
+Results : 5.5
+Results : 3.8-10.8 Thousand/uL
+Results : RED BLOOD CELL COUNT
+Results : 5.66
+Results : 4.20-5.80 Million/uL
+Results : HEMOGLOBIN
+Results : 15.9
+Results : 13.2-17.1 g/dL
+Results : HEMATOCRIT
+Results : 51.6
+Results : 38.5-50.0 %
+Results : MCV
+Results : 91.2
+Results : 80.0-100.0 fL
+Results : MCH
+Results : 28.1
+Results : 27.0-33.0 pg
+Results : MCHC
+Results : 30.8
+Results : 32.0-36.0 g/dL
+Results : For adults, a slight decrease in the calculated MCHC
+Results : value (in the range of 30 to 32 g/dL) is most likely
+Results : not clinically significant; however, it should be
+Results : interpreted with caution in correlation with other
+Results : red cell parameters and the patient's clinical
+Results : condition.
+Results : RDW
+Results : 12.4
+Results : 11.0-15.0 %
+Results : PLATELET COUNT
+Results : 300
+Results : 140-400 Thousand/uL
+Results : MPV
+Results : 10.8
+Results : 7.5-12.5 fL
+Results : ABSOLUTE NEUTROPHILS
+Results : 3207
+Results : 1500-7800 cells/uL
+Results : ABSOLUTE LYMPHOCYTES
+Results : 1722
+Results : 850-3900 cells/uL
+Results : ABSOLUTE MONOCYTES
+Results : 402
+Results : 200-950 cells/uL
+Results : ABSOLUTE EOSINOPHILS
+Results : 149
+Results : 15-500 cells/uL
+Results : ABSOLUTE BASOPHILS
+Results : 22
+Results : 0-200 cells/uL
+Results : NEUTROPHILS
+Results : 58.3
+Results : 38-80 %
+Results : LYMPHOCYTES
+Results : 31.3
+Results : 15-49 %
+Results : MONOCYTES
+Results : 7.3
+Results : 0-13 %
+Results : EOSINOPHILS
+Results : 2.7
+Results : 0-8 %
+Results : BASOPHILS
+Results : 0.4
+Results : 0-2 %
+Results : LYME DISEASE AB W/REFL TO BLOT (IGG, IGM) (6646) (Not yet reviewed by provider)
+Results : Interpretation:
+Results : Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Results : Notes/Report:
+Results : NON-FASTING
+Results : NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+Results : LYME AB SCREEN
+Results : <0.90
+Results : Index                Interpretation
+Results : -----                --------------
+Results : < 0.90               Negative
+Results : 0.90-1.09            Equivocal
+Results : > 1.09               Positive
+Results : As recommended by the Food and Drug Administration
+Results : (FDA), all samples with positive or equivocal
+Results : results in a Borrelia burgdorferi antibody screen
+Results : will be tested using a blot method. Positive or
+Results : equivocal screening test results should not be
+Results : interpreted as truly positive until verified as such
+Results : using a supplemental assay (e.g., B. burgdorferi blot).
+Results : The screening test and/or blot for B. burgdorferi
+Results : antibodies may be falsely negative in early stages
+Results : of Lyme disease, including the period when erythema
+Results : migrans is apparent.
+Results : APOLIPOPROTEIN B (5224) (Not yet reviewed by provider)
+Results : Interpretation:
+Results : Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Results : Notes/Report:
+Results : NON-FASTING
+Results : NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+Results : APOLIPOPROTEIN B
+Results : 90
+Results : Reference Range    <90
+Results : Risk Category:
+Results : Optimal         <90
+Results : Moderate        90-129
+Results : High            > or = 130
+Results : A desirable treatment target may be
+Results : <80 mg/dL or lower depending on the
+Results : risk category of the patient including
+Results : patients on lipid lowering therapies,
+Results : patients with ASCVD, diabetes with >1
+Results : risk factors, Stage 3 or greater CKD
+Results : with albuminuria, or heterozygous
+Results : familial hypercholesterolemia. ApoB
+Results : relative risk category cut points are
+Results : based on AACE/ACE and ACC/AHA
+Results : recommendations (Grundy SM, et al.
+Results : 2019. doi:10.1016/j.jacc.2018.11.002;
+Results : Handelsman Y, et al. 2020. doi:10.
+Results : 4158/CS-2020-0490).
+Results : VITAMIN D,25-OH,TOTAL,IA (17306) (Not yet reviewed by provider)
+Results : Interpretation:
+Results : Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Results : Notes/Report:
+Results : NON-FASTING
+Results : NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+Results : VITAMIN D,25-OH,TOTAL,IA
+Results : 19
+Results : 30-100 ng/mL
+Results : Vitamin D Status         25-OH Vitamin D:
+Results : Deficiency:                    <20 ng/mL
+Results : Insufficiency:             20 - 29 ng/mL
+Results : Optimal:                 > or = 30 ng/mL
+Results : For 25-OH Vitamin D testing on patients on
+Results : D2-supplementation and patients for whom quantitation
+Results : of D2 and D3 fractions is required, the QuestAssureD(TM)
+Results : 25-OH VIT D, (D2,D3), LC/MS/MS is recommended: order
+Results : code 92888 (patients >2yrs).
+Results : See Note 1
+Results : Note 1
+Results : For additional information, please refer to
+Results : http://education.QuestDiagnostics.com/faq/FAQ199
+Results : (This link is being provided for informational/
+Results : educational purposes only.)
+Results : THYROID PANEL WITH TSH (7444)
+Results : Reviewed date:08/14/2025 08:09:29 AM
+Results : Interpretation:
+Results : Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Results : Notes/Report:
+Results : NON-FASTING
+Results : NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+Results : T3 UPTAKE
+Results : 34
+Results : 22-35 %
+Results : T4 (THYROXINE), TOTAL
+Results : 6.5
+Results : 4.9-10.5 mcg/dL
+Results : FREE T4 INDEX (T7)
+Results : 2.2
+Results : 1.4-3.8
+Results : TSH
+Results : 0.98
+Results : 0.40-4.50 mIU/L
+Reason For Referral
+Reason For Referral : Reason
+Reason For Referral : Cohen's fashion optical, 88 dunning road middletown ny, 845-692-5800
+Reason For Referral : Diagnosis 1
+Reason For Referral : Encounter for examination of eyes and vision without abnormal findings (Z01.00)
+Reason For Referral : Referral Organization
+Reason For Referral : Newburgh Office
+Reason For Referral : Referring Provider First Name
+Reason For Referral : RISHI
+Reason For Referral : Referring Provider Last Name
+Reason For Referral : BAJAJ
+Reason For Referral : Referring Provider Speciality
+Reason For Referral : Cardiovascular Disease
+Reason For Referral : Referred Provider Specialty
+Reason For Referral : Ophthalmology
+Reason For Referral : Referral Priority
+Reason For Referral : Routine
+Medications
+Medications : No Information
+Immunizations
+Immunizations : No Information
+Social History
+Social History : No Information
+Problems
+Problems : Problem Type
+Problems : SNOMED Code
+Problems : ICD Code
+Problems : Onset Dates
+Problems : Problem Status
+Problems : W/U Status
+Problems : Risk
+Problems : Notes
+Problems : Problem
+Problems : Vitamin D deficiency (34713006)
+Problems : Vitamin D deficiency, unspecified (E55.9)
+Problems : Active
+Problems : confirmed
+Problems : Problem
+Problems : Lipoprotein deficiency disorder (267436001)
+Problems : Lipoprotein deficiency (E78.6)
+Problems : Active
+Problems : confirmed
+Problems : Problem
+Problems : Migraine without aura, not refractory (disorder) (425007008)
+Problems : Migraine, unspecified, not intractable, without status migrainosus (G43.909)
+Problems : Active
+Problems : confirmed
+Problems : Problem
+Problems : Calculus of kidney (95570007)
+Problems : Calculus of kidney (N20.0)
+Problems : Active
+Problems : confirmed
+Vital Signs
+Vital Signs : Heart Rate
+Vital Signs : 57 /min
+Vital Signs : 08/15/2025
+Vital Signs : Respiratory Rate
+Vital Signs : 16 /min
+Vital Signs : 08/15/2025
+Vital Signs : Height-cm
+Vital Signs : 172.72 cm
+Vital Signs : 08/15/2025
+Vital Signs : Oximetry
+Vital Signs : 99 %
+Vital Signs : 08/15/2025
+Vital Signs : Blood pressure diastolic
+Vital Signs : 80 mm Hg
+Vital Signs : 08/15/2025
+Vital Signs : Weight-kg
+Vital Signs : 68.04 kg
+Vital Signs : 08/13/2025
+Vital Signs : Height
+Vital Signs : 68 in
+Vital Signs : 08/15/2025
+Vital Signs : Blood pressure systolic
+Vital Signs : 120 mm Hg
+Vital Signs : 08/15/2025
+Vital Signs : Weight
+Vital Signs : 150 lbs
+Vital Signs : 08/13/2025
+Vital Signs : BMI
+Vital Signs : 22.8 kg/m2
+Vital Signs : 08/13/2025
+Procedures
+Procedures : No Information
+Encounters
+Encounters : Encounter
+Encounters : Location
+Encounters : Date
+Encounters : Provider
+Encounters : Diagnosis
+Encounters : Newburgh Office
+Encounters : 4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+Encounters : 08/13/2025
+Encounters : RISHI BAJAJ
+Encounters : Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism Z13.0 ; Annual physical exam Z00.00 ; Other abnormal glucose R73.09 ; Encounter for screening for lipoid disorders Z13.220 ; Abnormal results of thyroid function studies R94.6 ; Abnormal results of liver function studies R94.5 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for other metabolic disorders Z13.228 ; Lyme disease, unspecified A69.20 ; Lipoprotein deficiency E78.6 ; Family history of elevated lipoprotein(a) Z83.430 ; Tremor, unspecified R25.1 ; Calculus of kidney N20.0 ; Migraine, unspecified, not intractable, without status migrainosus G43.909 ; Vasovagal syncope R55 ; Shortness of breath on exertion R06.02 ; Fatigue, unspecified type R53.83 and Decreased pedal pulses R09.89
+Encounters : Newburgh Office
+Encounters : 4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+Encounters : 08/15/2025
+Encounters : RISHI BAJAJ
+Encounters : Newburgh Office
+Encounters : 4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+Encounters : 08/15/2025
+Encounters : RISHI BAJAJ
+Encounters : Annual physical exam Z00.00 ; Shortness of breath on exertion R06.02 ; Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism Z13.0 ; Other abnormal glucose R73.09 ; Encounter for screening for lipoid disorders Z13.220 ; Abnormal results of thyroid function studies R94.6 ; Abnormal results of liver function studies R94.5 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for other metabolic disorders Z13.228 ; Lyme disease, unspecified A69.20 ; Lipoprotein deficiency E78.6 ; Family history of elevated lipoprotein(a) Z83.430 ; Tremor, unspecified R25.1 ; Calculus of kidney N20.0 ; Migraine, unspecified, not intractable, without status migrainosus G43.909 ; Vasovagal syncope R55 ; Fatigue, unspecified type R53.83 and Decreased pedal pulses R09.89
+Medical Equipment
+Medical Equipment : No Information
+Assessments
+
+Assessments : Encounter Date
+
+Assessments : Diagnosis (ICD Code)
+
+Assessments : Assessment Notes
+
+Assessments : Treatment Notes
+
+Assessments : Treatment Clinical Notes
+
+Assessments : Section Notes
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+Assessments : Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (ICD-10 - Z13.0)
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+Assessments : Annual physical exam (ICD-10 - Z00.00)
+08/15/2025
+Assessments : encounter date : 08/15/2025
+
+Assessments : Shortness of breath on exertion (ICD-10 - R06.02)
+08/15/2025
+Assessments : encounter date : 08/15/2025
+
+Assessments : Annual physical exam (ICD-10 - Z00.00)
+08/15/2025
+Assessments : encounter date : 08/15/2025
+
+Assessments : Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (ICD-10 - Z13.0)
+08/13/2025
+Assessments : encounter date : 08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/15/2025
+
+08/15/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/15/2025
+
+08/15/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/15/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/15/2025
+
+08/15/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/15/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/15/2025
+
+08/15/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/15/2025
+
+08/15/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/15/2025
+
+08/15/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+08/15/2025
+
+08/13/2025
+Assessments : encounter date : 08/13/2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08/15/2025
+
+
+
+Plan Of Treatment
+Goals Section
+Health Concerns
+Insurance Providers
+Medical (General) History
+Progress Notes
+History and Physical Notes
+Consultation Request Notes
