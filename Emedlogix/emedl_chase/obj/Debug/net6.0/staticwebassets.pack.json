@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Carey Sara_2025-08-20.xml",
+      "PackagePath": "staticwebassets\\Output\\Carey Sara_2025-08-20.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Conklin Wayne_2025-08-22.xml",
+      "PackagePath": "staticwebassets\\Output\\Conklin Wayne_2025-08-22.xml"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Phillips George_2025-08-13.xml",
       "PackagePath": "staticwebassets\\Output\\Phillips George_2025-08-13.xml"
     },
@@ -17,16 +25,64 @@
       "PackagePath": "staticwebassets\\Output\\Reed Takira_2025-08-13.xml"
     },
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\337_Phillips George_2025-08-13.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\337_Phillips George_2025-08-13.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\343_Phillips George_2025-08-13.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\343_Phillips George_2025-08-13.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\382_Phillips George_2025-08-13.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\382_Phillips George_2025-08-13.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\468_Phillips George_2025-08-13.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\468_Phillips George_2025-08-13.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\70_Phillips George_2025-08-13.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\70_Phillips George_2025-08-13.txt"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\723_Phillips George_2025-08-13.txt",
       "PackagePath": "staticwebassets\\files\\Demo\\723_Phillips George_2025-08-13.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\725_Phillips George_2025-08-13.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\725_Phillips George_2025-08-13.txt"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\73_Phillips George_2025-08-13.txt",
       "PackagePath": "staticwebassets\\files\\Demo\\73_Phillips George_2025-08-13.txt"
     },
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\876_Phillips George_2025-08-13.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\876_Phillips George_2025-08-13.txt"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\961_Phillips George_2025-08-13.txt",
       "PackagePath": "staticwebassets\\files\\Demo\\961_Phillips George_2025-08-13.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\992_Phillips George_2025-08-13.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\992_Phillips George_2025-08-13.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\EPIC\\jwks.json",
+      "PackagePath": "staticwebassets\\files\\EPIC\\jwks.json"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\EPIC\\private.pem",
+      "PackagePath": "staticwebassets\\files\\EPIC\\private.pem"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\EPIC\\public.pem",
+      "PackagePath": "staticwebassets\\files\\EPIC\\public.pem"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\EPIC\\public_cert_new1.pem",
+      "PackagePath": "staticwebassets\\files\\EPIC\\public_cert_new1.pem"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\RIVERA Ervin_20250729_Empire Plan of New York.pdf",

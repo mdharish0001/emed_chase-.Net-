@@ -1,3 +1,5 @@
+using emedl_chase.Option;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -16,6 +18,9 @@ builder.Services.AddCors(options =>
     });
 });
 
+
+builder.Services.Configure<ApplicationConfig>(
+    builder.Configuration.GetSection("ApplicationConfig"));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -1,885 +1,1765 @@
 Patient Health Record
+
 2301 Boscobel Loop
+
 Wallingers Falls
+
 NY
+
 12590
+
 US
+
 US
+
 George
+
 Phillips
+
 eClinicalWorks CCDA V12.0.2.04000331_8
+
 eClinicalWorks
+
 NEW - Monticello Office
+
 14 HARRIS BUSHVILLE RD
+
 MONTICELLO
+
 NY
+
 12701-3027
+
 US
+
 NEW - Monticello Office
+
 14 HARRIS BUSHVILLE RD
+
 MONTICELLO
+
 NY
+
 12701-3027
+
 US
+
 2301 boscobel loop
+
 Wallingers Falls
+
 NY
+
 12590
+
 US
+
 james
+
 phillips
+
 Appointment provider
+
 4 HDSN VLY PROF PLZ
+
 Suite B
+
 NEWBURGH
+
 NY
+
 12550-3157
+
 US
+
 BAJAJ
+
 RISHI
+
 Allergies
+
 No Information
+
 Results
+
 LIPID PANEL, STANDARD (7600) (Not yet reviewed by provider)
+
 CHOLESTEROL, TOTAL
+
 184
+
 <200 mg/dL
+
 HDL CHOLESTEROL
+
 54
+
 > OR = 40 mg/dL
+
 TRIGLYCERIDES
+
 70
+
 <150 mg/dL
+
 LDL-CHOLESTEROL
+
 114
+
 Reference range: <100
+
 Desirable range <100 mg/dL for primary prevention;
+
 <70 mg/dL for patients with CHD or diabetic patients
+
 with > or = 2 CHD risk factors.
+
 LDL-C is now calculated using the Martin-Hopkins
+
 calculation, which is a validated novel method providing
+
 better accuracy than the Friedewald equation in the
+
 estimation of LDL-C.
+
 Martin SS et al. JAMA. 2013;310(19): 2061-2068
+
 (http://education.QuestDiagnostics.com/faq/FAQ164)
+
 CHOL/HDLC RATIO
+
 3.4
+
 <5.0 (calc)
+
 NON HDL CHOLESTEROL
+
 130
+
 <130 mg/dL (calc)
+
 For patients with diabetes plus 1 major ASCVD risk
+
 factor, treating to a non-HDL-C goal of <100 mg/dL
+
 (LDL-C of <70 mg/dL) is considered a therapeutic
+
 option.
+
 COMPREHENSIVE METABOLIC PANEL (10231) (Not yet reviewed by provider)
+
 GLUCOSE
+
 87
+
 65-99 mg/dL
+
            Fasting reference interval
+
 UREA NITROGEN (BUN)
+
 15
+
 7-25 mg/dL
+
 CREATININE
+
 0.66
+
 0.60-1.24 mg/dL
+
 EGFR
+
 135
+
 > OR = 60 mL/min/1.73m2
+
 BUN/CREATININE RATIO
+
 SEE NOTE:
+
 6-22 (calc)
+
    Not Reported: BUN and Creatinine are within
+
    reference range.
+
 SODIUM
+
 138
+
 135-146 mmol/L
+
 POTASSIUM
+
 4.2
+
 3.5-5.3 mmol/L
+
 CHLORIDE
+
 104
+
 98-110 mmol/L
+
 CARBON DIOXIDE
+
 26
+
 20-32 mmol/L
+
 CALCIUM
+
 10.1
+
 8.6-10.3 mg/dL
+
 PROTEIN, TOTAL
+
 7.9
+
 6.1-8.1 g/dL
+
 ALBUMIN
+
 5.2
+
 3.6-5.1 g/dL
+
 GLOBULIN
+
 2.7
+
 1.9-3.7 g/dL (calc)
+
 ALBUMIN/GLOBULIN RATIO
+
 1.9
+
 1.0-2.5 (calc)
+
 BILIRUBIN, TOTAL
+
 0.7
+
 0.2-1.2 mg/dL
+
 ALKALINE PHOSPHATASE
+
 49
+
 36-130 U/L
+
 AST
+
 18
+
 10-40 U/L
+
 ALT
+
 18
+
 9-46 U/L
+
 HEPATIC FUNCTION PANEL (10256) (Not yet reviewed by provider)
+
 PROTEIN, TOTAL
+
 7.9
+
 6.1-8.1 g/dL
+
 ALBUMIN
+
 5.2
+
 3.6-5.1 g/dL
+
 GLOBULIN
+
 2.7
+
 1.9-3.7 g/dL (calc)
+
 ALBUMIN/GLOBULIN RATIO
+
 1.9
+
 1.0-2.5 (calc)
+
 BILIRUBIN, TOTAL
+
 0.7
+
 0.2-1.2 mg/dL
+
 BILIRUBIN, DIRECT
+
 0.2
+
 < OR = 0.2 mg/dL
+
 BILIRUBIN, INDIRECT
+
 0.5
+
 0.2-1.2 mg/dL (calc)
+
 ALKALINE PHOSPHATASE
+
 49
+
 36-130 U/L
+
 AST
+
 18
+
 10-40 U/L
+
 ALT
+
 18
+
 9-46 U/L
+
 LIPOPROTEIN (a) (34604) (Not yet reviewed by provider)
+
 LIPOPROTEIN (a)
+
 151
+
   Reference Range  <75
+
   Risk:
+
   Optimal          <75
+
   Moderate         75-125
+
   High             >125
+
   Cardiovascular event risk category
+
   cut points (optimal, moderate, high)
+
   are based on Tsimika S. JACC
+
   2017;69:692-711.
+
 CBC (INCLUDES DIFF/PLT) (6399) (Not yet reviewed by provider)
+
 WHITE BLOOD CELL COUNT
+
 5.5
+
 3.8-10.8 Thousand/uL
+
 RED BLOOD CELL COUNT
+
 5.66
+
 4.20-5.80 Million/uL
+
 HEMOGLOBIN
+
 15.9
+
 13.2-17.1 g/dL
+
 HEMATOCRIT
+
 51.6
+
 38.5-50.0 %
+
 MCV
+
 91.2
+
 80.0-100.0 fL
+
 MCH
+
 28.1
+
 27.0-33.0 pg
+
 MCHC
+
 30.8
+
 32.0-36.0 g/dL
+
 For adults, a slight decrease in the calculated MCHC
+
 value (in the range of 30 to 32 g/dL) is most likely
+
 not clinically significant; however, it should be
+
 interpreted with caution in correlation with other
+
 red cell parameters and the patient's clinical
+
 condition.
+
 RDW
+
 12.4
+
 11.0-15.0 %
+
 PLATELET COUNT
+
 300
+
 140-400 Thousand/uL
+
 MPV
+
 10.8
+
 7.5-12.5 fL
+
 ABSOLUTE NEUTROPHILS
+
 3207
+
 1500-7800 cells/uL
+
 ABSOLUTE LYMPHOCYTES
+
 1722
+
 850-3900 cells/uL
+
 ABSOLUTE MONOCYTES
+
 402
+
 200-950 cells/uL
+
 ABSOLUTE EOSINOPHILS
+
 149
+
 15-500 cells/uL
+
 ABSOLUTE BASOPHILS
+
 22
+
 0-200 cells/uL
+
 NEUTROPHILS
+
 58.3
+
 38-80 %
+
 LYMPHOCYTES
+
 31.3
+
 15-49 %
+
 MONOCYTES
+
 7.3
+
 0-13 %
+
 EOSINOPHILS
+
 2.7
+
 0-8 %
+
 BASOPHILS
+
 0.4
+
 0-2 %
+
 LYME DISEASE AB W/REFL TO BLOT (IGG, IGM) (6646) (Not yet reviewed by provider)
+
 LYME AB SCREEN
+
 <0.90
+
                    Index                Interpretation
+
                    -----                --------------
+
                    < 0.90               Negative
+
                    0.90-1.09            Equivocal
+
                    > 1.09               Positive
+
 As recommended by the Food and Drug Administration
+
 (FDA), all samples with positive or equivocal
+
 results in a Borrelia burgdorferi antibody screen
+
 will be tested using a blot method. Positive or
+
 equivocal screening test results should not be
+
 interpreted as truly positive until verified as such
+
 using a supplemental assay (e.g., B. burgdorferi blot).
+
 The screening test and/or blot for B. burgdorferi
+
 antibodies may be falsely negative in early stages
+
 of Lyme disease, including the period when erythema
+
 migrans is apparent.
+
 APOLIPOPROTEIN B (5224) (Not yet reviewed by provider)
+
 APOLIPOPROTEIN B
+
 90
+
 Reference Range    <90
+
 Risk Category:
+
 Optimal         <90
+
 Moderate        90-129
+
 High            > or = 130
+
 A desirable treatment target may be
+
 <80 mg/dL or lower depending on the
+
 risk category of the patient including
+
 patients on lipid lowering therapies,
+
 patients with ASCVD, diabetes with >1
+
 risk factors, Stage 3 or greater CKD
+
 with albuminuria, or heterozygous
+
 familial hypercholesterolemia. ApoB
+
 relative risk category cut points are
+
 based on AACE/ACE and ACC/AHA
+
 recommendations (Grundy SM, et al.
+
 2019. doi:10.1016/j.jacc.2018.11.002;
+
 Handelsman Y, et al. 2020. doi:10.
+
 4158/CS-2020-0490).
+
 VITAMIN D,25-OH,TOTAL,IA (17306) (Not yet reviewed by provider)
+
 VITAMIN D,25-OH,TOTAL,IA
+
 19
+
 30-100 ng/mL
+
 Vitamin D Status         25-OH Vitamin D:
+
 Deficiency:                    <20 ng/mL
+
 Insufficiency:             20 - 29 ng/mL
+
 Optimal:                 > or = 30 ng/mL
+
 For 25-OH Vitamin D testing on patients on
+
 D2-supplementation and patients for whom quantitation
+
 of D2 and D3 fractions is required, the QuestAssureD(TM)
+
 25-OH VIT D, (D2,D3), LC/MS/MS is recommended: order
+
 code 92888 (patients >2yrs).
+
 See Note 1
+
 Note 1
+
 For additional information, please refer to
+
 http://education.QuestDiagnostics.com/faq/FAQ199
+
 (This link is being provided for informational/
+
 educational purposes only.)
+
 THYROID PANEL WITH TSH (7444)
+
 T3 UPTAKE
+
 34
+
 22-35 %
+
 T4 (THYROXINE), TOTAL
+
 6.5
+
 4.9-10.5 mcg/dL
+
 FREE T4 INDEX (T7)
+
 2.2
+
 1.4-3.8
+
 TSH
+
 0.98
+
 0.40-4.50 mIU/L
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 <200 mg/dL
+
 <200 mg/dL
+
 > OR = 40 mg/dL
+
 > OR = 40 mg/dL
+
 <150 mg/dL
+
 <150 mg/dL
+
 mg/dL (calc)
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 (calc)
+
 <5.0 (calc)
+
 <5.0 (calc)
+
 mg/dL (calc)
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 <130 mg/dL (calc)
+
 <130 mg/dL (calc)
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 65-99 mg/dL
+
 7-25 mg/dL
+
 0.60-1.24 mg/dL
+
 mL/min/1.73m2
+
 > OR = 60 mL/min/1.73m2
+
 > OR = 60 mL/min/1.73m2
+
 SEE NOTE:
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 6-22 (calc)
+
 6-22 (calc)
+
 135-146 mmol/L
+
 3.5-5.3 mmol/L
+
 98-110 mmol/L
+
 20-32 mmol/L
+
 8.6-10.3 mg/dL
+
 6.1-8.1 g/dL
+
 3.6-5.1 g/dL
+
 g/dL (calc)
+
 1.9-3.7 g/dL (calc)
+
 1.9-3.7 g/dL (calc)
+
 (calc)
+
 1.0-2.5 (calc)
+
 (calc)
+
 (calc)
+
 0.2-1.2 mg/dL
+
 36-130 U/L
+
 10-40 U/L
+
 9-46 U/L
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 6.1-8.1 g/dL
+
 3.6-5.1 g/dL
+
 g/dL (calc)
+
 1.9-3.7 g/dL (calc)
+
 1.9-3.7 g/dL (calc)
+
 (calc)
+
 1.0-2.5 (calc)
+
 (calc)
+
 (calc)
+
 0.2-1.2 mg/dL
+
 < OR = 0.2 mg/dL
+
 < OR = 0.2 mg/dL
+
 mg/dL (calc)
+
 0.2-1.2 mg/dL (calc)
+
 0.2-1.2 mg/dL (calc)
+
 36-130 U/L
+
 10-40 U/L
+
 9-46 U/L
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 Thousand/uL
+
 3.8-10.8 Thousand/uL
+
 Thousand/uL
+
 Thousand/uL
+
 Million/uL
+
 4.20-5.80 Million/uL
+
 Million/uL
+
 Million/uL
+
 13.2-17.1 g/dL
+
 38.5-50.0 %
+
 80.0-100.0 fL
+
 27.0-33.0 pg
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 32.0-36.0 g/dL
+
 11.0-15.0 %
+
 Thousand/uL
+
 140-400 Thousand/uL
+
 Thousand/uL
+
 Thousand/uL
+
 7.5-12.5 fL
+
 cells/uL
+
 1500-7800 cells/uL
+
 cells/uL
+
 cells/uL
+
 cells/uL
+
 850-3900 cells/uL
+
 cells/uL
+
 cells/uL
+
 cells/uL
+
 200-950 cells/uL
+
 cells/uL
+
 cells/uL
+
 cells/uL
+
 15-500 cells/uL
+
 cells/uL
+
 cells/uL
+
 cells/uL
+
 0-200 cells/uL
+
 cells/uL
+
 cells/uL
+
 38-80 %
+
 15-49 %
+
 0-13 %
+
 0-8 %
+
 0-2 %
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 <0.90
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 30-100 ng/mL
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 22-35 %
+
 mcg/dL
+
 4.9-10.5 mcg/dL
+
 mcg/dL
+
 mcg/dL
+
 2.2
+
 1.4-3.8
+
 1.4-3.8
+
 mIU/L
+
 0.40-4.50 mIU/L
+
 mIU/L
+
 mIU/L
+
 Reason For Referral
+
 Cohen's fashion optical, 88 dunning road middletown ny, 845-692-5800
+
 Encounter for examination of eyes and vision without abnormal findings (Z01.00)
+
 Newburgh Office
+
 RISHI
+
 BAJAJ
+
 Cardiovascular Disease
+
 Ophthalmology
+
 Routine
+
 Medications
+
 No Information
+
 Immunizations
+
 No Information
+
 Social History
+
 No Information
+
 Problems
+
 Problem
+
 Vitamin D deficiency (34713006)
+
 Vitamin D deficiency, unspecified (E55.9)
+
 Active
+
 confirmed
+
 Problem
+
 Lipoprotein deficiency disorder (267436001)
+
 Lipoprotein deficiency (E78.6)
+
 Active
+
 confirmed
+
 Problem
+
 Migraine without aura, not refractory (disorder) (425007008)
+
 Migraine, unspecified, not intractable, without status migrainosus (G43.909)
+
 Active
+
 confirmed
+
 Problem
+
 Calculus of kidney (95570007)
+
 Calculus of kidney (N20.0)
+
 Active
+
 confirmed
+
 Philogene
+
 Sheldna
+
 NEW - Monticello Office
+
 Philogene
+
 Sheldna
+
 NEW - Monticello Office
+
 Scribe
+
 India
+
 Newburgh Office
+
 Scribe
+
 India
+
 Newburgh Office
+
 Vital Signs
+
 57 /min
+
 08/15/2025
+
 16 /min
+
 08/15/2025
+
 172.72 cm
+
 08/15/2025
+
 99 %
+
 08/15/2025
+
 80 mm Hg
+
 08/15/2025
+
 68.04 kg
+
 08/13/2025
+
 68 in
+
 08/15/2025
+
 120 mm Hg
+
 08/15/2025
+
 150 lbs
+
 08/13/2025
+
 22.8 kg/m2
+
 08/13/2025
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 Procedures
+
 No Information
+
 Encounters
+
 Newburgh Office
+
 4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+
 08/13/2025
+
 RISHI BAJAJ
+
 Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism Z13.0 ; Annual physical exam Z00.00 ; Other abnormal glucose R73.09 ; Encounter for screening for lipoid disorders Z13.220 ; Abnormal results of thyroid function studies R94.6 ; Abnormal results of liver function studies R94.5 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for other metabolic disorders Z13.228 ; Lyme disease, unspecified A69.20 ; Lipoprotein deficiency E78.6 ; Family history of elevated lipoprotein(a) Z83.430 ; Tremor, unspecified R25.1 ; Calculus of kidney N20.0 ; Migraine, unspecified, not intractable, without status migrainosus G43.909 ; Vasovagal syncope R55 ; Shortness of breath on exertion R06.02 ; Fatigue, unspecified type R53.83 and Decreased pedal pulses R09.89
+
 Newburgh Office
+
 4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+
 08/15/2025
+
 RISHI BAJAJ
+
 Newburgh Office
+
 4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+
 08/15/2025
+
 RISHI BAJAJ
+
 Annual physical exam Z00.00 ; Shortness of breath on exertion R06.02 ; Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism Z13.0 ; Other abnormal glucose R73.09 ; Encounter for screening for lipoid disorders Z13.220 ; Abnormal results of thyroid function studies R94.6 ; Abnormal results of liver function studies R94.5 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for other metabolic disorders Z13.228 ; Lyme disease, unspecified A69.20 ; Lipoprotein deficiency E78.6 ; Family history of elevated lipoprotein(a) Z83.430 ; Tremor, unspecified R25.1 ; Calculus of kidney N20.0 ; Migraine, unspecified, not intractable, without status migrainosus G43.909 ; Vasovagal syncope R55 ; Fatigue, unspecified type R53.83 and Decreased pedal pulses R09.89
+
 RISHI
+
 BAJAJ
+
 4 HDSN VLY PROF PLZ
+
 Suite B
+
 NEWBURGH
+
 NY
+
 12550-3157
+
 US
+
 Newburgh Office
+
 RISHI
+
 BAJAJ
+
 4 HDSN VLY PROF PLZ
+
 Suite B
+
 NEWBURGH
+
 NY
+
 12550-3157
+
 US
+
 Newburgh Office
+
 RISHI
+
 BAJAJ
+
 4 HDSN VLY PROF PLZ
+
 Suite B
+
 NEWBURGH
+
 NY
+
 12550-3157
+
 US
+
 Newburgh Office
+
 Medical Equipment
+
 No Information
+
 Assessments
+
 08/13/2025
+
 Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (ICD-10 - Z13.0)
+
 08/13/2025
+
 Annual physical exam (ICD-10 - Z00.00)
+
 08/15/2025
+
 Shortness of breath on exertion (ICD-10 - R06.02)
+
 08/15/2025
+
 Annual physical exam (ICD-10 - Z00.00)
+
 08/15/2025
+
 Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (ICD-10 - Z13.0)
+
 08/13/2025
+
 Other abnormal glucose (ICD-10 - R73.09)
+
 08/13/2025
+
 Encounter for screening for lipoid disorders (ICD-10 - Z13.220)
+
 08/15/2025
+
 Other abnormal glucose (ICD-10 - R73.09)
+
 08/15/2025
+
 Encounter for screening for lipoid disorders (ICD-10 - Z13.220)
+
 08/13/2025
+
 Abnormal results of thyroid function studies (ICD-10 - R94.6)
+
 08/13/2025
+
 Abnormal results of liver function studies (ICD-10 - R94.5)
+
 08/15/2025
+
 Abnormal results of thyroid function studies (ICD-10 - R94.6)
+
 08/15/2025
+
 Abnormal results of liver function studies (ICD-10 - R94.5)
+
 08/13/2025
+
 Vitamin D deficiency, unspecified (ICD-10 - E55.9)
+
 08/13/2025
+
 Encounter for screening for other metabolic disorders (ICD-10 - Z13.228)
+
 08/15/2025
+
 Vitamin D deficiency, unspecified (ICD-10 - E55.9)
+
 08/13/2025
+
 Lyme disease, unspecified (ICD-10 - A69.20)
+
 08/15/2025
+
 Encounter for screening for other metabolic disorders (ICD-10 - Z13.228)
+
 08/15/2025
+
 Lyme disease, unspecified (ICD-10 - A69.20)
+
 08/13/2025
+
 Lipoprotein deficiency (ICD-10 - E78.6)
+
 08/15/2025
+
 Lipoprotein deficiency (ICD-10 - E78.6)
+
 08/13/2025
+
 Family history of elevated lipoprotein(a) (ICD-10 - Z83.430)
+
 08/13/2025
+
 Tremor, unspecified (ICD-10 - R25.1)
+
 08/15/2025
+
 Family history of elevated lipoprotein(a) (ICD-10 - Z83.430)
+
 08/15/2025
+
 Tremor, unspecified (ICD-10 - R25.1)
+
 08/13/2025
+
 Calculus of kidney (ICD-10 - N20.0)
+
 08/13/2025
+
 Migraine, unspecified, not intractable, without status migrainosus (ICD-10 - G43.909)
+
 08/15/2025
+
 Calculus of kidney (ICD-10 - N20.0)
+
 08/15/2025
+
 Migraine, unspecified, not intractable, without status migrainosus (ICD-10 - G43.909)
+
 08/13/2025
+
 Vasovagal syncope (ICD-10 - R55)
+
 08/13/2025
+
 Shortness of breath on exertion (ICD-10 - R06.02)
+
 08/15/2025
+
 Vasovagal syncope (ICD-10 - R55)
+
 08/15/2025
+
 Fatigue, unspecified type (ICD-10 - R53.83)
+
 08/13/2025
+
 Fatigue, unspecified type (ICD-10 - R53.83)
+
 08/13/2025
+
 Decreased pedal pulses (ICD-10 - R09.89)
+
 08/15/2025
+
 Decreased pedal pulses (ICD-10 - R09.89)
+
 08/13/2025
+
 Other
+
 We will arrange for routine blood work
+
 on today's visit for assessment of overall health as well as apolipoprotein B
+
 and lipoprotein A for assessment of genetic predisposition to hyperlipidemia.
+
 Given his complaints of fatigue and history of syncope in the past, we will
+
 arrange for echocardiogram and EKG on today's visit. Preliminary images were
+
 reviewed and discussed revealing a preserved ejection fraction of 55% to 60%
+
 with mild TR noted. We will arrange for an ETT as well for further ischemic
+
 evaluation of shortness of breath on exertion. Given syncopal episodes in the
+
 past and complaints of migraines, we will arrange for a carotid doppler on
+
 today's visit. Preliminary images were reviewed and discussed which revealed
+
 trace atherosclerotic disease. We will arrange for an ABI/PVR given decreased
+
 pedal pulses on physical examination revealing an RLE of 1.27 and an LLE of
+
 1.28. We will arrange for an event monitor to be placed on today's visit given
+
 history of syncopal episodes in the past. We will be referring him to
+
 ophthalmology for an eye exam as he is not up-to-date and complaints of
+
 migraines. We will also arrange for an MRI of the brain without contrast given
+
 his hand tremors and migraines. All questions and concerns were answered and
+
 addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. He
+
 is to follow up on Friday or sooner should symptoms worsen. He agrees to the
+
 plan of care.
+
 Time Spent:
+
  Total time spent 85 minutes.  More than 50% of the time spent in
+
 face-to-face conversation, examination, discussing treatment options and
+
 procedures, pathophysiology, and anatomy. Diet and lifestyle modifications were
+
 discussed in great detail.  Images were personally reviewed by me in front
+
 of the patient and/or family member and explained on our graphic diagram.
+
  Treatment options, risks, benefits and alternative treatments discussed
+
 with the patient in detail. All questions and concerns answered.  All
+
 records were reviewed in detail
+
 Scribed by Shashank Kapoor and Daliah Rodriguez under the supervision of Dr. Rishi Bajaj
+
 08/15/2025
+
 Other
+
 Given his persistent exertional dyspnea, he underwent an exercise treadmill test at today's visit to further evaluate for possible underlying cardiovascular disease or exercise-induced arrhythmias. He was able to demonstrate good exercise capacity throughout the study. Results will be formally reviewed and discussed with him at his next follow-up visit. All questions and concerns answered and addressed. Heart healthy diet and healthy lifestyle modifications were encouraged and endorsed. He will follow up in one week to review the official results of the ETT. He was advised to return sooner if symptoms worsen or new concerns arise. He agrees with the plan of care.
 
 
+
 Scribed by Devendra Bisht and Phoebe Tarta under the supervision of Dr. Rishi Bajaj
+
 Plan Of Treatment
+
 Pending Test
+
 Echocardiogram
+
 08/13/2025
+
 ABI/PVR
+
 08/13/2025
+
 Electrocardiogram (EKG)
+
 08/13/2025
+
 Ultrasound : Carotid Doppler Bilateral
+
 08/13/2025
+
 Event Monitor
+
 08/13/2025
+
 Exercise Treadmill Stress Test (TMST)
+
 08/15/2025
+
 LIPID PANEL, STANDARD (7600)
+
 08/13/2025
+
 COMPREHENSIVE METABOLIC PANEL (10231)
+
 08/13/2025
+
 HEPATIC FUNCTION PANEL (10256)
+
 08/13/2025
+
 LIPOPROTEIN (a) (34604)
+
 08/13/2025
+
 CBC (INCLUDES DIFF/PLT) (6399)
+
 08/13/2025
+
 HEMOGLOBIN + HEMATOCRIT (7998)
+
 08/13/2025
+
 LYME DISEASE AB W/REFL TO BLOT (IGG, IGM) (6646)
+
 08/13/2025
+
 APOLIPOPROTEIN B (5224)
+
 08/13/2025
+
 VITAMIN D,25-OH,TOTAL,IA (17306)
+
 08/13/2025
+
 Future Test
+
 MRI : Brain without Contrast
+
 08/15/2025
+
 Exercise Treadmill Stress Test (TMST)
+
 08/15/2025
+
 Next Appt
+
 Provider Name:RISHI BAJAJ, 08/22/2025 09:45:00 AM, 4 HDSN VLY PROF PLZ, Suite B, NEWBURGH, NY, 12550-3157, 781-530-0070
+
 Goals Section
+
 No Information
+
 Health Concerns
+
 No Information
+
 Insurance Providers
+
 Fidelis Care New York
+
 PO BOX 898 AMHERST, NY 142260898
+
 888-343-3547
+
 74574952400
+
 Phillips, George
+
 Self - patient is the insured
+
 PO BOX 898
+
 AMHERST
+
 NY
+
 142260898
+
 US
+
 Fidelis Care New York
+
 2301 Boscobel Loop
+
 Wallingers Falls
+
 NY
+
 12590
+
 US
+
 Phillips
+
 George
+
 2301 Boscobel Loop
+
 Wallingers Falls
+
 NY
+
 12590
+
 US
+
 Phillips
+
 George
+
 2301 Boscobel Loop
+
 Wallingers Falls
+
 NY
+
 12590
+
 US
+
 Fidelis Care New York
+
 Medical (General) History
+
 Medical History
+
 renal calculi, migraines, syncope
+
 Surgical History
+
 appendectomy
+
 Progress Notes
+
 Examination
+
 08/13/2025
+
 General Examination
+
 General appearance:
+
 well developed, well nourished, in no acute distress
+
 Head:
+
 normocephalic, atraumatic
+
 Eyes:
+
 PERRLA, EOMI
+
 Ears:
+
 external ear inspection normal
+
 Neck / thyroid:
+
 neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+
 Heart:
+
 regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+
 Lungs:
+
 symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+
 Abdomen:
+
 soft, non-tender, non-distended, bowel sounds present in all four quadrants
+
 Neurologic:
+
 nonfocal, alert, awake and oriented to person, place and time
+
 Extremities:
+
 full range of motion, no upper extremity edema, no lower extremity edema
+
 Psych:
+
 mood and affect appear normal
+
 Oral cavity:
+
 tongue midline, mucosa moist
+
 Examination
+
 08/15/2025
+
 General Examination
+
 General appearance:
+
 well developed, well nourished, in no acute distress
+
 Head:
+
 normocephalic, atraumatic
+
 Eyes:
+
 PERRLA, EOMI
+
 Ears:
+
 external ear inspection normal
+
 Neck / thyroid:
+
 neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+
 Heart:
+
 regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+
 Lungs:
+
 symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+
 Abdomen:
+
 soft, non-tender, non-distended, bowel sounds present in all four quadrants
+
 Neurologic:
+
 nonfocal, alert, awake and oriented to person, place and time
+
 Extremities:
+
 full range of motion, no upper extremity edema, no lower extremity edema
+
 Psych:
+
 mood and affect appear normal
+
 Oral cavity:
+
 tongue midline, mucosa moist
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
 
 History and Physical Notes
@@ -887,31 +1767,60 @@ History and Physical Notes
 HPI (History of Present Illness)
 
 08/13/2025
+
 Transition of Care
+
 This is a 23-year-old male, non-smoker, referred by ZocDoc with a significant medical history of renal calculi, migraines as well as syncope, who presents today for initial CV consultation for an annual physical. He currently works as the kitchen staff with elderly care in Fishkill. He has no children and lives in Wappingers. He has not seen a PCP in the last 2 years. He has a significant family history of pancreatic cancer in his maternal grandmother. He has a past surgical history of appendectomy. He reports that his last episode of syncope was several years ago and he was diagnosed officially with vasovagal syncope at that time. He reports not exercising as much as he would like to, but tries to maintain a balanced diet and a regular sleep schedule. He is overall feeling well but has noted severe migraines developing over the last months. He also complains of hand tremors. He complains of mild shortness of breath and fatigue. He denies any active chest pain, chest pressure, syncope, or near-syncopal events.
+
   Echocardiogram: Preserved ejection fraction of 55% to 60% with mild TR noted. 
+
   Carotid doppler: Trace atherosclerotic disease. 
+
   ABI/PVR: RLE of 1.27 and LLE of 1.28. 
+
   We will arrange for routine blood work on today's visit for assessment of overall health as well as apolipoprotein B and lipoprotein A for assessment of genetic predisposition to hyperlipidemia. Given his complaints of fatigue and history of syncope in the past, we will arrange for echocardiogram and EKG on today's visit. Preliminary images were reviewed and discussed revealing a preserved ejection fraction of 55% to 60% with mild TR noted. We will arrange for an ETT as well for further ischemic evaluation of shortness of breath on exertion. Given syncopal episodes in the past and complaints of migraines, we will arrange for a carotid doppler on today's visit. Preliminary images were reviewed and discussed which revealed trace atherosclerotic disease. We will arrange for an ABI/PVR given decreased pedal pulses on physical examination revealing an RLE of 1.27 and an LLE of 1.28. We will arrange for an event monitor to be placed on today's visit given history of syncopal episodes in the past. We will be referring him to ophthalmology for an eye exam as he is not up-to-date and complaints of migraines. We will also arrange for an MRI of the brain without contrast given his hand tremors and migraines. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. He is to follow up on Friday or sooner should symptoms worsen. He agrees to the plan of care
+
 HPI (History of Present Illness)
+
 08/15/2025
+
 Transition of Care
+
 This is a 23-year-old male, non-smoker, with a significant medical history of renal calculi, migraines as well as syncope, who presents today for CV follow-up with primary complaints of shortness of breath. He reports exertional shortness of breath that limits his exercise tolerance, though he denies dyspnea at rest. He also denies any active chest pain, chest pressure, shortness of breath, syncope or near syncopal events.
+
   Echocardiogram: Preserved ejection fraction of 55% to 60% with mild TR noted. 
+
   Carotid doppler: Trace atherosclerotic disease. 
+
   ABI/PVR: RLE of 1.27 and LLE of 1.28. 
+
 Given his persistent exertional dyspnea, he underwent an exercise treadmill test at today's visit to further evaluate for possible underlying cardiovascular disease or exercise-induced arrhythmias. He was able to demonstrate good exercise capacity throughout the study. Results will be formally reviewed and discussed with him at his next follow-up visit. All questions and concerns answered and addressed. Heart healthy diet and healthy lifestyle modifications were encouraged and endorsed. He will follow up in one week to review the official results of the ETT. He was advised to return sooner if symptoms worsen or new concerns arise. He agrees with the plan of care.
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+
 Consultation Request Notes
+
 08/13/2025
+
 BAJAJ, RISHI
+
 , 
+
 Cohen's fashion optical, 88 dunning road middletown ny, 845-692-5800
+
 BAJAJ
+
 RISHI
+
 Newburgh Office
+

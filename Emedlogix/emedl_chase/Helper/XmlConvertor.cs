@@ -201,6 +201,7 @@ namespace emedl_chase.Helper
         {
             string txtFilePath = "";
             List<string> sections_CCDAHL7 = new List<string>();
+            List<string> entry_data = new List<string>();
             var model_CCDAList = new List<CCDAHL7Model>();
             try
             {
@@ -215,6 +216,18 @@ namespace emedl_chase.Helper
                 nsManager.AddNamespace("cda", "urn:hl7-org:v3");
                 XmlNode firstRow = doc.SelectSingleNode("//cda:table/cda:row[1]", nsManager);
 
+                XmlNodeList entry_notes = doc.SelectNodes("//cda:component", nsManager);
+
+                if (entry_notes != null && entry_notes.Count >0) {
+                
+                foreach (XmlNode node in entry_notes)
+                    {
+                        string sectionTitle = node.SelectSingleNode("//cda:structuredBody/cda:component/cda:section/cda:title", nsManager)?.InnerText.Trim();
+                        entry_data.Add(sectionTitle);
+
+                    }
+
+                }
                 #region 1. Example: Extract patient name
                 XmlNodeList nameNodes = doc.SelectNodes("//cda:recordTarget/cda:patientRole/cda:patient/cda:name", nsManager);
 

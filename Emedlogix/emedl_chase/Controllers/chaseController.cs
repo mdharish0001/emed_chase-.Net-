@@ -75,7 +75,7 @@ namespace emedl_chase.Controllers
             {
                 fhir_id = item.fhir_id;
             }
-            var get_encounter_json = await FhirApiCaller.CallApiForEncounter(bearer, fhir_id, convert_dos);
+            //var get_encounter_json = await FhirApiCaller.CallApiForEncounter(bearer, fhir_id, convert_dos);
 
             var get_binary_data = await FhirApiCaller.CallApiForDocrefresh(bearer, fhir_id);
 
@@ -98,8 +98,8 @@ namespace emedl_chase.Controllers
             var file_path = "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Phillips George_2025-08-13.xml";
 
              //var content = XmlConvertor.CCDAFilread(file_path);
-             XmlConvertor.ReadCCDAFile(file_path);
-            return Ok();
+           var result=  XmlConvertor.ReadCCDAFile(file_path);
+            return Ok(result);
         }
     //    [NonAction]
     //    public static string GenerateEcwJwt(ECWConfig cred)
