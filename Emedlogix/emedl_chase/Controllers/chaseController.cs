@@ -75,7 +75,20 @@ namespace emedl_chase.Controllers
             {
                 fhir_id = item.fhir_id;
             }
-            //var get_encounter_json = await FhirApiCaller.CallApiForEncounter(bearer, fhir_id, convert_dos);
+            var get_encounter_json = await FhirApiCaller.CallApiForEncounter(bearer, fhir_id, convert_dos);
+
+            var encounter_id = "";
+
+            foreach (var item in get_encounter_json)
+            {
+                encounter_id = item.encounterid;
+            }
+
+            var get_docencounterwithpatient_json = await FhirApiCaller.CallApiForDocrefreshEncounterwithPatient(bearer, fhir_id, encounter_id);
+
+            var type = "encounter";
+
+            var call_xml_reader_file = XmlConvertor.XmlConvertorUpdated(get_docencounterwithpatient_json.encounterxmldata, name, convert_dos, type);
 
             var get_binary_data = await FhirApiCaller.CallApiForDocrefresh(bearer, fhir_id);
 
@@ -84,7 +97,9 @@ namespace emedl_chase.Controllers
 
             var get_binary_xmldate = await FhirApiCaller.CallApiForBinary(bearer, get_binary);
 
-            var call_xml_reader_file = XmlConvertor.XmlConvertorUpdated(get_binary_xmldate, name, convert_dos);
+            var type1 = "full";
+
+            var call_xml_reader_file_1 = XmlConvertor.XmlConvertorUpdated(get_binary_xmldate, name, convert_dos,type1);
 
             //return Ok(get_patient_json);
             return Ok(get_patient_json);

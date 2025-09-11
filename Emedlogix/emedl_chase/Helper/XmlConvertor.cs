@@ -48,7 +48,7 @@ namespace emedl_chase.Helper
            
         }
 
-        public static string XmlConvertorUpdated(string base64data, string patient_name, string dos)
+        public static string XmlConvertorUpdated(string base64data, string patient_name, string dos,string type)
         {
             try
             {
@@ -82,7 +82,7 @@ namespace emedl_chase.Helper
                 }
 
                 // 6. Save to file
-                var prepare_file_path = $"D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\{patient_name}_{dos}.xml";
+                var prepare_file_path = $"D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\{patient_name}_{dos}_{type}.xml";
 
                 File.WriteAllText(prepare_file_path, xmlContent, Encoding.UTF8);
 

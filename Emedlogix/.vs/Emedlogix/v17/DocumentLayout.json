@@ -3,56 +3,94 @@
   "WorkspaceRootPath": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\helper\\xmlconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\helper\\xmlconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\controllers\\chasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\controllers\\chasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\model\\ccdamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\ccdamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\helper\\fhirapicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\helper\\fhirapicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\helper\\fhirapicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\model\\binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\controllers\\chasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\controllers\\chasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\model\\docrefresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\50c0acac28e5ef4e47c0d0892746a521e2628a81ba670fd5f7ce0c672bd8ca89\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\d41eb95d2e757567d9c6d7003c4625227377b4045ca6c236a9a22bf2a767e39b\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\helper\\xmlconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\helper\\xmlconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\model\\docrefreshencounterwithpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\docrefreshencounterwithpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\model\\docrefresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\docrefresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\model\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\model\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\helper\\ecwtokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\controllers\\epiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\controllers\\epiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\helper\\epictokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\helper\\epictokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\helper\\ecwtokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\helper\\ecwtokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\7fac2845ebd4a36baa4f5412d0f14bb2ae52f39e62217f6ad6005e9d106aea21\\ThreadPoolWorkQueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\model\\ecwconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\ecwconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\option\\applicationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\option\\applicationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\wwwroot\\files\\ecw_credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\wwwroot\\files\\ecw_credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|d:\\dotnetprojects\\emed_chase-.net-\\emedlogix\\emedl_chase\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\model\\ccdamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\ccdamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\model\\binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\model\\ecwconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\model\\ecwconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\ecw_credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5278A2CD-6F75-4581-AF8D-56BCBC0A6956}|emedl_chase\\emedl_chase.csproj|solutionrelative:emedl_chase\\wwwroot\\files\\ecw_credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +100,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,45 +120,170 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocRefreshEncounterWithPatient.cs",
+              "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\DocRefreshEncounterWithPatient.cs",
+              "RelativeDocumentMoniker": "emedl_chase\\Model\\DocRefreshEncounterWithPatient.cs",
+              "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\DocRefreshEncounterWithPatient.cs",
+              "RelativeToolTip": "emedl_chase\\Model\\DocRefreshEncounterWithPatient.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAcwKMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:33:08.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\50c0acac28e5ef4e47c0d0892746a521e2628a81ba670fd5f7ce0c672bd8ca89\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\50c0acac28e5ef4e47c0d0892746a521e2628a81ba670fd5f7ce0c672bd8ca89\\ExecutionContext.cs [Read Only]",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAvwIgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T08:08:35.744Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThreadPoolWorkQueue.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\7fac2845ebd4a36baa4f5412d0f14bb2ae52f39e62217f6ad6005e9d106aea21\\ThreadPoolWorkQueue.cs",
+              "ToolTip": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\7fac2845ebd4a36baa4f5412d0f14bb2ae52f39e62217f6ad6005e9d106aea21\\ThreadPoolWorkQueue.cs [Read Only]",
+              "ViewState": "AQIAACQCAAAAAAAAAAAvwDgCAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:57:10.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EPICTokenHelper.cs",
+              "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Helper\\EPICTokenHelper.cs",
+              "RelativeDocumentMoniker": "emedl_chase\\Helper\\EPICTokenHelper.cs",
+              "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Helper\\EPICTokenHelper.cs",
+              "RelativeToolTip": "emedl_chase\\Helper\\EPICTokenHelper.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:51:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationConfig.cs",
+              "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Option\\ApplicationConfig.cs",
+              "RelativeDocumentMoniker": "emedl_chase\\Option\\ApplicationConfig.cs",
+              "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Option\\ApplicationConfig.cs",
+              "RelativeToolTip": "emedl_chase\\Option\\ApplicationConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:00:53.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\appsettings.json",
+              "RelativeDocumentMoniker": "emedl_chase\\appsettings.json",
+              "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\appsettings.json",
+              "RelativeToolTip": "emedl_chase\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T05:41:58.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EPICController.cs",
+              "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Controllers\\EPICController.cs",
+              "RelativeDocumentMoniker": "emedl_chase\\Controllers\\EPICController.cs",
+              "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Controllers\\EPICController.cs",
+              "RelativeToolTip": "emedl_chase\\Controllers\\EPICController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:37:38.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResourceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "ToolTip": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs [Read Only]",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAowEQBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:07:15.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs [Read Only]",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAhwAcBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:07:09.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValueTask.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\d41eb95d2e757567d9c6d7003c4625227377b4045ca6c236a9a22bf2a767e39b\\ValueTask.cs",
+              "ToolTip": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\d41eb95d2e757567d9c6d7003c4625227377b4045ca6c236a9a22bf2a767e39b\\ValueTask.cs [Read Only]",
+              "ViewState": "AQIAAMYBAAAAAAAAAAAvwNcBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:07:06.366Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\mohamed\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs [Read Only]",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAowGAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:07:00.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "CCDAModel.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\CCDAModel.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Model\\CCDAModel.cs",
               "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\CCDAModel.cs",
               "RelativeToolTip": "emedl_chase\\Model\\CCDAModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T07:24:27.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T07:24:27.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "XmlConvertor.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Helper\\XmlConvertor.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Helper\\XmlConvertor.cs",
               "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Helper\\XmlConvertor.cs",
               "RelativeToolTip": "emedl_chase\\Helper\\XmlConvertor.cs",
-              "ViewState": "AQIAADQBAAAAAAAAAADwv0cBAABDAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAADwv1QAAACTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T11:02:48.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DocRefresh.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\DocRefresh.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Model\\DocRefresh.cs",
               "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\DocRefresh.cs",
               "RelativeToolTip": "emedl_chase\\Model\\DocRefresh.cs",
-              "ViewState": "AQIAAKAAAAAAAAAAAAAywLIAAAAvAAAA",
+              "ViewState": "AQIAAKAAAAAAAAAAAIA1wLMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T14:15:10.223Z"
+              "WhenOpened": "2025-08-13T14:15:10.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "Binary.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\Binary.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Model\\Binary.cs",
@@ -132,19 +295,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Encounter.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\Encounter.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Model\\Encounter.cs",
               "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\Encounter.cs",
               "RelativeToolTip": "emedl_chase\\Model\\Encounter.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAkwK4AAAAJAAAA",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAA4wLMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T09:41:58.626Z"
+              "WhenOpened": "2025-08-12T09:41:58.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "Patient.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\Patient.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Model\\Patient.cs",
@@ -156,32 +320,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FhirApiCaller.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Helper\\FhirApiCaller.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Helper\\FhirApiCaller.cs",
               "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Helper\\FhirApiCaller.cs",
               "RelativeToolTip": "emedl_chase\\Helper\\FhirApiCaller.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAkwIcAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T12:34:21.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ECWTokenHelper.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Helper\\ECWTokenHelper.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Helper\\ECWTokenHelper.cs",
               "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Helper\\ECWTokenHelper.cs",
               "RelativeToolTip": "emedl_chase\\Helper\\ECWTokenHelper.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAowEMAAAAYAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAADwvxMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T11:52:59.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "ECWConfig.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Model\\ECWConfig.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Model\\ECWConfig.cs",
@@ -199,14 +363,14 @@
               "RelativeDocumentMoniker": "emedl_chase\\Controllers\\chaseController.cs",
               "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Controllers\\chaseController.cs",
               "RelativeToolTip": "emedl_chase\\Controllers\\chaseController.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAswGQAAAANAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwEUAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T10:04:07.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Controllers\\WeatherForecastController.cs",
@@ -218,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "ecw_credentials.json",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\ecw_credentials.json",
               "RelativeDocumentMoniker": "emedl_chase\\wwwroot\\files\\ecw_credentials.json",
@@ -230,13 +394,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Program.cs",
               "RelativeDocumentMoniker": "emedl_chase\\Program.cs",
               "ToolTip": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\Program.cs",
               "RelativeToolTip": "emedl_chase\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T09:46:38.758Z"
             }

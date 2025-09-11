@@ -1,6 +1,7 @@
 ﻿using emedl_chase.Model;
 using System;
 using System.Linq;
+using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text.Json;
@@ -27,26 +28,33 @@ public class FhirApiCaller
             var responseBody = await response.Content.ReadAsStringAsync();
 
             var get_fhir_id=JsonSerializer.Deserialize<Patient.Rootobject>(responseBody);
+            if (get_fhir_id.entry != null)
+            {
+                peoplefhir = get_fhir_id.entry
+          .Where(e => e.resource?.name != null && !string.IsNullOrEmpty(e.resource.id) && e.resource.meta != null)
+          .SelectMany(e => e.resource.name
+              .Where(n => !string.IsNullOrEmpty(n.text))
+              .Select(n => new Patient.fhirid
+              {
+                  fhir_id = e.resource.id,
+                  name = n.text,
+                  gender = e.resource.gender,
+                  birthDate = e.resource.birthDate,
+                  lastUpdated = e.resource.meta.lastUpdated,
+                  fullurl = e.fullUrl,
+                  active = e.resource.active,
+                  bundleid = e.resource.id
 
-           peoplefhir = get_fhir_id.entry
-           .Where(e => e.resource?.name != null && !string.IsNullOrEmpty(e.resource.id) && e.resource.meta !=null)
-           .SelectMany(e => e.resource.name
-               .Where(n => !string.IsNullOrEmpty(n.text))
-               .Select(n => new Patient.fhirid
-               {
-                   fhir_id = e.resource.id,
-                   name = n.text,
-                   gender =e.resource.gender,
-                   birthDate =e.resource.birthDate,
-                   lastUpdated=e.resource.meta.lastUpdated,
-                   fullurl=e.fullUrl,
-                   active=e.resource.active,
-                   bundleid=e.resource.id
+              }))
+          .ToList();
 
-               }))
-           .ToList();
+                return peoplefhir;
+            }
 
-            return peoplefhir;
+           else
+            {
+                return peoplefhir;
+            }
         }
         catch (HttpRequestException ex)
         {
@@ -80,7 +88,8 @@ public class FhirApiCaller
                 .Where(n => !string.IsNullOrEmpty(n.text)).Select(n => new Encounter.finalresponse
                 {
                     encounternote = n.text,
-                    dos = e.resource.period.start.ToString("yyyy-MM-dd")
+                    dos = e.resource.period.start.ToString("yyyy-MM-dd"),
+                    encounterid=e.resource.id,
                 })).ToList();
 
             return encounterapi;
@@ -155,6 +164,54 @@ public class FhirApiCaller
 
             var encounterapi = get_fhir_id.data.ToString();
        
+            return encounterapi;
+        }
+        catch (HttpRequestException ex)
+        {
+            Console.WriteLine($"Request failed: {ex.Message}");
+            return null;
+        }
+    }
+
+
+    public static async Task<DocRefreshEncounterWithPatient.finalresonse> CallApiForDocrefreshEncounterwithPatient(string accesstoken, string patientid,string encounterid)
+    {
+        var client = new HttpClient();
+
+        var baseurl = $"https://fhir4.eclinicalworks.com/fhir/r4/JFABDD/DocumentReference?encounter={encounterid}&patient={patientid}";
+        var request = new HttpRequestMessage(HttpMethod.Get, baseurl);
+
+        // Set required headers
+        request.Headers.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json+fhir"));
+        request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", accesstoken);
+
+        try
+        {
+            var response = await client.SendAsync(request);
+
+            response.EnsureSuccessStatusCode();  // throws if not 200-299
+
+            var responseBody = await response.Content.ReadAsStringAsync();
+
+            var get_fhir_id = JsonSerializer.Deserialize<DocRefreshEncounterWithPatient.Rootobject>(responseBody);
+
+
+            var encounterapi = get_fhir_id.entry.Where(a => a.resource?.data != null).Select(n=> new DocRefreshEncounterWithPatient.finalresonse
+            {
+                encounterxmldata=n.resource.data.ToString(),
+                encounterdate=n.resource?.context?.period?.start.ToString(),
+            }).FirstOrDefault();
+            //    .Select(n => new DocRefreshEncounterWithPatient.finalresonse
+            //{
+            //   encounterdate=n.resource.context.period.start.ToString(),
+            //   encounterid=n.resource.id,
+            //   encountereason=n.resource.type.text,
+            //   encounterxmldata = n.resource.data?.ToString()
+
+            //}).FirstOrDefault();
+
+
+
             return encounterapi;
         }
         catch (HttpRequestException ex)

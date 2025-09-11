@@ -1,6 +1,6 @@
 ﻿namespace emedl_chase.Model
 {
-    public class Encounter
+    public class DocRefreshEncounterWithPatient
     {
 
         public class Rootobject
@@ -37,23 +37,25 @@
             public string resourceType { get; set; }
             public string id { get; set; }
             public Meta1 meta { get; set; }
+            public string contentType { get; set; }
+            public string data { get; set; }
             public Text text { get; set; }
             public Identifier[] identifier { get; set; }
             public string status { get; set; }
-            public Class1 _class { get; set; }
-            public Type[] type { get; set; }
+            public Type type { get; set; }
+            public Category[] category { get; set; }
             public Subject subject { get; set; }
-            public Participant[] participant { get; set; }
-            public Period period { get; set; }
-            public Hospitalization hospitalization { get; set; }
-            public Location[] location { get; set; }
-            public Reasoncode[] reasonCode { get; set; }
+            public DateTime date { get; set; }
+            public Author[] author { get; set; }
+            public Custodian custodian { get; set; }
+            public Content[] content { get; set; }
+            public Context context { get; set; }
         }
 
         public class Meta1
         {
-            public DateTime lastUpdated { get; set; }
             public string[] profile { get; set; }
+            public DateTime lastUpdated { get; set; }
         }
 
         public class Text
@@ -62,31 +64,7 @@
             public string div { get; set; }
         }
 
-        public class Class1
-        {
-            public string system { get; set; }
-            public string code { get; set; }
-            public string display { get; set; }
-        }
-
-        public class Subject
-        {
-            public string reference { get; set; }
-            public string type { get; set; }
-        }
-
-        public class Period
-        {
-            public DateTime start { get; set; }
-            public DateTime end { get; set; }
-        }
-
-        public class Hospitalization
-        {
-            public Dischargedisposition dischargeDisposition { get; set; }
-        }
-
-        public class Dischargedisposition
+        public class Type
         {
             public Coding[] coding { get; set; }
             public string text { get; set; }
@@ -99,16 +77,46 @@
             public string display { get; set; }
         }
 
+        public class Subject
+        {
+            public string reference { get; set; }
+            public string type { get; set; }
+        }
+
+        public class Custodian
+        {
+            public string reference { get; set; }
+            public string type { get; set; }
+        }
+
+        public class Context
+        {
+            public Encounter[] encounter { get; set; }
+            public Period period { get; set; }
+        }
+
+        public class Period
+        {
+            public DateTime start { get; set; }
+            public DateTime end { get; set; }
+        }
+
+        public class Encounter
+        {
+            public string reference { get; set; }
+            public string type { get; set; }
+        }
+
         public class Identifier
         {
             public string system { get; set; }
             public string value { get; set; }
         }
 
-        public class Type
+        public class Category
         {
-            public string text { get; set; }
             public Coding1[] coding { get; set; }
+            public string text { get; set; }
         }
 
         public class Coding1
@@ -118,67 +126,47 @@
             public string display { get; set; }
         }
 
-        public class Participant
-        {
-            public Type1[] type { get; set; }
-            public Period1 period { get; set; }
-            public Individual individual { get; set; }
-        }
-
-        public class Period1
-        {
-            public DateTime start { get; set; }
-            public DateTime end { get; set; }
-        }
-
-        public class Individual
+        public class Author
         {
             public string reference { get; set; }
             public string type { get; set; }
         }
 
-        public class Type1
+        public class Content
         {
-            public Coding2[] coding { get; set; }
-            public string text { get; set; }
+            public Attachment attachment { get; set; }
+            public Format format { get; set; }
         }
 
-        public class Coding2
+        public class Attachment
+        {
+            public string contentType { get; set; }
+            public string url { get; set; }
+        }
+
+        public class Format
         {
             public string system { get; set; }
             public string code { get; set; }
             public string display { get; set; }
         }
 
-        public class Location
-        {
-            public Location1 location { get; set; }
-        }
-
-        public class Location1
-        {
-            public string reference { get; set; }
-            public string type { get; set; }
-        }
-
-        public class Reasoncode
-        {
-            public string text { get; set; }
-        }
-
         public class Search
         {
             public string mode { get; set; }
         }
-
-        public class finalresponse
+        public class finalresonse
         {
-            public string? encounternote { get; set; }
+            public string encounterid { get; set; }
 
-            public string ? dos  { get; set; }
+            public string type { get; set; }
 
-            public string? encounterid { get; set; }
+            public string  ? encounterdate { get; set; }
+            public string ? encountereason { get; set; }
+            public string ? encounterxmldata { get; set; }
+
 
         }
+
     }
 }
