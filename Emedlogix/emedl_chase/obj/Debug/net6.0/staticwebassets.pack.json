@@ -1,12 +1,44 @@
 {
   "Files": [
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Acierno Nicholas_2025-09-01_encounter.xml",
+      "PackagePath": "staticwebassets\\Output\\Acierno Nicholas_2025-09-01_encounter.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Acierno Nicholas_2025-09-01_full.xml",
+      "PackagePath": "staticwebassets\\Output\\Acierno Nicholas_2025-09-01_full.xml"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Carey Sara_2025-08-20.xml",
       "PackagePath": "staticwebassets\\Output\\Carey Sara_2025-08-20.xml"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Conklin Wayne_2025-08-22.xml",
       "PackagePath": "staticwebassets\\Output\\Conklin Wayne_2025-08-22.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Diaz Maria_2025-07-18_encounter.xml",
+      "PackagePath": "staticwebassets\\Output\\Diaz Maria_2025-07-18_encounter.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Diaz Maria_2025-07-18_full.xml",
+      "PackagePath": "staticwebassets\\Output\\Diaz Maria_2025-07-18_full.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Diaz Maria_2025-07-19_encounter.xml",
+      "PackagePath": "staticwebassets\\Output\\Diaz Maria_2025-07-19_encounter.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Diaz Maria_2025-07-19_full.xml",
+      "PackagePath": "staticwebassets\\Output\\Diaz Maria_2025-07-19_full.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Diaz Maria_2025-08-29_encounter.xml",
+      "PackagePath": "staticwebassets\\Output\\Diaz Maria_2025-08-29_encounter.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Diaz Maria_2025-08-29_full.xml",
+      "PackagePath": "staticwebassets\\Output\\Diaz Maria_2025-08-29_full.xml"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Phillips George_2025-08-13.xml",
@@ -25,6 +57,26 @@
       "PackagePath": "staticwebassets\\Output\\Reed Takira_2025-08-13.xml"
     },
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Villamizar Ana_2025-08-29_encounter.xml",
+      "PackagePath": "staticwebassets\\Output\\Villamizar Ana_2025-08-29_encounter.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Villamizar Ana_2025-08-29_full.xml",
+      "PackagePath": "staticwebassets\\Output\\Villamizar Ana_2025-08-29_full.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\131_Diaz Maria_2025-08-29_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\131_Diaz Maria_2025-08-29_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\218_Diaz Maria_2025-07-18_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\218_Diaz Maria_2025-07-18_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\333_Diaz Maria_2025-08-29_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\333_Diaz Maria_2025-08-29_encounter.txt"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\337_Phillips George_2025-08-13.txt",
       "PackagePath": "staticwebassets\\files\\Demo\\337_Phillips George_2025-08-13.txt"
     },
@@ -39,6 +91,30 @@
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\468_Phillips George_2025-08-13.txt",
       "PackagePath": "staticwebassets\\files\\Demo\\468_Phillips George_2025-08-13.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\474_Diaz Maria_2025-08-29_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\474_Diaz Maria_2025-08-29_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\479_Diaz Maria_2025-07-19_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\479_Diaz Maria_2025-07-19_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\479_Diaz Maria_2025-07-19_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\479_Diaz Maria_2025-07-19_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\479_Diaz Maria_2025-07-19_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\479_Diaz Maria_2025-07-19_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\509_Diaz Maria_2025-07-18_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\509_Diaz Maria_2025-07-18_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\58_Diaz Maria_2025-08-29_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\58_Diaz Maria_2025-08-29_encounter.txt"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\70_Phillips George_2025-08-13.txt",
@@ -57,12 +133,36 @@
       "PackagePath": "staticwebassets\\files\\Demo\\73_Phillips George_2025-08-13.txt"
     },
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\821_Diaz Maria_2025-08-29_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\821_Diaz Maria_2025-08-29_encounter.txt"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\876_Phillips George_2025-08-13.txt",
       "PackagePath": "staticwebassets\\files\\Demo\\876_Phillips George_2025-08-13.txt"
     },
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\952_Diaz Maria_2025-07-19_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\952_Diaz Maria_2025-07-19_encounter.txt"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\961_Phillips George_2025-08-13.txt",
       "PackagePath": "staticwebassets\\files\\Demo\\961_Phillips George_2025-08-13.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\962_Diaz Maria_2025-07-19_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\962_Diaz Maria_2025-07-19_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\962_Diaz Maria_2025-07-19_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\962_Diaz Maria_2025-07-19_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\962_Diaz Maria_2025-07-19_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\962_Diaz Maria_2025-07-19_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\986_Diaz Maria_2025-08-29_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\986_Diaz Maria_2025-08-29_encounter.txt"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\992_Phillips George_2025-08-13.txt",

@@ -7,4 +7,10 @@
         public string DateOfEncounter { get; set; }
         public int PageNo { get; set; }
     }
+
+    public class CCDA_ToFileWriteModel
+    { 
+    public string Section { get; set; }
+    public string Value { get; set; }
+    }
 }

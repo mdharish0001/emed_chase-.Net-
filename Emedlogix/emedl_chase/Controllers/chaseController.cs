@@ -108,12 +108,18 @@ namespace emedl_chase.Controllers
 
         [HttpGet("CCDAFileRead")]
 
-        public IActionResult CcdaFileReadProcess()
+        public IActionResult CcdaFileReadProcess(string filepath= null)
         {
-            var file_path = "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Phillips George_2025-08-13.xml";
+            //var file_path = "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Diaz Maria_2025-07-18_encounter.xml";
 
-             //var content = XmlConvertor.CCDAFilread(file_path);
-           var result=  XmlConvertor.ReadCCDAFile(file_path);
+            if (filepath == null) {
+
+                return Ok("No data fiund");
+            
+            }
+
+             var content = XmlConvertor.CCDAFilread(filepath);
+           var result=  XmlConvertor.ReadCCDAFile(filepath);
             return Ok(result);
         }
     //    [NonAction]

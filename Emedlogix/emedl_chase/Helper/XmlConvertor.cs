@@ -249,7 +249,7 @@ namespace emedl_chase.Helper
 
                 #region 5. Extract all test based on section wise
                 var sectionBase_Conditions = new List<string>();
-
+                var section_value_list = new List<CCDA_ToFileWriteModel>();
                 XmlNodeList sectionNodes = doc.SelectNodes("//cda:section", nsManager);
 
                 if (sectionNodes != null && sectionNodes.Count > 0)
@@ -330,7 +330,7 @@ namespace emedl_chase.Helper
 
                                 #endregion
                                 sectionBase_Conditions.Add(sectionTitle + " : " + text_Line);
-
+                                section_value_list.Add(new CCDA_ToFileWriteModel() { Section = sectionTitle, Value = text_Line });
                                 model_CCDA.section = sectionTitle;
                                 model_CCDA.Sentence = text_Line;
                                 model_CCDA.DateOfEncounter = dos;
@@ -360,7 +360,7 @@ namespace emedl_chase.Helper
                 #endregion
 
                 #region Write XML data in an text file
-                txtFilePath = WriteXMLToText(sectionBase_Conditions, fileName );
+                txtFilePath = WriteXMLToText(sectionBase_Conditions, fileName,null, section_value_list);
                 #endregion
                 // int pageNo = 1;
                 for (int i = 0; i < model_CCDAList.Count(); i++)
@@ -429,7 +429,7 @@ namespace emedl_chase.Helper
                 Console.WriteLine("Directory Exist");
 
         }
-        public static  string WriteXMLToText(List<string> sectionBase_Conditions = null, string fileName = "", IWebHostEnvironment webHostEnvironment = null)
+        public static  string WriteXMLToText(List<string> sectionBase_Conditions = null, string fileName = "", IWebHostEnvironment webHostEnvironment = null,List<CCDA_ToFileWriteModel> cCDA_ToFileWrites=null)
         {
             string textFilePath = "";
             if (sectionBase_Conditions == null || sectionBase_Conditions.Count <= 0)
@@ -441,16 +441,69 @@ namespace emedl_chase.Helper
                 string newFileName = randomNumber + "_" + fileName;
                 var descPath = "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo";
                 string text_filePath = Path.Combine(descPath, newFileName + ".txt");
+                string html_filePath = Path.Combine(descPath, newFileName + ".html");
+                string rtf_filePath = Path.Combine(descPath, newFileName + ".rtf");
 
                 CheckDirectory(text_filePath);
+
+
+                var grouped_by_section = cCDA_ToFileWrites?.GroupBy(a => a.Section).ToList();
                 // Writing to the file
                 using (StreamWriter writer = new StreamWriter(text_filePath))
                 {
-                    foreach (string value in sectionBase_Conditions)
+                    foreach (var item in grouped_by_section)
                     {
-                        writer.WriteLine(value);
+                        var values = item.ToList();
+                        //writer.WriteLine(item.Key);
+                        writer.WriteLine("=== " + item.Key.ToUpper() + " ===");
+                        for (int i = 0; i < values.Count(); i++)
+                        {
+                            writer.WriteLine(values[i].Value);
+                        }
+
+                        writer.WriteLine(Environment.NewLine);
                     }
+
                 }
+                using (StreamWriter writer = new StreamWriter(html_filePath))
+                {
+                    writer.WriteLine("<html><body>");
+
+                    foreach (var item in grouped_by_section)
+                    {
+                        writer.WriteLine($"<p><b><u>{item.Key}</u></b></p>");
+
+                        foreach (var val in item)
+                        {
+                            writer.WriteLine($"<p>{val.Value}</p>");
+                        }
+
+                        writer.WriteLine("<br/>");
+                    }
+
+                    writer.WriteLine("</body></html>");
+                }
+
+                using (StreamWriter writer = new StreamWriter(rtf_filePath))
+                {
+                    writer.WriteLine(@"{\rtf1\ansi");
+
+                    foreach (var item in grouped_by_section)
+                    {
+                        writer.WriteLine(@"\b\ul " + item.Key + @"\ul0\b0\par");
+
+                        foreach (var val in item)
+                        {
+                            writer.WriteLine(val.Value + @"\par");
+                        }
+
+                        writer.WriteLine(@"\par"); // Extra line break
+                    }
+
+                    writer.WriteLine("}");
+                }
+
+
                 textFilePath = text_filePath;
             }
             return textFilePath;
