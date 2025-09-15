@@ -440,11 +440,17 @@ namespace emedl_chase.Helper
                 int randomNumber = random.Next(1000);
                 string newFileName = randomNumber + "_" + fileName;
                 var descPath = "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo";
-                string text_filePath = Path.Combine(descPath, newFileName + ".txt");
-                string html_filePath = Path.Combine(descPath, newFileName + ".html");
-                string rtf_filePath = Path.Combine(descPath, newFileName + ".rtf");
+                string folderName = DateTime.Now.ToString("dd_MMM_yyyy");
+
+                // Create the folder in the current directory
+                string final_path = Path.Combine(descPath, folderName);
+                string text_filePath = Path.Combine(final_path, newFileName + ".txt");
+                string html_filePath = Path.Combine(final_path, newFileName + ".html");
+                string rtf_filePath = Path.Combine(final_path, newFileName + ".rtf");
 
                 CheckDirectory(text_filePath);
+                CheckDirectory(html_filePath);
+                CheckDirectory(rtf_filePath);
 
 
                 var grouped_by_section = cCDA_ToFileWrites?.GroupBy(a => a.Section).ToList();

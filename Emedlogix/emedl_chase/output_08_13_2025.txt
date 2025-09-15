@@ -1,20 +1,20 @@
 Summarization of Episode Note
 
-141 Bert Crawford Rd
+1191 Rt 9w
 
-Apt 213
-
-Middletown
+NEWBURGH
 
 NY
 
-10940
+12550
 
 US
 
-Maria
+US
 
-Diaz
+Erizbeth
+
+Rivera
 
 eClinicalWorks CCDA V12.0.2.04000331_8
 
@@ -110,89 +110,7 @@ US
 
 Allergies
 
-All nuts (uncoded)
-
-anaphylaxis
-
-Allergy
-
-Active
-
-Environmental, seasonal (uncoded)
-
-nasal congestion, rhinorrhea, HA, asthma
-
-Allergy
-
-Active
-
-Seafood
-
-Seafood (uncoded)
-
-anaphylaxis
-
-Allergy
-
-Active
-
-Levaquin
-
-anaphylaxis
-
-Drug Allergy
-
-Active
-
-atorvastatin
-
-Lipitor
-
-hives
-
-Drug Allergy
-
-Active
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-All nuts (uncoded)
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Environmental, seasonal (uncoded)
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Seafood (uncoded)
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Levaquin
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Lipitor
+No Information
 
 Results
 
@@ -208,381 +126,15 @@ Lab review
 
 Medications
 
-NexIUM 40 MG
+Ondansetron 4 MG
 
-1 capsule Orally Once a day
-
-Unknown
-
-busPIRone HCl 10 MG
-
-1 tablet Orally Twice a day
-
-Unknown
-
-Vitamin D 50 MCG (2000 UT)
-
-1 tablet Orally Once a day
-
-Unknown
-
-Omeprazole 40 MG
-
-1 capsule 30 minutes before morning meal Orally Once a day
-
-Unknown
-
-Ibuprofen 800 MG
-
-1 tablet with food or milk as needed Orally every 8 hrs
-
-Unknown
-
-Ondansetron HCl 4 MG
-
-1 tablet Orally Once a day; Duration: 30 day(s)
-
-PRN
-
-06/11/2024
-
-Unknown
-
-Benzonatate 100 MG
-
-1 capsule as needed Orally Three times a day
-
-02/09/2024
-
-Unknown
-
-Levocetirizine Dihydrochloride 5 MG
-
-1 tablet in the evening Orally Once a day; Duration: 30 days
+1 tablet on the tongue and allow to dissolve Orally Once a day; Duration: 30 day(s)
 
 07/18/2025
 
-08/17/2025
-
 Active
 
-Benzonatate 100 MG
-
-1 capsule as needed orally Three times a day; Duration: 14 day(s)
-
-01/31/2024
-
-Unknown
-
-metroNIDAZOLE 1 %
-
-1 application Externally Once a day; Duration: 30 days
-
-07/01/2025
-
-07/31/2025
-
-Active
-
-Repatha 140 MG/ML
-
-1 mL Subcutaneous every other week; Duration: 30 days
-
-05/15/2024
-
-Unknown
-
-Albuterol Sulfate HFA 108 (90 Base) MCG/ACT
-
-1 puff as needed Inhalation every 4 hrs
-
-Unknown
-
-hydrOXYzine HCl 10 MG
-
-1 tablet as needed Orally Once a day
-
-PRN
-
-Unknown
-
-Singulair 10 MG
-
-1 tablet Orally Once a day
-
-Unknown
-
-Xanax 0.5 MG
-
-1 tablet Orally Twice a day
-
-Unknown
-
-Calcium
-
-Unknown
-
-Vitamin C
-
-Unknown
-
-methIMAzole 5 MG
-
-1 tablet Orally Once a day
-
-Unknown
-
-Juven -
-
-as directed Orally
-
-Unknown
-
-Lidocaine 4 %
-
-1 patch as needed Externally Once a day
-
-Unknown
-
-Probiotic
-
-Unknown
-
-Theratears
-
-0.25% solution
-
-Unknown
-
-Fluticasone Propionate 50 MCG/ACT
-
-2 sprays in each nostril Nasally Once a day
-
-Unknown
-
-Loratadine 10 MG
-
-1 tablet Orally Once a day
-
-Unknown
-
-Budesonide-Formoterol Fumarate 160-4.5 MCG/ACT
-
-2 puffs Inhalation Twice a day
-
-Unknown
-
-ASTRAZENECA LP
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-TEVA PHARMACEUTICALS USA
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-MAJOR PHARMACEUTICALS
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-SANDOZ
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-WALGREENS
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-LIBERTY PHARMACEUTICAL
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-LIBERTY PHARMACEUTICAL
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-TEVA PHARMACEUTICALS USA
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-LIBERTY PHARMACEUTICAL
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-MEDISCA
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-AMGEN
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-HIKMA PHARMACEUTICALS USA
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-AMERICAN REGENT
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-MERCK SHARP & DOHME
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-VIATRIS SPECIALTY
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-BRYANT RANCH PREPACK
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-PHARMAVITE
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-SANDOZ
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-ABBOTT NUTRITION
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-RUGBY LABORATORIES
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-MASON VITAMINS
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-PRESTIGE BRANDS
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-FOUGERA
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-HALEON US SERVICES
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
-
-PRASCO LABORATORIES
+MYLAN
 
 Napier-Martin
 
@@ -602,301 +154,13 @@ Problems
 
 Problem
 
-Vitamin B>12< deficiency anaemia (49472006)
+Obesity (414916001)
 
-Vitamin B12 deficiency anemia, unspecified (D51.9)
-
-Active
-
-confirmed
-
-Problem
-
-Hyperprolactinemia (237662005)
-
-Hyperprolactinemia (E22.1)
+Obesity (BMI 30-39.9) (E66.9)
 
 Active
 
 confirmed
-
-Problem
-
-Hyperlipidemia (55822004)
-
-Hyperlipidemia, unspecified (E78.5)
-
-Active
-
-confirmed
-
-Problem
-
-Restless legs syndrome (32914008)
-
-Restless legs syndrome (G25.81)
-
-Active
-
-confirmed
-
-Problem
-
-Rheumatoid lung disease (398726004)
-
-Rheumatoid lung disease with rheumatoid arthritis of unspecified site (M05.10)
-
-Active
-
-confirmed
-
-Problem
-
-Paresthesia (finding) (91019004)
-
-Paresthesia of skin (R20.2)
-
-Active
-
-confirmed
-
-Problem
-
-hypercholesterolemia (disorder) (13644009)
-
-Hypercholesteremia (E78.00)
-
-Active
-
-confirmed
-
-Problem
-
-Venous insufficiency of leg (disorder) (234050002)
-
-Venous insufficiency (I87.2)
-
-Active
-
-confirmed
-
-Problem
-
-Essential hypertension (59621000)
-
-Hypertension, unspecified type (I10)
-
-Active
-
-confirmed
-
-Problem
-
-Hyperlipidaemia (55822004)
-
-Hyperlipidemia, unspecified hyperlipidemia type (E78.5)
-
-Active
-
-confirmed
-
-Problem
-
-Claudication (63491006)
-
-Claudication (I73.9)
-
-Active
-
-confirmed
-
-Problem
-
-Hypothyroidism (40930008)
-
-Hypothyroidism, unspecified type (E03.9)
-
-Active
-
-confirmed
-
-Problem
-
-Asthma without status asthmaticus (55570000)
-
-Asthma, unspecified asthma severity, unspecified whether complicated, unspecified whether persistent (J45.909)
-
-Active
-
-confirmed
-
-Problem
-
-Vitamin D deficiency (34713006)
-
-Vitamin D deficiency (E55.9)
-
-Active
-
-confirmed
-
-Problem
-
-Anxiety (48694002)
-
-Anxiety (F41.9)
-
-Active
-
-confirmed
-
-Problem
-
-Lupus anticoagulant disorder (19267009)
-
-Lupus anticoagulant disorder (D68.62)
-
-Active
-
-confirmed
-
-Problem
-
-Pain at rest of bilateral lower limbs due to atherosclerosis (disorder) (12236991000119103)
-
-Rest pain of both lower extremities due to atherosclerosis (I70.223)
-
-Active
-
-confirmed
-
-Problem
-
-Skin sensation disturbance (80910005)
-
-Tingling of both feet (R20.2)
-
-Active
-
-confirmed
-
-Problem
-
-Burning sensation of skin (762397008)
-
-Burning sensation of skin (R20.8)
-
-Active
-
-confirmed
-
-Scribe
-
-India
-
-Epic Heart and Vascular Care
-
-Kearney
-
-Marissa
-
-NEW - Monticello Office
-
-Kearney
-
-Marissa
-
-NEW - Monticello Office
-
-Scribe
-
-India
-
-Epic Heart and Vascular Care
-
-Kearney
-
-Marissa
-
-NEW - Monticello Office
-
-BAJAJ
-
-RISHI
-
-Epic Heart and Vascular Care
-
-Scribe
-
-India
-
-Epic Heart and Vascular Care
-
-Scribe
-
-India
-
-NEW - Monticello Office
-
-Scribe
-
-India
-
-NEW - Monticello Office
-
-BAJAJ
-
-RISHI
-
-Epic Heart And Vascular Care
-
-Scribe
-
-India
-
-NEW - Monticello Office
-
-BAJAJ
-
-RISHI
-
-Epic Heart And Vascular Care
-
-BAJAJ
-
-RISHI
-
-Epic Heart And Vascular Care
-
-Bustos
-
-Thalia
-
-NEW - Monticello Office
-
-BAJAJ
-
-RISHI
-
-Epic Heart And Vascular Care
-
-Kearney
-
-Marissa
-
-NEW - Monticello Office
-
-BAJAJ
-
-RISHI
-
-Epic Heart and Vascular Care
-
-Scribe
-
-India
-
-Middletown Office
 
 Scribe
 
@@ -922,7 +186,7 @@ Epic Heart And Vascular Care
 
 Shellene Napier-Martin
 
-Leg swelling M79.89 ; Person consulting for explanation of examination or test findings Z71.2 ; Asthma, unspecified asthma severity, unspecified whether complicated, unspecified whether persistent J45.909 ; Acute sinusitis, unspecified J01.90 ; Pain in leg, unspecified M79.606 ; Abnormal level of hormones in specimens from female genital organs R87.1 ; Disorder of thyroid, unspecified E07.9 ; Hormone replacement therapy Z79.890 ; Vitamin B deficiency, unspecified E53.9 ; Raised antibody titer R76.0 ; Elevated erythrocyte sedimentation rate R70.0 ; Lupus anticoagulant disorder D68.62 ; Lyme disease A69.20 ; Hyperprolactinemia E22.1 ; Rheumatoid lung disease with rheumatoid arthritis of unspecified site M05.10 ; Hypothyroidism, unspecified type E03.9 ; Flushing R23.2 ; Hyperlipidemia, unspecified hyperlipidemia type E78.5 ; Rash and nonspecific skin eruption R21 ; Deficiency of other specified B group vitamins E53.8 ; Vitamin B12 deficiency anemia, unspecified D51.9 ; Former smoker Z87.891 ; Hypercholesteremia E78.00 ; Vitamin D deficiency E55.9 ; Claudication I73.9 ; Hypertension, unspecified type I10 ; Rest pain of both lower extremities due to atherosclerosis I70.223 ; Anxiety F41.9 ; Palpitations R00.2 ; Fatigue, unspecified type R53.83 ; Leg heaviness R29.898 ; Leg numbness R20.0 ; Blurred vision H53.8 ; Ocular pain, unspecified eye H57.10 ; Paresthesia of skin R20.2 ; Anesthesia of skin R20.0 ; Tingling of both feet R20.2 ; Decreased pedal pulses R09.89 ; Restless legs syndrome G25.81 ; Cold feet R20.9 ; Burning sensation of skin R20.8 ; Dizziness R42 and Venous insufficiency I87.2
+Nausea R11.0 ; Person consulting for explanation of examination or test findings Z71.2 and Annual physical exam Z00.00
 
 Shellene
 
@@ -950,7 +214,7 @@ Assessments
 
 07/19/2025
 
-Leg swelling (ICD-10 - M79.89)
+Nausea (ICD-10 - R11.0)
 
 07/19/2025
 
@@ -958,191 +222,37 @@ Person consulting for explanation of examination or test findings (ICD-10 - Z71.
 
 07/19/2025
 
-Asthma, unspecified asthma severity, unspecified whether complicated, unspecified whether persistent (ICD-10 - J45.909)
-
-07/19/2025
-
-Acute sinusitis, unspecified (ICD-10 - J01.90)
-
-07/19/2025
-
-Pain in leg, unspecified (ICD-10 - M79.606)
-
-07/19/2025
-
-Abnormal level of hormones in specimens from female genital organs (ICD-10 - R87.1)
-
-07/19/2025
-
-Disorder of thyroid, unspecified (ICD-10 - E07.9)
-
-07/19/2025
-
-Hormone replacement therapy (ICD-10 - Z79.890)
-
-07/19/2025
-
-Vitamin B deficiency, unspecified (ICD-10 - E53.9)
-
-07/19/2025
-
-Raised antibody titer (ICD-10 - R76.0)
-
-07/19/2025
-
-Elevated erythrocyte sedimentation rate (ICD-10 - R70.0)
-
-07/19/2025
-
-Lupus anticoagulant disorder (ICD-10 - D68.62)
-
-07/19/2025
-
-Lyme disease (ICD-10 - A69.20)
-
-07/19/2025
-
-Hyperprolactinemia (ICD-10 - E22.1)
-
-07/19/2025
-
-Rheumatoid lung disease with rheumatoid arthritis of unspecified site (ICD-10 - M05.10)
-
-07/19/2025
-
-Hypothyroidism, unspecified type (ICD-10 - E03.9)
-
-07/19/2025
-
-Flushing (ICD-10 - R23.2)
-
-07/19/2025
-
-Hyperlipidemia, unspecified hyperlipidemia type (ICD-10 - E78.5)
-
-07/19/2025
-
-Rash and nonspecific skin eruption (ICD-10 - R21)
-
-07/19/2025
-
-Deficiency of other specified B group vitamins (ICD-10 - E53.8)
-
-07/19/2025
-
-Vitamin B12 deficiency anemia, unspecified (ICD-10 - D51.9)
-
-07/19/2025
-
-Former smoker (ICD-10 - Z87.891)
-
-07/19/2025
-
-Hypercholesteremia (ICD-10 - E78.00)
-
-07/19/2025
-
-Vitamin D deficiency (ICD-10 - E55.9)
-
-07/19/2025
-
-Claudication (ICD-10 - I73.9)
-
-07/19/2025
-
-Hypertension, unspecified type (ICD-10 - I10)
-
-07/19/2025
-
-Rest pain of both lower extremities due to atherosclerosis (ICD-10 - I70.223)
-
-07/19/2025
-
-Anxiety (ICD-10 - F41.9)
-
-07/19/2025
-
-Palpitations (ICD-10 - R00.2)
-
-07/19/2025
-
-Fatigue, unspecified type (ICD-10 - R53.83)
-
-07/19/2025
-
-Leg heaviness (ICD-10 - R29.898)
-
-07/19/2025
-
-Leg numbness (ICD-10 - R20.0)
-
-07/19/2025
-
-Blurred vision (ICD-10 - H53.8)
-
-07/19/2025
-
-Ocular pain, unspecified eye (ICD-10 - H57.10)
-
-07/19/2025
-
-Paresthesia of skin (ICD-10 - R20.2)
-
-07/19/2025
-
-Anesthesia of skin (ICD-10 - R20.0)
-
-07/19/2025
-
-Tingling of both feet (ICD-10 - R20.2)
-
-07/19/2025
-
-Decreased pedal pulses (ICD-10 - R09.89)
-
-07/19/2025
-
-Restless legs syndrome (ICD-10 - G25.81)
-
-07/19/2025
-
-Cold feet (ICD-10 - R20.9)
-
-07/19/2025
-
-Burning sensation of skin (ICD-10 - R20.8)
-
-07/19/2025
-
-Dizziness (ICD-10 - R42)
-
-07/19/2025
-
-Venous insufficiency (ICD-10 - I87.2)
+Annual physical exam (ICD-10 - Z00.00)
 
 07/19/2025
 
 Other
 
-Her
+Laboratory
 
-labs, including thyroid function, FSH, LH, CRP, ESR, rheumatoid
+findings revealed A1C of 5.7, suggesting borderline prediabetes, and
 
-factor, estradiol, progesterone, serotonin, prolactin, triptase,
+LDL level of 123, indicating mildly elevated cholesterol. Thyroid
 
-estrogen, lupus panel, and B12, were all within normal limits. We
+function panel, CMP, and vitamin D levels were all within normal
 
-will continue monitoring her energy levels and hormone balance. She
+limits. We advised the patient to continue a heart-healthy diet and
 
-is advised to maintain her current medications. All questions and
+to limit intake of complex carbohydrates to reduce progression to
 
-concerns answered and addressed. Heart healthy diet and healthy
+diabetes. She was encouraged to maintain physical activity and
 
-lifestyle modifications were encouraged and endorsed. Patient is in
+hydration. Given her lab trends, lifestyle interventions are
 
-agreement with the plan.
+justified and medically necessary to prevent escalation to chronic
 
-Patient was informed of the telemedicine visit by our office staff. Telemedicine was described in detail to the patient as the use of synchronous video and audio communication to provide clinical care from a distance. A telemedicine visit can provide the same medical standard of care for specific conditions. The patient was informed that the practice staff located at the provider's office would assist in carrying out any recommendations and clinical care.
+conditions. All questions and concerns answered and addressed. Heart
+
+healthy diet and healthy lifestyle modifications were encouraged and
+
+endorsed. Patient agreed with the plan of care.
+
+ Patient was informed of the telemedicine visit by our office staff. Telemedicine was described in detail to the patient as the use of synchronous video and audio communication to provide clinical care from a distance. A telemedicine visit can provide the same medical standard of care for specific conditions. The patient was informed that the practice staff located at the provider's office would assist in carrying out any recommendations and clinical care.
 
 Patient Location: Home
 
@@ -1154,25 +264,31 @@ Treatment Notes
 
 Other
 
-Her
+Laboratory
 
-labs, including thyroid function, FSH, LH, CRP, ESR, rheumatoid
+findings revealed A1C of 5.7, suggesting borderline prediabetes, and
 
-factor, estradiol, progesterone, serotonin, prolactin, triptase,
+LDL level of 123, indicating mildly elevated cholesterol. Thyroid
 
-estrogen, lupus panel, and B12, were all within normal limits. We
+function panel, CMP, and vitamin D levels were all within normal
 
-will continue monitoring her energy levels and hormone balance. She
+limits. We advised the patient to continue a heart-healthy diet and
 
-is advised to maintain her current medications. All questions and
+to limit intake of complex carbohydrates to reduce progression to
 
-concerns answered and addressed. Heart healthy diet and healthy
+diabetes. She was encouraged to maintain physical activity and
 
-lifestyle modifications were encouraged and endorsed. Patient is in
+hydration. Given her lab trends, lifestyle interventions are
 
-agreement with the plan.
+justified and medically necessary to prevent escalation to chronic
 
-Patient was informed of the telemedicine visit by our office staff. Telemedicine was described in detail to the patient as the use of synchronous video and audio communication to provide clinical care from a distance. A telemedicine visit can provide the same medical standard of care for specific conditions. The patient was informed that the practice staff located at the provider's office would assist in carrying out any recommendations and clinical care.
+conditions. All questions and concerns answered and addressed. Heart
+
+healthy diet and healthy lifestyle modifications were encouraged and
+
+endorsed. Patient agreed with the plan of care.
+
+ Patient was informed of the telemedicine visit by our office staff. Telemedicine was described in detail to the patient as the use of synchronous video and audio communication to provide clinical care from a distance. A telemedicine visit can provide the same medical standard of care for specific conditions. The patient was informed that the practice staff located at the provider's office would assist in carrying out any recommendations and clinical care.
 
 Patient Location: Home
 
@@ -1181,10 +297,6 @@ Lack of strict HIPPA Rules. Patient expressed verbal interest in the telemedicin
 Next Appt
 
 Follow Up: As scheduled, Reason: 
-
-Provider Name:MARION HAYES, 09/16/2025 09:15:00 AM, 528 East Main St, MIDDLETOWN, NY, 10940-2632, 877-374-2362
-
-Provider Name:RISHI BAJAJ, 09/19/2025 04:00:00 PM, 528 East Main St, MIDDLETOWN, NY, 10940-2632, 877-374-2362
 
 Goals Section
 
@@ -1196,311 +308,67 @@ No Information
 
 Insurance Providers
 
-Aetna Health
+Cigna
 
-PO BOX 981106 EL PASO, TX 79998-1107
+PO BOX 182223 CHATTANOOGA, TN 37422-7256
 
-102026205700
+800-244-6224
 
-Diaz, Maria
+080990001400
 
-Self - patient is the insured
-
-Affinity by Molina Healthcare NY
-
-PO BOX 22615 LONG BEACH, CA 90801-5637
-
-800-223-7242
-
-AQ06345C
-
-Diaz, Maria
+Rivera, Erizbeth
 
 Self - patient is the insured
 
-Medicare of New York  Downstate  J13
+PO BOX 182223
 
-PO BOX 6178 INDIANAPOLIS, IN 462066178
+CHATTANOOGA
 
-866-837-0241
+TN
 
-1AK5QK4DM86
-
-Diaz, Maria
-
-Self - patient is the insured
-
-Medicaid of New York
-
-PO BOX 4601 RENSSELAER, NY 121444602
-
-AQ06345C
-
-Diaz, Maria
-
-Self - patient is the insured
-
-PO BOX 981106
-
-EL PASO
-
-TX
-
-79998-1107
+37422-7256
 
 US
 
-Aetna Health
+Cigna
 
-141 Bert Crawford Rd
+1191 Rt 9w
 
-Apt 213
-
-Middletown
+NEWBURGH
 
 NY
 
-10940
+12550
 
 US
 
-Diaz
+Rivera
 
-Maria
+Erizbeth
 
-141 Bert Crawford Rd
+1191 Rt 9w
 
-Apt 213
-
-Middletown
+NEWBURGH
 
 NY
 
-10940
+12550
 
 US
 
-Diaz
+Rivera
 
-Maria
+Erizbeth
 
-141 Bert Crawford Rd
+1191 Rt 9w
 
-Apt 213
-
-Middletown
+NEWBURGH
 
 NY
 
-10940
+12550
 
 US
 
-Aetna Health
-
-PO BOX 22615
-
-LONG BEACH
-
-CA
-
-90801-5637
-
-US
-
-Affinity by Molina Healthcare NY
-
-141 Bert Crawford Rd
-
-Apt 213
-
-Middletown
-
-NY
-
-10940
-
-US
-
-Diaz
-
-Maria
-
-141 Bert Crawford Rd
-
-Apt 213
-
-Middletown
-
-NY
-
-10940
-
-US
-
-Diaz
-
-Maria
-
-141 Bert Crawford Rd
-
-Apt 213
-
-Middletown
-
-NY
-
-10940
-
-US
-
-Affinity by Molina Healthcare NY
-
-PO BOX 6178
-
-INDIANAPOLIS
-
-IN
-
-462066178
-
-US
-
-Medicare of New York  Downstate  J13
-
-141 Bert Crawford Rd
-
-Apt 213
-
-Middletown
-
-NY
-
-10940
-
-US
-
-Diaz
-
-Maria
-
-141 Bert Crawford Rd
-
-Apt 213
-
-Middletown
-
-NY
-
-10940
-
-US
-
-Diaz
-
-Maria
-
-141 Bert Crawford Rd
-
-Apt 213
-
-Middletown
-
-NY
-
-10940
-
-US
-
-Medicare of New York  Downstate  J13
-
-PO BOX 4601
-
-RENSSELAER
-
-NY
-
-121444602
-
-US
-
-Medicaid of New York
-
-141 Bert Crawford Rd
-
-Apt 213
-
-Middletown
-
-NY
-
-10940
-
-US
-
-Diaz
-
-Maria
-
-141 Bert Crawford Rd
-
-Apt 213
-
-Middletown
-
-NY
-
-10940
-
-US
-
-Diaz
-
-Maria
-
-141 Bert Crawford Rd
-
-Apt 213
-
-Middletown
-
-NY
-
-10940
-
-US
-
-Medicaid of New York
-
-History and Physical Notes
-
-HPI (History of Present Illness)
-
-Transition of Care
-
-This is a 63-year-old female, former smoker, with a history of asthma, anemia, HLD, hypothyroidism and anxiety, who presents today for a cardiovascular follow-up via TMV for lab review. She reports ongoing fatigue, with some improvement after B12 injections. She remains on hormone replacement therapy. She denies any chest pain, dyspnea, dizziness, or syncopal episodes.
-
-  Venous reflux study: Significant reflux in bilateral GSV
-
-  Echocardiogram: LVEF 55-60%, mild pulmonary hypertension with PASP of 30 mmHg.
-
-  BLE arterial doppler: Significant stenosis with possible infrapopliteal bilateral stenosis.
-
-  Carotid doppler:  Mild plaque.
-
-  AAA screen: Mild-to-moderate plaque, no significant evidence of abdominal uretic aneurysm.
-
-  Peripheral angiogram; 02/12/25; right femoral artery access revealing RSFA 40% stenosis and LSFA 50% stenosis.
-
-  BLE arterial doppler: Patent flow.
-
-Venous reflux:  Mild reflux and no significant DVT.
-
-Her labs, including thyroid function, FSH, LH, CRP, ESR, rheumatoid factor, estradiol, progesterone, serotonin, prolactin, triptase, estrogen, lupus panel, and B12, were all within normal limits. We will continue monitoring her energy levels and hormone balance. She is advised to maintain her current medications. All questions and concerns answered and addressed. Heart healthy diet and healthy lifestyle modifications were encouraged and endorsed. Patient is in agreement with the plan.
-
-Napier-Martin
-
-Shellene
-
-Epic Heart And Vascular Care
+Cigna
 

@@ -122,49 +122,77 @@ namespace emedl_chase.Controllers
            var result=  XmlConvertor.ReadCCDAFile(filepath);
             return Ok(result);
         }
-    //    [NonAction]
-    //    public static string GenerateEcwJwt(ECWConfig cred)
-    //    {
-    //        var now = DateTimeOffset.UtcNow.ToUnixTimeSeconds();
-    //        var exp = now + 300;
 
-    //        // Load private key
-    //        var rsa = RSA.Create();
-    //        string privateKeyPem = System.IO.File.ReadAllText(cred.private_key_path);
-    //        rsa.ImportFromPem(privateKeyPem.ToCharArray());
+        [HttpPost("ChasefileUpload")]
+        public async Task<IActionResult> UploadExcel(IFormFile file)
+        {
+            if (file != null && file.Length > 0)
+            {
+                // Folder path: wwwroot/uploads/15_Sep_2025
+                string folderName = DateTime.Now.ToString("dd_MMM_yyyy");
+                string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "uploads", folderName);
 
-    //        // Create signing credentials
-    //        var signingCredentials = new SigningCredentials(
-    //            new RsaSecurityKey(rsa)
-    //            {
-    //                KeyId = cred.kid
-    //            },
-    //            SecurityAlgorithms.RsaSha384
-    //        );
+                // Create folder if it doesn’t exist
+                if (!Directory.Exists(uploadPath))
+                    Directory.CreateDirectory(uploadPath);
 
-    //        // Build claims manually (or use JwtPayload directly)
-    //        var payload = new JwtPayload
-    //{
-    //    { "iss", cred.client_id },
-    //    { "sub", cred.client_id },
-    //    { "aud", cred.token_url },
-    //    { "exp", exp },
-    //    { "iat", now },
-    //    { "jti", now.ToString() }
-    //};
+                // Full file path
+                string filePath = Path.Combine(uploadPath, Path.GetFileName(file.FileName));
 
-    //        // Manually create header to add kid and jku
-    //        var header = new JwtHeader(signingCredentials);
-    //        header["kid"] = cred.kid;
-    //        header["jku"] = cred.jku;
+                // Save file
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await file.CopyToAsync(stream);
+                }
 
-    //        // Create the token
-    //        var token = new JwtSecurityToken(header, payload);
+                return Ok(new { message = "File uploaded successfully!", path = filePath });
+            }
 
-    //        // Write token to string
-    //        var handler = new JwtSecurityTokenHandler();
-    //        return handler.WriteToken(token);
-    //    }
+            return BadRequest("No file uploaded.");
+        }
+        //    [NonAction]
+        //    public static string GenerateEcwJwt(ECWConfig cred)
+        //    {
+        //        var now = DateTimeOffset.UtcNow.ToUnixTimeSeconds();
+        //        var exp = now + 300;
+
+        //        // Load private key
+        //        var rsa = RSA.Create();
+        //        string privateKeyPem = System.IO.File.ReadAllText(cred.private_key_path);
+        //        rsa.ImportFromPem(privateKeyPem.ToCharArray());
+
+        //        // Create signing credentials
+        //        var signingCredentials = new SigningCredentials(
+        //            new RsaSecurityKey(rsa)
+        //            {
+        //                KeyId = cred.kid
+        //            },
+        //            SecurityAlgorithms.RsaSha384
+        //        );
+
+        //        // Build claims manually (or use JwtPayload directly)
+        //        var payload = new JwtPayload
+        //{
+        //    { "iss", cred.client_id },
+        //    { "sub", cred.client_id },
+        //    { "aud", cred.token_url },
+        //    { "exp", exp },
+        //    { "iat", now },
+        //    { "jti", now.ToString() }
+        //};
+
+        //        // Manually create header to add kid and jku
+        //        var header = new JwtHeader(signingCredentials);
+        //        header["kid"] = cred.kid;
+        //        header["jku"] = cred.jku;
+
+        //        // Create the token
+        //        var token = new JwtSecurityToken(header, payload);
+
+        //        // Write token to string
+        //        var handler = new JwtSecurityTokenHandler();
+        //        return handler.WriteToken(token);
+        //    }
 
         //[NonAction]
 
