@@ -3,6 +3,8 @@ using emedl_chase.Model;
 using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
+using OfficeOpenXml;
+using System.Globalization;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
@@ -126,6 +128,8 @@ namespace emedl_chase.Controllers
         [HttpPost("ChasefileUpload")]
         public async Task<IActionResult> UploadExcel(IFormFile file)
         {
+
+
             if (file != null && file.Length > 0)
             {
                 // Folder path: wwwroot/uploads/15_Sep_2025
@@ -140,9 +144,67 @@ namespace emedl_chase.Controllers
                 string filePath = Path.Combine(uploadPath, Path.GetFileName(file.FileName));
 
                 // Save file
+
+                var list = new List<ChaseLineItem>();
+
+                List<fhirid> fhir_list = new List<fhirid>();
+
                 using (var stream = new FileStream(filePath, FileMode.Create))
                 {
                     await file.CopyToAsync(stream);
+
+                    using (var package = new ExcelPackage(stream))
+                    {
+                        var worksheet = package.Workbook.Worksheets.FirstOrDefault();
+                        if (worksheet == null)
+                            return BadRequest("Worksheet not found.");
+
+                        int rowCount = worksheet.Dimension.Rows;
+
+
+                        for (int row = 2; row <= rowCount; row++)
+                        {
+                            if (string.IsNullOrWhiteSpace(worksheet.Cells[row, 1].Text) && string.IsNullOrWhiteSpace(worksheet.Cells[row, 2].Text) && string.IsNullOrWhiteSpace(worksheet.Cells[row, 3].Text))
+                            {
+                                continue;
+                            }
+                            string[] formats = { "MM-dd-yyyy", "M-d-yyyy", "MM/dd/yyyy", "M/d/yyyy" };
+
+
+                            DateTime dob;
+                            string input = worksheet.Cells[row, 6].Text;
+
+                            
+                            var model = new ChaseLineItem
+                            {
+
+                              
+                                provider = worksheet.Cells[row, 2].Text,
+                                resource = worksheet.Cells[row, 3].Text,
+                                patient= worksheet.Cells[row, 4].Text,
+                                primaryInsurance =worksheet.Cells[row, 5].Text,
+                               
+
+                            };
+                            if (DateTime.TryParseExact(worksheet.Cells[row, 1].Text, formats,
+                                                        CultureInfo.InvariantCulture,
+                                                        DateTimeStyles.None,
+                                                        out dob))
+                            {
+                                model.servicedate =dob;
+                            }
+
+                            list.Add(model);
+
+                            var convert_name = model.patient.Replace(",", "");
+
+                            var patient_info = await GetPatientInfoAsync(convert_name, model.servicedate);
+
+                            fhir_list.AddRange(patient_info);
+
+
+                        }
+                    }
                 }
 
                 return Ok(new { message = "File uploaded successfully!", path = filePath });
@@ -150,6 +212,76 @@ namespace emedl_chase.Controllers
 
             return BadRequest("No file uploaded.");
         }
+
+        [NonAction]
+        public async Task<List<fhirid>> GetPatientInfoAsync(string name = null, DateTime? dos = null)
+        {
+            if (name == null)
+                return new List<fhirid>(); // or throw exception
+            var convert_dos = dos?.ToString("yyyy-MM-dd");
+            var filepath = Path.Combine(_webHostEnvironment.WebRootPath, "files", "ecw_credentials.json");
+
+            if (!System.IO.File.Exists(filepath))
+                return new List<fhirid>();
+
+            var json_data = System.IO.File.ReadAllText(filepath);
+            var jsonser = JsonSerializer.Deserialize<ECWConfig>(json_data);
+            var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
+
+            var get_patient_json = await FhirApiCaller.CallFhirApiAsync(bearer, name);
+            if (get_patient_json == null)
+            {
+                return new List<fhirid>();
+
+            }
+
+            // Optional: filter exact match
+            var result = get_patient_json.Where(item => item.name.Trim() == name.Trim()).ToList();
+
+
+            var fhir_id = "";
+
+            foreach (var item in get_patient_json)
+            {
+                fhir_id = item.fhir_id;
+            }
+            var get_encounter_json = await FhirApiCaller.CallApiForEncounter(bearer, fhir_id, convert_dos);
+
+            var encounter_id = "";
+
+            foreach (var item in get_encounter_json)
+            {
+                encounter_id = item.encounterid;
+            }
+
+            var get_docencounterwithpatient_json = await FhirApiCaller.CallApiForDocrefreshEncounterwithPatient(bearer, fhir_id, encounter_id);
+
+            var type = "encounter";
+
+            var call_xml_reader_file = XmlConvertor.XmlConvertorUpdated(get_docencounterwithpatient_json.encounterxmldata, name, convert_dos, type);
+            
+            XmlConvertor.ReadCCDAFile(call_xml_reader_file);
+
+            var get_binary_data = await FhirApiCaller.CallApiForDocrefresh(bearer, fhir_id);
+
+
+            var get_binary = get_binary_data.binaryid;
+
+            var get_binary_xmldate = await FhirApiCaller.CallApiForBinary(bearer, get_binary);
+
+            var type1 = "full";
+
+            var call_xml_reader_file_1 = XmlConvertor.XmlConvertorUpdated(get_binary_xmldate, name, convert_dos, type1);
+            
+            XmlConvertor.ReadCCDAFile(call_xml_reader_file_1);
+
+            return result; // List<fhirid>
+        }
+
+
+
+
+
         //    [NonAction]
         //    public static string GenerateEcwJwt(ECWConfig cred)
         //    {

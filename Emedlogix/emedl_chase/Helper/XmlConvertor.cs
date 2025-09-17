@@ -82,12 +82,25 @@ namespace emedl_chase.Helper
                 }
 
                 // 6. Save to file
+
+
+                string folderName = DateTime.Now.ToString("dd_MMM_yyyy");
+                string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "uploads", folderName);
+
+                // Create folder if it doesn’t exist
+                if (!Directory.Exists(uploadPath))
+                    Directory.CreateDirectory(uploadPath);
+
+                // Full file path
+                var file = $"{patient_name}_{dos}_{type}.xml";
+                string filePath = Path.Combine(uploadPath,file);
+                //var prepare_file_path = $"D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\{patient_name}_{dos}_{type}.xml";
                 var prepare_file_path = $"D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\{patient_name}_{dos}_{type}.xml";
 
-                File.WriteAllText(prepare_file_path, xmlContent, Encoding.UTF8);
+                File.WriteAllText(filePath, xmlContent, Encoding.UTF8);
 
-                Console.WriteLine("✅ XML file saved successfully at: " + Path.GetFullPath(prepare_file_path));
-                return prepare_file_path;
+                Console.WriteLine("✅ XML file saved successfully at: " + Path.GetFullPath(filePath));
+                return filePath;
             }
             catch (FormatException ex)
             {
