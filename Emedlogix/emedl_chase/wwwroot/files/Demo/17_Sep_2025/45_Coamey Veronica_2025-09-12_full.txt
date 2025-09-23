@@ -1,0 +1,843 @@
+=== ALLERGIES ===
+No Information
+
+
+=== RESULTS ===
+Component
+Value
+Reference Range
+Notes
+THYROID PANEL WITH TSH (7444) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+T3 UPTAKE
+29
+22-35 %
+T4 (THYROXINE), TOTAL
+6.8
+5.1-11.9 mcg/dL
+FREE T4 INDEX (T7)
+2.0
+1.4-3.8
+TSH
+2.16
+0.40-4.50 mIU/L
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+CHOLESTEROL, TOTAL
+284
+<200 mg/dL
+HDL CHOLESTEROL
+114
+> OR = 50 mg/dL
+TRIGLYCERIDES
+125
+<150 mg/dL
+LDL-CHOLESTEROL
+145
+Reference range: <100
+Desirable range <100 mg/dL for primary prevention;
+<70 mg/dL for patients with CHD or diabetic patients
+with > or = 2 CHD risk factors.
+LDL-C is now calculated using the Martin-Hopkins
+calculation, which is a validated novel method providing
+better accuracy than the Friedewald equation in the
+estimation of LDL-C.
+Martin SS et al. JAMA. 2013;310(19): 2061-2068
+(http://education.QuestDiagnostics.com/faq/FAQ164)
+CHOL/HDLC RATIO
+2.5
+<5.0 (calc)
+NON HDL CHOLESTEROL
+170
+<130 mg/dL (calc)
+For patients with diabetes plus 1 major ASCVD risk
+factor, treating to a non-HDL-C goal of <100 mg/dL
+(LDL-C of <70 mg/dL) is considered a therapeutic
+option.
+COMPREHENSIVE METABOLIC PANEL (10231) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+GLUCOSE
+91
+65-99 mg/dL
+Fasting reference interval
+UREA NITROGEN (BUN)
+12
+7-25 mg/dL
+CREATININE
+0.75
+0.50-1.05 mg/dL
+EGFR
+90
+> OR = 60 mL/min/1.73m2
+BUN/CREATININE RATIO
+SEE NOTE:
+6-22 (calc)
+Not Reported: BUN and Creatinine are within
+reference range.
+SODIUM
+144
+135-146 mmol/L
+POTASSIUM
+4.6
+3.5-5.3 mmol/L
+CHLORIDE
+101
+98-110 mmol/L
+CARBON DIOXIDE
+35
+20-32 mmol/L
+CALCIUM
+10.2
+8.6-10.4 mg/dL
+PROTEIN, TOTAL
+7.4
+6.1-8.1 g/dL
+ALBUMIN
+4.7
+3.6-5.1 g/dL
+GLOBULIN
+2.7
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.7
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.4
+0.2-1.2 mg/dL
+ALKALINE PHOSPHATASE
+79
+37-153 U/L
+AST
+22
+10-35 U/L
+ALT
+22
+6-29 U/L
+HEPATIC FUNCTION PANEL (10256) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+PROTEIN, TOTAL
+7.4
+6.1-8.1 g/dL
+ALBUMIN
+4.7
+3.6-5.1 g/dL
+GLOBULIN
+2.7
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.7
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.4
+0.2-1.2 mg/dL
+BILIRUBIN, DIRECT
+0.1
+< OR = 0.2 mg/dL
+BILIRUBIN, INDIRECT
+0.3
+0.2-1.2 mg/dL (calc)
+ALKALINE PHOSPHATASE
+79
+37-153 U/L
+AST
+22
+10-35 U/L
+ALT
+22
+6-29 U/L
+CBC (INCLUDES DIFF/PLT) (6399) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+WHITE BLOOD CELL COUNT
+8.0
+3.8-10.8 Thousand/uL
+RED BLOOD CELL COUNT
+4.78
+3.80-5.10 Million/uL
+HEMOGLOBIN
+14.3
+11.7-15.5 g/dL
+HEMATOCRIT
+43.8
+35.0-45.0 %
+MCV
+91.6
+80.0-100.0 fL
+MCH
+29.9
+27.0-33.0 pg
+MCHC
+32.6
+32.0-36.0 g/dL
+For adults, a slight decrease in the calculated MCHC
+value (in the range of 30 to 32 g/dL) is most likely
+not clinically significant; however, it should be
+interpreted with caution in correlation with other
+red cell parameters and the patient's clinical
+condition.
+RDW
+12.2
+11.0-15.0 %
+PLATELET COUNT
+249
+140-400 Thousand/uL
+MPV
+11.2
+7.5-12.5 fL
+ABSOLUTE NEUTROPHILS
+5544
+1500-7800 cells/uL
+ABSOLUTE LYMPHOCYTES
+1736
+850-3900 cells/uL
+ABSOLUTE MONOCYTES
+488
+200-950 cells/uL
+ABSOLUTE EOSINOPHILS
+200
+15-500 cells/uL
+ABSOLUTE BASOPHILS
+32
+0-200 cells/uL
+NEUTROPHILS
+69.3
+38-80 %
+LYMPHOCYTES
+21.7
+15-49 %
+MONOCYTES
+6.1
+0-13 %
+EOSINOPHILS
+2.5
+0-8 %
+BASOPHILS
+0.4
+0-2 %
+HEMOGLOBIN A1c (496) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+HEMOGLOBIN A1c
+5.8
+<5.7 %
+For someone without known diabetes, a hemoglobin
+A1c value between 5.7% and 6.4% is consistent with
+prediabetes and should be confirmed with a
+follow-up test.
+For someone with known diabetes, a value <7%
+indicates that their diabetes is well controlled. A1c
+targets should be individualized based on duration of
+diabetes, age, comorbid conditions, and other
+considerations.
+This assay result is consistent with an increased risk
+of diabetes.
+Currently, no consensus exists regarding use of
+hemoglobin A1c for diagnosis of diabetes for children.
+VITAMIN D,25-OH,TOTAL,IA (17306) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+VITAMIN D,25-OH,TOTAL,IA
+22
+30-100 ng/mL
+Vitamin D Status         25-OH Vitamin D:
+Deficiency:                    <20 ng/mL
+Insufficiency:             20 - 29 ng/mL
+Optimal:                 > or = 30 ng/mL
+For 25-OH Vitamin D testing on patients on
+D2-supplementation and patients for whom quantitation
+of D2 and D3 fractions is required, the QuestAssureD(TM)
+25-OH VIT D, (D2,D3), LC/MS/MS is recommended: order
+code 92888 (patients >2yrs).
+See Note 1
+Note 1
+For additional information, please refer to
+http://education.QuestDiagnostics.com/faq/FAQ199
+(This link is being provided for informational/
+educational purposes only.)
+ABI/PVR
+Reviewed date:08/28/2025 02:05:26 PM
+Interpretation:
+Performing Lab:
+Notes/Report:
+Electrocardiogram (EKG)
+Reviewed date:08/28/2025 02:06:48 PM
+Interpretation:
+Performing Lab:
+Notes/Report:
+
+
+=== REASON FOR REFERRAL ===
+Reason
+Peter Bezdicek 70 Hatfield Ln #101 Goshen Ny 10924 (845) 294-8888
+Diagnosis 1
+Pulmonary nodule (R91.1)
+Referral Organization
+Newburgh Office
+Referring Provider First Name
+RISHI
+Referring Provider Last Name
+BAJAJ
+Referring Provider Speciality
+Cardiovascular Disease
+Referred Provider Specialty
+Pulmonology
+Referral Priority
+Routine
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+Ohtuvayre
+Active
+Breztri Aerosphere
+Active
+Lasix 20 MG
+1 tablet Orally Once a day; Duration: 30 days
+Active
+Albuterol
+Active
+Ipratropium Bromide
+Active
+ALPRAZolam 2 MG
+1 tablet Orally Twice a day
+Active
+Metoprolol Tartrate 50 MG
+1 tablet with food Orally Twice a day
+Active
+Ibuprofen 200 MG
+1 tablet with food or milk as needed Orally Three times a day
+Active
+Metoprolol Succinate
+Active
+Tylenol
+Active
+Vitamin B-6
+Active
+Crestor 10 MG
+1 tablet Orally Once a day; Duration: 30 day(s)
+09/12/2025
+Active
+Cardizem
+Active
+Magnesium 250 MG
+1 tablet with a meal Orally Once a day
+Active
+Diltiazem CD
+Active
+Vitamin D3
+Active
+Mucinex 600 MG
+1 tablet as needed Orally every 12 hrs
+Active
+Vitamin C
+Active
+Colace
+Active
+Calcium 600 MG
+1 tablet with meals Orally Twice a day
+Active
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Vitamin D deficiency (34713006)
+Vitamin D deficiency, unspecified (E55.9)
+Active
+confirmed
+Problem
+Hyperlipidemia (55822004)
+Hyperlipidemia, unspecified (E78.5)
+Active
+confirmed
+Problem
+Skin sensation disturbance (80910005)
+Tingling of both feet (R20.2)
+Active
+confirmed
+Problem
+Pulmonary nodule (786838002)
+Pulmonary nodule (R91.1)
+Active
+confirmed
+Problem
+Chronic obstructive pulmonary disease (13645005)
+COPD mixed type (J44.9)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+Heart Rate
+88 /min
+09/12/2025
+Respiratory Rate
+16 /min
+09/12/2025
+Oximetry
+89 %
+09/12/2025
+Blood pressure diastolic
+73 mm Hg
+09/12/2025
+Blood pressure systolic
+126 mm Hg
+09/12/2025
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+Epic Heart and Vascular Care
+4 HDSN VLY PROF PLZ STE B NEWBURGH, NY 12550-3157
+08/28/2025
+RISHI BAJAJ
+Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism Z13.0 ; Leg edema R60.0 ; Other abnormal glucose R73.09 ; Encounter for screening for other metabolic disorders Z13.228 ; Abnormal results of liver function studies R94.5 ; Disorder of thyroid, unspecified E07.9 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for lipoid disorders Z13.220 ; Former smoker Z87.891 ; COPD mixed type J44.9 ; Hyperlipidemia, unspecified E78.5 ; SVT (supraventricular tachycardia) I47.10 ; Pulmonary nodule R91.1 ; Leg heaviness R29.898 ; Pain in leg, unspecified M79.606 ; Leg swelling M79.89 ; Discoloration of skin of lower leg L81.9 ; Lightheadedness R42 ; Dizziness R42 ; Shortness of breath on exertion R06.02 ; Decreased pedal pulses R09.89 ; Leg numbness R20.0 ; Leg cramping R25.2 and Tingling of both feet R20.2
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/12/2025
+MARION HAYES
+Hyperlipidemia, unspecified E78.5 ; Leg edema R60.0 ; Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism Z13.0 ; Other abnormal glucose R73.09 ; Encounter for screening for other metabolic disorders Z13.228 ; Abnormal results of liver function studies R94.5 ; Disorder of thyroid, unspecified E07.9 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for lipoid disorders Z13.220 ; Former smoker Z87.891 ; COPD mixed type J44.9 ; SVT (supraventricular tachycardia) I47.10 ; Pulmonary nodule R91.1 ; Leg heaviness R29.898 ; Pain in leg, unspecified M79.606 ; Leg swelling M79.89 ; Discoloration of skin of lower leg L81.9 ; Lightheadedness R42 ; Dizziness R42 ; Shortness of breath on exertion R06.02 ; Decreased pedal pulses R09.89 ; Leg numbness R20.0 ; Leg cramping R25.2 and Tingling of both feet R20.2
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Assessment Notes
+Treatment Notes
+Treatment Clinical Notes
+Section Notes
+encounter date : 08/28/2025
+Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (ICD-10 - Z13.0)
+encounter date : 08/28/2025
+Leg edema (ICD-10 - R60.0)
+encounter date : 09/12/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 09/12/2025
+Leg edema (ICD-10 - R60.0)
+encounter date : 09/12/2025
+Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (ICD-10 - Z13.0)
+encounter date : 08/28/2025
+Other abnormal glucose (ICD-10 - R73.09)
+encounter date : 08/28/2025
+Encounter for screening for other metabolic disorders (ICD-10 - Z13.228)
+encounter date : 09/12/2025
+Other abnormal glucose (ICD-10 - R73.09)
+encounter date : 08/28/2025
+Abnormal results of liver function studies (ICD-10 - R94.5)
+encounter date : 09/12/2025
+Encounter for screening for other metabolic disorders (ICD-10 - Z13.228)
+encounter date : 08/28/2025
+Disorder of thyroid, unspecified (ICD-10 - E07.9)
+encounter date : 09/12/2025
+Abnormal results of liver function studies (ICD-10 - R94.5)
+encounter date : 09/12/2025
+Disorder of thyroid, unspecified (ICD-10 - E07.9)
+encounter date : 08/28/2025
+Vitamin D deficiency, unspecified (ICD-10 - E55.9)
+encounter date : 08/28/2025
+Encounter for screening for lipoid disorders (ICD-10 - Z13.220)
+encounter date : 09/12/2025
+Vitamin D deficiency, unspecified (ICD-10 - E55.9)
+encounter date : 09/12/2025
+Encounter for screening for lipoid disorders (ICD-10 - Z13.220)
+encounter date : 08/28/2025
+Former smoker (ICD-10 - Z87.891)
+encounter date : 09/12/2025
+Former smoker (ICD-10 - Z87.891)
+encounter date : 08/28/2025
+COPD mixed type (ICD-10 - J44.9)
+encounter date : 08/28/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 09/12/2025
+COPD mixed type (ICD-10 - J44.9)
+encounter date : 09/12/2025
+SVT (supraventricular tachycardia) (ICD-10 - I47.10)
+encounter date : 08/28/2025
+SVT (supraventricular tachycardia) (ICD-10 - I47.10)
+encounter date : 08/28/2025
+Pulmonary nodule (ICD-10 - R91.1)
+encounter date : 09/12/2025
+Pulmonary nodule (ICD-10 - R91.1)
+encounter date : 09/12/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 08/28/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 08/28/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 09/12/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 09/12/2025
+Leg swelling (ICD-10 - M79.89)
+encounter date : 08/28/2025
+Leg swelling (ICD-10 - M79.89)
+encounter date : 08/28/2025
+Discoloration of skin of lower leg (ICD-10 - L81.9)
+encounter date : 09/12/2025
+Discoloration of skin of lower leg (ICD-10 - L81.9)
+encounter date : 08/28/2025
+Lightheadedness (ICD-10 - R42)
+encounter date : 09/12/2025
+Lightheadedness (ICD-10 - R42)
+encounter date : 09/12/2025
+Dizziness (ICD-10 - R42)
+encounter date : 08/28/2025
+Dizziness (ICD-10 - R42)
+encounter date : 08/28/2025
+Shortness of breath on exertion (ICD-10 - R06.02)
+encounter date : 09/12/2025
+Shortness of breath on exertion (ICD-10 - R06.02)
+encounter date : 08/28/2025
+Decreased pedal pulses (ICD-10 - R09.89)
+encounter date : 09/12/2025
+Decreased pedal pulses (ICD-10 - R09.89)
+encounter date : 09/12/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 08/28/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 09/12/2025
+Leg cramping (ICD-10 - R25.2)
+encounter date : 09/12/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 08/28/2025
+Leg cramping (ICD-10 - R25.2)
+encounter date : 08/28/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 08/28/2025
+Other
+For further evaluation of shortness of
+breath, we will arrange for EKG and echocardiogram today. Preliminary images
+were reviewed and discussed revealing an ejection fraction of 55% with trivial
+PB, mild MR and moderate TR. Given complaints of lightheadedness and dizziness,
+we will arrange for a carotid doppler. Preliminary images were reviewed and
+discussed revealing moderate atherosclerotic disease. Given finding of
+decreased pedal pulses on physical examination, we will arrange for an ABI/PVR
+revealing an RLE of 1.07 and an LLE of 1.24. We will arrange for BLE arterial
+doppler at her next visit given her decreased pedal pulses found on physical
+examination and complaints of lower extremity pain and discomfort. We will
+arrange for BLE venous reflux exam on today's visit given lower extremity
+heaviness and aching as well as intermittent edema. Preliminary images were
+reviewed and discussed which were negative for any evidence of DVT but
+bilateral significant reflux as well as edema noted. She remains compliant with
+compression stocking therapy during the day, resting and elevating her legs at
+night but has not experienced significant symptom relief. We provided the
+patient with educational material on venous insufficiency as well as treatment
+with venous ablation therapy and possible venogram. We will arrange for routine
+blood work for assessment of overall health on today's visit which we will
+review and discuss at her next follow up. She expressed concern of treatment
+with combined pharmacological therapy with both metoprolol and diltiazem for
+maximal control of her SVT. She completed a CTA of the thorax on 06/21/25 which
+we reviewed and discussed today revealing severe pulmonary emphysema with
+multiple solid pulmonary nodules in the left upper lobe measuring up to 5 mm.
+We discussed further evaluation at a future follow up and possible biopsy. We
+will also be referring her to Dr. Bezdicek, pulmonology, for further
+evaluation. All questions and concerns were answered and addressed. Heart
+healthy diet and healthy lifestyle encouraged and endorsed. She is to follow up
+in 2 weeks or sooner should symptoms worsen. She agrees to the plan of care.
+Time Spent:
+Total time spent 88 minutes.  More than 50% of the time spent in
+face-to-face conversation, examination, discussing treatment options and
+procedures, pathophysiology, and anatomy. Diet and lifestyle modifications were
+discussed in great detail.  Images were personally reviewed by me in front
+of the patient and/or family member and explained on our graphic diagram.
+Treatment options, risks, benefits and alternative treatments discussed
+with the patient in detail. All questions and concerns answered.  All
+records were reviewed in detail
+Scribed by Shashank Kapoor and Daliah Rodriguez under the supervision of Dr. Rishi Bajaj
+encounter date : 09/12/2025
+Other
+On
+physical examination, the patient has lower extremity edema, worse in her RLE.
+We will arrange for CDT of BLE on today's visit. Given her dissatisfaction with
+her current pulmonology care, we will be referring her to Dr. Bezdicek and we
+discussed further evaluation of her findings on recent chest x-ray and possible
+biopsy should it be needed. We reviewed and discussed her routine labs
+completed at her last visit revealing an LDL of 145, a hemoglobin A1c of 5.8,
+and a normal thyroid panel. We will be initiating treatment for her
+hyperlipidemia with Crestor 10 mg daily. She continues to complain of lower
+extremity heaviness, aching and swelling despite compliance with compression
+stocking therapy during the day, resting and elevating her legs at night
+without significant symptom relief. We will arrange for RGSV ablation therapy
+at her next visit. Risks, benefits, and alternatives were discussed in great
+detail. We also discussed considering venogram of the RLE given her treatment
+refractor edema as she has been compliant with conservative treatment therapy
+including compression socks and diuretic therapy without significant symptom
+relief. Educational material on venogram and May-Thurner syndrome were provided
+to the patient on today's visit. She complains of lower extremity numbness and
+cramping as well as pain, we will arrange for BLE arterial doppler on today's
+visit. Preliminary images were reviewed and discussed revealing mild
+atherosclerotic plaque and significant edema was also a noted finding. All
+questions and concerns were answered and addressed. Heart healthy diet and
+healthy lifestyle encouraged and endorsed. She is to follow up in 1 week or
+sooner should symptoms worsen. She agrees to the plan of care
+Scribed by Shashank Kapoor and Daliah Rodriguez under the supervision of Dr. Rishi Bajaj
+
+
+=== PLAN OF TREATMENT ===
+Pending Test
+Test Name
+Order Date
+Echocardiogram
+08/28/2025
+ABI/PVR
+08/28/2025
+Electrocardiogram (EKG)
+08/28/2025
+Ultrasound : Artery Doppler Low Ext Bilat
+09/12/2025
+Ultrasound : Carotid Doppler Bilateral
+08/28/2025
+Venous Reflux
+08/28/2025
+THYROID PANEL WITH TSH (7444)
+08/28/2025
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852)
+08/28/2025
+COMPREHENSIVE METABOLIC PANEL (10231)
+08/28/2025
+HEPATIC FUNCTION PANEL (10256)
+08/28/2025
+CBC (INCLUDES DIFF/PLT) (6399)
+08/28/2025
+HEMOGLOBIN A1c (496)
+08/28/2025
+VITAMIN D,25-OH,TOTAL,IA (17306)
+08/28/2025
+Future Test
+Test Name
+Order Date
+Ultrasound : Artery Doppler Low Ext Bilat
+08/29/2025
+Venous Ablation
+09/17/2025
+Next Appt
+Details
+Provider Name:RISHI BAJAJ, 09/18/2025 12:45:00 PM, 4 HDSN VLY PROF PLZ, Suite B, NEWBURGH, NY, 12550-3157, 781-530-0070
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Empire Plan of New York
+P.O Box 1600 Kingston, NY 12402
+890083333
+Coamey, Veronica
+Self - patient is the insured
+
+
+=== MEDICAL (GENERAL) HISTORY ===
+Medical History
+History
+ICD Code
+COPD (oxygen dependent after RSV in December 2024), HLD, history of SVT, currently on diltiazem and metoprolol as well as a history of pulmonary nodules
+
+
+=== PROGRESS NOTES ===
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/28/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, positive lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/12/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, positive lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+
+=== HISTORY AND PHYSICAL NOTES ===
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/28/2025
+Transition of Care
+This is a 62-year-old female, former smoker, non-ETOH user, referred by Roseanne Hoey who is her cousin with a significant medical history of COPD (oxygen dependent after RSV in December 2024), HLD, history of SVT, currently on diltiazem and metoprolol as well as a history of pulmonary nodules, following with Dr. Park, who presents today for initial CV consultation with complaints of lower extremity edema. She works for the DMV, has no children and lives in Port Jervis. She has a significant family history of melanoma in her sister. She reports lower extremity edema, heaviness, aching and pain as well as shortness of breath. She follows with her PCP, Amanda Hansen, at MMPC and reports recently seeing her primary cardiologist, Dr. Winchester-Penny on 08/19/25. She reports prior to that she had seen her in April 2025 after recent hospitalization. She was hospitalized where she experienced an episode of SVT. She reports prior to this her last episode of SVT was approximately 11 years ago where she was started on metoprolol and did not experience repeat episodes until she was hospitalized. Her metoprolol was subsequently increased to 50 mg daily and she was also started on diltiazem at that time. Her SVT was managed with diltiazem, metoprolol, and Valsalva maneuver while hospitalized. She has a history of pulmonary nodules for which she saw Marion Park but is unhappy with her plan of care at this time. She also reports seeing Hudson Valley CV and saw PA at the practice for lower extremity edema. She underwent imaging and was told that she did not have venous insufficiency but continues to experience lower extremity swelling, heaviness, and aching as well as discoloration to her lower extremities. At that point, a CT venogram was ordered but she wanted to seek a second opinion for which she presents today. She complains of intermittent lightheadedness and dizziness. She denies any active chest pain, chest pressure, syncope or near-syncopal events.
+Echocardiogram: Ejection fraction of 55% with trivial PB, mild MR and moderate TR.
+Carotid doppler: Moderate atherosclerotic disease.
+ABI/PVR: RLE of 1.07 and LLE of 1.24.
+BLE venous reflux study: Negative for any evidence of DVT but bilateral significant reflux as well as edema noted.
+CTA of the thorax: Severe pulmonary emphysema with multiple solid pulmonary nodules in the left upper lobe measuring up to 5 mm.
+For further evaluation of shortness of breath, we will arrange for EKG and echocardiogram today. Preliminary images were reviewed and discussed revealing an ejection fraction of 55% with trivial PB, mild MR and moderate TR. Given complaints of lightheadedness and dizziness, we will arrange for a carotid doppler. Preliminary images were reviewed and discussed revealing moderate atherosclerotic disease. Given finding of decreased pedal pulses on physical examination, we will arrange for an ABI/PVR revealing an RLE of 1.07 and an LLE of 1.24. We will arrange for BLE arterial doppler at her next visit given her decreased pedal pulses found on physical examination and complaints of lower extremity pain and discomfort. We will arrange for BLE venous reflux exam on today's visit given lower extremity heaviness and aching as well as intermittent edema. Preliminary images were reviewed and discussed which were negative for any evidence of DVT but bilateral significant reflux as well as edema noted. She remains compliant with compression stocking therapy during the day, resting and elevating her legs at night but has not experienced significant symptom relief. We provided the patient with educational material on venous insufficiency as well as treatment with venous ablation therapy and possible venogram. We will arrange for routine blood work for assessment of overall health on today's visit which we will review and discuss at her next follow up. She expressed concern of treatment with combined pharmacological therapy with both metoprolol and diltiazem for maximal control of her SVT. She completed a CTA of the thorax on 06/21/25 which we reviewed and discussed today revealing severe pulmonary emphysema with multiple solid pulmonary nodules in the left upper lobe measuring up to 5 mm. We discussed further evaluation at a future follow up and possible biopsy. We will also be referring her to Dr. Bezdicek, pulmonology, for further evaluation. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. She is to follow up in 2 weeks or sooner should symptoms worsen. She agrees to the plan of care
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/12/2025
+Transition of Care
+This is a 62-year-old female, former smoker, non-ETOH user, with a significant medical history of COPD (oxygen dependent after RSV in December 2024), HLD, history of SVT, currently on diltiazem and metoprolol as well as a history of pulmonary nodules, following with Dr. Park, who presents today for CV follow up for lower extremity edema. She continues to complain of lower extremity heaviness, aching and swelling. She completed routine labs at her last visit which she would like to review and discuss today. She was following with her PCP, Amanda Hanson, at MMPC and saw a pulmonologist, Dr. Park. She reports undergoing chest x-ray at MMPC revealing bilateral atelectasis without any evidence of consolidation. She reports dissatisfaction with her plan of care provided by her prior primary care provider and pulmonologist and believes that her concerns are not adequately addressed and is seeking second opinion and more comprehensive evaluation and treatment plan and desires a collaborative approach to her ongoing medical management. She has undergone DEXA bone density scan testing in the past and reports a T-score of 2.4 indicating low bone mass indicating osteopenia. She reports that she is currently pending a chest CT on 12/12/25 with Dr. Park. She denies any active chest pain, chest pressure, syncope or near-syncopal events and continues to use supplemental oxygen therapy given her history of COPD.
+Echocardiogram: Ejection fraction of 55% with trivial PB, mild MR and moderate TR.
+Carotid doppler: Moderate atherosclerotic disease.
+ABI/PVR: RLE of 1.07 and LLE of 1.24.
+BLE venous reflux study: Negative for any evidence of DVT but bilateral significant reflux as well as edema noted.
+CTA of the thorax: Severe pulmonary emphysema with multiple solid pulmonary nodules in the left upper lobe measuring up to 5 mm.
+BLE arterial doppler: Mild atherosclerotic plaque and significant edema.
+DEXA bone density test: T-score of 2.4 indicating low bone mass (osteopenia)
+On physical examination, the patient has lower extremity edema, worse in her RLE. We will arrange for CDT of BLE on today's visit. Given her dissatisfaction with her current pulmonology care, we will be referring her to Dr. Bezdicek and we discussed further evaluation of her findings on recent chest x-ray and possible biopsy should it be needed. We reviewed and discussed her routine labs completed at her last visit revealing an LDL of 145, a hemoglobin A1c of 5.8, and a normal thyroid panel. We will be initiating treatment for her hyperlipidemia with Crestor 10 mg daily. She continues to complain of lower extremity heaviness, aching and swelling despite compliance with compression stocking therapy during the day, resting and elevating her legs at night without significant symptom relief. We will arrange for RGSV ablation therapy at her next visit. Risks, benefits, and alternatives were discussed in great detail. We also discussed considering venogram of the RLE given her treatment refractor edema as she has been compliant with conservative treatment therapy including compression socks and diuretic therapy without significant symptom relief. Educational material on venogram and May-Thurner syndrome were provided to the patient on today's visit. She complains of lower extremity numbness and cramping as well as pain, we will arrange for BLE arterial doppler on today's visit. Preliminary images were reviewed and discussed revealing mild atherosclerotic plaque and significant edema was also a noted finding. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. She is to follow up in 1 week or sooner should symptoms worsen. She agrees to the plan of care
+
+
+=== CONSULTATION REQUEST NOTES ===
+Referral Date
+Referring Provider
+Referred Provider
+Notes
+09/12/2025
+BAJAJ, RISHI
+,
+Peter Bezdicek 70 Hatfield Ln #101 Goshen Ny 10924 (845) 294-8888
+
+

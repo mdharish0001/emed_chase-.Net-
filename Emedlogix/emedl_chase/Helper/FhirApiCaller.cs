@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 public class FhirApiCaller
 {
-    public  static async Task<List<Patient.fhirid>> CallFhirApiAsync(string accesstoken,string patientname)
+    public static async Task<List<Patient.fhirid>> CallApiforPatientDemo(string accesstoken,string patientname)
     {
         var client = new HttpClient();
 
@@ -220,4 +220,60 @@ public class FhirApiCaller
             return null;
         }
     }
+
+
+    public static async Task<List<Patient.fhirid>> CallApiforwithFhirPatientDemo(string accesstoken, string fhiriid)
+    {
+        var client = new HttpClient();
+
+        var baseurl = $"https://fhir4.eclinicalworks.com/fhir/r4/JFABDD/Patient/{fhiriid}";
+        var request = new HttpRequestMessage(HttpMethod.Get, baseurl);
+
+        // Set required headers
+        request.Headers.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json+fhir"));
+        request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", accesstoken);
+
+        List<Patient.fhirid> peoplefhir = new List<Patient.fhirid>();
+        try
+        {
+            var response = await client.SendAsync(request);
+            response.EnsureSuccessStatusCode();  // throws if not 200-299
+            var responseBody = await response.Content.ReadAsStringAsync();
+
+            var get_fhir_id = JsonSerializer.Deserialize<Patient.Rootobject>(responseBody);
+            if (get_fhir_id.entry != null)
+            {
+                peoplefhir = get_fhir_id.entry
+          .Where(e => e.resource?.name != null && !string.IsNullOrEmpty(e.resource.id) && e.resource.meta != null)
+          .SelectMany(e => e.resource.name
+              .Where(n => !string.IsNullOrEmpty(n.text))
+              .Select(n => new Patient.fhirid
+              {
+                  fhir_id = e.resource.id,
+                  name = n.text,
+                  gender = e.resource.gender,
+                  birthDate = e.resource.birthDate,
+                  lastUpdated = e.resource.meta.lastUpdated,
+                  fullurl = e.fullUrl,
+                  active = e.resource.active,
+                  bundleid = e.resource.id
+
+              }))
+          .ToList();
+
+                return peoplefhir;
+            }
+
+            else
+            {
+                return peoplefhir;
+            }
+        }
+        catch (HttpRequestException ex)
+        {
+            Console.WriteLine($"Request failed: {ex.Message}");
+            return new List<Patient.fhirid>();
+        }
+    }
+
 }

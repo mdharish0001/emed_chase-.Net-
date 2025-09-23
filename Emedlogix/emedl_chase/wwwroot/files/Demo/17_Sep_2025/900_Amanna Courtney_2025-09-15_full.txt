@@ -1,0 +1,888 @@
+=== ALLERGIES ===
+No Information
+
+
+=== RESULTS ===
+Component
+Value
+Reference Range
+Notes
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+CHOLESTEROL, TOTAL
+224
+<200 mg/dL
+HDL CHOLESTEROL
+79
+> OR = 50 mg/dL
+TRIGLYCERIDES
+72
+<150 mg/dL
+LDL-CHOLESTEROL
+129
+better accuracy than the Friedewald equation in the
+estimation of LDL-C.
+Martin SS et al. JAMA. 2013;310(19): 2061-2068
+(http://education.QuestDiagnostics.com/faq/FAQ164)
+Reference range: <100
+Desirable range <100 mg/dL for primary prevention;
+<70 mg/dL for patients with CHD or diabetic patients
+with > or = 2 CHD risk factors.
+LDL-C is now calculated using the Martin-Hopkins
+calculation, which is a validated novel method providing
+CHOL/HDLC RATIO
+2.8
+<5.0 (calc)
+NON HDL CHOLESTEROL
+145
+<130 mg/dL (calc)
+For patients with diabetes plus 1 major ASCVD risk
+factor, treating to a non-HDL-C goal of <100 mg/dL
+(LDL-C of <70 mg/dL) is considered a therapeutic
+option.
+COMPREHENSIVE METABOLIC PANEL (10231) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+GLUCOSE
+110
+65-99 mg/dL
+Fasting reference interval
+For someone without known diabetes, a glucose value
+between 100 and 125 mg/dL is consistent with
+prediabetes and should be confirmed with a
+follow-up test.
+UREA NITROGEN (BUN)
+9
+7-25 mg/dL
+CREATININE
+0.85
+0.50-0.99 mg/dL
+EGFR
+86
+> OR = 60 mL/min/1.73m2
+BUN/CREATININE RATIO
+SEE NOTE:
+6-22 (calc)
+Not Reported: BUN and Creatinine are within
+reference range.
+SODIUM
+139
+135-146 mmol/L
+POTASSIUM
+4.2
+3.5-5.3 mmol/L
+CHLORIDE
+101
+98-110 mmol/L
+CARBON DIOXIDE
+29
+20-32 mmol/L
+CALCIUM
+9.3
+8.6-10.2 mg/dL
+PROTEIN, TOTAL
+7.4
+6.1-8.1 g/dL
+ALBUMIN
+4.2
+3.6-5.1 g/dL
+GLOBULIN
+3.2
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.3
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.4
+0.2-1.2 mg/dL
+ALKALINE PHOSPHATASE
+63
+31-125 U/L
+AST
+20
+10-35 U/L
+ALT
+20
+6-29 U/L
+LYME DISEASE ANTIBODIES (IGG,IGM), IMMUNOBLOT (8593) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+LYME DISEASE AB(IGG),BLOT
+NEGATIVE
+NEGATIVE
+18 KD (IGG) BAND
+NON-REACTIVE
+23 KD (IGG) BAND
+NON-REACTIVE
+28 KD (IGG) BAND
+NON-REACTIVE
+30 KD (IGG) BAND
+NON-REACTIVE
+39 KD (IGG) BAND
+NON-REACTIVE
+41 KD (IGG) BAND
+NON-REACTIVE
+45 KD (IGG) BAND
+NON-REACTIVE
+58 KD (IGG) BAND
+NON-REACTIVE
+66 KD (IGG) BAND
+NON-REACTIVE
+93 KD (IGG) BAND
+NON-REACTIVE
+LYME DISEASE AB(IGM),BLOT
+NEGATIVE
+NEGATIVE
+23 KD (IGM) BAND
+REACTIVE
+39 KD (IGM) BAND
+NON-REACTIVE
+41 KD (IGM) BAND
+NON-REACTIVE
+Lyme immunoblot testing should only be performed on
+samples from patients who have had a Positive or
+Equivocal result in a screening assay.
+As per CDC criteria, a Lyme disease IgG Immunoblot must
+show reactivity to at least 5 of 10 specific borrelial
+proteins to be considered positive; similarly, a
+positive Lyme disease IgM immunoblot requires
+reactivity to 2 of 3 specific borrelial proteins.
+Although considered negative, IgG reactivity to fewer
+specific borrelial proteins or IgM reactivity to only
+1 protein may indicate recent B. burgdorferi infection
+and warrant testing of a later sample. A positive IgM
+but negative IgG result obtained more than a month
+after onset of symptoms likely represents a false-
+positive IgM result rather than acute Lyme disease.
+In rare instances, Lyme disease immunoblot reactivity
+may represent antibodies induced by exposure to other
+spirochetes.
+APOLIPOPROTEIN B (5224) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+APOLIPOPROTEIN B
+112
+Reference Range    <90
+Risk Category:
+Optimal         <90
+Moderate        90-129
+High            > or = 130
+A desirable treatment target may be
+<80 mg/dL or lower depending on the
+risk category of the patient including
+patients on lipid lowering therapies,
+patients with ASCVD, diabetes with >1
+risk factors, Stage 3 or greater CKD
+with albuminuria, or heterozygous
+familial hypercholesterolemia. ApoB
+relative risk category cut points are
+based on AACE/ACE and ACC/AHA
+recommendations (Grundy SM, et al.
+2019. doi:10.1016/j.jacc.2018.11.002;
+Handelsman Y, et al. 2020. doi:10.
+4158/CS-2020-0490).
+NO COLLECTION DATE RECEIVED. WE HAVE USED
+THE DATE THE SPECIMEN WAS RECEIVED BY THIS
+LABORATORY AS THE COLLECTION DATE. IF THIS
+IS INCORRECT, PLEASE CONTACT CLIENT SERVICES.
+PHONE NUMBER: 866.697.8378
+THYROID PANEL WITH TSH (7444)
+Reviewed date:08/13/2025 03:03:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+T3 UPTAKE
+31
+22-35 %
+T4 (THYROXINE), TOTAL
+5.6
+5.1-11.9 mcg/dL
+FREE T4 INDEX (T7)
+1.7
+1.4-3.8
+TSH
+1.04
+Reference Range
+> or = 20 Years  0.40-4.50
+Pregnancy Ranges
+First trimester    0.26-2.66
+Second trimester   0.55-2.73
+Third trimester    0.43-2.91
+HEPATIC FUNCTION PANEL (10256)
+Reviewed date:08/13/2025 03:03:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+PROTEIN, TOTAL
+7.4
+6.1-8.1 g/dL
+ALBUMIN
+4.2
+3.6-5.1 g/dL
+GLOBULIN
+3.2
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.3
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.4
+0.2-1.2 mg/dL
+BILIRUBIN, DIRECT
+0.1
+< OR = 0.2 mg/dL
+BILIRUBIN, INDIRECT
+0.3
+0.2-1.2 mg/dL (calc)
+ALKALINE PHOSPHATASE
+63
+31-125 U/L
+AST
+20
+10-35 U/L
+ALT
+20
+6-29 U/L
+LIPOPROTEIN (a) (34604)
+Reviewed date:08/13/2025 03:03:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+LIPOPROTEIN (a)
+24
+Reference Range  <75
+Risk:
+Optimal          <75
+Moderate         75-125
+High             >125
+Cardiovascular event risk category
+cut points (optimal, moderate, high)
+are based on Tsimika S. JACC
+2017;69:692-711.
+CBC (INCLUDES DIFF/PLT) (6399)
+Reviewed date:08/13/2025 03:03:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+WHITE BLOOD CELL COUNT
+6.8
+3.8-10.8 Thousand/uL
+RED BLOOD CELL COUNT
+4.42
+3.80-5.10 Million/uL
+HEMOGLOBIN
+14.3
+11.7-15.5 g/dL
+HEMATOCRIT
+42.9
+35.0-45.0 %
+MCV
+97.1
+80.0-100.0 fL
+MCH
+32.4
+27.0-33.0 pg
+MCHC
+33.3
+32.0-36.0 g/dL
+For adults, a slight decrease in the calculated MCHC
+value (in the range of 30 to 32 g/dL) is most likely
+not clinically significant; however, it should be
+interpreted with caution in correlation with other
+red cell parameters and the patient's clinical
+condition.
+RDW
+12.2
+11.0-15.0 %
+PLATELET COUNT
+277
+140-400 Thousand/uL
+MPV
+9.6
+7.5-12.5 fL
+ABSOLUTE NEUTROPHILS
+3971
+1500-7800 cells/uL
+ABSOLUTE LYMPHOCYTES
+2217
+850-3900 cells/uL
+ABSOLUTE MONOCYTES
+442
+200-950 cells/uL
+ABSOLUTE EOSINOPHILS
+150
+15-500 cells/uL
+ABSOLUTE BASOPHILS
+20
+0-200 cells/uL
+NEUTROPHILS
+58.4
+38-80 %
+LYMPHOCYTES
+32.6
+15-49 %
+MONOCYTES
+6.5
+0-13 %
+EOSINOPHILS
+2.2
+0-8 %
+BASOPHILS
+0.3
+0-2 %
+HEMOGLOBIN A1c (496)
+Reviewed date:08/13/2025 03:03:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+HEMOGLOBIN A1c
+5.0
+<5.7 %
+For the purpose of screening for the presence of
+diabetes:
+<5.7%       Consistent with the absence of diabetes
+5.7-6.4%    Consistent with increased risk for diabetes
+(prediabetes)
+> or =6.5%  Consistent with diabetes
+This assay result is consistent with a decreased risk
+of diabetes.
+Currently, no consensus exists regarding use of
+hemoglobin A1c for diagnosis of diabetes in children.
+According to American Diabetes Association (ADA)
+guidelines, hemoglobin A1c <7.0% represents optimal
+control in non-pregnant diabetic patients. Different
+metrics may apply to specific patient populations.
+Standards of Medical Care in Diabetes(ADA).
+VITAMIN D,25-OH,TOTAL,IA (17306)
+Reviewed date:08/13/2025 03:02:05 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+VITAMIN D,25-OH,TOTAL,IA
+46
+30-100 ng/mL
+See Note 1
+Note 1
+For additional information, please refer to
+http://education.QuestDiagnostics.com/faq/FAQ199
+(This link is being provided for informational/
+educational purposes only.)
+25-OH VIT D, (D2,D3), LC/MS/MS is recommended: order
+code 92888 (patients >2yrs).
+Vitamin D Status         25-OH Vitamin D:
+Deficiency:                    <20 ng/mL
+Insufficiency:             20 - 29 ng/mL
+Optimal:                 > or = 30 ng/mL
+For 25-OH Vitamin D testing on patients on
+D2-supplementation and patients for whom quantitation
+of D2 and D3 fractions is required, the QuestAssureD(TM)
+ABI/PVR
+Reviewed date:07/14/2025 11:35:58 AM
+Interpretation:
+Performing Lab:
+Notes/Report:
+Electrocardiogram (EKG)
+Reviewed date:07/14/2025 11:50:48 AM
+Interpretation:
+Performing Lab:
+Notes/Report:
+
+
+=== REASON FOR REFERRAL ===
+No Information
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+Olmesartan Medoxomil-HCTZ 40-12.5 MG
+1 tablet Orally Once a day; Duration: 90 days
+Active
+Metoprolol Succinate ER 25 MG
+1 tablet Orally Once a day; Duration: 30 days
+09/15/2025
+Active
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Vitamin D deficiency (34713006)
+Vitamin D deficiency, unspecified (E55.9)
+Active
+confirmed
+Problem
+Disorder of lipoprotein AND/OR lipid metabolism (48286001)
+Other lipoprotein metabolism disorders (E78.89)
+Active
+confirmed
+Problem
+Hyperlipidemia (55822004)
+Hyperlipidemia, unspecified (E78.5)
+Active
+confirmed
+Problem
+Essential hypertension (59621000)
+Hypertension, unspecified type (I10)
+Active
+confirmed
+Problem
+Skin sensation disturbance (80910005)
+Tingling of both feet (R20.2)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+Heart Rate
+97 /min
+07/14/2025
+Respiratory Rate
+16 /min
+07/14/2025
+Height-cm
+175.26 cm
+07/14/2025
+Oximetry
+98 %
+07/14/2025
+Blood pressure diastolic
+85 mm Hg
+07/14/2025
+Weight-kg
+106.6 kg
+07/14/2025
+Height
+69 in
+07/14/2025
+Blood pressure systolic
+135 mm Hg
+07/14/2025
+Weight
+235 lbs
+07/14/2025
+BMI
+34.7 kg/m2
+07/14/2025
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+07/14/2025
+RISHI BAJAJ
+Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism Z13.0 ; Other abnormal glucose R73.09 ; Encounter for screening for lipoid disorders Z13.220 ; Abnormal results of liver function studies R94.5 ; Disorder of thyroid, unspecified E07.9 ; Vitamin D deficiency, unspecified E55.9 ; Lyme disease, unspecified A69.20 ; Other lipoprotein metabolism disorders E78.89 and Family history of elevated lipoprotein(a) Z83.430
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/15/2025
+RISHI BAJAJ
+Person consulting for explanation of examination or test findings Z71.2 ; Hypertension, unspecified type I10 ; Annual physical exam Z00.00 ; Hyperlipidemia, unspecified E78.5 ; SVT (supraventricular tachycardia) I47.10 ; Shortness of breath on exertion R06.02 ; Dizziness R42 ; Lightheadedness R42 ; Leg numbness R20.0 ; Tingling of both feet R20.2 and Abnormal ankle brachial index (ABI) R68.89
+Epic Heart and Vascular Care
+4 HDSN VLY PROF PLZ STE B NEWBURGH, NY 12550-3157
+07/14/2025
+RISHI BAJAJ
+Annual physical exam Z00.00 ; Hypertension, unspecified type I10 ; Hyperlipidemia, unspecified E78.5 ; SVT (supraventricular tachycardia) I47.10 ; Shortness of breath on exertion R06.02 ; Dizziness R42 ; Lightheadedness R42 ; Leg numbness R20.0 ; Tingling of both feet R20.2 and Abnormal ankle brachial index (ABI) R68.89
+Epic Heart And Vascular Care
+4 HDSN VLY PROF PLZ STE B NEWBURGH, NY 12550-3157
+07/19/2025
+Shellene Napier-Martin
+Annual physical exam Z00.00 ; Person consulting for explanation of examination or test findings Z71.2 ; Hypertension, unspecified type I10 ; Hyperlipidemia, unspecified E78.5 ; SVT (supraventricular tachycardia) I47.10 ; Shortness of breath on exertion R06.02 ; Dizziness R42 ; Lightheadedness R42 ; Leg numbness R20.0 ; Tingling of both feet R20.2 and Abnormal ankle brachial index (ABI) R68.89
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/11/2025
+RISHI BAJAJ
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Assessment Notes
+Treatment Notes
+Treatment Clinical Notes
+Section Notes
+encounter date : 07/14/2025
+Hypertension, unspecified type (ICD-10 - I10)
+encounter date : 07/14/2025
+Annual physical exam (ICD-10 - Z00.00)
+encounter date : 07/14/2025
+Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (ICD-10 - Z13.0)
+encounter date : 07/19/2025
+Person consulting for explanation of examination or test findings (ICD-10 - Z71.2)
+encounter date : 07/19/2025
+Annual physical exam (ICD-10 - Z00.00)
+encounter date : 09/15/2025
+Person consulting for explanation of examination or test findings (ICD-10 - Z71.2)
+encounter date : 09/15/2025
+Hypertension, unspecified type (ICD-10 - I10)
+encounter date : 07/19/2025
+Hypertension, unspecified type (ICD-10 - I10)
+encounter date : 07/14/2025
+Other abnormal glucose (ICD-10 - R73.09)
+encounter date : 07/14/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 09/15/2025
+Annual physical exam (ICD-10 - Z00.00)
+encounter date : 07/14/2025
+Encounter for screening for lipoid disorders (ICD-10 - Z13.220)
+encounter date : 07/14/2025
+SVT (supraventricular tachycardia) (ICD-10 - I47.10)
+encounter date : 07/19/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 09/15/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 07/19/2025
+SVT (supraventricular tachycardia) (ICD-10 - I47.10)
+encounter date : 07/14/2025
+Abnormal results of liver function studies (ICD-10 - R94.5)
+encounter date : 07/14/2025
+Shortness of breath on exertion (ICD-10 - R06.02)
+encounter date : 09/15/2025
+SVT (supraventricular tachycardia) (ICD-10 - I47.10)
+encounter date : 07/14/2025
+Dizziness (ICD-10 - R42)
+encounter date : 07/14/2025
+Disorder of thyroid, unspecified (ICD-10 - E07.9)
+encounter date : 09/15/2025
+Shortness of breath on exertion (ICD-10 - R06.02)
+encounter date : 07/19/2025
+Shortness of breath on exertion (ICD-10 - R06.02)
+encounter date : 07/19/2025
+Dizziness (ICD-10 - R42)
+encounter date : 09/15/2025
+Dizziness (ICD-10 - R42)
+encounter date : 07/14/2025
+Vitamin D deficiency, unspecified (ICD-10 - E55.9)
+encounter date : 07/14/2025
+Lightheadedness (ICD-10 - R42)
+encounter date : 07/14/2025
+Lyme disease, unspecified (ICD-10 - A69.20)
+encounter date : 07/19/2025
+Lightheadedness (ICD-10 - R42)
+encounter date : 09/15/2025
+Lightheadedness (ICD-10 - R42)
+encounter date : 09/15/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 07/19/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 07/14/2025
+Other lipoprotein metabolism disorders (ICD-10 - E78.89)
+encounter date : 07/14/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 07/14/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 07/14/2025
+Family history of elevated lipoprotein(a) (ICD-10 - Z83.430)
+encounter date : 07/19/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 09/15/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 07/19/2025
+Abnormal ankle brachial index (ABI) (ICD-10 - R68.89)
+encounter date : 09/15/2025
+Abnormal ankle brachial index (ABI) (ICD-10 - R68.89)
+encounter date : 07/14/2025
+Abnormal ankle brachial index (ABI) (ICD-10 - R68.89)
+encounter date : 07/14/2025
+Other
+encounter date : 09/15/2025
+Other
+Her
+blood pressure is mildly elevated on today's visit with a blood pressure of
+140/90 with a heart rate of 90 beats per minute. We will be refilling her
+olmesartan for her at this time and advised to maintain compliance to her
+antihypertensive regimen. We discussed arranging for repeat blood pressure
+check at her next visit and possibly consider titrating her antihypertensive
+regimen given her uncontrolled blood pressure. We reviewed and discussed her
+prior echocardiogram, which was completed for shortness of breath on exertion
+revealing an EF of 55%, trace AR, mild TR and trace MR. All questions and
+concerns were answered and addressed. Heart healthy diet and healthy lifestyle
+encouraged and endorsed. She is to follow up in 4 weeks or sooner should
+symptoms worsen. She agrees to the plan of care
+Scribed by Shashank Kapoor and Daliah Rodriguez under the supervision of Dr. Rishi Bajaj
+encounter date : 07/14/2025
+Other
+Routine
+lab work was drawn on today's visit for an assessment of her overall
+health as well as apolipoprotein B and lipoprotein A without complication.
+We will review and discuss the results at next visit. An EKG was completed
+on today's visit for further evaluation of her overall cardiovascular
+rhythm revealing sinus rhythm with a septal myocardial infarction. An
+echocardiogram was completed on today's visit for further evaluation of her
+shortness of breath upon exertion. Preliminary images reviewed and discussed
+revealing a preserved ejection fraction. For further ischemic evaluation of her
+significant shortness of breath upon exertion greatly affecting her daily
+performance and exercise tolerance, we will arrange for coronary stress
+testing to be completed at her next visit. Risk, benefits, and
+alternatives were discussed in great detail. To evaluate for possible carotid
+stenosis causing her episodes of dizziness and lightheadedness, a carotid doppler
+was completed on today's visit. Preliminary images reviewed and discussed
+that revealed mild atherosclerotic plaque. For the numbness and tingling in her
+bilateral lower extremities, an ABI/PVR was completed today revealing an RLE of
+1.03 and an LLE of 0.25. For her significantly abnormal ABI/PVR, giving
+her numbness and tingling she experiences in her bilateral lower extremities, a
+complete arterial doppler will be completed at her next visit. We placed an
+event monitor on her today for further evaluation of her SVT. We will be
+referring her to Elizabeth Jahn at Horizon Medical for a gynecological
+evaluation. We will also be providing her with a script to obtain a
+bilateral screening mammogram as she is not up to date. We will be
+referring her to Dr. Siegel for a screening colonoscopy as she is not
+up-to-date. We reviewed and discussed her current medication list. At this
+time, we will be refilling her Olmesartan/hydrochlorothiazide 40/12.5 mg.
+Side-effects discussed in great detail. We encouraged her to maintain an at
+home blood pressure log for us to review in office for further management of
+her hypertension. All questions and concerns were answered and addressed. A
+heart-healthy diet and healthy lifestyle was encouraged and endorsed. She is to
+follow-up in 4 weeks or sooner should symptoms worsen and progress or new
+symptoms arise. She agrees to the plan of care.
+Time Spent: Total time spent 88 minutes in face-to-face conversation, examination, reviewing records, discussing treatment options and procedures, pathophysiology, and anatomy. Diet and lifestyle modifications were discussed in great detail.  Images were personally reviewed by me in front of the patient and/or family member and explained on our graphic diagram.  Treatment options, risks, benefits and alternative treatments discussed with the patient in detail. All questions and concerns answered.
+Scribed by Dhiraj Matreja and Phoebe Tarta under the supervision of Dr.Rishi Bajaj
+encounter date : 07/19/2025
+Other
+Labs
+were reviewed and discussed today that showed
+an LDL of 129 and an A1C of 5.0. Thyroid function, CMP, hepatic
+panel, lipoprotein a, CBC, vitamin D, and apolipoprotein B were
+reviewed and found to be within normal limits. Lyme panel was
+negative. Due to the mild elevation in LDL, she was advised to adopt
+a diet low in saturated fats and high in fiber, as well as to
+increase aerobic exercise. A repeat lipid panel is recommended in 3-6
+months to assess response to lifestyle modifications. Follow-up is
+scheduled for 07/21. She is in agreement with the plan of care.
+Patient was informed of the telemedicine visit by our office staff. Telemedicine was described in detail to the patient as the use of synchronous video and audio communication to provide clinical care from a distance. A telemedicine visit can provide the same medical standard of care for specific conditions. The patient was informed that the practice staff located at the provider's office would assist in carrying out any recommendations and clinical care.
+Patient Location: Home
+Lack of strict HIPPA Rules. Patient expressed verbal interest in the telemedicine visit and granted consent to proceed.
+Scribed by Devendra Bisht under the supervision of Dr. Rishi Bajaj and Shellene Napier, NP
+
+
+=== PLAN OF TREATMENT ===
+Pending Test
+Test Name
+Order Date
+Echocardiogram
+07/14/2025
+ABI/PVR
+07/14/2025
+Electrocardiogram (EKG)
+07/14/2025
+Ultrasound : Artery Doppler Low Ext Bilat
+07/14/2025
+Ultrasound : Carotid Doppler Bilateral
+07/14/2025
+Event Monitor
+07/14/2025
+Exercise Treadmill Stress Test (TMST)
+07/15/2025
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852)
+07/14/2025
+COMPREHENSIVE METABOLIC PANEL (10231)
+07/14/2025
+LYME DISEASE ANTIBODIES (IGG,IGM), IMMUNOBLOT (8593)
+07/14/2025
+APOLIPOPROTEIN B (5224)
+07/14/2025
+Future Test
+Test Name
+Order Date
+Lexiscan Stress Nuclear Test
+07/15/2025
+Next Appt
+Details
+Provider Name:RISHI BAJAJ, 10/15/2025 11:00:00 AM, 4 HDSN VLY PROF PLZ, Suite B, NEWBURGH, NY, 12550-3157, 781-530-0070
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+MVP Health Plan of NY
+PO BOX 2207 SCHENECTADY, NY 123012207
+800-684-9286
+82126914200
+Amanna, Courtney
+Self - patient is the insured
+Medicaid of New York
+PO BOX 4601 RENSSELAER, NY 121444602
+DG94536D
+Amanna, Courtney
+Self - patient is the insured
+
+
+=== MEDICAL (GENERAL) HISTORY ===
+Medical History
+History
+ICD Code
+hypertension
+hyperlipidemia
+SVT
+
+
+=== PROGRESS NOTES ===
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/15/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, no lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+07/14/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, no lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+

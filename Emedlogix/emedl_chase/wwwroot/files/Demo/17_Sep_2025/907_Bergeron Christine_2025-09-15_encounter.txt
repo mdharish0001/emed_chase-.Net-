@@ -1,0 +1,260 @@
+=== ALLERGIES ===
+No Information
+
+
+=== RESULTS ===
+No Results
+
+
+=== REASON FOR REFERRAL ===
+No Information
+
+
+=== REASON FOR VISIT ===
+Leg discomfort
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+Clopidogrel Bisulfate 75 MG
+1 tablet Orally Once a day; Duration: 30 days
+Unknown
+fluvoxaMINE Maleate ER 150 MG
+1 capsule at bedtime Orally Once a day
+Unknown
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Restless legs syndrome (32914008)
+Restless legs syndrome (G25.81)
+Active
+confirmed
+Problem
+Varicose veins of bilateral lower limbs (12237431000119106)
+Varicose veins of bilateral lower extremities with other complications (I83.893)
+Active
+confirmed
+Problem
+Hyperlipidemia (55822004)
+Hyperlipidemia, unspecified (E78.5)
+Active
+confirmed
+Problem
+Obsessive-compulsive disorder (191736004)
+Obsessive-compulsive disorder, unspecified (F42.9)
+Active
+confirmed
+Problem
+Peripheral vascular disease (400047006)
+PAD (peripheral artery disease) (I73.9)
+Active
+confirmed
+Problem
+Ethanol abuse (15167005)
+ETOH abuse (F10.10)
+Active
+confirmed
+Problem
+Burning sensation of skin (762397008)
+Burning sensation of skin (R20.8)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+No Information
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/15/2025
+RISHI BAJAJ
+Pain in leg, unspecified M79.606 ; Encounter for other specified surgical aftercare Z48.89 ; PAD (peripheral artery disease) I73.9 ; ETOH abuse F10.10 ; Obsessive-compulsive disorder, unspecified F42.9 ; Hyperlipidemia, unspecified E78.5 ; Leg heaviness R29.898 ; Leg swelling M79.89 ; Restless legs syndrome G25.81 ; Varicose veins of bilateral lower extremities with other complications I83.893 ; Leg cramping R25.2 ; Dizziness R42 ; Lightheadedness R42 ; Shortness of breath on exertion R06.02 ; Decreased pedal pulses R09.89 ; Leg edema R60.0 ; Abnormal ankle brachial index (ABI) R68.89 ; Itchy skin L29.9 and Burning sensation of skin R20.8
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Treatment Notes
+Section Notes
+encounter date : 09/15/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 09/15/2025
+Encounter for other specified surgical aftercare (ICD-10 - Z48.89)
+encounter date : 09/15/2025
+PAD (peripheral artery disease) (ICD-10 - I73.9)
+encounter date : 09/15/2025
+ETOH abuse (ICD-10 - F10.10)
+encounter date : 09/15/2025
+Obsessive-compulsive disorder, unspecified (ICD-10 - F42.9)
+encounter date : 09/15/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 09/15/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 09/15/2025
+Leg swelling (ICD-10 - M79.89)
+encounter date : 09/15/2025
+Restless legs syndrome (ICD-10 - G25.81)
+encounter date : 09/15/2025
+Varicose veins of bilateral lower extremities with other complications (ICD-10 - I83.893)
+encounter date : 09/15/2025
+Leg cramping (ICD-10 - R25.2)
+encounter date : 09/15/2025
+Dizziness (ICD-10 - R42)
+encounter date : 09/15/2025
+Lightheadedness (ICD-10 - R42)
+encounter date : 09/15/2025
+Shortness of breath on exertion (ICD-10 - R06.02)
+encounter date : 09/15/2025
+Decreased pedal pulses (ICD-10 - R09.89)
+encounter date : 09/15/2025
+Leg edema (ICD-10 - R60.0)
+encounter date : 09/15/2025
+Abnormal ankle brachial index (ABI) (ICD-10 - R68.89)
+encounter date : 09/15/2025
+Itchy skin (ICD-10 - L29.9)
+encounter date : 09/15/2025
+Burning sensation of skin (ICD-10 - R20.8)
+encounter date : 09/15/2025
+Other
+Given
+recent LSSV ablation, we will arrange for a venous doppler of the LLE.
+Preliminary images were reviewed and discussed, which were negative for any
+evidence of DVT. She complains of persistent lower extremity heaviness, aching
+and swelling as well as itching and burning at the sites of bulging
+varicosities despite compliance with compression socks during the day, resting
+and elevating her legs at night. We will obtain authorization for
+below-the-knee venous ablation. Risks, benefits, and alternatives were
+discussed in great detail. We will obtain authorization as she has remained
+compliant with compression socks during the day, resting and elevating her legs
+at night without significant symptom relief for over 6 months. All questions
+and concerns were answered and addressed. Heart healthy diet and healthy
+lifestyle encouraged and endorsed. She is to follow up in 2 weeks or sooner
+should symptoms worsen. She agrees to the plan of care
+
+
+=== PLAN OF TREATMENT ===
+Treatment Notes
+Assessment
+Notes
+Other
+Given
+recent LSSV ablation, we will arrange for a venous doppler of the LLE.
+Preliminary images were reviewed and discussed, which were negative for any
+evidence of DVT. She complains of persistent lower extremity heaviness, aching
+and swelling as well as itching and burning at the sites of bulging
+varicosities despite compliance with compression socks during the day, resting
+and elevating her legs at night. We will obtain authorization for
+below-the-knee venous ablation. Risks, benefits, and alternatives were
+discussed in great detail. We will obtain authorization as she has remained
+compliant with compression socks during the day, resting and elevating her legs
+at night without significant symptom relief for over 6 months. All questions
+and concerns were answered and addressed. Heart healthy diet and healthy
+lifestyle encouraged and endorsed. She is to follow up in 2 weeks or sooner
+should symptoms worsen. She agrees to the plan of care
+Future Test
+Test Name
+Order Date
+Venous Ablation
+09/17/2025
+Next Appt
+Details
+Follow Up: 2 Weeks, Reason:
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Empire BCBS of New York
+PO BOX 1407 NEW YORK, NY 100081407
+800-552-6630
+TNY203648605
+Bergeron, Christine
+Self - patient is the insured
+
+
+=== PROGRESS NOTES ===
+Examination
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, positive lower extremity edema, leg swelling, decreased pedal pulses
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+

@@ -1,0 +1,1344 @@
+=== ALLERGIES ===
+No Information
+
+
+=== RESULTS ===
+Component
+Value
+Reference Range
+Notes
+THYROID PANEL WITH TSH (7444)
+Reviewed date:09/02/2025 02:07:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+T3 UPTAKE
+28
+22-35 %
+T4 (THYROXINE), TOTAL
+5.6
+4.9-10.5 mcg/dL
+FREE T4 INDEX (T7)
+1.6
+1.4-3.8
+TSH
+1.21
+0.40-4.50 mIU/L
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852)
+Reviewed date:09/02/2025 02:07:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+CHOLESTEROL, TOTAL
+257
+<200 mg/dL
+HDL CHOLESTEROL
+61
+> OR = 40 mg/dL
+TRIGLYCERIDES
+93
+<150 mg/dL
+LDL-CHOLESTEROL
+175
+Reference range: <100
+Desirable range <100 mg/dL for primary prevention;
+<70 mg/dL for patients with CHD or diabetic patients
+with > or = 2 CHD risk factors.
+LDL-C is now calculated using the Martin-Hopkins
+calculation, which is a validated novel method providing
+better accuracy than the Friedewald equation in the
+estimation of LDL-C.
+Martin SS et al. JAMA. 2013;310(19): 2061-2068
+(http://education.QuestDiagnostics.com/faq/FAQ164)
+CHOL/HDLC RATIO
+4.2
+<5.0 (calc)
+NON HDL CHOLESTEROL
+196
+<130 mg/dL (calc)
+For patients with diabetes plus 1 major ASCVD risk
+factor, treating to a non-HDL-C goal of <100 mg/dL
+(LDL-C of <70 mg/dL) is considered a therapeutic
+option.
+COMPREHENSIVE METABOLIC PANEL (10231)
+Reviewed date:08/25/2025 02:19:17 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+GLUCOSE
+77
+65-99 mg/dL
+Fasting reference interval
+UREA NITROGEN (BUN)
+16
+7-25 mg/dL
+CREATININE
+0.97
+0.60-1.29 mg/dL
+EGFR
+99
+> OR = 60 mL/min/1.73m2
+BUN/CREATININE RATIO
+SEE NOTE:
+6-22 (calc)
+Not Reported: BUN and Creatinine are within
+reference range.
+SODIUM
+140
+135-146 mmol/L
+POTASSIUM
+4.4
+3.5-5.3 mmol/L
+CHLORIDE
+103
+98-110 mmol/L
+CARBON DIOXIDE
+29
+20-32 mmol/L
+CALCIUM
+9.6
+8.6-10.3 mg/dL
+PROTEIN, TOTAL
+7.6
+6.1-8.1 g/dL
+ALBUMIN
+4.9
+3.6-5.1 g/dL
+GLOBULIN
+2.7
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.8
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.4
+0.2-1.2 mg/dL
+ALKALINE PHOSPHATASE
+77
+36-130 U/L
+AST
+23
+10-40 U/L
+ALT
+34
+9-46 U/L
+HEPATIC FUNCTION PANEL (10256)
+Reviewed date:09/02/2025 02:07:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+PROTEIN, TOTAL
+7.6
+6.1-8.1 g/dL
+ALBUMIN
+4.9
+3.6-5.1 g/dL
+GLOBULIN
+2.7
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.8
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.4
+0.2-1.2 mg/dL
+BILIRUBIN, DIRECT
+0.1
+< OR = 0.2 mg/dL
+BILIRUBIN, INDIRECT
+0.3
+0.2-1.2 mg/dL (calc)
+ALKALINE PHOSPHATASE
+77
+36-130 U/L
+AST
+23
+10-40 U/L
+ALT
+34
+9-46 U/L
+LIPOPROTEIN (a) (34604)
+Reviewed date:09/02/2025 02:07:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+LIPOPROTEIN (a)
+40
+Reference Range  <75
+Risk:
+Optimal          <75
+Moderate         75-125
+High             >125
+Cardiovascular event risk category
+cut points (optimal, moderate, high)
+are based on Tsimika S. JACC
+2017;69:692-711.
+CBC (H/H, RBC, INDICES, WBC, PLT) (1759)
+Reviewed date:09/02/2025 02:07:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+WHITE BLOOD CELL COUNT
+TNP
+TEST NOT PERFORMED
+No lavender-top tube received.
+LYME DISEASE AB W/REFL TO BLOT (IGG, IGM) (6646)
+Reviewed date:09/02/2025 02:07:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+LYME AB SCREEN
+<0.90
+Index                Interpretation
+-----                --------------
+< 0.90               Negative
+0.90-1.09            Equivocal
+> 1.09               Positive
+As recommended by the Food and Drug Administration
+(FDA), all samples with positive or equivocal
+results in a Borrelia burgdorferi antibody screen
+will be tested using a blot method. Positive or
+equivocal screening test results should not be
+interpreted as truly positive until verified as such
+using a supplemental assay (e.g., B. burgdorferi blot).
+The screening test and/or blot for B. burgdorferi
+antibodies may be falsely negative in early stages
+of Lyme disease, including the period when erythema
+migrans is apparent.
+HEMOGLOBIN A1c (496)
+Reviewed date:08/25/2025 02:19:17 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+HEMOGLOBIN A1c
+TNP
+TEST NOT PERFORMED
+No lavender-top tube received.
+APOLIPOPROTEIN B (5224)
+Reviewed date:09/02/2025 02:07:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+APOLIPOPROTEIN B
+135
+Reference Range    <90
+Risk Category:
+Optimal         <90
+Moderate        90-129
+High            > or = 130
+A desirable treatment target may be
+<80 mg/dL or lower depending on the
+risk category of the patient including
+patients on lipid lowering therapies,
+patients with ASCVD, diabetes with >1
+risk factors, Stage 3 or greater CKD
+with albuminuria, or heterozygous
+familial hypercholesterolemia. ApoB
+relative risk category cut points are
+based on AACE/ACE and ACC/AHA
+recommendations (Grundy SM, et al.
+2019. doi:10.1016/j.jacc.2018.11.002;
+Handelsman Y, et al. 2020. doi:10.
+4158/CS-2020-0490).
+PSA, TOTAL (5363)
+Reviewed date:09/02/2025 02:07:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+PSA, TOTAL
+0.34
+< OR = 4.00 ng/mL
+The total PSA value from this assay system is
+standardized against the WHO standard. The test
+result will be approximately 20% lower when compared
+to the equimolar-standardized total PSA (Beckman
+Coulter). Comparison of serial PSA results should be
+interpreted with this fact in mind.
+This test was performed using the Siemens
+chemiluminescent method. Values obtained from
+different assay methods cannot be used
+interchangeably. PSA levels, regardless of
+value, should not be interpreted as absolute
+evidence of the presence or absence of disease.
+VITAMIN D,25-OH,TOTAL,IA (17306)
+Reviewed date:08/25/2025 02:19:17 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+VITAMIN D,25-OH,TOTAL,IA
+32
+30-100 ng/mL
+Vitamin D Status         25-OH Vitamin D:
+Deficiency:                    <20 ng/mL
+Insufficiency:             20 - 29 ng/mL
+Optimal:                 > or = 30 ng/mL
+For 25-OH Vitamin D testing on patients on
+D2-supplementation and patients for whom quantitation
+of D2 and D3 fractions is required, the QuestAssureD(TM)
+25-OH VIT D, (D2,D3), LC/MS/MS is recommended: order
+code 92888 (patients >2yrs).
+See Note 1
+Note 1
+For additional information, please refer to
+http://education.QuestDiagnostics.com/faq/FAQ199
+(This link is being provided for informational/
+educational purposes only.)
+HELICOBACTER PYLORI, UREA BREATH TEST (14839)
+Reviewed date:09/02/2025 02:07:57 PM
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+HELICOBACTER PYLORI, UREA BREATH TEST
+NOT DETECTED
+NOT DETECTED
+Antimicrobials, proton pump inhibitors, and bismuth
+preparations are known to suppress H. pylori, and
+ingestion of these prior to H. pylori diagnostic testing
+may lead to false negative results. If clinically
+indicated, the test may be repeated on a new specimen
+obtained two weeks after discontinuing treatment.
+However, a positive result is still clinically valid.
+CBC (INCLUDES DIFF/PLT) (6399) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING
+WHITE BLOOD CELL COUNT
+8.3
+3.8-10.8 Thousand/uL
+RED BLOOD CELL COUNT
+4.73
+4.20-5.80 Million/uL
+HEMOGLOBIN
+14.6
+13.2-17.1 g/dL
+HEMATOCRIT
+43.2
+38.5-50.0 %
+MCV
+91.3
+80.0-100.0 fL
+MCH
+30.9
+27.0-33.0 pg
+MCHC
+33.8
+32.0-36.0 g/dL
+For adults, a slight decrease in the calculated MCHC
+value (in the range of 30 to 32 g/dL) is most likely
+not clinically significant; however, it should be
+interpreted with caution in correlation with other
+red cell parameters and the patient's clinical
+condition.
+RDW
+12.5
+11.0-15.0 %
+PLATELET COUNT
+371
+140-400 Thousand/uL
+MPV
+9.4
+7.5-12.5 fL
+ABSOLUTE NEUTROPHILS
+5520
+1500-7800 cells/uL
+ABSOLUTE LYMPHOCYTES
+1851
+850-3900 cells/uL
+ABSOLUTE MONOCYTES
+706
+200-950 cells/uL
+ABSOLUTE EOSINOPHILS
+174
+15-500 cells/uL
+ABSOLUTE BASOPHILS
+50
+0-200 cells/uL
+NEUTROPHILS
+66.5
+38-80 %
+LYMPHOCYTES
+22.3
+15-49 %
+MONOCYTES
+8.5
+0-13 %
+EOSINOPHILS
+2.1
+0-8 %
+BASOPHILS
+0.6
+0-2 %
+HEMOGLOBIN A1c (496) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING
+HEMOGLOBIN A1c
+5.5
+<5.7 %
+For the purpose of screening for the presence of
+diabetes:
+<5.7%       Consistent with the absence of diabetes
+5.7-6.4%    Consistent with increased risk for diabetes
+(prediabetes)
+> or =6.5%  Consistent with diabetes
+This assay result is consistent with a decreased risk
+of diabetes.
+Currently, no consensus exists regarding use of
+hemoglobin A1c for diagnosis of diabetes in children.
+According to American Diabetes Association (ADA)
+guidelines, hemoglobin A1c <7.0% represents optimal
+control in non-pregnant diabetic patients. Different
+metrics may apply to specific patient populations.
+Standards of Medical Care in Diabetes(ADA).
+COMPREHENSIVE METABOLIC PANEL (10231) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING
+GLUCOSE
+91
+65-99 mg/dL
+Fasting reference interval
+UREA NITROGEN (BUN)
+14
+7-25 mg/dL
+CREATININE
+0.95
+0.60-1.29 mg/dL
+EGFR
+102
+> OR = 60 mL/min/1.73m2
+BUN/CREATININE RATIO
+SEE NOTE:
+6-22 (calc)
+Not Reported: BUN and Creatinine are within
+reference range.
+SODIUM
+141
+135-146 mmol/L
+POTASSIUM
+4.6
+3.5-5.3 mmol/L
+CHLORIDE
+104
+98-110 mmol/L
+CARBON DIOXIDE
+31
+20-32 mmol/L
+CALCIUM
+9.8
+8.6-10.3 mg/dL
+PROTEIN, TOTAL
+7.9
+6.1-8.1 g/dL
+ALBUMIN
+4.9
+3.6-5.1 g/dL
+GLOBULIN
+3.0
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.6
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.3
+0.2-1.2 mg/dL
+ALKALINE PHOSPHATASE
+78
+36-130 U/L
+AST
+26
+10-40 U/L
+ALT
+43
+9-46 U/L
+CBC (INCLUDES DIFF/PLT) (6399) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING
+WHITE BLOOD CELL COUNT
+7.9
+3.8-10.8 Thousand/uL
+RED BLOOD CELL COUNT
+4.89
+4.20-5.80 Million/uL
+HEMOGLOBIN
+14.7
+13.2-17.1 g/dL
+HEMATOCRIT
+44.7
+38.5-50.0 %
+MCV
+91.4
+80.0-100.0 fL
+MCH
+30.1
+27.0-33.0 pg
+MCHC
+32.9
+32.0-36.0 g/dL
+For adults, a slight decrease in the calculated MCHC
+value (in the range of 30 to 32 g/dL) is most likely
+not clinically significant; however, it should be
+interpreted with caution in correlation with other
+red cell parameters and the patient's clinical
+condition.
+RDW
+12.4
+11.0-15.0 %
+PLATELET COUNT
+349
+140-400 Thousand/uL
+MPV
+9.4
+7.5-12.5 fL
+ABSOLUTE NEUTROPHILS
+5246
+1500-7800 cells/uL
+ABSOLUTE LYMPHOCYTES
+1770
+850-3900 cells/uL
+ABSOLUTE MONOCYTES
+679
+200-950 cells/uL
+ABSOLUTE EOSINOPHILS
+166
+15-500 cells/uL
+ABSOLUTE BASOPHILS
+40
+0-200 cells/uL
+NEUTROPHILS
+66.4
+38-80 %
+LYMPHOCYTES
+22.4
+15-49 %
+MONOCYTES
+8.6
+0-13 %
+EOSINOPHILS
+2.1
+0-8 %
+BASOPHILS
+0.5
+0-2 %
+Exercise Treadmill Stress Test (TMST)
+Reviewed date:08/26/2025 08:47:08 AM
+Interpretation:
+Performing Lab:
+Notes/Report:
+
+
+=== REASON FOR REFERRAL ===
+Reason
+78452 - Auth not required
+Diagnosis 1
+2-vessel coronary artery disease (I25.10)
+Referral Organization
+Epic Heart and Vascular Care
+Referring Provider First Name
+RISHI
+Referring Provider Last Name
+BAJAJ
+Referring Provider Speciality
+Cardiovascular Disease
+Referred Organization
+Epic Heart and Vascular Care
+Referred Provider
+BAJAJ, RISHI
+Referred Address
+79 ROUTE 59,SUFFERN,NY,10901-4913,US
+Referred Provider Specialty
+Cardiovascular Disease
+General Notes
+Floyd, Vince 09/15/2025 10:21:27 AM >Auth not requried for CPT 78452
+Referral Priority
+Routine
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+PROzac
+Unknown
+Labetalol HCl 100 MG
+1 tablet Orally Twice a day; Duration: 30 day(s)
+09/09/2025
+Active
+Crestor 20 MG
+1 tablet Orally Once a day; Duration: 30 day(s)
+Active
+Aspirin
+Unknown
+LaMICtal
+Unknown
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Vitamin D deficiency (34713006)
+Vitamin D deficiency, unspecified (E55.9)
+Active
+confirmed
+Problem
+Hyperlipidemia (55822004)
+Hyperlipidemia, unspecified (E78.5)
+Active
+confirmed
+Problem
+Affective psychosis (441704009)
+Unspecified mood [affective] disorder (F39)
+Active
+confirmed
+Problem
+Transient ischemic attack (266257000)
+TIA (transient ischemic attack) (G45.9)
+Active
+confirmed
+Problem
+Essential hypertension (59621000)
+Hypertension, unspecified type (I10)
+Active
+confirmed
+Problem
+Skin sensation disturbance (80910005)
+Tingling of both feet (R20.2)
+Active
+confirmed
+Problem
+Atherosclerotic heart disease of native coronary artery without angina pectoris (451041000124103)
+2-vessel coronary artery disease (I25.10)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+Heart Rate
+88 /min
+08/25/2025
+Respiratory Rate
+16 /min
+08/25/2025
+Height-cm
+175.26 cm
+08/25/2025
+Oximetry
+98 %
+08/25/2025
+Blood pressure diastolic
+82 mm Hg
+08/25/2025
+Weight-kg
+90.72 kg
+08/22/2025
+Height
+69 in
+08/25/2025
+Blood pressure systolic
+138 mm Hg
+08/25/2025
+Weight
+200 lbs
+08/22/2025
+BMI
+29.53 kg/m2
+08/22/2025
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+EM Middletown Office
+528 East Main St MIDDLETOWN, NY 10940-2632
+08/22/2025
+MARION HAYES
+Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere B96.81 ; TIA (transient ischemic attack) G45.9 ; Other general symptoms and signs R68.89 ; Other abnormal glucose R73.09 ; Hyperlipidemia, unspecified E78.5 ; Disorder of thyroid, unspecified E07.9 ; Abnormal results of liver function studies R94.5 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for other metabolic disorders Z13.228 ; Lyme disease, unspecified A69.20 ; Depression, unspecified F32.A ; Unspecified mood [affective] disorder F39 ; Epigastric discomfort R10.13 ; Chest pain, unspecified R07.9 ; Arm numbness R20.0 ; Pain in leg, unspecified M79.606 ; Leg heaviness R29.898 ; Leg swelling M79.89 ; Leg numbness R20.0 ; Leg cramping R25.2 ; Tingling of both feet R20.2 and Shortness of breath R06.02
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/15/2025
+RISHI BAJAJ
+Person consulting for explanation of examination or test findings Z71.2 ; Headache, unspecified R51.9 ; Other abnormal glucose R73.09 ; Encounter for screening for lipoid disorders Z13.220 ; Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism Z13.0 ; Abnormal ankle brachial index R68.89 ; Hyperlipidemia, unspecified E78.5 ; Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere B96.81 ; TIA (transient ischemic attack) G45.9 ; Other general symptoms and signs R68.89 ; Disorder of thyroid, unspecified E07.9 ; Abnormal results of liver function studies R94.5 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for other metabolic disorders Z13.228 ; Lyme disease, unspecified A69.20 ; Depression, unspecified F32.A ; Unspecified mood [affective] disorder F39 ; Epigastric discomfort R10.13 ; Chest pain, unspecified R07.9 ; Arm numbness R20.0 ; Pain in leg, unspecified M79.606 ; Leg heaviness R29.898 ; Leg swelling M79.89 ; Leg numbness R20.0 ; Leg cramping R25.2 ; Tingling of both feet R20.2 ; Shortness of breath R06.02 ; Hypertension, unspecified type I10 and Chest discomfort R07.89
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/15/2025
+RISHI BAJAJ
+Epic Heart and Vascular Care
+4 HDSN VLY PROF PLZ STE B NEWBURGH, NY 12550-3157
+08/25/2025
+RISHI BAJAJ
+Other abnormal glucose R73.09 ; Abnormal ankle brachial index R68.89 ; Hyperlipidemia, unspecified E78.5 ; Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere B96.81 ; TIA (transient ischemic attack) G45.9 ; Other general symptoms and signs R68.89 ; Disorder of thyroid, unspecified E07.9 ; Abnormal results of liver function studies R94.5 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for other metabolic disorders Z13.228 ; Lyme disease, unspecified A69.20 ; Depression, unspecified F32.A ; Unspecified mood [affective] disorder F39 ; Epigastric discomfort R10.13 ; Chest pain, unspecified R07.9 ; Arm numbness R20.0 ; Pain in leg, unspecified M79.606 ; Leg heaviness R29.898 ; Leg swelling M79.89 ; Leg numbness R20.0 ; Leg cramping R25.2 ; Tingling of both feet R20.2 and Shortness of breath R06.02
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/08/2025
+Citlalli Marin
+Other abnormal glucose R73.09 ; Person consulting for explanation of examination or test findings Z71.2 ; Encounter for screening for lipoid disorders Z13.220 ; Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism Z13.0 ; Abnormal ankle brachial index R68.89 ; Hyperlipidemia, unspecified E78.5 ; Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere B96.81 ; TIA (transient ischemic attack) G45.9 ; Other general symptoms and signs R68.89 ; Disorder of thyroid, unspecified E07.9 ; Abnormal results of liver function studies R94.5 ; Vitamin D deficiency, unspecified E55.9 ; Encounter for screening for other metabolic disorders Z13.228 ; Lyme disease, unspecified A69.20 ; Depression, unspecified F32.A ; Unspecified mood [affective] disorder F39 ; Epigastric discomfort R10.13 ; Chest pain, unspecified R07.9 ; Arm numbness R20.0 ; Pain in leg, unspecified M79.606 ; Leg heaviness R29.898 ; Leg swelling M79.89 ; Leg numbness R20.0 ; Leg cramping R25.2 ; Tingling of both feet R20.2 ; Shortness of breath R06.02 ; Headache R51 and Hypertension, unspecified type I10
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/09/2025
+RISHI BAJAJ
+Hypertension, unspecified type I10
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/16/2025
+RISHI BAJAJ
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Assessment Notes
+Treatment Notes
+Treatment Clinical Notes
+Section Notes
+encounter date : 08/25/2025
+Other abnormal glucose (ICD-10 - R73.09)
+encounter date : 08/22/2025
+Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere (ICD-10 - B96.81)
+encounter date : 08/22/2025
+TIA (transient ischemic attack) (ICD-10 - G45.9)
+encounter date : 08/25/2025
+Abnormal ankle brachial index (ICD-10 - R68.89)
+encounter date : 09/08/2025
+Other abnormal glucose (ICD-10 - R73.09)
+encounter date : 09/08/2025
+Person consulting for explanation of examination or test findings (ICD-10 - Z71.2)
+encounter date : 09/09/2025
+Hypertension, unspecified type (ICD-10 - I10)
+encounter date : 09/15/2025
+Person consulting for explanation of examination or test findings (ICD-10 - Z71.2)
+encounter date : 09/15/2025
+Headache, unspecified (ICD-10 - R51.9)
+encounter date : 09/15/2025
+Other abnormal glucose (ICD-10 - R73.09)
+encounter date : 09/08/2025
+Encounter for screening for lipoid disorders (ICD-10 - Z13.220)
+encounter date : 08/22/2025
+Other general symptoms and signs (ICD-10 - R68.89)
+encounter date : 08/25/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 08/22/2025
+Other abnormal glucose (ICD-10 - R73.09)
+encounter date : 09/08/2025
+Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (ICD-10 - Z13.0)
+encounter date : 09/15/2025
+Encounter for screening for lipoid disorders (ICD-10 - Z13.220)
+encounter date : 09/15/2025
+Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (ICD-10 - Z13.0)
+encounter date : 09/08/2025
+Abnormal ankle brachial index (ICD-10 - R68.89)
+encounter date : 08/22/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 08/25/2025
+Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere (ICD-10 - B96.81)
+encounter date : 08/22/2025
+Disorder of thyroid, unspecified (ICD-10 - E07.9)
+encounter date : 08/25/2025
+TIA (transient ischemic attack) (ICD-10 - G45.9)
+encounter date : 09/08/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 09/15/2025
+Abnormal ankle brachial index (ICD-10 - R68.89)
+encounter date : 09/15/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 09/08/2025
+Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere (ICD-10 - B96.81)
+encounter date : 08/22/2025
+Abnormal results of liver function studies (ICD-10 - R94.5)
+encounter date : 08/25/2025
+Other general symptoms and signs (ICD-10 - R68.89)
+encounter date : 08/25/2025
+Disorder of thyroid, unspecified (ICD-10 - E07.9)
+encounter date : 08/22/2025
+Vitamin D deficiency, unspecified (ICD-10 - E55.9)
+encounter date : 09/08/2025
+TIA (transient ischemic attack) (ICD-10 - G45.9)
+encounter date : 09/15/2025
+Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere (ICD-10 - B96.81)
+encounter date : 09/15/2025
+TIA (transient ischemic attack) (ICD-10 - G45.9)
+encounter date : 09/08/2025
+Other general symptoms and signs (ICD-10 - R68.89)
+encounter date : 08/22/2025
+Encounter for screening for other metabolic disorders (ICD-10 - Z13.228)
+encounter date : 08/25/2025
+Abnormal results of liver function studies (ICD-10 - R94.5)
+encounter date : 08/25/2025
+Vitamin D deficiency, unspecified (ICD-10 - E55.9)
+encounter date : 08/22/2025
+Lyme disease, unspecified (ICD-10 - A69.20)
+encounter date : 09/08/2025
+Disorder of thyroid, unspecified (ICD-10 - E07.9)
+encounter date : 09/15/2025
+Other general symptoms and signs (ICD-10 - R68.89)
+encounter date : 09/15/2025
+Disorder of thyroid, unspecified (ICD-10 - E07.9)
+encounter date : 09/08/2025
+Abnormal results of liver function studies (ICD-10 - R94.5)
+encounter date : 08/22/2025
+Depression, unspecified (ICD-10 - F32.A)
+encounter date : 08/25/2025
+Encounter for screening for other metabolic disorders (ICD-10 - Z13.228)
+encounter date : 08/25/2025
+Lyme disease, unspecified (ICD-10 - A69.20)
+encounter date : 08/22/2025
+Unspecified mood [affective] disorder (ICD-10 - F39)
+encounter date : 09/08/2025
+Vitamin D deficiency, unspecified (ICD-10 - E55.9)
+encounter date : 09/15/2025
+Abnormal results of liver function studies (ICD-10 - R94.5)
+encounter date : 09/15/2025
+Vitamin D deficiency, unspecified (ICD-10 - E55.9)
+encounter date : 09/08/2025
+Encounter for screening for other metabolic disorders (ICD-10 - Z13.228)
+encounter date : 08/22/2025
+Epigastric discomfort (ICD-10 - R10.13)
+encounter date : 08/25/2025
+Depression, unspecified (ICD-10 - F32.A)
+encounter date : 08/25/2025
+Unspecified mood [affective] disorder (ICD-10 - F39)
+encounter date : 08/22/2025
+Chest pain, unspecified (ICD-10 - R07.9)
+encounter date : 09/08/2025
+Lyme disease, unspecified (ICD-10 - A69.20)
+encounter date : 09/15/2025
+Encounter for screening for other metabolic disorders (ICD-10 - Z13.228)
+encounter date : 09/15/2025
+Lyme disease, unspecified (ICD-10 - A69.20)
+encounter date : 09/08/2025
+Depression, unspecified (ICD-10 - F32.A)
+encounter date : 08/25/2025
+Epigastric discomfort (ICD-10 - R10.13)
+encounter date : 08/22/2025
+Arm numbness (ICD-10 - R20.0)
+encounter date : 08/25/2025
+Chest pain, unspecified (ICD-10 - R07.9)
+encounter date : 08/22/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 09/08/2025
+Unspecified mood [affective] disorder (ICD-10 - F39)
+encounter date : 09/15/2025
+Depression, unspecified (ICD-10 - F32.A)
+encounter date : 09/15/2025
+Unspecified mood [affective] disorder (ICD-10 - F39)
+encounter date : 09/08/2025
+Epigastric discomfort (ICD-10 - R10.13)
+encounter date : 08/25/2025
+Arm numbness (ICD-10 - R20.0)
+encounter date : 08/22/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 08/22/2025
+Leg swelling (ICD-10 - M79.89)
+encounter date : 08/25/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 09/08/2025
+Chest pain, unspecified (ICD-10 - R07.9)
+encounter date : 09/15/2025
+Epigastric discomfort (ICD-10 - R10.13)
+encounter date : 09/15/2025
+Chest pain, unspecified (ICD-10 - R07.9)
+encounter date : 09/08/2025
+Arm numbness (ICD-10 - R20.0)
+encounter date : 08/25/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 08/22/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 08/22/2025
+Leg cramping (ICD-10 - R25.2)
+encounter date : 08/25/2025
+Leg swelling (ICD-10 - M79.89)
+encounter date : 09/08/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 09/15/2025
+Arm numbness (ICD-10 - R20.0)
+encounter date : 09/15/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 08/25/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 09/08/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 08/22/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 08/22/2025
+Shortness of breath (ICD-10 - R06.02)
+encounter date : 09/08/2025
+Leg swelling (ICD-10 - M79.89)
+encounter date : 08/25/2025
+Leg cramping (ICD-10 - R25.2)
+encounter date : 09/15/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 09/15/2025
+Leg swelling (ICD-10 - M79.89)
+encounter date : 08/25/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 09/08/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 09/08/2025
+Leg cramping (ICD-10 - R25.2)
+encounter date : 08/25/2025
+Shortness of breath (ICD-10 - R06.02)
+encounter date : 09/15/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 09/15/2025
+Leg cramping (ICD-10 - R25.2)
+encounter date : 09/08/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 09/15/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 09/08/2025
+Shortness of breath (ICD-10 - R06.02)
+encounter date : 09/08/2025
+Headache (ICD-10 - R51)
+encounter date : 09/15/2025
+Shortness of breath (ICD-10 - R06.02)
+encounter date : 09/15/2025
+Hypertension, unspecified type (ICD-10 - I10)
+encounter date : 09/08/2025
+Hypertension, unspecified type (ICD-10 - I10)
+encounter date : 09/15/2025
+Chest discomfort (ICD-10 - R07.89)
+encounter date : 08/22/2025
+Other
+We will arrange for routine blood work
+to be completed on today's visit for assessment of overall health as well as
+apolipoprotein B and lipoprotein A for assessment of genetic predisposition to
+hyperlipidemia. We will arrange for H. pylori testing on today's visit given
+his complaints of epigastric chest burning and discomfort which he described as
+heartburn. We will arrange for an EKG at his next visit for evaluation of his
+chest pain. For further evaluation of his chest pain and discomfort, we will
+arrange for echocardiogram on today's visit. Preliminary images were reviewed
+and discussed revealing a preserved ejection fraction of 55% to 60% with mild
+TR noted. We will arrange for further ischemic evaluation of his chest pain
+with ETT and coronary stress testing with Lexiscan at a future visit. On
+today's visit, we will arrange for carotid doppler given his given recent TIA.
+Preliminary images were reviewed and discussed revealing mild atherosclerotic
+disease. He complains of leg pain and discomfort. We will arrange for an
+ABI/PVR at his next visit as well as BLE arterial doppler. Given his lower
+extremity heaviness and swelling towards his feet, we will arrange for venous
+reflux exam on today's visit. Preliminary images were reviewed and discussed
+which were negative for any DVT but positive for BLE reflux. We will arrange
+for an event monitor to be placed given recent TIA and complaints of chest
+pain. We will obtain hospital records from Barnabas Community Hospital in Toms
+River given his recent hospitalization. All questions and concerns were
+answered and addressed. Heart healthy diet and healthy lifestyle encouraged and
+endorsed. He is to follow up on Monday or sooner should symptoms worsen. He
+agrees to the plan of care.
+Time Spent:  Total
+time spent 89 minutes.  More than 50% of the time spent in face-to-face
+conversation, examination, discussing treatment options and procedures,
+pathophysiology, and anatomy. Diet and lifestyle modifications were discussed
+in great detail.  Images were personally reviewed by me in front of the
+patient and/or family member and explained on our graphic diagram.
+Treatment options, risks, benefits and alternative treatments discussed
+with the patient in detail. All questions and concerns answered.  All records
+were reviewed in detail
+Scribed by Shashank Kapoor and Daliah Rodriguez under the supervision of Dr. Rishi Bajaj
+encounter date : 09/15/2025
+Other
+As
+he complains of ongoing dull chest pain and discomfort, we will arrange further
+ischemic evaluation with coronary stress testing with Lexiscan on today's
+visit. Risks, benefits, and alternatives to the diagnostic study were discussed
+in great detail. He was encouraged to complete his MRI of the brain without
+contrast for further evaluation of his headaches and history of recent TIA. All
+questions and concerns were answered and addressed. Heart healthy diet and
+healthy lifestyle encouraged and endorsed. He is to follow up in 1 week to
+review and discuss his Lexiscan results or sooner should symptoms worsen. He
+agrees to the plan of care
+Scribed by Shashank Kapoor and Daliah Rodriguez under the supervision of Dr. Rishi Bajaj
+encounter date : 09/08/2025
+Other
+Upon physical examination, his blood pressure today was found to be 142/86. At this time, we will initiate labetalol 100 mg BID for management of his elevated blood pressure with associated heart rate of 88 BPM. Side effects were discussed in great detail. During today's visit, we also reviewed and discussed results of his MCT monitor, which was significant for sinus rhythm 100% of the time. For evaluation of his bilateral lower extremity numbness and tingling, we arranged for an ABI/PVR at today's visit. For further evaluation of his headaches, which have been significant since Thursday, we will arrange for blood work to include CBC and CMP. Blood was drawn without complications. We will review and discuss results at his next visit. For further evaluation of his headaches, as well as history of recent TIA 2 weeks ago, we will arrange for an MRI of his brain without contrast. Risks, benefits, and alternatives were discussed in great detail. For management of his hyperlipidemia, the patient was encouraged to remain compliant with Crestor 20 mg, which he has been tolerating well thus far. For further evaluation of his chest pain, we will arrange for ischemic evaluation with coronary stress testing with Lexiscan on 09/15. Risks, benefits, and alternatives were discussed in great detail. All questions and concerns were answered and addressed. A heart-healthy diet and healthy lifestyle were encouraged and endorsed. He will follow up in 1 week or sooner if symptoms arise. He agrees to the plan of care.
+Scribed by Sushil Rai and Citlalli Marin under the supervision of Dr. Rishi Bajaj
+
+
+=== PLAN OF TREATMENT ===
+Pending Test
+Test Name
+Order Date
+Echocardiogram
+08/22/2025
+ABI/PVR
+09/08/2025
+MRI : Brain without Contrast
+09/08/2025
+MRI : Brain without Contrast
+09/08/2025
+Ultrasound : Carotid Doppler Bilateral
+08/22/2025
+Lexiscan Stress Nuclear Test
+09/08/2025
+Lexiscan Stress Nuclear Test
+09/15/2025
+Lexiscan Stress Nuclear Test
+09/16/2025
+Venous Reflux
+08/22/2025
+COMPREHENSIVE METABOLIC PANEL (10231)
+09/08/2025
+CBC (INCLUDES DIFF/PLT) (6399)
+08/25/2025
+CBC (INCLUDES DIFF/PLT) (6399)
+09/08/2025
+HEMOGLOBIN A1c (496)
+08/25/2025
+MRA Brain without contrast
+09/08/2025
+Future Test
+Test Name
+Order Date
+ABI/PVR
+08/26/2025
+Electrocardiogram (EKG)
+08/26/2025
+Ultrasound : Artery Doppler Low Ext Bilat
+08/26/2025
+Event Monitor
+08/26/2025
+Lexiscan Stress Nuclear Test
+08/26/2025
+MRI : Brain without Contrast
+09/17/2025
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Empire BCBS of New York
+PO BOX 1407 NEW YORK, NY 100081407
+800-552-6630
+HEN3HZN22606350
+Callanan, Richard
+Self - patient is the insured
+
+
+=== MEDICAL (GENERAL) HISTORY ===
+Medical History
+History
+ICD Code
+depression and mood disorder
+Surgical History
+Surgery
+Date(Month/Year)
+surgical intervention of his knee 9 years ago and rhinoplasty after fracture
+
+
+=== PROGRESS NOTES ===
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/08/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, positive lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/25/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, positive lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/15/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, positive lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/22/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, positive lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+
+=== HISTORY AND PHYSICAL NOTES ===
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/08/2025
+Transition of Care
+This is a 43-year-old male, non-smoker, with a significant medical history of depression and mood disorder for which he follows with his psychiatrist, Dr. Al-Tariq, who presents today for CV follow-up for review of blood work results as well as complaints of headaches. The patient reports significant headaches that began last week on Thursday. He reports that his headaches are primarily right-sided and last all day. His headaches are reportedly throbbing in nature, and he has trialed over-the-counter tension headache medicine with temporary relief of his symptoms. He denies any vision changes associated with his headaches. He does report intermittent episodes of dizziness associated with his headaches. At his previous visit, we arranged for routine labs for assessment of his overall health, which we will review and discuss at today's visit. We also previously initiated Crestor 20 mg for management of his hyperlipidemia, which he reports tolerating well without any ill side effects. We also previously arranged for an MCT monitor to be placed due to history of palpitations as well as recent TIA. We will review and discuss results at today's visit. The patient also reports intermittent lower extremity numbness and tingling. The patient previously reported chest pain that was associated with his TIA about 2 weeks ago. He complains of ongoing dull chest pain and discomfort post-hospitalization. He denies any syncope or near syncopal events.
+Echocardiogram: Preserved ejection fraction of 55% to 60% with mild TR noted.
+Carotid doppler: Mild atherosclerotic disease.
+BLE venous reflux study: Negative for any DVT but positive for BLE reflux.
+MCT monitor: sinus rhythm 100% of the time.
+Upon physical examination, his blood pressure today was found to be 142/86. At this time, we will initiate labetalol 100 mg BID for management of his elevated blood pressure with associated heart rate of 90 bpm. Side effects were discussed in great detail. During today's visit, we also reviewed and discussed results of his MCT monitor, which was significant for sinus rhythm 100% of the time. We will arrange for an EKG at his next visit for further evaluation of his cardiovascular health. For evaluation of his bilateral lower extremity numbness and tingling, we arranged for an ABI/PVR at today's visit which revealed RLE 1.36 and LLE 1.25. For further evaluation of his headaches, which have been significant since Thursday, we will arrange for blood work to include CBC and CMP. Blood was drawn without complications. We will review and discuss results at his next visit. For further evaluation of his headaches, as well as history of recent TIA 2 weeks ago, we will arrange for an MRI of his brain without contrast. Risks, benefits, and alternatives were discussed in great detail. For management of his hyperlipidemia, the patient was encouraged to remain compliant with Crestor 20 mg, which he has been tolerating well thus far. For further evaluation of his chest pain, we will arrange for ischemic evaluation with coronary stress testing with Lexiscan on 09/15. Risks, benefits, and alternatives were discussed in great detail. All questions and concerns were answered and addressed. A heart-healthy diet and healthy lifestyle were encouraged and endorsed. He will follow up in 1 week or sooner if symptoms arise. He agrees to the plan of care.
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/25/2025
+Transition of Care
+This is a 43-year-old male, non-smoker, referred by Lucy Fratto with a significant medical history of depression and mood disorder for which he follows with his psychiatrist, Dr. Al-Tariq, who presents today for initial CV consultation after a recent hospitalization for TIA. He is a heavy equipment operator for union. He has 2 healthy children and lives in Mount Hope. His PCP is Dr. Hirsch who he has yet to establish care with. He follows with psychiatry, Dr. Al-Tariq. He has a family history of his dad passing in his 60s but he is unsure of the cause and his mother is alive and healthy. He has a past surgical history of surgical intervention of his knee 9 years ago and rhinoplasty after fracture. His only medications include aspirin, Lamictal and Prozac at this time. He was hospitalized approximately 1 week ago after having an episode while in Seaside, New Jersey were he had an episode of epigastric chest pain which he initially believed was heartburn. He reports that it worsened and developed into severe chest pain and had difficulty breathing. He reports that his face and his arm went numb. He called 911 and was transported to Barnabas Community Hospital in Toms River where he was subsequently hospitalized for TIA. He was hospitalized for 3 days and was discharged in stable condition and advised to follow with a primary cardiologist. He received a TNK shot while hospitalized and complains of burning his shoulders across his ribs and in his groin area. He reports that while hospitalized he underwent evaluation with several CT scans and MRIs, all of which were within normal limits. He complains of ongoing dull chest pain and discomfort post hospitalization. He also complains of lower extremity heaviness and aching, more towards his feet. He denies any syncope or near-syncopal events.
+Echocardiogram: Preserved ejection fraction of 55% to 60% with mild TR noted.
+Carotid doppler: Mild atherosclerotic disease.
+BLE venous reflux study: Negative for any DVT but positive for BLE reflux.
+We will arrange for routine blood work to be completed on today's visit for assessment of overall health as well as apolipoprotein B and lipoprotein A for assessment of genetic predisposition to hyperlipidemia. We will arrange for H. pylori testing on today's visit given his complaints of epigastric chest burning and discomfort which he described as heartburn. We will arrange for an EKG at his next visit for evaluation of his chest pain. For further evaluation of his chest pain and discomfort, we will arrange for echocardiogram on today's visit. Preliminary images were reviewed and discussed revealing a preserved ejection fraction of 55% to 60% with mild TR noted. We will arrange for further ischemic evaluation of his chest pain with ETT and coronary stress testing with Lexiscan at a future visit. On today's visit, we will arrange for carotid doppler given his given recent TIA. Preliminary images were reviewed and discussed revealing mild atherosclerotic disease. He complains of leg pain and discomfort. We will arrange for an ABI/PVR at his next visit as well as BLE arterial doppler. Given his lower extremity heaviness and swelling towards his feet, we will arrange for venous reflux exam on today's visit. Preliminary images were reviewed and discussed which were negative for any DVT but positive for BLE reflux. We will arrange for an event monitor to be placed given recent TIA and complaints of chest pain. We will obtain hospital records from Barnabas Community Hospital in Toms River given his recent hospitalization. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. He is to follow up on Monday or sooner should symptoms worsen. He agrees to the plan of care
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/15/2025
+Transition of Care
+This is a 43-year-old male, non-smoker, with a significant medical history of depression and mood disorder for which he follows with his psychiatrist, Dr. Al-Tariq, who presents today for CV follow up for headaches. He continues to complain of significant headaches that began approximately 2 weeks ago. His headaches are primarily right-sided and last all day. They are throbbing in nature. He has trialed over-the-counter tension headache medication with temporary relief. He denies any vision abnormalities. He does report intermittent episodes of dizziness associated with these episodic headaches. He has a history of recent TIA. A script was provided to the patient at his last visit to undergo an MRI of the brain without contrast for further evaluation of his headaches as well as recent TIA. Authorization was previously pending but was recently approved. He complains of ongoing dull chest pain and discomfort post-hospitalization. He denies any syncope or near-syncopal events.
+Echocardiogram: Preserved ejection fraction of 55% to 60% with mild TR noted.
+Carotid doppler: Mild atherosclerotic disease.
+BLE venous reflux study: Negative for any DVT but positive for BLE reflux.
+MCT monitor: sinus rhythm 100% of the time.
+As he complains of ongoing dull chest pain and discomfort, we will arrange further ischemic evaluation with coronary stress testing with Lexiscan on today's visit. Risks, benefits, and alternatives to the diagnostic study were discussed in great detail. He was encouraged to complete his MRI of the brain without contrast for further evaluation of his headaches and history of recent TIA. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. He is to follow up in 1 week to review and discuss his Lexiscan results or sooner should symptoms worsen. He agrees to the plan of care.
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/22/2025
+Transition of Care
+This is a 43-year-old male, non-smoker, referred by Lucy Fratto with a significant medical history of depression and mood disorder for which he follows with his psychiatrist, Dr. Al-Tariq, who presents today for initial CV consultation after a recent hospitalization for TIA. He is a heavy equipment operator for union. He has 2 healthy children and lives in Mount Hope. His PCP is Dr. Hirsch who he has yet to establish care with. He follows with psychiatry, Dr. Al-Tariq. He has a family history of his dad passing in his 60s but he is unsure of the cause and his mother is alive and healthy. He has a past surgical history of surgical intervention of his knee 9 years ago and rhinoplasty after fracture. His only medications include aspirin, Lamictal and Prozac at this time. He was hospitalized approximately 1 week ago after having an episode while in Seaside, New Jersey were he had an episode of epigastric chest pain which he initially believed was heartburn. He reports that it worsened and developed into severe chest pain and had difficulty breathing. He reports that his face and his arm went numb. He called 911 and was transported to Barnabas Community Hospital in Toms River where he was subsequently hospitalized for TIA. He was hospitalized for 3 days and was discharged in stable condition and advised to follow with a primary cardiologist. He received a TNK shot while hospitalized and complains of burning his shoulders across his ribs and in his groin area. He reports that while hospitalized he underwent evaluation with several CT scans and MRIs, all of which were within normal limits. He complains of ongoing dull chest pain and discomfort post hospitalization. He also complains of lower extremity heaviness and aching, more towards his feet. He denies any syncope or near-syncopal events.
+Echocardiogram: Preserved ejection fraction of 55% to 60% with mild TR noted.
+Carotid doppler: Mild atherosclerotic disease.
+BLE venous reflux study: Negative for any DVT but positive for BLE reflux.
+We will arrange for routine blood work to be completed on today's visit for assessment of overall health as well as apolipoprotein B and lipoprotein A for assessment of genetic predisposition to hyperlipidemia. We will arrange for H. pylori testing on today's visit given his complaints of epigastric chest burning and discomfort which he described as heartburn. We will arrange for an EKG at his next visit for evaluation of his chest pain. For further evaluation of his chest pain and discomfort, we will arrange for echocardiogram on today's visit. Preliminary images were reviewed and discussed revealing a preserved ejection fraction of 55% to 60% with mild TR noted. We will arrange for further ischemic evaluation of his chest pain with ETT and coronary stress testing with Lexiscan at a future visit. On today's visit, we will arrange for carotid doppler given his given recent TIA. Preliminary images were reviewed and discussed revealing mild atherosclerotic disease. He complains of leg pain and discomfort. We will arrange for an ABI/PVR at his next visit as well as BLE arterial doppler. Given his lower extremity heaviness and swelling towards his feet, we will arrange for venous reflux exam on today's visit. Preliminary images were reviewed and discussed which were negative for any DVT but positive for BLE reflux. We will arrange for an event monitor to be placed given recent TIA and complaints of chest pain. We will obtain hospital records from Barnabas Community Hospital in Toms River given his recent hospitalization. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. He is to follow up on Monday or sooner should symptoms worsen. He agrees to the plan of care
+
+

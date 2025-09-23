@@ -1,0 +1,521 @@
+=== ALLERGIES ===
+Allergen (clinical drug ingredient)
+Drug/Non Drug Allergy documented on EMR
+Reaction
+Allergy Type
+Onset Date
+Status
+All nuts (uncoded)
+anaphylaxis
+Allergy
+Active
+Environmental, seasonal (uncoded)
+nasal congestion, rhinorrhea, HA, asthma
+Allergy
+Active
+Seafood
+Seafood (uncoded)
+anaphylaxis
+Allergy
+Active
+Levaquin
+anaphylaxis
+Drug Allergy
+Active
+atorvastatin
+Lipitor
+hives
+Drug Allergy
+Active
+
+
+=== RESULTS ===
+No Results
+
+
+=== REASON FOR REFERRAL ===
+No Information
+
+
+=== REASON FOR VISIT ===
+Leg swelling, review of recent labs
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+hydrOXYzine HCl 10 MG
+1 tablet as needed Orally Once a day
+PRN
+Unknown
+Singulair 10 MG
+1 tablet Orally Once a day
+Unknown
+Xanax 0.5 MG
+1 tablet Orally Twice a day
+Unknown
+methIMAzole 5 MG
+1 tablet Orally Once a day
+Unknown
+Juven -
+as directed Orally
+Unknown
+Theratears
+0.25% solution
+Unknown
+Vitamin C
+Unknown
+Probiotic
+Unknown
+Calcium
+Unknown
+Lidocaine 4 %
+1 patch as needed Externally Once a day
+Unknown
+Fluticasone Propionate 50 MCG/ACT
+2 sprays in each nostril Nasally Once a day
+Unknown
+Loratadine 10 MG
+1 tablet Orally Once a day
+Unknown
+Budesonide-Formoterol Fumarate 160-4.5 MCG/ACT
+2 puffs Inhalation Twice a day
+Unknown
+Vitamin D 50 MCG (2000 UT)
+1 tablet Orally Once a day
+Unknown
+Omeprazole 40 MG
+1 capsule 30 minutes before morning meal Orally Once a day
+Unknown
+busPIRone HCl 10 MG
+1 tablet Orally Twice a day
+Unknown
+Ondansetron HCl 4 MG
+1 tablet Orally Once a day; Duration: 30 day(s)
+PRN
+06/11/2024
+Unknown
+metroNIDAZOLE 1 %
+1 application Externally Once a day; Duration: 30 days
+07/01/2025
+07/31/2025
+Active
+Ibuprofen 800 MG
+1 tablet with food or milk as needed Orally every 8 hrs
+Unknown
+NexIUM 40 MG
+1 capsule Orally Once a day
+Unknown
+Amoxicillin-Pot Clavulanate 500-125 MG
+1 tablet Orally every 12 hrs; Duration: 7 day(s)
+07/11/2025
+07/18/2025
+Active
+Repatha 140 MG/ML
+1 mL Subcutaneous every other week; Duration: 30 days
+05/15/2024
+Unknown
+Benzonatate 100 MG
+1 capsule as needed Orally Three times a day
+02/09/2024
+Unknown
+Benzonatate 100 MG
+1 capsule as needed orally Three times a day; Duration: 14 day(s)
+01/31/2024
+Unknown
+Levocetirizine Dihydrochloride 5 MG
+1 tablet in the evening Orally Once a day; Duration: 30 days
+07/18/2025
+08/17/2025
+Active
+Albuterol Sulfate HFA 108 (90 Base) MCG/ACT
+1 puff as needed Inhalation every 4 hrs
+Unknown
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Vitamin B>12< deficiency anaemia (49472006)
+Vitamin B12 deficiency anemia, unspecified (D51.9)
+Active
+confirmed
+Problem
+Hyperprolactinemia (237662005)
+Hyperprolactinemia (E22.1)
+Active
+confirmed
+Problem
+Hyperlipidemia (55822004)
+Hyperlipidemia, unspecified (E78.5)
+Active
+confirmed
+Problem
+Restless legs syndrome (32914008)
+Restless legs syndrome (G25.81)
+Active
+confirmed
+Problem
+Rheumatoid lung disease (398726004)
+Rheumatoid lung disease with rheumatoid arthritis of unspecified site (M05.10)
+Active
+confirmed
+Problem
+Paresthesia (finding) (91019004)
+Paresthesia of skin (R20.2)
+Active
+confirmed
+Problem
+hypercholesterolemia (disorder) (13644009)
+Hypercholesteremia (E78.00)
+Active
+confirmed
+Problem
+Venous insufficiency of leg (disorder) (234050002)
+Venous insufficiency (I87.2)
+Active
+confirmed
+Problem
+Essential hypertension (59621000)
+Hypertension, unspecified type (I10)
+Active
+confirmed
+Problem
+Hyperlipidaemia (55822004)
+Hyperlipidemia, unspecified hyperlipidemia type (E78.5)
+Active
+confirmed
+Problem
+Claudication (63491006)
+Claudication (I73.9)
+Active
+confirmed
+Problem
+Hypothyroidism (40930008)
+Hypothyroidism, unspecified type (E03.9)
+Active
+confirmed
+Problem
+Asthma without status asthmaticus (55570000)
+Asthma, unspecified asthma severity, unspecified whether complicated, unspecified whether persistent (J45.909)
+Active
+confirmed
+Problem
+Vitamin D deficiency (34713006)
+Vitamin D deficiency (E55.9)
+Active
+confirmed
+Problem
+Anxiety (48694002)
+Anxiety (F41.9)
+Active
+confirmed
+Problem
+Lupus anticoagulant disorder (19267009)
+Lupus anticoagulant disorder (D68.62)
+Active
+confirmed
+Problem
+Pain at rest of bilateral lower limbs due to atherosclerosis (disorder) (12236991000119103)
+Rest pain of both lower extremities due to atherosclerosis (I70.223)
+Active
+confirmed
+Problem
+Skin sensation disturbance (80910005)
+Tingling of both feet (R20.2)
+Active
+confirmed
+Problem
+Burning sensation of skin (762397008)
+Burning sensation of skin (R20.8)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+Blood pressure systolic
+124 mm Hg
+07/18/2025
+Blood pressure diastolic
+80 mm Hg
+07/18/2025
+Heart Rate
+74 /min
+07/18/2025
+Respiratory Rate
+16 /min
+07/18/2025
+Oximetry
+97 %
+07/18/2025
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+EM Middletown Office
+528 East Main St MIDDLETOWN, NY 10940-2632
+07/18/2025
+MARION HAYES
+Asthma, unspecified asthma severity, unspecified whether complicated, unspecified whether persistent J45.909 ; Leg swelling M79.89 ; Acute sinusitis, unspecified J01.90 ; Pain in leg, unspecified M79.606 ; Abnormal level of hormones in specimens from female genital organs R87.1 ; Disorder of thyroid, unspecified E07.9 ; Hormone replacement therapy Z79.890 ; Vitamin B deficiency, unspecified E53.9 ; Raised antibody titer R76.0 ; Elevated erythrocyte sedimentation rate R70.0 ; Lupus anticoagulant disorder D68.62 ; Lyme disease A69.20 ; Hyperprolactinemia E22.1 ; Rheumatoid lung disease with rheumatoid arthritis of unspecified site M05.10 ; Hypothyroidism, unspecified type E03.9 ; Flushing R23.2 ; Hyperlipidemia, unspecified hyperlipidemia type E78.5 ; Rash and nonspecific skin eruption R21 ; Deficiency of other specified B group vitamins E53.8 ; Vitamin B12 deficiency anemia, unspecified D51.9 ; Former smoker Z87.891 ; Hypercholesteremia E78.00 ; Vitamin D deficiency E55.9 ; Claudication I73.9 ; Hypertension, unspecified type I10 ; Rest pain of both lower extremities due to atherosclerosis I70.223 ; Anxiety F41.9 ; Palpitations R00.2 ; Fatigue, unspecified type R53.83 ; Leg heaviness R29.898 ; Leg numbness R20.0 ; Blurred vision H53.8 ; Ocular pain, unspecified eye H57.10 ; Paresthesia of skin R20.2 ; Anesthesia of skin R20.0 ; Tingling of both feet R20.2 ; Decreased pedal pulses R09.89 ; Restless legs syndrome G25.81 ; Cold feet R20.9 ; Burning sensation of skin R20.8 ; Dizziness R42 ; Venous insufficiency I87.2 and Person consulting for explanation of examination or test findings Z71.2
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Treatment Notes
+Section Notes
+encounter date : 07/18/2025
+Asthma, unspecified asthma severity, unspecified whether complicated, unspecified whether persistent (ICD-10 - J45.909)
+encounter date : 07/18/2025
+Leg swelling (ICD-10 - M79.89)
+encounter date : 07/18/2025
+Acute sinusitis, unspecified (ICD-10 - J01.90)
+encounter date : 07/18/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 07/18/2025
+Abnormal level of hormones in specimens from female genital organs (ICD-10 - R87.1)
+encounter date : 07/18/2025
+Disorder of thyroid, unspecified (ICD-10 - E07.9)
+encounter date : 07/18/2025
+Hormone replacement therapy (ICD-10 - Z79.890)
+encounter date : 07/18/2025
+Vitamin B deficiency, unspecified (ICD-10 - E53.9)
+encounter date : 07/18/2025
+Raised antibody titer (ICD-10 - R76.0)
+encounter date : 07/18/2025
+Elevated erythrocyte sedimentation rate (ICD-10 - R70.0)
+encounter date : 07/18/2025
+Lupus anticoagulant disorder (ICD-10 - D68.62)
+encounter date : 07/18/2025
+Lyme disease (ICD-10 - A69.20)
+encounter date : 07/18/2025
+Hyperprolactinemia (ICD-10 - E22.1)
+encounter date : 07/18/2025
+Rheumatoid lung disease with rheumatoid arthritis of unspecified site (ICD-10 - M05.10)
+encounter date : 07/18/2025
+Hypothyroidism, unspecified type (ICD-10 - E03.9)
+encounter date : 07/18/2025
+Flushing (ICD-10 - R23.2)
+encounter date : 07/18/2025
+Hyperlipidemia, unspecified hyperlipidemia type (ICD-10 - E78.5)
+encounter date : 07/18/2025
+Rash and nonspecific skin eruption (ICD-10 - R21)
+encounter date : 07/18/2025
+Deficiency of other specified B group vitamins (ICD-10 - E53.8)
+encounter date : 07/18/2025
+Vitamin B12 deficiency anemia, unspecified (ICD-10 - D51.9)
+encounter date : 07/18/2025
+Former smoker (ICD-10 - Z87.891)
+encounter date : 07/18/2025
+Hypercholesteremia (ICD-10 - E78.00)
+encounter date : 07/18/2025
+Vitamin D deficiency (ICD-10 - E55.9)
+encounter date : 07/18/2025
+Claudication (ICD-10 - I73.9)
+encounter date : 07/18/2025
+Hypertension, unspecified type (ICD-10 - I10)
+encounter date : 07/18/2025
+Rest pain of both lower extremities due to atherosclerosis (ICD-10 - I70.223)
+encounter date : 07/18/2025
+Anxiety (ICD-10 - F41.9)
+encounter date : 07/18/2025
+Palpitations (ICD-10 - R00.2)
+encounter date : 07/18/2025
+Fatigue, unspecified type (ICD-10 - R53.83)
+encounter date : 07/18/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 07/18/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 07/18/2025
+Blurred vision (ICD-10 - H53.8)
+encounter date : 07/18/2025
+Ocular pain, unspecified eye (ICD-10 - H57.10)
+encounter date : 07/18/2025
+Paresthesia of skin (ICD-10 - R20.2)
+encounter date : 07/18/2025
+Anesthesia of skin (ICD-10 - R20.0)
+encounter date : 07/18/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 07/18/2025
+Decreased pedal pulses (ICD-10 - R09.89)
+encounter date : 07/18/2025
+Restless legs syndrome (ICD-10 - G25.81)
+encounter date : 07/18/2025
+Cold feet (ICD-10 - R20.9)
+encounter date : 07/18/2025
+Burning sensation of skin (ICD-10 - R20.8)
+encounter date : 07/18/2025
+Dizziness (ICD-10 - R42)
+encounter date : 07/18/2025
+Venous insufficiency (ICD-10 - I87.2)
+encounter date : 07/18/2025
+Person consulting for explanation of examination or test findings (ICD-10 - Z71.2)
+encounter date : 07/18/2025
+Other
+We reviewed and discussed the results of her recent labs. Her B12 levels, although normal, were on the low end in the 200s. We will administer B12 1000 mcg SC to the left arm for her fatigue. Side effects discussed. She was advised to continue to follow with Dr. Koren, ophthalmology. We will also discontinue her Singulair as she was having side effects and start her on Xyzal 5 mg daily. Side effects were discussed. For her leg swelling and associated ache with known venous insufficiency, we will also arrange for venous ablation therapy, which we will arrange in two weeks' time. Risks, benefits and alternatives were discussed in the great detail. She reports she is depending a colonoscopy with her new gastroenterologist in Sleepy Hollow on 08/05. We discussed the importance of compliance. She was advised to maintain a healthy diet and healthy lifestyle. We will see her back for venous ablation therapy in two weeks or sooner if symptoms arise. She agrees with the plan of care.
+The patient was monitored for over 15 minutes post procedure. The patient was evaluated for any adverse or allergic reaction. Vital signs remained stable. No indication of any adverse reaction to the site or to any allergic reaction. Blood pressure remained stable.
+
+
+=== PLAN OF TREATMENT ===
+Medication
+Medication Name
+Sig
+Start Date
+Stop Date
+Notes
+Levocetirizine Dihydrochloride 5 MG
+1 tablet in the evening Orally Once a day; Duration: 30 days
+07/18/2025
+08/17/2025
+Treatment Notes
+Assessment
+Notes
+Other
+We reviewed and discussed the results of her recent labs. Her B12 levels, although normal, were on the low end in the 200s. We will administer B12 1000 mcg SC to the left arm for her fatigue. Side effects discussed. She was advised to continue to follow with Dr. Koren, ophthalmology. We will also discontinue her Singulair as she was having side effects and start her on Xyzal 5 mg daily. Side effects were discussed. For her leg swelling and associated ache with known venous insufficiency, we will also arrange for venous ablation therapy, which we will arrange in two weeks' time. Risks, benefits and alternatives were discussed in the great detail. She reports she is depending a colonoscopy with her new gastroenterologist in Sleepy Hollow on 08/05. We discussed the importance of compliance. She was advised to maintain a healthy diet and healthy lifestyle. We will see her back for venous ablation therapy in two weeks or sooner if symptoms arise. She agrees with the plan of care.
+The patient was monitored for over 15 minutes post procedure. The patient was evaluated for any adverse or allergic reaction. Vital signs remained stable. No indication of any adverse reaction to the site or to any allergic reaction. Blood pressure remained stable.
+Future Test
+Test Name
+Order Date
+Venous Ablation
+07/20/2025
+Next Appt
+Details
+Follow Up: 1 Week, Reason:
+Provider Name:MARION HAYES, 09/16/2025 09:15:00 AM, 528 East Main St, MIDDLETOWN, NY, 10940-2632, 877-374-2362
+Provider Name:RISHI BAJAJ, 09/19/2025 04:00:00 PM, 528 East Main St, MIDDLETOWN, NY, 10940-2632, 877-374-2362
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Aetna Health
+PO BOX 981106 EL PASO, TX 79998-1107
+102026205700
+Diaz, Maria
+Self - patient is the insured
+Affinity by Molina Healthcare NY
+PO BOX 22615 LONG BEACH, CA 90801-5637
+800-223-7242
+AQ06345C
+Diaz, Maria
+Self - patient is the insured
+Medicare of New York  Downstate  J13
+PO BOX 6178 INDIANAPOLIS, IN 462066178
+866-837-0241
+1AK5QK4DM86
+Diaz, Maria
+Self - patient is the insured
+Medicaid of New York
+PO BOX 4601 RENSSELAER, NY 121444602
+AQ06345C
+Diaz, Maria
+Self - patient is the insured
+
+
+=== PROGRESS NOTES ===
+Examination
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normo normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI, orbital ecchymosis noted. Fluid collection, right
+lateral lower lid. Surgical incisions bilaterally. Asymmetrical eyelids and fluid collection, right
+lateral lower lid with surgical incisions and sutures remaining in place on the
+upper eyelids.
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Skin:
+left arm SC injection site clean, no redness, swelling, or induration noted post-injection
+Extremities:
+Trace
+edema in her lower extremities with marked varicosities and reticular veins
+noted bilateral lower extremities, leg swelling
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+
+=== HISTORY AND PHYSICAL NOTES ===
+HPI (History of Present Illness)
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+Transition of Care
+This is a 63-year-old female, former smoker, with a history of asthma, anemia, HLD, hypothyroidism and anxiety, who presents today for a cardiovascular follow-up for fatigue and leg swelling. She recently followed with Dr. Koren, ophthalmologist, for her eyes and was provided with eyedrops for bilateral ptosis, which has been ongoing. She also reports intermittent leg swelling along with associated fatigue. She reports her Singulair was making her angry and giving her mood disturbances, so she discontinued it on her own. She is looking for an alternative to Singulair. She additionally complains of intermittent fatigue. She complains of leg swelling at times as well. She denies any chest pain, chest pressure, shortness of breath, syncope or near-syncopal events.
+Venous reflux study: Significant reflux in bilateral GSV
+Echocardiogram: LVEF 55-60%, mild pulmonary hypertension with PASP of 30 mmHg.
+BLE arterial doppler: Significant stenosis with possible infrapopliteal bilateral stenosis.
+Carotid doppler:  Mild plaque.
+AAA screen: Mild-to-moderate plaque, no significant evidence of abdominal uretic aneurysm.
+Peripheral angiogram; 02/12/25; right femoral artery access revealing RSFA 40% stenosis and LSFA 50% stenosis.
+BLE arterial doppler: Patent flow.
+Venous reflux:  Mild reflux and no significant DVT.
+We reviewed and discussed the results of her recent labs. Her B12 levels, although normal, were on the low end in the 200s. We will administer B12 1000 mcg SC to the left arm for her fatigue. Side effects discussed. She was advised to continue to follow with Dr. Koren, ophthalmology. We will also discontinue her Singulair as she was having side effects and start her on Xyzal 5 mg daily. Side effects were discussed. For her leg swelling and associated ache with known venous insufficiency, we will also arrange for venous ablation therapy, which we will arrange in two weeks' time. Risks, benefits and alternatives were discussed in the great detail. She reports she is depending a colonoscopy with her new gastroenterologist in Sleepy Hollow on 08/05. We discussed the importance of compliance. She was advised to maintain a healthy diet and healthy lifestyle. All questions and concerns were answered and addressed. We will see her back for venous ablation therapy in two weeks or sooner if symptoms arise. She agrees with the plan of care.
+
+

@@ -1,0 +1,761 @@
+=== ALLERGIES ===
+No Information
+
+
+=== RESULTS ===
+Component
+Value
+Reference Range
+Notes
+IRON, TIBC AND FERRITIN PANEL (5616) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+IRON, TOTAL
+113
+40-190 mcg/dL
+IRON BINDING CAPACITY
+389
+250-450 mcg/dL (calc)
+% SATURATION
+29
+16-45 % (calc)
+FERRITIN
+38
+16-154 ng/mL
+THYROID PANEL WITH TSH (7444) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+T3 UPTAKE
+30
+22-35 %
+T4 (THYROXINE), TOTAL
+7.0
+5.1-11.9 mcg/dL
+FREE T4 INDEX (T7)
+2.1
+1.4-3.8
+TSH
+2.33
+Reference Range
+> or = 20 Years  0.40-4.50
+Pregnancy Ranges
+First trimester    0.26-2.66
+Second trimester   0.55-2.73
+Third trimester    0.43-2.91
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+CHOLESTEROL, TOTAL
+223
+<200 mg/dL
+HDL CHOLESTEROL
+50
+> OR = 50 mg/dL
+TRIGLYCERIDES
+215
+<150 mg/dL
+If a non-fasting specimen was collected, consider
+repeat triglyceride testing on a fasting specimen
+if clinically indicated.
+Jacobson et al. J. of Clin. Lipidol. 2015;9:129-169.
+LDL-CHOLESTEROL
+137
+Reference range: <100
+Desirable range <100 mg/dL for primary prevention;
+<70 mg/dL for patients with CHD or diabetic patients
+with > or = 2 CHD risk factors.
+LDL-C is now calculated using the Martin-Hopkins
+calculation, which is a validated novel method providing
+better accuracy than the Friedewald equation in the
+estimation of LDL-C.
+Martin SS et al. JAMA. 2013;310(19): 2061-2068
+(http://education.QuestDiagnostics.com/faq/FAQ164)
+CHOL/HDLC RATIO
+4.5
+<5.0 (calc)
+NON HDL CHOLESTEROL
+173
+<130 mg/dL (calc)
+For patients with diabetes plus 1 major ASCVD risk
+factor, treating to a non-HDL-C goal of <100 mg/dL
+(LDL-C of <70 mg/dL) is considered a therapeutic
+option.
+COMPREHENSIVE METABOLIC PANEL (10231) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+GLUCOSE
+83
+65-99 mg/dL
+Fasting reference interval
+UREA NITROGEN (BUN)
+13
+7-25 mg/dL
+CREATININE
+0.65
+0.50-0.97 mg/dL
+EGFR
+116
+> OR = 60 mL/min/1.73m2
+BUN/CREATININE RATIO
+SEE NOTE:
+6-22 (calc)
+Not Reported: BUN and Creatinine are within
+reference range.
+SODIUM
+140
+135-146 mmol/L
+POTASSIUM
+4.0
+3.5-5.3 mmol/L
+CHLORIDE
+105
+98-110 mmol/L
+CARBON DIOXIDE
+25
+20-32 mmol/L
+CALCIUM
+10.0
+8.6-10.2 mg/dL
+PROTEIN, TOTAL
+6.9
+6.1-8.1 g/dL
+ALBUMIN
+4.8
+3.6-5.1 g/dL
+GLOBULIN
+2.1
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+2.3
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.4
+0.2-1.2 mg/dL
+ALKALINE PHOSPHATASE
+69
+31-125 U/L
+AST
+22
+10-30 U/L
+ALT
+35
+6-29 U/L
+HEPATIC FUNCTION PANEL (10256) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+PROTEIN, TOTAL
+6.9
+6.1-8.1 g/dL
+ALBUMIN
+4.8
+3.6-5.1 g/dL
+GLOBULIN
+2.1
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+2.3
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.4
+0.2-1.2 mg/dL
+BILIRUBIN, DIRECT
+0.1
+< OR = 0.2 mg/dL
+BILIRUBIN, INDIRECT
+0.3
+0.2-1.2 mg/dL (calc)
+ALKALINE PHOSPHATASE
+69
+31-125 U/L
+AST
+22
+10-30 U/L
+ALT
+35
+6-29 U/L
+LIPOPROTEIN (a) (34604) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+LIPOPROTEIN (a)
+42
+Reference Range  <75
+Risk:
+Optimal          <75
+Moderate         75-125
+High             >125
+Cardiovascular event risk category
+cut points (optimal, moderate, high)
+are based on Tsimika S. JACC
+2017;69:692-711.
+CBC (INCLUDES DIFF/PLT) (6399) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+WHITE BLOOD CELL COUNT
+7.1
+3.8-10.8 Thousand/uL
+RED BLOOD CELL COUNT
+5.04
+3.80-5.10 Million/uL
+HEMOGLOBIN
+14.9
+11.7-15.5 g/dL
+HEMATOCRIT
+45.7
+35.0-45.0 %
+MCV
+90.7
+80.0-100.0 fL
+MCH
+29.6
+27.0-33.0 pg
+MCHC
+32.6
+32.0-36.0 g/dL
+For adults, a slight decrease in the calculated MCHC
+value (in the range of 30 to 32 g/dL) is most likely
+not clinically significant; however, it should be
+interpreted with caution in correlation with other
+red cell parameters and the patient's clinical
+condition.
+RDW
+12.8
+11.0-15.0 %
+PLATELET COUNT
+326
+140-400 Thousand/uL
+MPV
+10.1
+7.5-12.5 fL
+ABSOLUTE NEUTROPHILS
+4146
+1500-7800 cells/uL
+ABSOLUTE LYMPHOCYTES
+2379
+850-3900 cells/uL
+ABSOLUTE MONOCYTES
+348
+200-950 cells/uL
+ABSOLUTE EOSINOPHILS
+170
+15-500 cells/uL
+ABSOLUTE BASOPHILS
+57
+0-200 cells/uL
+NEUTROPHILS
+58.4
+38-80 %
+LYMPHOCYTES
+33.5
+15-49 %
+MONOCYTES
+4.9
+0-13 %
+EOSINOPHILS
+2.4
+0-8 %
+BASOPHILS
+0.8
+0-2 %
+HEMOGLOBIN A1c (496) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+HEMOGLOBIN A1c
+5.1
+<5.7 %
+For the purpose of screening for the presence of
+diabetes:
+<5.7%       Consistent with the absence of diabetes
+5.7-6.4%    Consistent with increased risk for diabetes
+(prediabetes)
+> or =6.5%  Consistent with diabetes
+This assay result is consistent with a decreased risk
+of diabetes.
+Currently, no consensus exists regarding use of
+hemoglobin A1c for diagnosis of diabetes in children.
+According to American Diabetes Association (ADA)
+guidelines, hemoglobin A1c <7.0% represents optimal
+control in non-pregnant diabetic patients. Different
+metrics may apply to specific patient populations.
+Standards of Medical Care in Diabetes(ADA).
+LIPASE (606) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+LIPASE
+24
+7-60 U/L
+AMYLASE (243) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+AMYLASE
+31
+21-101 U/L
+APOLIPOPROTEIN B (5224) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+APOLIPOPROTEIN B
+115
+Reference Range    <90
+Risk Category:
+Optimal         <90
+Moderate        90-129
+High            > or = 130
+A desirable treatment target may be
+<80 mg/dL or lower depending on the
+risk category of the patient including
+patients on lipid lowering therapies,
+patients with ASCVD, diabetes with >1
+risk factors, Stage 3 or greater CKD
+with albuminuria, or heterozygous
+familial hypercholesterolemia. ApoB
+relative risk category cut points are
+based on AACE/ACE and ACC/AHA
+recommendations (Grundy SM, et al.
+2019. doi:10.1016/j.jacc.2018.11.002;
+Handelsman Y, et al. 2020. doi:10.
+4158/CS-2020-0490).
+NO COLLECTION DATE RECEIVED. WE HAVE USED
+THE DATE THE SPECIMEN WAS RECEIVED BY THIS
+LABORATORY AS THE COLLECTION DATE. IF THIS
+IS INCORRECT, PLEASE CONTACT CLIENT SERVICES.
+PHONE NUMBER: 866.697.8378
+VITAMIN B12/FOLATE, SERUM PANEL (7065) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+VITAMIN B12
+681
+200-1100 pg/mL
+FOLATE, SERUM
+5.1
+Reference Range
+Low:           <3.4
+Borderline:    3.4-5.4
+Normal:        >5.4
+VITAMIN D,25-OH,TOTAL,IA (17306) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+VITAMIN D,25-OH,TOTAL,IA
+27
+30-100 ng/mL
+Vitamin D Status         25-OH Vitamin D:
+Deficiency:                    <20 ng/mL
+Insufficiency:             20 - 29 ng/mL
+Optimal:                 > or = 30 ng/mL
+For 25-OH Vitamin D testing on patients on
+D2-supplementation and patients for whom quantitation
+of D2 and D3 fractions is required, the QuestAssureD(TM)
+25-OH VIT D, (D2,D3), LC/MS/MS is recommended: order
+code 92888 (patients >2yrs).
+See Note 1
+Note 1
+For additional information, please refer to
+http://education.QuestDiagnostics.com/faq/FAQ199
+(This link is being provided for informational/
+educational purposes only.)
+HELICOBACTER PYLORI, UREA BREATH TEST (14839) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+HELICOBACTER PYLORI, UREA BREATH TEST
+NOT DETECTED
+NOT DETECTED
+Antimicrobials, proton pump inhibitors, and bismuth
+preparations are known to suppress H. pylori, and
+ingestion of these prior to H. pylori diagnostic testing
+may lead to false negative results. If clinically
+indicated, the test may be repeated on a new specimen
+obtained two weeks after discontinuing treatment.
+However, a positive result is still clinically valid.
+
+
+=== REASON FOR REFERRAL ===
+Reason
+Siegel Lance M MD 30 Hatfield Ln #107, Goshen, NY 10924 (845) 291-1260
+Diagnosis 1
+Unspecified hemorrhoids (K64.9)
+Referral Organization
+Newburgh Office
+Referring Provider First Name
+RISHI
+Referring Provider Last Name
+BAJAJ
+Referring Provider Speciality
+Cardiovascular Disease
+Referred Provider Specialty
+Gastroenterology
+Referral Priority
+Routine
+
+
+=== REASON FOR VISIT ===
+ZocDoc, Illness - Marion Hayes, FNP-BC, MSN, APRN, NP, Rectal pain and pressure
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+Lexapro
+Active
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Anxiety disorder (197480006)
+Anxiety disorder, unspecified (F41.9)
+Active
+confirmed
+Problem
+Alcohol abuse (15167005)
+Alcohol abuse (F10.10)
+Active
+confirmed
+Problem
+Constipation (14760008)
+Constipation, unspecified constipation type (K59.00)
+Active
+confirmed
+Problem
+Obesity (414916001)
+Obesity (BMI 30-39.9) (E66.9)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+No Information
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/15/2025
+RISHI BAJAJ
+Annual physical exam Z00.00 ; Other specified diseases of anus and rectum K62.89 ; Alcohol abuse F10.10 ; Obesity (BMI 30-39.9) E66.9 ; Anxiety disorder, unspecified F41.9 ; BRBPR (bright red blood per rectum) K62.5 ; Abdominal pain, unspecified abdominal location R10.9 and Constipation, unspecified constipation type K59.00
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Treatment Notes
+Section Notes
+encounter date : 09/15/2025
+Annual physical exam (ICD-10 - Z00.00)
+encounter date : 09/15/2025
+Other specified diseases of anus and rectum (ICD-10 - K62.89)
+encounter date : 09/15/2025
+Alcohol abuse (ICD-10 - F10.10)
+encounter date : 09/15/2025
+Obesity (BMI 30-39.9) (ICD-10 - E66.9)
+encounter date : 09/15/2025
+Anxiety disorder, unspecified (ICD-10 - F41.9)
+encounter date : 09/15/2025
+BRBPR (bright red blood per rectum) (ICD-10 - K62.5)
+encounter date : 09/15/2025
+Abdominal pain, unspecified abdominal location (ICD-10 - R10.9)
+encounter date : 09/15/2025
+Constipation, unspecified constipation type (ICD-10 - K59.00)
+encounter date : 09/15/2025
+Other
+On physical examination, the patient is
+normotensive with a blood pressure of 115/70 and a heart rate of 83. It is also
+noted that she has 3 surgical incisions consistent with her 3-point
+laparoscopic appendectomy that are without any evidence of infection. She is
+also noted to have a soft depressible abdomen as well on physical examination.
+She was strongly advised to increase her hydration and we will arrange for
+routine blood work for assessment of overall health as well as amylase and
+lipase given her abdominal complaints, apolipoprotein B and lipoprotein A for
+assessment of genetic predisposition to hyperlipidemia, H. pylori given her
+abdominal discomfort, B12, iron panel, folate and ferritin for evaluation of
+rectal bleeding. We will sending her Anusol suppositories and cream in hopes of
+improving her symptoms and MiraLax 17 g to be taken daily. Side effects were
+discussed in great detail. We will be referring her to Dr. Lance Siegel, GI,
+for possible hemorrhoid evaluation. All questions and concerns were answered
+and addressed. Heart healthy diet and healthy lifestyle encouraged and
+endorsed. She is to follow up in 1 week or sooner should symptoms worsen. She
+agrees to the plan of care.
+Time Spent:
+Total time spent 89 minutes.  More than 50% of the time spent in
+face-to-face conversation, examination, discussing treatment options and
+procedures, pathophysiology, and anatomy. Diet and lifestyle modifications were
+discussed in great detail.  Images were personally reviewed by me in front
+of the patient and/or family member and explained on our graphic diagram.
+Treatment options, risks, benefits and alternative treatments discussed
+with the patient in detail. All questions and concerns answered.  All
+records were reviewed in detail
+
+
+=== PLAN OF TREATMENT ===
+Treatment Notes
+Assessment
+Notes
+Other
+On physical examination, the patient is
+normotensive with a blood pressure of 115/70 and a heart rate of 83. It is also
+noted that she has 3 surgical incisions consistent with her 3-point
+laparoscopic appendectomy that are without any evidence of infection. She is
+also noted to have a soft depressible abdomen as well on physical examination.
+She was strongly advised to increase her hydration and we will arrange for
+routine blood work for assessment of overall health as well as amylase and
+lipase given her abdominal complaints, apolipoprotein B and lipoprotein A for
+assessment of genetic predisposition to hyperlipidemia, H. pylori given her
+abdominal discomfort, B12, iron panel, folate and ferritin for evaluation of
+rectal bleeding. We will sending her Anusol suppositories and cream in hopes of
+improving her symptoms and MiraLax 17 g to be taken daily. Side effects were
+discussed in great detail. We will be referring her to Dr. Lance Siegel, GI,
+for possible hemorrhoid evaluation. All questions and concerns were answered
+and addressed. Heart healthy diet and healthy lifestyle encouraged and
+endorsed. She is to follow up in 1 week or sooner should symptoms worsen. She
+agrees to the plan of care.
+Time Spent:
+Total time spent 89 minutes.  More than 50% of the time spent in
+face-to-face conversation, examination, discussing treatment options and
+procedures, pathophysiology, and anatomy. Diet and lifestyle modifications were
+discussed in great detail.  Images were personally reviewed by me in front
+of the patient and/or family member and explained on our graphic diagram.
+Treatment options, risks, benefits and alternative treatments discussed
+with the patient in detail. All questions and concerns answered.  All
+records were reviewed in detail
+Pending Test
+Test Name
+Order Date
+IRON, TIBC AND FERRITIN PANEL (5616)
+09/15/2025
+THYROID PANEL WITH TSH (7444)
+09/15/2025
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852)
+09/15/2025
+COMPREHENSIVE METABOLIC PANEL (10231)
+09/15/2025
+HEPATIC FUNCTION PANEL (10256)
+09/15/2025
+LIPOPROTEIN (a) (34604)
+09/15/2025
+CBC (INCLUDES DIFF/PLT) (6399)
+09/15/2025
+HEMOGLOBIN A1c (496)
+09/15/2025
+LIPASE (606)
+09/15/2025
+AMYLASE (243)
+09/15/2025
+APOLIPOPROTEIN B (5224)
+09/15/2025
+FOLATE, SERUM (466)
+09/15/2025
+VITAMIN B12/FOLATE, SERUM PANEL (7065)
+09/15/2025
+FERRITIN (457)
+09/15/2025
+VITAMIN D,25-OH,TOTAL,IA (17306)
+09/15/2025
+HELICOBACTER PYLORI, UREA BREATH TEST (14839)
+09/15/2025
+Referrals
+Referral Date
+Details
+09/15/2025
+09/15/2025, Siegel Lance M MD 30 Hatfield Ln #107, Goshen, NY 10924 (845) 291-1260
+Next Appt
+Details
+Follow Up: 1 Week, Reason:
+Provider Name:RISHI BAJAJ, 09/22/2025 08:30:00 AM, 4 HDSN VLY PROF PLZ, Suite B, NEWBURGH, NY, 12550-3157, 781-530-0070
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Aetna
+PO BOX 30259 TAMPA, FL 33630-3294
+800-314-3938
+W220167030
+Van Arsdale, Corinne
+Self - patient is the insured
+
+
+=== PROGRESS NOTES ===
+Examination
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, no lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+
+=== HISTORY AND PHYSICAL NOTES ===
+HPI (History of Present Illness)
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+Transition of Care
+This is a 38-year-old female, non-smoker, rarely consumes alcohol, referred online with a significant medical history of obesity and anxiety, who presents today for initial CV consultation with complaints of rectal pain and pressure. She is self-employed as a wedding planner. She has no children and lives in Newburgh. Her PCP is Optum Health. She has a significant family history of hypertension in her father. She has a surgical history of recent appendectomy. She is currently managed with Lexapro 10 mg daily, which she tolerates well. She reports maintaining a balanced diet. She reports ongoing rectal pain and pressure prior to her being diagnosed with appendicitis approximately 2 weeks ago. She reports going to the ED for severe abdominal pain and bright red rectal bleeding and pain and was diagnosed with appendicitis and underwent laparoscopic appendectomy, which she reports to have tolerated well but has ongoing rectal pain and rectal bleeding. She complains of some burning and pressure as well and reports that the surgery was uneventful without any complication. She notes mild constipation and straining as well at times. She denies any active chest pain, chest pressure, syncope, or near-syncopal events.
+On physical examination, the patient is normotensive with a blood pressure of 115/70 and a heart rate of 83. It is also noted that she has 3 surgical incisions consistent with her 3-point laparoscopic appendectomy that are without any evidence of infection. She is also noted to have a soft depressible abdomen as well on physical examination. She was strongly advised to increase her hydration and we will arrange for routine blood work for assessment of overall health as well as amylase and lipase given her abdominal complaints, apolipoprotein B and lipoprotein A for assessment of genetic predisposition to hyperlipidemia, H. pylori given her abdominal discomfort, B12, iron panel, folate and ferritin for evaluation of rectal bleeding. We will sending her Anusol suppositories and cream in hopes of improving her symptoms and MiraLax 17 g to be taken daily. Side effects were discussed in great detail. We will be referring her to Dr. Lance Siegel, GI, for possible hemorrhoid evaluation. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. She is to follow up in 1 week or sooner should symptoms worsen. She agrees to the plan of care
+
+
+=== CONSULTATION REQUEST NOTES ===
+Referral Date
+Referring Provider
+Referred Provider
+Notes
+09/15/2025
+BAJAJ, RISHI
+,
+Siegel Lance M MD 30 Hatfield Ln #107, Goshen, NY 10924 (845) 291-1260
+
+

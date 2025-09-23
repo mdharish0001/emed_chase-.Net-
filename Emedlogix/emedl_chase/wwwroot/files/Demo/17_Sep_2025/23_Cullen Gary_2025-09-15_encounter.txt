@@ -1,0 +1,393 @@
+=== ALLERGIES ===
+No Known Allergies
+
+
+=== RESULTS ===
+No Results
+
+
+=== REASON FOR REFERRAL ===
+No Information
+
+
+=== REASON FOR VISIT ===
+Lexi, Shortness of breath
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+Ranolazine ER 1000 MG
+1 tablet Orally Twice a day; Duration: 90 days
+05/15/2024
+Active
+Plavix 75 MG
+1 tablet Orally Once a day; Duration: 90 days
+04/30/2024
+Active
+Crestor 10 MG
+1 tablet Orally Once a day; Duration: 90 days
+Active
+Toprol XL 25 MG
+1 tablet Orally Once a day; Duration: 90 days
+03/26/2024
+Active
+amLODIPine Besylate 5 MG
+1 tablet Orally Once a day; Duration: 90 days
+03/26/2024
+Active
+oxyCODONE-Acetaminophen 5-325 MG
+1 tablet as needed Orally every 12 hrs; Duration: 30 days
+As needed
+09/10/2025
+10/10/2025
+Active
+Voltaren 1 %
+as directed Externally every day; Duration: 30 days
+03/04/2024
+Active
+Topamax 25 MG
+1 tablet Orally Once a day; Duration: 90 days
+Active
+Gabapentin 300 MG
+1 capsule Orally three times daily; Duration: 30 days
+Active
+Nitroglycerin 0.4 MG
+1 tablet under the tongue and allow to dissolve as needed. Take every 5 minutes up to 3 times if chest pain persists Sublingual once a day; Duration: 90 days
+05/05/2024
+11/24/2025
+Active
+Vitamin D (Ergocalciferol) 50000 UNIT
+1 capsule Orally once per week; Duration: 90 days
+03/26/2024
+09/22/2025
+Active
+Symbicort 160-4.5 MCG/ACT
+1 puff as needed Inhalation every 4 hrs
+Active
+DULoxetine HCl 60 MG
+1 capsule Orally Once a day; Duration: 90 days
+Active
+predniSONE 10 MG
+1 tablet Orally Once a day
+Active
+Lidocaine 4 %
+1 patch as needed Externally Once a day; Duration: 30 days
+08/25/2024
+Active
+Valium 5 MG
+1 tablet as needed Orally Once a day; Duration: 1 days
+04/23/2024
+Active
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Hyperlipidemia (55822004)
+Hyperlipidemia, unspecified (E78.5)
+Active
+confirmed
+Problem
+Refractory migraine with aura (423683008)
+Migraine with aura, intractable, with status migrainosus (G43.111)
+Active
+confirmed
+Problem
+Chronic pain (82423001)
+Other chronic pain (G89.29)
+Active
+confirmed
+Problem
+Emphysema (49158009)
+Emphysema, unspecified (J43.9)
+Active
+confirmed
+Problem
+Fibromyalgia (203082005)
+Fibromyalgia (M79.7)
+Active
+confirmed
+Problem
+Peripheral vascular disease (400047006)
+PAD (peripheral artery disease) (I73.9)
+Active
+confirmed
+Problem
+Claudication (63491006)
+Claudication (I73.9)
+Active
+confirmed
+Problem
+Current smoker (77176002)
+Current smoker (F17.200)
+Active
+confirmed
+Problem
+Vitamin D deficiency (34713006)
+Vitamin D deficiency (E55.9)
+Active
+confirmed
+Problem
+Obstructive sleep apnea syndrome (78275009)
+Obstructive sleep apnea syndrome (G47.33)
+Active
+confirmed
+Problem
+Varicose veins of lower extremity (72866009)
+Varicose veins of lower extremities with other complications (I83.893)
+Active
+confirmed
+Problem
+Skin sensation disturbance (80910005)
+Tingling of both feet (R20.2)
+Active
+confirmed
+Problem
+Neck pain (81680005)
+Neck pain (M54.2)
+Active
+confirmed
+Problem
+Atherosclerosis of coronary artery without angina pectoris (451041000124103)
+Atherosclerosis of native coronary artery of native heart without angina pectoris (I25.10)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+No Information
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/15/2025
+RISHI BAJAJ
+Palpitations R00.2 ; Shortness of breath on exertion R06.02 ; Spontaneous ecchymoses R23.3 ; Other chronic pain G89.29 ; Fibromyalgia M79.7 ; Chest discomfort R07.89 ; Neck pain M54.2 ; PAD (peripheral artery disease) I73.9 ; Dizziness R42 ; Muscle spasms of lower extremity M62.838 ; Back pain, unspecified back location, unspecified back pain laterality, unspecified chronicity M54.9 ; Chest pain in adult R07.9 ; Emphysema, unspecified J43.9 ; Abnormal ankle brachial index (ABI) R68.89 ; Vitamin D deficiency E55.9 ; Hyperlipidemia, unspecified E78.5 ; Claudication I73.9 ; Atherosclerosis of native coronary artery of native heart without angina pectoris I25.10 ; Fatigue, unspecified type R53.83 ; Varicose veins of lower extremities with other complications I83.893 ; Leg cramps R25.2 ; Obstructive sleep apnea syndrome G47.33 ; Current smoker F17.200 ; Leg numbness R20.0 and Tingling of both feet R20.2
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Treatment Notes
+Section Notes
+encounter date : 09/15/2025
+Palpitations (ICD-10 - R00.2)
+encounter date : 09/15/2025
+Shortness of breath on exertion (ICD-10 - R06.02)
+encounter date : 09/15/2025
+Spontaneous ecchymoses (ICD-10 - R23.3)
+encounter date : 09/15/2025
+Other chronic pain (ICD-10 - G89.29)
+encounter date : 09/15/2025
+Fibromyalgia (ICD-10 - M79.7)
+encounter date : 09/15/2025
+Chest discomfort (ICD-10 - R07.89)
+encounter date : 09/15/2025
+Neck pain (ICD-10 - M54.2)
+encounter date : 09/15/2025
+PAD (peripheral artery disease) (ICD-10 - I73.9)
+encounter date : 09/15/2025
+Dizziness (ICD-10 - R42)
+encounter date : 09/15/2025
+Muscle spasms of lower extremity (ICD-10 - M62.838)
+encounter date : 09/15/2025
+Back pain, unspecified back location, unspecified back pain laterality, unspecified chronicity (ICD-10 - M54.9)
+encounter date : 09/15/2025
+Chest pain in adult (ICD-10 - R07.9)
+encounter date : 09/15/2025
+Emphysema, unspecified (ICD-10 - J43.9)
+encounter date : 09/15/2025
+Abnormal ankle brachial index (ABI) (ICD-10 - R68.89)
+encounter date : 09/15/2025
+Vitamin D deficiency (ICD-10 - E55.9)
+encounter date : 09/15/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 09/15/2025
+Claudication (ICD-10 - I73.9)
+encounter date : 09/15/2025
+Atherosclerosis of native coronary artery of native heart without angina pectoris (ICD-10 - I25.10)
+encounter date : 09/15/2025
+Fatigue, unspecified type (ICD-10 - R53.83)
+encounter date : 09/15/2025
+Varicose veins of lower extremities with other complications (ICD-10 - I83.893)
+encounter date : 09/15/2025
+Leg cramps (ICD-10 - R25.2)
+encounter date : 09/15/2025
+Obstructive sleep apnea syndrome (ICD-10 - G47.33)
+encounter date : 09/15/2025
+Current smoker (ICD-10 - F17.200)
+encounter date : 09/15/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 09/15/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 09/15/2025
+Other
+For
+further ischemic evaluation of shortness of breath on exertion, we will arrange
+for coronary stress testing with Lexiscan on today's visit. Risks, benefits,
+and alternatives to the diagnostic study were discussed in great detail. He
+completed an MCT monitor which we will review and discuss his next follow up
+given his complaints of palpitations. All questions and concerns were answered
+and addressed. Heart healthy diet and healthy lifestyle encouraged and
+endorsed. He is to follow up in 1 week to review and discuss the results of MCT
+monitor and coronary stress testing with Lexiscan or sooner should symptoms
+worsen. He agrees to the plan of care
+
+
+=== PLAN OF TREATMENT ===
+Treatment Notes
+Assessment
+Notes
+Other
+For
+further ischemic evaluation of shortness of breath on exertion, we will arrange
+for coronary stress testing with Lexiscan on today's visit. Risks, benefits,
+and alternatives to the diagnostic study were discussed in great detail. He
+completed an MCT monitor which we will review and discuss his next follow up
+given his complaints of palpitations. All questions and concerns were answered
+and addressed. Heart healthy diet and healthy lifestyle encouraged and
+endorsed. He is to follow up in 1 week to review and discuss the results of MCT
+monitor and coronary stress testing with Lexiscan or sooner should symptoms
+worsen. He agrees to the plan of care
+Pending Test
+Test Name
+Order Date
+Lexiscan Stress Nuclear Test
+09/15/2025
+Next Appt
+Details
+Follow Up: 1 Week, Reason:
+Provider Name:RISHI BAJAJ, 09/23/2025 11:00:00 AM, 14 Harris Bushville Rd, Monticello, NY, 12701, 877-374-2362
+Provider Name:RISHI BAJAJ, 10/07/2025 09:30:00 AM, 14 Harris Bushville Rd, Monticello, NY, 12701, 877-374-2362
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Aetna
+PO BOX 30259 TAMPA, FL 33630-3294
+800-314-3938
+101228805000
+Cullen, Gary
+Self - patient is the insured
+Medicaid of New York
+PO BOX 4601 RENSSELAER, NY 121444602
+AE07739X
+Cullen, Gary
+Self - patient is the insured
+Medicare of New York  Downstate  J13
+PO BOX 6178 INDIANAPOLIS, IN 462066178
+866-837-0241
+1UU3W23GW71
+Cullen, Gary
+Self - patient is the insured
+
+
+=== PROGRESS NOTES ===
+Examination
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normo normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, no lower extremity edema, left
+foot resolving ecchymosis
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+
+=== HISTORY AND PHYSICAL NOTES ===
+HPI (History of Present Illness)
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+Transition of Care
+This is a 62-year-old male, current smoker, with a significant medical history of emphysema, migraines, HLD, PAD, chronic pain syndrome, and fibromyalgia, who presents today for CV follow up for shortness of breath and palpitations. He continues to complain of palpitations of ongoing for several weeks and have worsened. He also complains of shortness of breath on exertion. He denies any active chest pain, chest pressure, syncope or near-syncopal events.
+R/L Cardiac Cath 05/14/24: Non-obstructive CAD; normal LVEDP; normal PAP; LAD 1st diagonal branch 50% stenosed
+Cardiac catheterization 05/20/2024: Non-obstructive CAD.
+Peripheral angiogram, 04/26/2024 right pedal access: RSFA 80% stenosis status post balloon angioplasty of RSFA.
+Peripheral angiogram 06/12/2024, left anterior tibial artery access: LSFA 70% stenosis, LPA 80% stenosis, LATA 80% stenosis.
+Ultrasound: Non-vascular tissue lump which appears to possibly be cellulitis possibly from a potential bite.
+Venous reflux images: Significant bilateral GSV reflux
+Arterial doppler: Moderate atherosclerotic plaque in bilateral lower extremity arteries with patent flow.
+Echocardiogram: Preserved ejection fraction with no valve abnormalities
+Carotid doppler:  Moderate-to-severe plaque bilaterally right greater than left.
+Sleep apnea test: Negative.
+AAA scan: Mild-to-moderate plaque with 3.1 cm dilatation.
+ABI/PVR: RLE 0.58, LLE 1.12.
+For further ischemic evaluation of shortness of breath on exertion, we will arrange for coronary stress testing with Lexiscan on today's visit. Risks, benefits, and alternatives to the diagnostic study were discussed in great detail. He completed an MCT monitor which we will review and discuss his next follow up given his complaints of palpitations. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. He is to follow up in 1 week to review and discuss the results of MCT monitor and coronary stress testing with Lexiscan or sooner should symptoms worsen. He agrees to the plan of care.
+
+

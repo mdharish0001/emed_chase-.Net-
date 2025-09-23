@@ -1,0 +1,726 @@
+=== ALLERGIES ===
+Allergen (clinical drug ingredient)
+Drug/Non Drug Allergy documented on EMR
+Reaction
+Allergy Type
+Onset Date
+Status
+All nuts (uncoded)
+anaphylaxis
+Allergy
+Active
+Environmental, seasonal (uncoded)
+nasal congestion, rhinorrhea, HA, asthma
+Allergy
+Active
+Seafood
+Seafood (uncoded)
+anaphylaxis
+Allergy
+Active
+Levaquin
+anaphylaxis
+Drug Allergy
+Active
+atorvastatin
+Lipitor
+hives
+Drug Allergy
+Active
+
+
+=== RESULTS ===
+Component
+Value
+Reference Range
+Notes
+CBC (H/H, RBC, INDICES, WBC, PLT) (1759) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING NON-FASTING
+NON-FASTING
+WHITE BLOOD CELL COUNT
+4.6
+3.8-10.8 Thousand/uL
+RED BLOOD CELL COUNT
+4.56
+3.80-5.10 Million/uL
+HEMOGLOBIN
+14.2
+11.7-15.5 g/dL
+HEMATOCRIT
+45.3
+35.0-45.0 %
+MCV
+99.3
+80.0-100.0 fL
+MCH
+31.1
+27.0-33.0 pg
+MCHC
+31.3
+32.0-36.0 g/dL
+For adults, a slight decrease in the calculated MCHC
+value (in the range of 30 to 32 g/dL) is most likely
+not clinically significant; however, it should be
+interpreted with caution in correlation with other
+red cell parameters and the patient's clinical
+condition.
+RDW
+13.1
+11.0-15.0 %
+PLATELET COUNT
+297
+140-400 Thousand/uL
+MPV
+9.6
+7.5-12.5 fL
+COMPREHENSIVE METABOLIC PANEL (10231) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING
+GLUCOSE
+78
+65-99 mg/dL
+Fasting reference interval
+UREA NITROGEN (BUN)
+19
+7-25 mg/dL
+CREATININE
+0.54
+0.50-1.05 mg/dL
+EGFR
+103
+> OR = 60 mL/min/1.73m2
+BUN/CREATININE RATIO
+SEE NOTE:
+6-22 (calc)
+Not Reported: BUN and Creatinine are within
+reference range.
+SODIUM
+141
+135-146 mmol/L
+POTASSIUM
+4.3
+3.5-5.3 mmol/L
+CHLORIDE
+104
+98-110 mmol/L
+CARBON DIOXIDE
+29
+20-32 mmol/L
+CALCIUM
+9.3
+8.6-10.4 mg/dL
+PROTEIN, TOTAL
+6.5
+6.1-8.1 g/dL
+ALBUMIN
+4.2
+3.6-5.1 g/dL
+GLOBULIN
+2.3
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.8
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.4
+0.2-1.2 mg/dL
+ALKALINE PHOSPHATASE
+76
+37-153 U/L
+AST
+16
+10-35 U/L
+ALT
+18
+6-29 U/L
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING
+CHOLESTEROL, TOTAL
+275
+<200 mg/dL
+HDL CHOLESTEROL
+67
+> OR = 50 mg/dL
+TRIGLYCERIDES
+90
+<150 mg/dL
+LDL-CHOLESTEROL
+188
+Reference range: <100
+Desirable range <100 mg/dL for primary prevention;
+<70 mg/dL for patients with CHD or diabetic patients
+with > or = 2 CHD risk factors.
+LDL-C is now calculated using the Martin-Hopkins
+calculation, which is a validated novel method providing
+better accuracy than the Friedewald equation in the
+estimation of LDL-C.
+Martin SS et al. JAMA. 2013;310(19): 2061-2068
+(http://education.QuestDiagnostics.com/faq/FAQ164)
+CHOL/HDLC RATIO
+4.1
+<5.0 (calc)
+NON HDL CHOLESTEROL
+208
+<130 mg/dL (calc)
+For patients with diabetes plus 1 major ASCVD risk
+factor, treating to a non-HDL-C goal of <100 mg/dL
+(LDL-C of <70 mg/dL) is considered a therapeutic
+option.
+
+
+=== REASON FOR REFERRAL ===
+No Information
+
+
+=== REASON FOR VISIT ===
+Chest congestion
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+Calcium
+Active
+Lidocaine 4 %
+1 patch as needed Externally Once a day
+prn
+Active
+methIMAzole 5 MG
+1 tablet Orally Once a day
+prn
+Active
+Probiotic
+Active
+Vitamin C
+Active
+Vitamin D 50 MCG (2000 UT)
+1 tablet Orally Once a day
+Active
+Budesonide-Formoterol Fumarate 160-4.5 MCG/ACT
+2 puffs Inhalation Twice a day
+prn
+Active
+Loratadine 10 MG
+1 tablet Orally Once a day
+prn
+Active
+Fluticasone Propionate 50 MCG/ACT
+2 sprays in each nostril Nasally Once a day
+Active
+Theratears
+0.25% solution
+Active
+Ondansetron HCl 4 MG
+1 tablet Orally Once a day; Duration: 30 day(s)
+PRN
+06/11/2024
+Active
+NexIUM 40 MG
+1 capsule Orally Once a day
+Active
+Ibuprofen 800 MG
+1 tablet with food or milk as needed Orally every 8 hrs
+prn
+Active
+Fluconazole 100 MG
+1 tablet Orally; Duration: 1 days
+08/29/2025
+08/30/2025
+Active
+Omeprazole 40 MG
+1 capsule 30 minutes before morning meal Orally Once a day
+prn
+Active
+Benzonatate 100 MG
+1 capsule as needed Orally Three times a day
+02/09/2024
+Not-Taking
+Zithromax Z-Pak 250 MG
+as directed Orally daily; Duration: 5 days
+08/29/2025
+09/03/2025
+Active
+Juven -
+as directed Orally
+Not-Taking
+hydrOXYzine HCl 10 MG
+1 tablet as needed Orally Once a day
+PRN
+Not-Taking
+Repatha 140 MG/ML
+1 mL Subcutaneous every other week; Duration: 30 days
+05/15/2024
+Not-Taking
+Singulair 10 MG
+1 tablet Orally Once a day
+Active
+Albuterol Sulfate HFA 108 (90 Base) MCG/ACT
+1 puff as needed Inhalation every 4 hrs
+prn
+Active
+Benzonatate 100 MG
+1 capsule as needed orally Three times a day; Duration: 14 day(s)
+01/31/2024
+Active
+Xanax 0.5 MG
+1 tablet Orally Twice a day
+prn
+Active
+busPIRone HCl 10 MG
+1 tablet Orally Twice a day
+Not-Taking
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Vitamin B>12< deficiency anaemia (49472006)
+Vitamin B12 deficiency anemia, unspecified (D51.9)
+Active
+confirmed
+Problem
+Hyperprolactinemia (237662005)
+Hyperprolactinemia (E22.1)
+Active
+confirmed
+Problem
+Hyperlipidemia (55822004)
+Hyperlipidemia, unspecified (E78.5)
+Active
+confirmed
+Problem
+Restless legs syndrome (32914008)
+Restless legs syndrome (G25.81)
+Active
+confirmed
+Problem
+Rheumatoid lung disease (398726004)
+Rheumatoid lung disease with rheumatoid arthritis of unspecified site (M05.10)
+Active
+confirmed
+Problem
+Paresthesia (finding) (91019004)
+Paresthesia of skin (R20.2)
+Active
+confirmed
+Problem
+hypercholesterolemia (disorder) (13644009)
+Hypercholesteremia (E78.00)
+Active
+confirmed
+Problem
+Venous insufficiency of leg (disorder) (234050002)
+Venous insufficiency (I87.2)
+Active
+confirmed
+Problem
+Essential hypertension (59621000)
+Hypertension, unspecified type (I10)
+Active
+confirmed
+Problem
+Hyperlipidaemia (55822004)
+Hyperlipidemia, unspecified hyperlipidemia type (E78.5)
+Active
+confirmed
+Problem
+Claudication (63491006)
+Claudication (I73.9)
+Active
+confirmed
+Problem
+Hypothyroidism (40930008)
+Hypothyroidism, unspecified type (E03.9)
+Active
+confirmed
+Problem
+Asthma without status asthmaticus (55570000)
+Asthma, unspecified asthma severity, unspecified whether complicated, unspecified whether persistent (J45.909)
+Active
+confirmed
+Problem
+Vitamin D deficiency (34713006)
+Vitamin D deficiency (E55.9)
+Active
+confirmed
+Problem
+Anxiety (48694002)
+Anxiety (F41.9)
+Active
+confirmed
+Problem
+Lupus anticoagulant disorder (19267009)
+Lupus anticoagulant disorder (D68.62)
+Active
+confirmed
+Problem
+Pain at rest of bilateral lower limbs due to atherosclerosis (disorder) (12236991000119103)
+Rest pain of both lower extremities due to atherosclerosis (I70.223)
+Active
+confirmed
+Problem
+Skin sensation disturbance (80910005)
+Tingling of both feet (R20.2)
+Active
+confirmed
+Problem
+Burning sensation of skin (762397008)
+Burning sensation of skin (R20.8)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+Blood pressure systolic
+118 mm Hg
+08/29/2025
+Blood pressure diastolic
+78 mm Hg
+08/29/2025
+Heart Rate
+74 /min
+08/29/2025
+Respiratory Rate
+16 /min
+08/29/2025
+Weight
+106 lbs
+08/29/2025
+Oximetry
+96 %
+08/29/2025
+Weight-kg
+48.08 kg
+08/29/2025
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+EM Middletown Office
+528 East Main St MIDDLETOWN, NY 10940-2632
+08/29/2025
+Citlalli Marin
+Chest congestion R09.89 ; Leg swelling M79.89 ; Other general symptoms and signs R68.89 ; Hyperlipidemia, unspecified E78.5 ; Encounter for screening for other metabolic disorders Z13.228 ; Vitamin B12 deficiency anemia, unspecified D51.9 ; Asthma, unspecified asthma severity, unspecified whether complicated, unspecified whether persistent J45.909 ; Acute sinusitis, unspecified J01.90 ; Pain in leg, unspecified M79.606 ; Abnormal level of hormones in specimens from female genital organs R87.1 ; Disorder of thyroid, unspecified E07.9 ; Hormone replacement therapy Z79.890 ; Vitamin B deficiency, unspecified E53.9 ; Raised antibody titer R76.0 ; Elevated erythrocyte sedimentation rate R70.0 ; Lupus anticoagulant disorder D68.62 ; Lyme disease A69.20 ; Hyperprolactinemia E22.1 ; Rheumatoid lung disease with rheumatoid arthritis of unspecified site M05.10 ; Hypothyroidism, unspecified type E03.9 ; Flushing R23.2 ; Hyperlipidemia, unspecified hyperlipidemia type E78.5 ; Rash and nonspecific skin eruption R21 ; Deficiency of other specified B group vitamins E53.8 ; Former smoker Z87.891 ; Hypercholesteremia E78.00 ; Vitamin D deficiency E55.9 ; Claudication I73.9 ; Hypertension, unspecified type I10 ; Rest pain of both lower extremities due to atherosclerosis I70.223 ; Anxiety F41.9 ; Palpitations R00.2 ; Fatigue, unspecified type R53.83 ; Leg heaviness R29.898 ; Leg numbness R20.0 ; Blurred vision H53.8 ; Ocular pain, unspecified eye H57.10 ; Paresthesia of skin R20.2 ; Anesthesia of skin R20.0 ; Tingling of both feet R20.2 ; Decreased pedal pulses R09.89 ; Restless legs syndrome G25.81 ; Cold feet R20.9 ; Burning sensation of skin R20.8 ; Dizziness R42 ; Venous insufficiency I87.2 and Person consulting for explanation of examination or test findings Z71.2
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Treatment Notes
+Section Notes
+encounter date : 08/29/2025
+Chest congestion (ICD-10 - R09.89)
+encounter date : 08/29/2025
+Leg swelling (ICD-10 - M79.89)
+encounter date : 08/29/2025
+Other general symptoms and signs (ICD-10 - R68.89)
+encounter date : 08/29/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 08/29/2025
+Encounter for screening for other metabolic disorders (ICD-10 - Z13.228)
+encounter date : 08/29/2025
+Vitamin B12 deficiency anemia, unspecified (ICD-10 - D51.9)
+encounter date : 08/29/2025
+Asthma, unspecified asthma severity, unspecified whether complicated, unspecified whether persistent (ICD-10 - J45.909)
+encounter date : 08/29/2025
+Acute sinusitis, unspecified (ICD-10 - J01.90)
+encounter date : 08/29/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 08/29/2025
+Abnormal level of hormones in specimens from female genital organs (ICD-10 - R87.1)
+encounter date : 08/29/2025
+Disorder of thyroid, unspecified (ICD-10 - E07.9)
+encounter date : 08/29/2025
+Hormone replacement therapy (ICD-10 - Z79.890)
+encounter date : 08/29/2025
+Vitamin B deficiency, unspecified (ICD-10 - E53.9)
+encounter date : 08/29/2025
+Raised antibody titer (ICD-10 - R76.0)
+encounter date : 08/29/2025
+Elevated erythrocyte sedimentation rate (ICD-10 - R70.0)
+encounter date : 08/29/2025
+Lupus anticoagulant disorder (ICD-10 - D68.62)
+encounter date : 08/29/2025
+Lyme disease (ICD-10 - A69.20)
+encounter date : 08/29/2025
+Hyperprolactinemia (ICD-10 - E22.1)
+encounter date : 08/29/2025
+Rheumatoid lung disease with rheumatoid arthritis of unspecified site (ICD-10 - M05.10)
+encounter date : 08/29/2025
+Hypothyroidism, unspecified type (ICD-10 - E03.9)
+encounter date : 08/29/2025
+Flushing (ICD-10 - R23.2)
+encounter date : 08/29/2025
+Hyperlipidemia, unspecified hyperlipidemia type (ICD-10 - E78.5)
+encounter date : 08/29/2025
+Rash and nonspecific skin eruption (ICD-10 - R21)
+encounter date : 08/29/2025
+Deficiency of other specified B group vitamins (ICD-10 - E53.8)
+encounter date : 08/29/2025
+Former smoker (ICD-10 - Z87.891)
+encounter date : 08/29/2025
+Hypercholesteremia (ICD-10 - E78.00)
+encounter date : 08/29/2025
+Vitamin D deficiency (ICD-10 - E55.9)
+encounter date : 08/29/2025
+Claudication (ICD-10 - I73.9)
+encounter date : 08/29/2025
+Hypertension, unspecified type (ICD-10 - I10)
+encounter date : 08/29/2025
+Rest pain of both lower extremities due to atherosclerosis (ICD-10 - I70.223)
+encounter date : 08/29/2025
+Anxiety (ICD-10 - F41.9)
+encounter date : 08/29/2025
+Palpitations (ICD-10 - R00.2)
+encounter date : 08/29/2025
+Fatigue, unspecified type (ICD-10 - R53.83)
+encounter date : 08/29/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 08/29/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 08/29/2025
+Blurred vision (ICD-10 - H53.8)
+encounter date : 08/29/2025
+Ocular pain, unspecified eye (ICD-10 - H57.10)
+encounter date : 08/29/2025
+Paresthesia of skin (ICD-10 - R20.2)
+encounter date : 08/29/2025
+Anesthesia of skin (ICD-10 - R20.0)
+encounter date : 08/29/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 08/29/2025
+Decreased pedal pulses (ICD-10 - R09.89)
+encounter date : 08/29/2025
+Restless legs syndrome (ICD-10 - G25.81)
+encounter date : 08/29/2025
+Cold feet (ICD-10 - R20.9)
+encounter date : 08/29/2025
+Burning sensation of skin (ICD-10 - R20.8)
+encounter date : 08/29/2025
+Dizziness (ICD-10 - R42)
+encounter date : 08/29/2025
+Venous insufficiency (ICD-10 - I87.2)
+encounter date : 08/29/2025
+Person consulting for explanation of examination or test findings (ICD-10 - Z71.2)
+encounter date : 08/29/2025
+Other
+During
+today's visit, we arranged for a rapid COVID and flu test, which was negative.
+We also discussed the importance of her compliance with Singulair, Mucinex and
+albuterol considering her history of asthma. We discussed in great detail the
+risks associated with antibiotic therapy including but not limited to
+antibiotic resistance and side effects associated with antibiotic therapy. We
+also discussed managing her chest congestion conservatively with an increase in
+her fluid intake as well as rest and possibly a steam therapy from a hot shower
+for her chest congestion. At this point, the patient continues to request
+antibiotic therapy as she feels that this will clear her chest congestion. At
+this time, we will initiate Z-PAK with fluconazole for management of her chest
+congestion. Side effects were discussed in great detail. All questions and
+concerns were answered and addressed. Heart healthy diet and healthy lifestyle
+encouraged and endorsed. She is to follow up in 1 week or sooner should
+symptoms worsen or new symptoms arise. She agrees to the plan of care
+
+
+=== PLAN OF TREATMENT ===
+Medication
+Medication Name
+Sig
+Start Date
+Stop Date
+Notes
+Fluconazole 100 MG
+1 tablet Orally; Duration: 1 days
+08/29/2025
+08/30/2025
+Zithromax Z-Pak 250 MG
+as directed Orally daily; Duration: 5 days
+08/29/2025
+09/03/2025
+Treatment Notes
+Assessment
+Notes
+Other
+During
+today's visit, we arranged for a rapid COVID and flu test, which was negative.
+We also discussed the importance of her compliance with Singulair, Mucinex and
+albuterol considering her history of asthma. We discussed in great detail the
+risks associated with antibiotic therapy including but not limited to
+antibiotic resistance and side effects associated with antibiotic therapy. We
+also discussed managing her chest congestion conservatively with an increase in
+her fluid intake as well as rest and possibly a steam therapy from a hot shower
+for her chest congestion. At this point, the patient continues to request
+antibiotic therapy as she feels that this will clear her chest congestion. At
+this time, we will initiate Z-PAK with fluconazole for management of her chest
+congestion. Side effects were discussed in great detail. All questions and
+concerns were answered and addressed. Heart healthy diet and healthy lifestyle
+encouraged and endorsed. She is to follow up in 1 week or sooner should
+symptoms worsen or new symptoms arise. She agrees to the plan of care
+Pending Test
+Test Name
+Order Date
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852)
+08/29/2025
+COMPREHENSIVE METABOLIC PANEL (10231)
+08/29/2025
+CBC (H/H, RBC, INDICES, WBC, PLT) (1759)
+08/29/2025
+Next Appt
+Details
+Follow Up: 1 Week, Reason:
+Provider Name:MARION HAYES, 09/16/2025 09:15:00 AM, 528 East Main St, MIDDLETOWN, NY, 10940-2632, 877-374-2362
+Provider Name:RISHI BAJAJ, 09/19/2025 04:00:00 PM, 528 East Main St, MIDDLETOWN, NY, 10940-2632, 877-374-2362
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Aetna Health
+PO BOX 981106 EL PASO, TX 79998-1107
+102026205700
+Diaz, Maria
+Self - patient is the insured
+Affinity by Molina Healthcare NY
+PO BOX 22615 LONG BEACH, CA 90801-5637
+800-223-7242
+AQ06345C
+Diaz, Maria
+Self - patient is the insured
+Medicare of New York  Downstate  J13
+PO BOX 6178 INDIANAPOLIS, IN 462066178
+866-837-0241
+1AK5QK4DM86
+Diaz, Maria
+Self - patient is the insured
+Medicaid of New York
+PO BOX 4601 RENSSELAER, NY 121444602
+AQ06345C
+Diaz, Maria
+Self - patient is the insured
+
+
+=== PROGRESS NOTES ===
+Examination
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normo normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI, orbital ecchymosis noted. Fluid collection, right
+lateral lower lid. Surgical incisions bilaterally. Asymmetrical eyelids and fluid collection, right
+lateral lower lid with surgical incisions and sutures remaining in place on the
+upper eyelids.
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Skin:
+left arm SC injection site clean, no redness, swelling, or induration noted post-injection
+Extremities:
+Trace
+edema in her lower extremities with marked varicosities and reticular veins
+noted bilateral lower extremities, leg swelling
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+
+=== HISTORY AND PHYSICAL NOTES ===
+HPI (History of Present Illness)
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+Transition of Care
+This is a 63-year-old female, former smoker, with a history of asthma, anemia, HLD, hypothyroidism and anxiety, who presents today for a cardiovascular follow up for congestion. She reports that about 3 days ago, she developed congestion in her chest. She reports to have taken Singulair, Mucinex and albuterol with minimal relief of her chest congestion. She feels as though her chest congestion was worse when she woke up this morning and is concerned for a bacterial infection. She saw her pulmonologist yesterday who encouraged her to continue with Singulair, Mucinex and albuterol use. She also reports that about 1 month ago, she developed a sinus infection treated with a course of antibiotics with improvement in her symptoms. The patient reports that she has had similar episodes of chest congestion in the past, which have required antibiotic therapy for management. She also reports a history of pneumonia and is concerned for development of pneumonia or other infection in her chest at this time. She denies any fevers, chills, headache, sore throat, or any ill contacts. She does report a cough with clear mucus production. The patient is requesting an antibiotic for her chest congestion at this time, which we will consider at today's visit. She continues to follow with Westchester Medical Center and Dr. Koren, ophthalmology for complicated blepharoplasty. Her follow up with the Westchester Medical Center Ophthalmology is on 09/03/25. She was also previously on Repatha for management of her hyperlipidemiawhich was self-discontinued due to mild rash. She denies any chest pain, chest pressure, shortness of breath, syncope or near-syncopal events.
+Venous reflux study: Significant reflux in bilateral GSV
+Echocardiogram: LVEF 55-60%, mild pulmonary hypertension with PASP of 30 mmHg.
+BLE arterial doppler: Significant stenosis with possible infrapopliteal bilateral stenosis.
+Carotid doppler:  Mild plaque.
+AAA screen: Mild-to-moderate plaque, no significant evidence of abdominal uretic aneurysm.
+Peripheral angiogram; 02/12/25; right femoral artery access revealing RSFA 40% stenosis and LSFA 50% stenosis.
+BLE arterial doppler: Patent flow.
+Venous reflux:  Mild reflux and no significant DVT.
+During today's visit, we arranged for a rapid COVID and flu test, which was negative. We also discussed the importance of her compliance with Singulair, Mucinex and albuterol considering her history of asthma. We encouraged her to continue to follow with pulmonology. At today's visit we will arrange for blood work to include CBC and CMP for evaluation of her overall health and reported chest congestion; we will also arrange for a repeat lipid panel for evaluation of her history of hyperlipidemia and possible adjustment of her pharmacological therapy. Blood was drawn without complications, we will review and discuss results at her next visit. The patient continues to request antibiotic therapy as she feels that this will clear her chest congestion. We discussed in great detail the risks associated with antibiotic therapy including but not limited to antibiotic resistance and side effects associated with antibiotic therapy. We also discussed managing her chest congestion conservatively with an increase in her fluid intake as well as rest and possibly steam therapy for her chest congestion. At this time, we will initiate Z-PAK with fluconazole for management of her chest congestion and prevention of yeast infection associated with antibiotic therapy. Side effects were discussed in great detail. She was encouraged to continue following with WMC and Dr. Koren given history of complicated blepharoplasty. All questions and concerns were answered and addressed. A heart healthy diet and healthy lifestyle were encouraged and endorsed. She is to follow up in 1 week or sooner should symptoms worsen or new symptoms arise. She agrees to the plan of care.
+
+

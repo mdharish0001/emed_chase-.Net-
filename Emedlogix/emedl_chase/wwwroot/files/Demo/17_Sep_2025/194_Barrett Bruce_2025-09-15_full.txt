@@ -1,0 +1,273 @@
+=== ALLERGIES ===
+No Information
+
+
+=== RESULTS ===
+No Results
+
+
+=== REASON FOR REFERRAL ===
+No Information
+
+
+=== MEDICATIONS ===
+No Information
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Thyroid nodule (237495005)
+Thyroid nodule (E04.1)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+Heart Rate
+86 /min
+09/08/2025
+Respiratory Rate
+16 /min
+09/08/2025
+Oximetry
+98 %
+09/08/2025
+Blood pressure diastolic
+74 mm Hg
+09/08/2025
+Blood pressure systolic
+120 mm Hg
+09/08/2025
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+08/19/2025
+Citlalli Marin
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/08/2025
+RISHI BAJAJ
+Shortness of breath on exertion R06.02 ; Leg heaviness R29.898 and Pain in leg, unspecified M79.606
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/15/2025
+RISHI BAJAJ
+Shortness of breath on exertion R06.02 ; Leg heaviness R29.898 ; Pain in leg, unspecified M79.606 and Thyroid nodule E04.1
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/15/2025
+RISHI BAJAJ
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Assessment Notes
+Treatment Notes
+Treatment Clinical Notes
+Section Notes
+encounter date : 09/08/2025
+Shortness of breath on exertion (ICD-10 - R06.02)
+encounter date : 09/08/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 09/15/2025
+Shortness of breath on exertion (ICD-10 - R06.02)
+encounter date : 09/15/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 09/15/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 09/08/2025
+Pain in leg, unspecified (ICD-10 - M79.606)
+encounter date : 09/15/2025
+Thyroid nodule (ICD-10 - E04.1)
+encounter date : 09/08/2025
+Other
+We will arrange for coronary stress testing with Lexiscan at his next visit for further ischemic evaluation of his shortness of breath on exertion. Risks, benefits, and alternatives to the diagnostic study were discussed in great detail. He complains of shortness of breath on exertion, and we will arrange for an echocardiogram at today's visit and discuss the results at his next visit. He was encouraged to continue wearing compression socks during the day and to rest and elevate his legs at night, given his complaints of heaviness, aching, and swelling in his lower extremities and the finding of venous insufficiency at his last visit. All questions and concerns were answered and addressed. A heart-healthy diet and healthy lifestyle were encouraged and endorsed. He will follow up in 1 week or sooner if symptoms arise. He agrees to the plan of care.
+Scribed by Sushil Rai under the supervision of Dr. Rishi Bajaj and Daliah Rodriguez, MS
+encounter date : 09/15/2025
+Other
+For
+further ischemic evaluation of his shortness of breath on exertion, we will
+arrange for coronary stress testing with Lexiscan on today's visit. Risks,
+benefits, and alternatives to the diagnostic study were discussed in great
+detail. We will review and discuss the results at his next follow up. Given his
+finding of thyroid nodule on carotid doppler, we will arrange for a dedicated
+thyroid nodule at a future visit. Thyroid nodule measured 0.8 cm consistent
+with TIRADS score of 2/3. We discussed repeating thyroid ultrasound in 6 months
+for further surveillance. We will review and discuss the results at his next
+visit. All questions and concerns were answered and addressed. Heart healthy
+diet and healthy lifestyle encouraged and endorsed. He is to follow up in 1
+week or sooner should symptoms worsen. He agrees to the plan of care
+Scribed by Shashank Kapoor and Daliah Rodriguez under the supervision of Dr. Rishi Bajaj
+
+
+=== PLAN OF TREATMENT ===
+Pending Test
+Test Name
+Order Date
+Echocardiogram
+09/08/2025
+Lexiscan Stress Nuclear Test
+09/15/2025
+Lexiscan Stress Nuclear Test
+09/16/2025
+Future Test
+Test Name
+Order Date
+Lexiscan Stress Nuclear Test
+09/10/2025
+Thyroid US
+09/17/2025
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Medicare of New York  Downstate  J13
+PO BOX 6178 INDIANAPOLIS, IN 462066178
+866-837-0241
+6AJ5YM9KU81
+Barrett, Bruce
+Self - patient is the insured
+
+
+=== PROGRESS NOTES ===
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/15/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, no lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/08/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, no lower extremity edema
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+
+=== HISTORY AND PHYSICAL NOTES ===
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/15/2025
+Transition of Care
+This is a 76-year-old male with significant medical history who presents today for CV follow up for shortness of breath. He continues to complain of shortness of breath on exertion, unchanged from his last visit. He was also found to have thyroid nodules on carotid doppler at a prior visit. We had discussed evaluation with a dedicated thyroid ultrasound. He denies any chest pain, chest pressure, syncope or near-syncopal events.
+For further ischemic evaluation of his shortness of breath on exertion, we will arrange for coronary stress testing with Lexiscan on today's visit. Risks, benefits, and alternatives to the diagnostic study were discussed in great detail. We will review and discuss the results at his next follow up. Given his finding of thyroid nodule on carotid doppler, we will arrange for a dedicated thyroid nodule at a future visit. Thyroid nodule measured 0.8 cm consistent with TIRADS score of 2/3. We discussed repeating thyroid ultrasound in 6 months for further surveillance. We will review and discuss the results at his next visit. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. He is to follow up in 1 week or sooner should symptoms worsen. He agrees to the plan of care.
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/08/2025
+Transition of Care
+This is a 76-year-old male with significant medical history who presents today for CV follow-up for shortness of breath. He continues to complain of shortness of breath on exertion, which is unchanged from his last complaints. He also complains of lower extremity heaviness and aching and was found to have significant venous reflux at a prior visit. He denies any active chest pain, chest pressure, syncope, or near syncopal events.
+We will arrange for coronary stress testing with Lexiscan at his next visit for further ischemic evaluation of his shortness of breath on exertion. Risks, benefits, and alternatives to the diagnostic study were discussed in great detail. He complains of shortness of breath on exertion, and we will arrange for an echocardiogram at today's visit and discuss the results at his next visit. He was encouraged to continue wearing compression socks during the day and to rest and elevate his legs at night, given his complaints of heaviness, aching, and swelling in his lower extremities and the finding of venous insufficiency at his last visit. All questions and concerns were answered and addressed. A heart-healthy diet and healthy lifestyle were encouraged and endorsed. He will follow up in 1 week or sooner if symptoms arise. He agrees to the plan of care.
+
+

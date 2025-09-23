@@ -1,6 +1,18 @@
 {
   "Files": [
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\DR RISHI CHARGE REPORT FROM 910 TO 0918.xlsx",
+      "PackagePath": "staticwebassets\\DR RISHI CHARGE REPORT FROM 910 TO 0918.xlsx"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\DR RISHI CHARGE REPORT.xlsx",
+      "PackagePath": "staticwebassets\\DR RISHI CHARGE REPORT.xlsx"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Dr Rishi Charge report.csv",
+      "PackagePath": "staticwebassets\\Dr Rishi Charge report.csv"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Acierno Nicholas_2025-09-01_encounter.xml",
       "PackagePath": "staticwebassets\\Output\\Acierno Nicholas_2025-09-01_encounter.xml"
     },
@@ -143,6 +155,246 @@
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\15_Sep_2025\\693_Rivera Erizbeth_2025-07-19_encounter.txt",
       "PackagePath": "staticwebassets\\files\\Demo\\15_Sep_2025\\693_Rivera Erizbeth_2025-07-19_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\15_Callanan Richard_2025-09-15_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\15_Callanan Richard_2025-09-15_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\15_Callanan Richard_2025-09-15_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\15_Callanan Richard_2025-09-15_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\15_Callanan Richard_2025-09-15_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\15_Callanan Richard_2025-09-15_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\192_Coamey Veronica_2025-09-12_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\192_Coamey Veronica_2025-09-12_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\192_Coamey Veronica_2025-09-12_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\192_Coamey Veronica_2025-09-12_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\192_Coamey Veronica_2025-09-12_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\192_Coamey Veronica_2025-09-12_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\194_Barrett Bruce_2025-09-15_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\194_Barrett Bruce_2025-09-15_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\194_Barrett Bruce_2025-09-15_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\194_Barrett Bruce_2025-09-15_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\194_Barrett Bruce_2025-09-15_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\194_Barrett Bruce_2025-09-15_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\194_Van Arsdale Corinne_2025-09-15_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\194_Van Arsdale Corinne_2025-09-15_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\194_Van Arsdale Corinne_2025-09-15_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\194_Van Arsdale Corinne_2025-09-15_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\194_Van Arsdale Corinne_2025-09-15_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\194_Van Arsdale Corinne_2025-09-15_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\23_Cullen Gary_2025-09-15_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\23_Cullen Gary_2025-09-15_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\23_Cullen Gary_2025-09-15_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\23_Cullen Gary_2025-09-15_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\23_Cullen Gary_2025-09-15_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\23_Cullen Gary_2025-09-15_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\266_Amanna Courtney_2025-09-15_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\266_Amanna Courtney_2025-09-15_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\266_Amanna Courtney_2025-09-15_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\266_Amanna Courtney_2025-09-15_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\266_Amanna Courtney_2025-09-15_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\266_Amanna Courtney_2025-09-15_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\309_Cullen Gary_2025-09-15_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\309_Cullen Gary_2025-09-15_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\309_Cullen Gary_2025-09-15_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\309_Cullen Gary_2025-09-15_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\309_Cullen Gary_2025-09-15_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\309_Cullen Gary_2025-09-15_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\329_Bergeron Christine_2025-09-15_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\329_Bergeron Christine_2025-09-15_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\329_Bergeron Christine_2025-09-15_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\329_Bergeron Christine_2025-09-15_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\329_Bergeron Christine_2025-09-15_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\329_Bergeron Christine_2025-09-15_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\354_Callanan Richard_2025-09-15_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\354_Callanan Richard_2025-09-15_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\354_Callanan Richard_2025-09-15_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\354_Callanan Richard_2025-09-15_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\354_Callanan Richard_2025-09-15_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\354_Callanan Richard_2025-09-15_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\409_Barrett Bruce_2025-09-15_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\409_Barrett Bruce_2025-09-15_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\409_Barrett Bruce_2025-09-15_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\409_Barrett Bruce_2025-09-15_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\409_Barrett Bruce_2025-09-15_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\409_Barrett Bruce_2025-09-15_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\430_Cardoza Luisa Maricell_2025-09-15_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\430_Cardoza Luisa Maricell_2025-09-15_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\430_Cardoza Luisa Maricell_2025-09-15_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\430_Cardoza Luisa Maricell_2025-09-15_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\430_Cardoza Luisa Maricell_2025-09-15_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\430_Cardoza Luisa Maricell_2025-09-15_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\451_Balestra Katherine_2025-09-15_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\451_Balestra Katherine_2025-09-15_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\451_Balestra Katherine_2025-09-15_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\451_Balestra Katherine_2025-09-15_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\451_Balestra Katherine_2025-09-15_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\451_Balestra Katherine_2025-09-15_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\45_Coamey Veronica_2025-09-12_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\45_Coamey Veronica_2025-09-12_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\45_Coamey Veronica_2025-09-12_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\45_Coamey Veronica_2025-09-12_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\45_Coamey Veronica_2025-09-12_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\45_Coamey Veronica_2025-09-12_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\509_Bonner Antione_2025-09-11_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\509_Bonner Antione_2025-09-11_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\509_Bonner Antione_2025-09-11_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\509_Bonner Antione_2025-09-11_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\509_Bonner Antione_2025-09-11_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\509_Bonner Antione_2025-09-11_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\533_Balestra Katherine_2025-09-15_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\533_Balestra Katherine_2025-09-15_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\533_Balestra Katherine_2025-09-15_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\533_Balestra Katherine_2025-09-15_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\533_Balestra Katherine_2025-09-15_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\533_Balestra Katherine_2025-09-15_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\555_Van Arsdale Corinne_2025-09-15_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\555_Van Arsdale Corinne_2025-09-15_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\555_Van Arsdale Corinne_2025-09-15_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\555_Van Arsdale Corinne_2025-09-15_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\555_Van Arsdale Corinne_2025-09-15_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\555_Van Arsdale Corinne_2025-09-15_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\56_Cardoza Luisa Maricell_2025-09-15_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\56_Cardoza Luisa Maricell_2025-09-15_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\56_Cardoza Luisa Maricell_2025-09-15_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\56_Cardoza Luisa Maricell_2025-09-15_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\56_Cardoza Luisa Maricell_2025-09-15_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\56_Cardoza Luisa Maricell_2025-09-15_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\584_Bonner Antione_2025-09-11_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\584_Bonner Antione_2025-09-11_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\584_Bonner Antione_2025-09-11_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\584_Bonner Antione_2025-09-11_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\584_Bonner Antione_2025-09-11_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\584_Bonner Antione_2025-09-11_encounter.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\900_Amanna Courtney_2025-09-15_full.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\900_Amanna Courtney_2025-09-15_full.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\900_Amanna Courtney_2025-09-15_full.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\900_Amanna Courtney_2025-09-15_full.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\900_Amanna Courtney_2025-09-15_full.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\900_Amanna Courtney_2025-09-15_full.txt"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\907_Bergeron Christine_2025-09-15_encounter.html",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\907_Bergeron Christine_2025-09-15_encounter.html"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\907_Bergeron Christine_2025-09-15_encounter.rtf",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\907_Bergeron Christine_2025-09-15_encounter.rtf"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\17_Sep_2025\\907_Bergeron Christine_2025-09-15_encounter.txt",
+      "PackagePath": "staticwebassets\\files\\Demo\\17_Sep_2025\\907_Bergeron Christine_2025-09-15_encounter.txt"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\218_Diaz Maria_2025-07-18_encounter.txt",

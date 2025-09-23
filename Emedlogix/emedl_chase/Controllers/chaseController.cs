@@ -69,7 +69,7 @@ namespace emedl_chase.Controllers
             var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
 
            
-            var get_patient_json = await FhirApiCaller.CallFhirApiAsync(bearer, name);
+            var get_patient_json = await FhirApiCaller.CallApiforPatientDemo(bearer, name);
 
             var fhir_id = "";
 
@@ -225,11 +225,14 @@ namespace emedl_chase.Controllers
                 return new List<fhirid>();
 
             var json_data = System.IO.File.ReadAllText(filepath);
+
             var jsonser = JsonSerializer.Deserialize<ECWConfig>(json_data);
+
             var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
 
-            var get_patient_json = await FhirApiCaller.CallFhirApiAsync(bearer, name);
-            if (get_patient_json == null)
+            var get_patient_json = await FhirApiCaller.CallApiforPatientDemo(bearer, name);
+
+            if (get_patient_json.Count() == 0)
             {
                 return new List<fhirid>();
 
@@ -279,7 +282,39 @@ namespace emedl_chase.Controllers
         }
 
 
+        [NonAction]
 
+        public async Task<string>  Generatebaerer()
+        {
+            var filepath = Path.Combine(_webHostEnvironment.WebRootPath, "files", "ecw_credentials.json");
+
+            if (!System.IO.File.Exists(filepath))
+            {
+                return "file not found";
+            }
+
+            var json_data = System.IO.File.ReadAllText(filepath);
+
+            var jsonser = JsonSerializer.Deserialize<ECWConfig>(json_data);
+
+            var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
+
+
+            return bearer;
+        }
+
+        [HttpGet("PatientDemoWithFhir")]        
+        public async Task<IActionResult> GetPatientDemoWithFhir(string fhir)
+        {
+
+            var bearer = await Generatebaerer();
+
+            var get_patient_json = await FhirApiCaller.CallApiforwithFhirPatientDemo(bearer, fhir);
+
+
+            return Ok(get_patient_json);
+
+        }
 
 
         //    [NonAction]

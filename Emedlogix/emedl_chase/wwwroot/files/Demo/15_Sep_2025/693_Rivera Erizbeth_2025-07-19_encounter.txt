@@ -1,0 +1,159 @@
+=== ALLERGIES ===
+No Information
+
+
+=== RESULTS ===
+No Results
+
+
+=== REASON FOR REFERRAL ===
+No Information
+
+
+=== REASON FOR VISIT ===
+Lab review
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+Ondansetron 4 MG
+1 tablet on the tongue and allow to dissolve Orally Once a day; Duration: 30 day(s)
+07/18/2025
+Active
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Obesity (414916001)
+Obesity (BMI 30-39.9) (E66.9)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+No Information
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+Epic Heart And Vascular Care
+4 HDSN VLY PROF PLZ STE B NEWBURGH, NY 12550-3157
+07/19/2025
+Shellene Napier-Martin
+Nausea R11.0 ; Person consulting for explanation of examination or test findings Z71.2 and Annual physical exam Z00.00
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Treatment Notes
+Section Notes
+encounter date : 07/19/2025
+Nausea (ICD-10 - R11.0)
+encounter date : 07/19/2025
+Person consulting for explanation of examination or test findings (ICD-10 - Z71.2)
+encounter date : 07/19/2025
+Annual physical exam (ICD-10 - Z00.00)
+encounter date : 07/19/2025
+Other
+Laboratory
+findings revealed A1C of 5.7, suggesting borderline prediabetes, and
+LDL level of 123, indicating mildly elevated cholesterol. Thyroid
+function panel, CMP, and vitamin D levels were all within normal
+limits. We advised the patient to continue a heart-healthy diet and
+to limit intake of complex carbohydrates to reduce progression to
+diabetes. She was encouraged to maintain physical activity and
+hydration. Given her lab trends, lifestyle interventions are
+justified and medically necessary to prevent escalation to chronic
+conditions. All questions and concerns answered and addressed. Heart
+healthy diet and healthy lifestyle modifications were encouraged and
+endorsed. Patient agreed with the plan of care.
+Patient was informed of the telemedicine visit by our office staff. Telemedicine was described in detail to the patient as the use of synchronous video and audio communication to provide clinical care from a distance. A telemedicine visit can provide the same medical standard of care for specific conditions. The patient was informed that the practice staff located at the provider's office would assist in carrying out any recommendations and clinical care.
+Patient Location: Home
+Lack of strict HIPPA Rules. Patient expressed verbal interest in the telemedicine visit and granted consent to proceed.
+
+
+=== PLAN OF TREATMENT ===
+Treatment Notes
+Assessment
+Notes
+Other
+Laboratory
+findings revealed A1C of 5.7, suggesting borderline prediabetes, and
+LDL level of 123, indicating mildly elevated cholesterol. Thyroid
+function panel, CMP, and vitamin D levels were all within normal
+limits. We advised the patient to continue a heart-healthy diet and
+to limit intake of complex carbohydrates to reduce progression to
+diabetes. She was encouraged to maintain physical activity and
+hydration. Given her lab trends, lifestyle interventions are
+justified and medically necessary to prevent escalation to chronic
+conditions. All questions and concerns answered and addressed. Heart
+healthy diet and healthy lifestyle modifications were encouraged and
+endorsed. Patient agreed with the plan of care.
+Patient was informed of the telemedicine visit by our office staff. Telemedicine was described in detail to the patient as the use of synchronous video and audio communication to provide clinical care from a distance. A telemedicine visit can provide the same medical standard of care for specific conditions. The patient was informed that the practice staff located at the provider's office would assist in carrying out any recommendations and clinical care.
+Patient Location: Home
+Lack of strict HIPPA Rules. Patient expressed verbal interest in the telemedicine visit and granted consent to proceed.
+Next Appt
+Details
+Follow Up: As scheduled, Reason:
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Cigna
+PO BOX 182223 CHATTANOOGA, TN 37422-7256
+800-244-6224
+080990001400
+Rivera, Erizbeth
+Self - patient is the insured
+
+

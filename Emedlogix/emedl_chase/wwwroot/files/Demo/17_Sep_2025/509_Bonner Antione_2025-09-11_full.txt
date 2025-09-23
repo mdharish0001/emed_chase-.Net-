@@ -1,0 +1,855 @@
+=== ALLERGIES ===
+No Information
+
+
+=== RESULTS ===
+Component
+Value
+Reference Range
+Notes
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+CHOLESTEROL, TOTAL
+142
+<200 mg/dL
+HDL CHOLESTEROL
+60
+> OR = 40 mg/dL
+TRIGLYCERIDES
+73
+<150 mg/dL
+LDL-CHOLESTEROL
+67
+<70 mg/dL for patients with CHD or diabetic patients
+with > or = 2 CHD risk factors.
+LDL-C is now calculated using the Martin-Hopkins
+calculation, which is a validated novel method providing
+better accuracy than the Friedewald equation in the
+estimation of LDL-C.
+Martin SS et al. JAMA. 2013;310(19): 2061-2068
+(http://education.QuestDiagnostics.com/faq/FAQ164)
+Reference range: <100
+Desirable range <100 mg/dL for primary prevention;
+CHOL/HDLC RATIO
+2.4
+<5.0 (calc)
+NON HDL CHOLESTEROL
+82
+<130 mg/dL (calc)
+For patients with diabetes plus 1 major ASCVD risk
+factor, treating to a non-HDL-C goal of <100 mg/dL
+(LDL-C of <70 mg/dL) is considered a therapeutic
+option.
+COMPREHENSIVE METABOLIC PANEL (10231) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+GLUCOSE
+117
+65-99 mg/dL
+For someone without known diabetes, a glucose value
+between 100 and 125 mg/dL is consistent with
+prediabetes and should be confirmed with a
+follow-up test.
+Fasting reference interval
+UREA NITROGEN (BUN)
+9
+7-25 mg/dL
+CREATININE
+0.85
+0.60-1.26 mg/dL
+EGFR
+113
+> OR = 60 mL/min/1.73m2
+BUN/CREATININE RATIO
+SEE NOTE:
+6-22 (calc)
+Not Reported: BUN and Creatinine are within
+reference range.
+SODIUM
+139
+135-146 mmol/L
+POTASSIUM
+4.4
+3.5-5.3 mmol/L
+CHLORIDE
+104
+98-110 mmol/L
+CARBON DIOXIDE
+28
+20-32 mmol/L
+CALCIUM
+9.8
+8.6-10.3 mg/dL
+PROTEIN, TOTAL
+7.3
+6.1-8.1 g/dL
+ALBUMIN
+4.4
+3.6-5.1 g/dL
+GLOBULIN
+2.9
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.5
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.8
+0.2-1.2 mg/dL
+ALKALINE PHOSPHATASE
+86
+36-130 U/L
+AST
+19
+10-40 U/L
+ALT
+26
+9-46 U/L
+HEPATIC FUNCTION PANEL (10256) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+PROTEIN, TOTAL
+7.3
+6.1-8.1 g/dL
+ALBUMIN
+4.4
+3.6-5.1 g/dL
+GLOBULIN
+2.9
+1.9-3.7 g/dL (calc)
+ALBUMIN/GLOBULIN RATIO
+1.5
+1.0-2.5 (calc)
+BILIRUBIN, TOTAL
+0.8
+0.2-1.2 mg/dL
+BILIRUBIN, DIRECT
+0.2
+< OR = 0.2 mg/dL
+BILIRUBIN, INDIRECT
+0.6
+0.2-1.2 mg/dL (calc)
+ALKALINE PHOSPHATASE
+86
+36-130 U/L
+AST
+19
+10-40 U/L
+ALT
+26
+9-46 U/L
+LIPOPROTEIN (a) (34604) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+LIPOPROTEIN (a)
+212
+Results verified by repeat analysis on dilution.
+Reference Range  <75
+Risk:
+Optimal          <75
+Moderate         75-125
+High             >125
+Cardiovascular event risk category
+cut points (optimal, moderate, high)
+are based on Tsimika S. JACC
+2017;69:692-711.
+CBC (H/H, RBC, INDICES, WBC, PLT) (1759) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+WHITE BLOOD CELL COUNT
+4.5
+3.8-10.8 Thousand/uL
+RED BLOOD CELL COUNT
+5.06
+4.20-5.80 Million/uL
+HEMOGLOBIN
+14.5
+13.2-17.1 g/dL
+HEMATOCRIT
+45.2
+38.5-50.0 %
+MCV
+89.3
+80.0-100.0 fL
+MCH
+28.7
+27.0-33.0 pg
+MCHC
+32.1
+32.0-36.0 g/dL
+For adults, a slight decrease in the calculated MCHC
+value (in the range of 30 to 32 g/dL) is most likely
+not clinically significant; however, it should be
+interpreted with caution in correlation with other
+red cell parameters and the patient's clinical
+condition.
+RDW
+13.0
+11.0-15.0 %
+PLATELET COUNT
+320
+140-400 Thousand/uL
+MPV
+8.7
+7.5-12.5 fL
+HEMOGLOBIN A1c (496) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+HEMOGLOBIN A1c
+6.6
+<5.7 %
+For someone without known diabetes, a hemoglobin A1c
+value of 6.5% or greater indicates that they may have
+diabetes and this should be confirmed with a follow-up
+test.
+For someone with known diabetes, a value <7% indicates
+that their diabetes is well controlled and a value
+greater than or equal to 7% indicates suboptimal
+control. A1c targets should be individualized based on
+duration of diabetes, age, comorbid conditions, and
+other considerations.
+Currently, no consensus exists regarding use of
+hemoglobin A1c for diagnosis of diabetes for children.
+APOLIPOPROTEIN B (5224) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+APOLIPOPROTEIN B
+72
+Reference Range    <90
+Risk Category:
+Optimal         <90
+Moderate        90-129
+High            > or = 130
+A desirable treatment target may be
+<80 mg/dL or lower depending on the
+risk category of the patient including
+patients on lipid lowering therapies,
+patients with ASCVD, diabetes with >1
+risk factors, Stage 3 or greater CKD
+with albuminuria, or heterozygous
+familial hypercholesterolemia. ApoB
+relative risk category cut points are
+based on AACE/ACE and ACC/AHA
+recommendations (Grundy SM, et al.
+2019. doi:10.1016/j.jacc.2018.11.002;
+Handelsman Y, et al. 2020. doi:10.
+4158/CS-2020-0490).
+VITAMIN D,25-OH,TOTAL,IA (17306) (Not yet reviewed by provider)
+Interpretation:
+Performing Lab:Z99, Quest Diagnostics-Clifton
+1 Insights Drive, Clifton
+NJ
+07012-2355 DR. Peter E Fisher
+Notes/Report:
+NON-FASTING
+NON-FASTING NON-FASTING NON-FASTING NON-FASTING NON-FASTING
+VITAMIN D,25-OH,TOTAL,IA
+19
+30-100 ng/mL
+Vitamin D Status         25-OH Vitamin D:
+Deficiency:                    <20 ng/mL
+Insufficiency:             20 - 29 ng/mL
+Optimal:                 > or = 30 ng/mL
+For 25-OH Vitamin D testing on patients on
+D2-supplementation and patients for whom quantitation
+of D2 and D3 fractions is required, the QuestAssureD(TM)
+25-OH VIT D, (D2,D3), LC/MS/MS is recommended: order
+code 92888 (patients >2yrs).
+See Note 1
+Note 1
+For additional information, please refer to
+http://education.QuestDiagnostics.com/faq/FAQ199
+(This link is being provided for informational/
+educational purposes only.)
+Electrocardiogram (EKG)
+Reviewed date:08/22/2025 01:35:48 PM
+Interpretation:
+Performing Lab:
+Notes/Report:
+ABI/PVR
+Reviewed date:08/28/2025 12:30:10 PM
+Interpretation:
+Performing Lab:
+Notes/Report:
+
+
+=== REASON FOR REFERRAL ===
+Reason
+93306 | 93880 | 93922
+Diagnosis 1
+Chest pain, unspecified (R07.9)
+Diagnosis 2
+Dizziness and giddiness (R42)
+Diagnosis 3
+Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs (I70.213)
+Referral Organization
+Epic Heart and Vascular Care
+Referring Provider First Name
+RISHI
+Referring Provider Last Name
+BAJAJ
+Referring Provider Speciality
+Cardiovascular Disease
+Referred Organization
+Epic Heart and Vascular Care
+Referred Provider
+BAJAJ, RISHI
+Referred Address
+79 ROUTE 59,SUFFERN,NY,10901-4913,US
+Referred Provider Specialty
+Cardiovascular Disease
+General Notes
+Kacey, Geona 08/26/2025 12:41:49 AM >Auth Not Required For Cpt 93306/93880/93922
+Referral Priority
+Routine
+
+
+=== MEDICATIONS ===
+Medication
+SIG (Take, Route, Frequency, Duration)
+Notes
+Start Date
+End Date
+Status
+Mounjaro 10 MG/0.5ML
+as directed Subcutaneous once a week; Duration: 28 days
+09/11/2025
+10/09/2025
+Active
+Rosuvastatin Calcium 10 MG
+1 tablet Orally Once a day; Duration: 90 days
+Active
+Mounjaro 7.5 MG/0.5ML
+as directed Subcutaneous
+Active
+metFORMIN HCl 1000 MG
+1 tablet with a meal Orally twice a day; Duration: 90 days
+Active
+
+
+=== IMMUNIZATIONS ===
+No Information
+
+
+=== SOCIAL HISTORY ===
+No Information
+
+
+=== PROBLEMS ===
+Problem Type
+SNOMED Code
+ICD Code
+Onset Dates
+Problem Status
+W/U Status
+Risk
+Notes
+Problem
+Type II diabetes mellitus without complication (313436004)
+Type 2 diabetes mellitus without complications (E11.9)
+Active
+confirmed
+Problem
+Hyperlipidemia (55822004)
+Hyperlipidemia, unspecified (E78.5)
+Active
+confirmed
+Problem
+Restless legs syndrome (32914008)
+Restless legs syndrome (G25.81)
+Active
+confirmed
+Problem
+Intermittent claudication of bilateral lower limbs co-occurrent and due to atherosclerosis (12236951000119108)
+Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs (I70.213)
+Active
+confirmed
+Problem
+Morbid obesity (238136002)
+Morbid obesity (E66.01)
+Active
+confirmed
+Problem
+Anxiety (48694002)
+Anxiety (F41.9)
+Active
+confirmed
+Problem
+Skin sensation disturbance (80910005)
+Tingling of both feet (R20.2)
+Active
+confirmed
+Problem
+Disorder due to type 2 diabetes mellitus (422014003)
+DM w/ complication (E11.8)
+Active
+confirmed
+
+
+=== VITAL SIGNS ===
+Heart Rate
+94 /min
+09/11/2025
+Respiratory Rate
+16 /min
+09/11/2025
+Oximetry
+97 %
+09/11/2025
+Blood pressure diastolic
+90 mm Hg
+09/11/2025
+Blood pressure systolic
+140 mm Hg
+09/11/2025
+
+
+=== PROCEDURES ===
+No Information
+
+
+=== ENCOUNTERS ===
+Encounter
+Location
+Date
+Provider
+Diagnosis
+Epic Heart and Vascular Care
+4 HDSN VLY PROF PLZ STE B NEWBURGH, NY 12550-3157
+08/26/2025
+RISHI BAJAJ
+SOB (shortness of breath) on exertion R06.02 ; Person consulting for explanation of examination or test findings Z71.2 ; Anxiety F41.9 ; DM w/ complication E11.8 ; Depression, unspecified F32.A ; Hyperlipidemia, unspecified E78.5 ; Dizziness R42 ; Leg numbness R20.0 ; Tingling of both feet R20.2 ; Leg heaviness R29.898 ; Restless legs syndrome G25.81 ; Type 2 diabetes mellitus without complications E11.9 ; Morbid obesity E66.01 ; Decreased pedal pulses R09.89 and Cold feet R20.9
+Newburgh Office
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
+09/11/2025
+RISHI BAJAJ
+DM w/ complication E11.8 ; SOB (shortness of breath) on exertion R06.02 ; Hyperlipidemia, unspecified E78.5 ; Person consulting for explanation of examination or test findings Z71.2 ; Anxiety F41.9 ; Depression, unspecified F32.A ; Dizziness R42 ; Leg numbness R20.0 ; Tingling of both feet R20.2 ; Leg heaviness R29.898 ; Restless legs syndrome G25.81 ; Type 2 diabetes mellitus without complications E11.9 ; Morbid obesity E66.01 ; Decreased pedal pulses R09.89 and Cold feet R20.9
+Epic Heart and Vascular Care
+4 HDSN VLY PROF PLZ STE B NEWBURGH, NY 12550-3157
+08/19/2025
+RISHI BAJAJ
+Anxiety F41.9 ; SOB (shortness of breath) on exertion R06.02 ; DM w/ complication E11.8 ; Depression, unspecified F32.A ; Hyperlipidemia, unspecified E78.5 ; Dizziness R42 ; Leg numbness R20.0 ; Tingling of both feet R20.2 ; Leg heaviness R29.898 ; Restless legs syndrome G25.81 ; Type 2 diabetes mellitus without complications E11.9 ; Morbid obesity E66.01 and Decreased pedal pulses R09.89
+
+
+=== MEDICAL EQUIPMENT ===
+No Information
+
+
+=== ASSESSMENTS ===
+Encounter Date
+Diagnosis (ICD Code)
+Assessment Notes
+Treatment Notes
+Treatment Clinical Notes
+Section Notes
+encounter date : 08/19/2025
+SOB (shortness of breath) on exertion (ICD-10 - R06.02)
+encounter date : 08/19/2025
+Anxiety (ICD-10 - F41.9)
+encounter date : 08/26/2025
+Person consulting for explanation of examination or test findings (ICD-10 - Z71.2)
+encounter date : 08/26/2025
+SOB (shortness of breath) on exertion (ICD-10 - R06.02)
+Echo today
+encounter date : 09/11/2025
+SOB (shortness of breath) on exertion (ICD-10 - R06.02)
+encounter date : 09/11/2025
+DM w/ complication (ICD-10 - E11.8)
+encounter date : 08/26/2025
+Anxiety (ICD-10 - F41.9)
+encounter date : 09/11/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 08/19/2025
+DM w/ complication (ICD-10 - E11.8)
+encounter date : 08/19/2025
+Depression, unspecified (ICD-10 - F32.A)
+encounter date : 08/26/2025
+DM w/ complication (ICD-10 - E11.8)
+BW reviewed today
+encounter date : 09/11/2025
+Person consulting for explanation of examination or test findings (ICD-10 - Z71.2)
+encounter date : 08/19/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 08/26/2025
+Depression, unspecified (ICD-10 - F32.A)
+encounter date : 09/11/2025
+Anxiety (ICD-10 - F41.9)
+encounter date : 08/26/2025
+Hyperlipidemia, unspecified (ICD-10 - E78.5)
+encounter date : 08/19/2025
+Dizziness (ICD-10 - R42)
+encounter date : 09/11/2025
+Depression, unspecified (ICD-10 - F32.A)
+encounter date : 09/11/2025
+Dizziness (ICD-10 - R42)
+encounter date : 08/26/2025
+Dizziness (ICD-10 - R42)
+Carotid today
+encounter date : 08/19/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 08/19/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 08/26/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 09/11/2025
+Leg numbness (ICD-10 - R20.0)
+encounter date : 08/26/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 08/19/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 09/11/2025
+Tingling of both feet (ICD-10 - R20.2)
+encounter date : 09/11/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 08/19/2025
+Restless legs syndrome (ICD-10 - G25.81)
+encounter date : 08/26/2025
+Leg heaviness (ICD-10 - R29.898)
+encounter date : 09/11/2025
+Restless legs syndrome (ICD-10 - G25.81)
+encounter date : 08/19/2025
+Type 2 diabetes mellitus without complications (ICD-10 - E11.9)
+encounter date : 08/26/2025
+Restless legs syndrome (ICD-10 - G25.81)
+ABI today
+encounter date : 08/26/2025
+Type 2 diabetes mellitus without complications (ICD-10 - E11.9)
+encounter date : 08/19/2025
+Morbid obesity (ICD-10 - E66.01)
+encounter date : 09/11/2025
+Type 2 diabetes mellitus without complications (ICD-10 - E11.9)
+encounter date : 09/11/2025
+Morbid obesity (ICD-10 - E66.01)
+encounter date : 08/19/2025
+Decreased pedal pulses (ICD-10 - R09.89)
+encounter date : 08/26/2025
+Morbid obesity (ICD-10 - E66.01)
+encounter date : 08/26/2025
+Decreased pedal pulses (ICD-10 - R09.89)
+encounter date : 09/11/2025
+Decreased pedal pulses (ICD-10 - R09.89)
+encounter date : 09/11/2025
+Cold feet (ICD-10 - R20.9)
+encounter date : 08/26/2025
+Cold feet (ICD-10 - R20.9)
+encounter date : 08/26/2025
+Other
+We are going to discuss the results of his recent lab work, which revealed an LDL of 67, creatinine of 0.85, normal LFTs, lipoprotein A of 212, A1C of 6.6, apolipoprotein B of 72, and vitamin D of 19. We discussed his genetic predisposition to hyperlipidemia given his elevated lipoprotein A. We advised him to decrease his intake of fried fatty foods and to make appropriate diet modifications and healthy diet choices. We advised him to remain compliant with his current diabetic regimen and to decrease his intake of processed sugars and foods high in carbohydrates. For further evaluation of possible cardiac morphological abnormality causing his exertional shortness of breath, an echocardiogram was completed today. Preliminary images were reviewed and discussed which revealed an ejection fraction of 55 to 60% and mild TR. A carotid doppler was completed today for evaluation of possible carotid stenosis causing his dizziness and lightheadedness. Preliminary images were reviewed and discussed which revealed mild atherosclerotic plaque. We advised him to avoid any quick position changes and to increase his hydration for prevention of further dizzy episodes. Upon physical examination, he was found to have cold feet for which we arranged for an ABI/PVR, revealing an RLE of 1.31 and an LLE of 1.30. All questions and concerns were answered and addressed. A heart-healthy diet and healthy lifestyle was encouraged and endorsed. He is to follow up in two weeks or sooner should symptoms worsen or new symptoms arise. He agrees with the plan of care.
+Scribed by Intekhab Alam and Phoebe Tarta under the supervision of Dr. Rishi Bajaj
+encounter date : 09/11/2025
+Other
+We will obtain authorization for further
+ischemic evaluation of his shortness of breath with an ETT at his next visit.
+On physical examination, his blood pressure was found to be elevated at 140/90
+on today's visit. He was advised to avoid sodium rich foods in hopes of better
+blood pressure control. Should his blood pressure remain elevated at his next
+visit, we will consider initiating antihypertensive therapy. His hemoglobin A1c
+at his last visit was found to be 6.6. We discussed for better glycemic
+control, we will be increasing his Mounjaro to 10 mg SC weekly. Side effects
+were discussed in great detail. All questions and concerns were answered and
+addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. He
+is to follow up in 1 to 2 weeks for a repeat blood pressure check or sooner
+should symptoms worsen. He agrees to the plan of care.
+Face-to-face behavioral counseling for
+15 minutes completed for diagnosis of obesity, which included discussion of
+diet importance of exercise, behavioral modification strategies, and patient
+specific goals set to ensure positive outcomes from the visit.
+Provided education on
+diet modifications, proper food choices, nutritional counseling and review of
+diet journal
+Scribed by Shashank Kapoor and Daliah Rodriguez under the supervision of Dr. Rishi Bajaj
+encounter date : 08/19/2025
+Other
+On today's visit, we arranged for routine lab work as well as lipoprotein
+A and apolipoprotein B for further evaluation of his overall health. An EKG was
+completed today for evaluation of overall cardiac rhythm. For evaluation of
+lower extremity heaviness and restlessness, a venous reflux study was completed
+today; preliminary images reviewed and discussed that revealed no evidence of
+DVT with significant reflux bilaterally. We advised him to wear compression
+socks during the day and to rest and elevate his legs at night. We also
+provided him with educational material on venous insufficiency. We will seek
+authorization for an echocardiogram for evaluation of cardiac morphology in the
+setting of exertional shortness of breath. We will also seek authorization for
+a carotid doppler for evaluation of possible carotid stenosis causing his
+episodes of dizziness and lightheadedness. Upon physical examination, he was
+found to have decreased pedal pulses. For this finding, given the feeling of
+numbness and tingling in his bilateral lower extremities, we will seek
+authorization for an ABI/PVR. All questions and concerns were answered and addressed.
+Heart healthy diet and healthy lifestyle
+modifications were encouraged and endorsed. He is to follow-up in 1 week or
+sooner should symptoms worsen or new symptoms arise. He agrees to the plan of
+care.
+Time Spent: Total time spent 90 minutes in face-to-face conversation, examination, reviewing records, discussing treatment options and procedures, pathophysiology, and anatomy. Diet and lifestyle modifications were discussed in great detail.  Images were personally reviewed by me in front of the patient and/or family member and explained on our graphic diagram.  Treatment options, risks, benefits and alternative treatments discussed with the patient in detail. All questions and concerns answered.
+Scribed by Devendra Bisht and Phoebe Tarta under the supervision of Dr. Rishi Bajaj
+
+
+=== PLAN OF TREATMENT ===
+Pending Test
+Test Name
+Order Date
+Echocardiogram
+08/26/2025
+ABI/PVR
+08/26/2025
+Carotid Ultrasound
+08/26/2025
+Venous Reflux
+08/19/2025
+LIPID PANEL WITH REFLEX TO DIRECT LDL (14852)
+08/19/2025
+COMPREHENSIVE METABOLIC PANEL (10231)
+08/19/2025
+HEPATIC FUNCTION PANEL (10256)
+08/19/2025
+LIPOPROTEIN (a) (34604)
+08/19/2025
+CBC (H/H, RBC, INDICES, WBC, PLT) (1759)
+08/19/2025
+HEMOGLOBIN A1c (496)
+08/19/2025
+APOLIPOPROTEIN B (5224)
+08/19/2025
+VITAMIN D,25-OH,TOTAL,IA (17306)
+08/19/2025
+Future Test
+Test Name
+Order Date
+Echocardiogram
+08/20/2025
+ABI/PVR
+08/20/2025
+Ultrasound : Carotid Doppler Bilateral
+08/20/2025
+Exercise Treadmill Stress Test (TMST)
+09/17/2025
+Next Appt
+Details
+Provider Name:RISHI BAJAJ, 10/09/2025 09:00:00 AM, 4 HDSN VLY PROF PLZ, Suite B, NEWBURGH, NY, 12550-3157, 781-530-0070
+
+
+=== GOALS SECTION ===
+No Information
+
+
+=== HEALTH CONCERNS ===
+No Information
+
+
+=== INSURANCE PROVIDERS ===
+Payer Name
+Payer Address
+Payer Phone
+Subscriber Number
+Group Number
+Insured Name
+Patient Relationship to Insured
+Coverage Start Date
+Coverage End Date
+Empire BCBS of New York
+PO BOX 1407 NEW YORK, NY 100081407
+800-552-6630
+DKP921937229
+Bonner, Antione
+Self - patient is the insured
+
+
+=== MEDICAL (GENERAL) HISTORY ===
+Medical History
+History
+ICD Code
+type 2 diabetes, anxiety, depression, hyperlipidemia, and obesity
+Surgical History
+Surgery
+Date(Month/Year)
+benign neck lipoma removal and a vasectomy
+
+
+=== PROGRESS NOTES ===
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/19/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, no lower extremity edema, decreased pedal pulses
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/11/2025
+General Examination
+General appearance:
+obese, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, no lower extremity edema, decreased pedal pulses, cold feet
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+Examination
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/26/2025
+General Examination
+General appearance:
+well developed, well nourished, in no acute distress
+Head:
+normocephalic, atraumatic
+Eyes:
+PERRLA, EOMI
+Ears:
+external ear inspection normal
+Neck / thyroid:
+neck is supple, full range of motion, no thyromegaly, no cervical lymphadenopathy
+Heart:
+regular rate and rhythm, S1, S2 normal, no murmurs, gallops, clicks or rubs, no JVD, carotid upstroke brisk bilaterally, no carotid bruit
+Lungs:
+symmetrical chest expansion, clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort, no labored breathing
+Abdomen:
+soft, non-tender, non-distended, bowel sounds present in all four quadrants
+Neurologic:
+nonfocal, alert, awake and oriented to person, place and time
+Extremities:
+full range of motion, no upper extremity edema, no lower extremity edema, decreased pedal pulses, cold feet
+Psych:
+mood and affect appear normal
+Oral cavity:
+tongue midline, mucosa moist
+
+
+=== HISTORY AND PHYSICAL NOTES ===
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/19/2025
+Transition of Care
+This is a 39-year-old male, referred by Zocdoc, with past medical history of type 2 diabetes, anxiety, depression, hyperlipidemia, and obesity, who presents today for initial cardiovascular consultation for evaluation of overall cardiovascular health. He currently works at Chrysler in shipping and logistics, has 4 children, and lives in Poughkeepsie. He reports recently relocating from Lencet, Michigan. He has no PCP, with his last primary care appointment being 2 months ago with Dr. Tolman in Michigan. For anxiety and depression management, he was previously on Lexapro and engaged in psychotherapy, but discontinued both due to depression relief. He has a past surgical history of a benign neck lipoma removal and a vasectomy. He is currently on Mounjaro 7.5 mg, rosuvastatin 10 mg, and metformin 1 g, all of which he is tolerating well without any ill side effects. He is up to date with ophthalmology as he wears contact lenses daily. He does report exertional shortness of breath. He also reports some dizziness and lightheadedness. He states feeling numbness, tingling, heaviness, and restlessness in his bilateral lower extremities. He denies any active chest pain, chest pressure, syncope, or near-syncopal events.
+Venous reflux study: No evidence of DVT with significant reflux bilaterally.
+On today's visit, we arranged for routine lab work as well as lipoprotein A and apolipoprotein B for further evaluation of his overall health. An EKG was completed today for evaluation of overall cardiac rhythm. For evaluation of lower extremity heaviness and restlessness, a venous reflux study was completed today; preliminary images reviewed and discussed that revealed no evidence of DVT with significant reflux bilaterally. We advised him to wear compression socks during the day and to rest and elevate his legs at night. We also provided him with educational material on venous insufficiency. We will seek authorization for an echocardiogram for evaluation of cardiac morphology in the setting of exertional shortness of breath. We will also seek authorization for a carotid doppler for evaluation of possible carotid stenosis causing his episodes of dizziness and lightheadedness. Upon physical examination, he was found to have decreased pedal pulses. For this finding, given the feeling of numbness and tingling in his bilateral lower extremities, we will seek authorization for an ABI/PVR. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle modifications were encouraged and endorsed. He is to follow-up in 1 week or sooner should symptoms worsen or new symptoms arise. He agrees to the plan of care.
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+09/11/2025
+Transition of Care
+This is a 39-year-old male with past medical history of type 2 diabetes, anxiety, depression, hyperlipidemia, and obesity, who presents today for a cardiovascular follow up for shortness of breath. He continues to complain of shortness of breath on exertion, unchanged from his last visit. He denies any shortness of breath at rest. He has a history of type 2 diabetes and obesity which is managed with Mounjaro 7.5 mg SC weekly. He is tolerating well. His hemoglobin A1c at his last visit was found to be 6.6. He denies any active chest pain, chest pressure, syncope or near-syncopal events.
+Venous reflux study: No evidence of DVT with significant reflux bilaterally.
+Echocardiogram: Ejection fraction of 55 to 60% and mild TR.
+Carotid doppler: Mild atherosclerotic plaque.
+ABI/PVR: RLE 1.31, LLE 1.30.
+We will obtain authorization for further ischemic evaluation of his shortness of breath with an ETT at his next visit. On physical examination, his blood pressure was found to be elevated at 140/90 on today's visit. He was advised to avoid sodium rich foods in hopes of better blood pressure control. Should his blood pressure remain elevated at his next visit, we will consider initiating antihypertensive therapy. His hemoglobin A1c at his last visit was found to be 6.6. We discussed for better glycemic control, we will be increasing his Mounjaro to 10 mg SC weekly. Side effects were discussed in great detail. All questions and concerns were answered and addressed. Heart healthy diet and healthy lifestyle encouraged and endorsed. He is to follow up in 1 to 2 weeks for a repeat blood pressure check or sooner should symptoms worsen. He agrees to the plan of care.
+HPI (History of Present Illness)
+Date
+Category
+Sub-Category
+Detail
+Notes
+Category Notes
+08/26/2025
+Transition of Care
+This is a 39-year-old male with past medical history of type 2 diabetes, anxiety, depression, hyperlipidemia, and obesity, who presents today for a cardiovascular follow-up for review of labs. At his previous visit, routine lab work was completed for evaluation of his overall health, which we will review and discuss today. He does report symptoms of exertional shortness of breath that affect his daily performance, but denies any shortness of breath at rest. He also reports some dizziness and lightheadedness. He denies any active chest pain, chest pressure, syncope or near-syncopal events.
+Venous reflux study: No evidence of DVT with significant reflux bilaterally.
+Echocardiogram: Ejection fraction of 55 to 60% and mild TR.
+Carotid doppler: Mild atherosclerotic plaque.
+ABI/PVR: RLE 1.31, LLE 1.30.
+We are going to discuss the results of his recent lab work, which revealed an LDL of 67, creatinine of 0.85, normal LFTs, lipoprotein A of 212, A1C of 6.6, apolipoprotein B of 72, and vitamin D of 19. We discussed his genetic predisposition to hyperlipidemia given his elevated lipoprotein A. We advised him to decrease his intake of fried fatty foods and to make appropriate diet modifications and healthy diet choices. We advised him to remain compliant with his current diabetic regimen and to decrease his intake of processed sugars and foods high in carbohydrates. For further evaluation of possible cardiac morphological abnormality causing his exertional shortness of breath, an echocardiogram was completed today. Preliminary images were reviewed and discussed which revealed an ejection fraction of 55 to 60% and mild TR. A carotid doppler was completed today for evaluation of possible carotid stenosis causing his dizziness and lightheadedness. Preliminary images were reviewed and discussed which revealed mild atherosclerotic plaque. We advised him to avoid any quick position changes and to increase his hydration for prevention of further dizzy episodes. Upon physical examination, he was found to have cold feet for which we arranged for an ABI/PVR, revealing an RLE of 1.31 and an LLE of 1.30. All questions and concerns were answered and addressed. A heart-healthy diet and healthy lifestyle was encouraged and endorsed. He is to follow up in two weeks or sooner should symptoms worsen or new symptoms arise. He agrees with the plan of care.
+
+
