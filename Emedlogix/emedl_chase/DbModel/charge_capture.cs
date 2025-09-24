@@ -21,5 +21,11 @@ namespace emedl_chase.DbModel
         public DateTime? created_on { get; set; }
         public Boolean isdelete { get; set; }
 
+        public string? file_name { get; set; }
+        public string? state { get; set; }
+        public int  org_id { get; set; }
+
+        public string? location { get; set; }
+
     }
 }

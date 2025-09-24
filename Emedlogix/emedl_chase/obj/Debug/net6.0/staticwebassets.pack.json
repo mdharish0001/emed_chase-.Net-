@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Apex Medical Associates LLC - Charges report 09-23-2025.xlsx",
+      "PackagePath": "staticwebassets\\Apex Medical Associates LLC - Charges report 09-23-2025.xlsx"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\DR RISHI CHARGE REPORT FROM 910 TO 0918.xlsx",
       "PackagePath": "staticwebassets\\DR RISHI CHARGE REPORT FROM 910 TO 0918.xlsx"
     },
@@ -11,6 +15,10 @@
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Dr Rishi Charge report.csv",
       "PackagePath": "staticwebassets\\Dr Rishi Charge report.csv"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Epic Heart and Vascular Care - Charges report 09-23-2025.xlsx",
+      "PackagePath": "staticwebassets\\Epic Heart and Vascular Care - Charges report 09-23-2025.xlsx"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Acierno Nicholas_2025-09-01_encounter.xml",
@@ -139,6 +147,14 @@
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Output\\Villamizar Ana_2025-08-29_full.xml",
       "PackagePath": "staticwebassets\\Output\\Villamizar Ana_2025-08-29_full.xml"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Sachin K Amr Jain Cardiovascular PC - charge report 09-23-2025.xlsx",
+      "PackagePath": "staticwebassets\\Sachin K Amr Jain Cardiovascular PC - charge report 09-23-2025.xlsx"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Wound and Lymphology of Texas PA - charge report 09-23-2025.xlsx",
+      "PackagePath": "staticwebassets\\Wound and Lymphology of Texas PA - charge report 09-23-2025.xlsx"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\131_Diaz Maria_2025-08-29_encounter.txt",

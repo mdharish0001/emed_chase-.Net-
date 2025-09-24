@@ -2702,7 +2702,15 @@ namespace emedl_chase
                 entity.Property(e => e.isdelete)
        .HasColumnName("isdelete");
 
+                entity.Property(e => e.file_name)
+               .HasMaxLength(100);
+                entity.Property(e => e.state)
+               .HasMaxLength(100);
+                entity.Property(e => e.org_id)
+               .HasMaxLength(10);
 
+                entity.Property(e => e.location)
+              .HasMaxLength(100);
 
             });
 

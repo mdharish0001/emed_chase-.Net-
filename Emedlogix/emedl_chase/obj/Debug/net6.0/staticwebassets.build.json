@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N1fr+naCHxJVqYsjrKDOSyUHTBYC2WbFHBXuiWHwPrs=",
+  "Hash": "FvFJqxIJ1xXBxjhn5qHVIEKzgVA3eooUcDMpQoWdF0Q=",
   "Source": "emedl_chase",
   "BasePath": "_content/emedl_chase",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Apex Medical Associates LLC - Charges report 09-23-2025.xlsx",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "Apex Medical Associates LLC - Charges report 09-23-2025.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Apex Medical Associates LLC - Charges report 09-23-2025.xlsx"
+    },
     {
       "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\DR RISHI CHARGE REPORT FROM 910 TO 0918.xlsx",
       "SourceId": "emedl_chase",
@@ -72,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\DR RISHI CHARGE REPORT.xlsx"
+    },
+    {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Epic Heart and Vascular Care - Charges report 09-23-2025.xlsx",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "Epic Heart and Vascular Care - Charges report 09-23-2025.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Epic Heart and Vascular Care - Charges report 09-23-2025.xlsx"
     },
     {
       "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\files\\Demo\\131_Diaz Maria_2025-08-29_encounter.txt",
@@ -2620,6 +2658,25 @@
       "OriginalItemSpec": "wwwroot\\Output\\Villamizar Ana_2025-08-29_full.xml"
     },
     {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Sachin K Amr Jain Cardiovascular PC - charge report 09-23-2025.xlsx",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "Sachin K Amr Jain Cardiovascular PC - charge report 09-23-2025.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Sachin K Amr Jain Cardiovascular PC - charge report 09-23-2025.xlsx"
+    },
+    {
       "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\uploads\\15_Sep_2025\\data short.xlsx",
       "SourceId": "emedl_chase",
       "SourceType": "Discovered",
@@ -3036,6 +3093,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\17_Sep_2025\\Van Arsdale Corinne_2025-09-15_full.xml"
+    },
+    {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Wound and Lymphology of Texas PA - charge report 09-23-2025.xlsx",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "Wound and Lymphology of Texas PA - charge report 09-23-2025.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Wound and Lymphology of Texas PA - charge report 09-23-2025.xlsx"
     }
   ]
 }
