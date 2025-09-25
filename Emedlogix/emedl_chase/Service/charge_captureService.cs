@@ -41,5 +41,44 @@ namespace emedl_chase.Service
             oEntity = await _repository.InsertAsync(oEntity);
             return oEntity;
         }
+
+        public IQueryable<charge_capture> GetAll(string practice = null, string cpt = null, int? claim_id=null ,int? patient_id=null,int? encounter_id = null,int?org_id = null)
+
+        {
+
+            var data= _repository.TableNoTracking.AsQueryable();
+
+            data = data.Where(a => a.isdelete != true);
+
+            if (practice != null)
+            {
+                data=data.Where(a=>a.practice == practice);
+            }
+
+            if (cpt != null)
+            {
+                data=data.Where(a=>a.cpt == cpt);
+            }
+            if (claim_id >0)
+            {
+                data = data.Where(a => a.claim_id == claim_id);
+            }
+
+            if (patient_id > 0)
+            {
+                data = data.Where(a => a.patient_id == patient_id);
+            }
+            if (encounter_id > 0)
+            {
+                data = data.Where(a => a.encounter_id == encounter_id);
+            }
+            if (org_id > 0)
+            {
+                data = data.Where(a => a.org_id == org_id);
+            }
+
+            return data;
+
+        }
     }
 }

@@ -1,9 +1,12 @@
 ﻿using emedl_chase.DbModel;
 using emedl_chase.Model;
 using emedl_chase.Service;
+using emedl_chase.ViewModel;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using OfficeOpenXml;
 using System.ComponentModel;
+using System.Drawing.Printing;
 using System.Globalization;
 using System.Linq;
 using System.Security.Claims;
@@ -395,6 +398,52 @@ namespace emedl_chase.Controllers
             return false;
         }
 
+        [HttpGet( Name="getrecords")]
+
+        public IActionResult Get(int? patient = null,int? org_id= null,int page=1,int pageSize=10)
+        {
+            var data = _charge_captureService.GetAll(patient_id: patient,org_id:org_id).ToList();
+
+            var get_cpt = data.GroupBy(a => a.claim_id).ToList();
+            Console.WriteLine(get_cpt.Count);
+
+            var patient_list=new List<ChargeModel>();
+
+            foreach(var c in data)
+            {
+                var model =new ChargeModel();
+                model.Id = c.id;
+                model.cpt_code = c.cpt;
+                model.claim_id = c.claim_id;
+                model.patient_name = c.patient_name;
+                model.practice = c.practice;
+                model.encounter_id = c.encounter_id!=null ? c.encounter_id : c.claim_id;
+
+                patient_list.Add(model);
+
+            }
+            var totalCount = patient_list.Count();
+            var totalPages = (int)Math.Ceiling(totalCount / (double)pageSize);
+
+            var pagedData = patient_list
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            if (!pagedData.Any())
+            {
+                return NotFound("No data found for the given filter.");
+            }
+            var response = new
+            {
+                TotalRecords = patient_list.Count(),
+                Page = page,
+                PageSize = pageSize,
+                TotalPages = totalPages,
+                Data = pagedData
+            };
+            return Ok (response);
+        }
 
 
     }
