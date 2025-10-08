@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FvFJqxIJ1xXBxjhn5qHVIEKzgVA3eooUcDMpQoWdF0Q=",
+  "Hash": "8LzxMWaoZNSVNmIHtsDd5tgAvqEbyvLtKaVMjC9xpI8=",
   "Source": "emedl_chase",
   "BasePath": "_content/emedl_chase",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\ANITA - GERID MEDICAL CONSULTANTS.xlsx",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "ANITA - GERID MEDICAL CONSULTANTS.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ANITA - GERID MEDICAL CONSULTANTS.xlsx"
+    },
     {
       "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Apex Medical Associates LLC - Charges report 09-23-2025.xlsx",
       "SourceId": "emedl_chase",
@@ -34,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Apex Medical Associates LLC - Charges report 09-23-2025.xlsx"
+    },
+    {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Charge Report - 10012025 to 10062025.xlsx",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "Charge Report - 10012025 to 10062025.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Charge Report - 10012025 to 10062025.xlsx"
     },
     {
       "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\DR RISHI CHARGE REPORT FROM 910 TO 0918.xlsx",
@@ -2694,6 +2732,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\15_Sep_2025\\data short.xlsx"
+    },
+    {
+      "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\uploads\\17_Sep_2025\\17_Sep_2025.zip",
+      "SourceId": "emedl_chase",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\",
+      "BasePath": "_content/emedl_chase",
+      "RelativePath": "uploads/17_Sep_2025/17_Sep_2025.zip",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\17_Sep_2025\\17_Sep_2025.zip"
     },
     {
       "Identity": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\uploads\\17_Sep_2025\\Amanna Courtney_2025-09-15_encounter.xml",

@@ -12,7 +12,7 @@ namespace emedl_chase.DbModel
         public string ? practice { get; set; }
         public string ? provider { get; set; }
         public string? patient_name { get; set; }
-        public int patient_id { get; set; }
+        public string? patient_id { get; set; }
         public DateTime? dos { get; set; }
         public string ? cpt { get; set; }
         public int? claim_id { get; set; }

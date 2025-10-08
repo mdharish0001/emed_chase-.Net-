@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("emedl_chase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b15f8dbf290a788b98efe76728614a845229a639")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f235a62e3302ebec0cd1346a24841565ee18e4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("emedl_chase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("emedl_chase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

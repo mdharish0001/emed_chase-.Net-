@@ -174,8 +174,8 @@ namespace emedl_chase.Controllers
                         if (headerColumns.TryGetValue("Patient Acct No", out int patientIdCol))
                         {
                             string idText = worksheet.Cells[row, patientIdCol].Text;
-                            model.patient_id = int.TryParse(idText, out int id) ? id : 0;
-                        }
+                            model.patient_id = worksheet.Cells[row, patientIdCol].Text;
+                    }
 
                         if (headerColumns.TryGetValue("Service Date", out int dosCol))
                             //model.dos = ParseDate(worksheet.Cells[row, dosCol].Text);
@@ -274,7 +274,7 @@ namespace emedl_chase.Controllers
             List<string> headersForEncounter = new List<string> { "EncounterID" };
             List<string> headersForLocation = new List<string> { "Facility Name", "ServiceLocationName" };
 
-            string[] formats = { "MM-dd-yyyy", "M-d-yyyy", "MM/dd/yyyy", "M/d/yyyy", "MMM dd, yyyy", "dd-MM-yyyy" };
+            string[] formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss" };
 
             var list = new List<charge_capture>();
             DateTime parsedDate;
@@ -332,13 +332,13 @@ namespace emedl_chase.Controllers
                     if (TryGetColumn(headerColumns, headersForPatientID, out int patientIdCol))
                     {
                         string idText = worksheet.Cells[row, patientIdCol].Text;
-                        model.patient_id = int.TryParse(idText, out int pid) ? pid : 0;
+                        model.patient_id = worksheet.Cells[row, patientIdCol].Text;
                     }
 
                     // Service Date
                     if (TryGetColumn(headerColumns, headersForServiceDate, out int dosCol))
                     {
-                        string dateText = worksheet.Cells[row, dosCol].Text;
+                        string dateText = worksheet.Cells[row, dosCol].Value.ToString();
                         if (DateTime.TryParseExact(dateText, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
                             model.dos = parsedDate;
                     }
@@ -367,14 +367,25 @@ namespace emedl_chase.Controllers
                     if (TryGetColumn(headerColumns, headersForClaimDate, out int claimDateCol))
                     {
                         string dateText = worksheet.Cells[row, claimDateCol].Text;
-                        if (DateTime.TryParseExact(dateText, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
+                        string dateText2 = worksheet.Cells[row, claimDateCol].Value.ToString();
+                        if (DateTime.TryParseExact(dateText2, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
                             model.claim_date = parsedDate;
                     }
 
                     if (TryGetColumn(headerColumns, headersForLocation, out int LocCol))
                         model.location = worksheet.Cells[row, LocCol].Text;
 
-                    list.Add(model);
+                    var match = _charge_captureService.GetAll(patient_id: model.patient_id, dos: model.dos, encounter_id:model.encounter_id,cpt:model.cpt,org_id:get_org_id,claim_id:model.claim_id,patientname:model.patient_name).ToList() ;
+
+                    if (match.Count==0)
+                    {
+                        list.Add(model);
+                    }
+                    
+                    else
+                    {
+                        continue;
+                    }
                 }
 
                 await _charge_captureService.Create(list);
@@ -400,7 +411,7 @@ namespace emedl_chase.Controllers
 
         [HttpGet( Name="getrecords")]
 
-        public IActionResult Get(int? patient = null,int? org_id= null,int page=1,int pageSize=10)
+        public IActionResult Get(string? patient = null,int? org_id= null,int page=1,int pageSize=10)
         {
             var data = _charge_captureService.GetAll(patient_id: patient,org_id:org_id).ToList();
 

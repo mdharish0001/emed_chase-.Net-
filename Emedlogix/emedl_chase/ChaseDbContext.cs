@@ -2675,7 +2675,7 @@ namespace emedl_chase
 
 
                 entity.Property(e => e.patient_id)
-                .HasMaxLength(50);
+                .HasMaxLength(100);
 
 
                 entity.Property(e => e.claim_id)

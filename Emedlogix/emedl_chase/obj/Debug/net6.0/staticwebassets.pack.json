@@ -1,8 +1,16 @@
 {
   "Files": [
     {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\ANITA - GERID MEDICAL CONSULTANTS.xlsx",
+      "PackagePath": "staticwebassets\\ANITA - GERID MEDICAL CONSULTANTS.xlsx"
+    },
+    {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Apex Medical Associates LLC - Charges report 09-23-2025.xlsx",
       "PackagePath": "staticwebassets\\Apex Medical Associates LLC - Charges report 09-23-2025.xlsx"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\Charge Report - 10012025 to 10062025.xlsx",
+      "PackagePath": "staticwebassets\\Charge Report - 10012025 to 10062025.xlsx"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\DR RISHI CHARGE REPORT FROM 910 TO 0918.xlsx",
@@ -567,6 +575,10 @@
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\uploads\\15_Sep_2025\\data short.xlsx",
       "PackagePath": "staticwebassets\\uploads\\15_Sep_2025\\data short.xlsx"
+    },
+    {
+      "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\uploads\\17_Sep_2025\\17_Sep_2025.zip",
+      "PackagePath": "staticwebassets\\uploads\\17_Sep_2025\\17_Sep_2025.zip"
     },
     {
       "Id": "D:\\DotnetProjects\\emed_chase-.Net-\\Emedlogix\\emedl_chase\\wwwroot\\uploads\\17_Sep_2025\\Amanna Courtney_2025-09-15_encounter.xml",
