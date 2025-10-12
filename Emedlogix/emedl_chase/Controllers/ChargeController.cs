@@ -258,11 +258,11 @@ namespace emedl_chase.Controllers
 
             // Header matching lists
             List<string> headersToFind = new List<string>
-    {
-        "Rendering Provider Name", "Patient Name", "Patient Acct No", "Service Date",
-        "CPT Code", "Claim No", "Claim Date", "PatientName", "PatientID", "EncounterID",
-        "ServiceStartDate", "RenderingProviderName", "ProcedureCode", "Procedure code", "CPT-CODE", "ID","CreatedDate","Facility Name","ServiceLocationName"
-    };
+                {
+                    "Rendering Provider Name", "Patient Name", "Patient Acct No", "Service Date",
+                    "CPT Code", "Claim No", "Claim Date", "PatientName", "PatientID", "EncounterID",
+                    "ServiceStartDate", "RenderingProviderName", "ProcedureCode", "Procedure code", "CPT-CODE", "ID","CreatedDate","Facility Name","ServiceLocationName"
+                };
 
             List<string> headersForProviderName = new List<string> { "Rendering Provider Name", "RenderingProviderName" };
             List<string> headersForCPT = new List<string> { "CPT Code", "Procedure code", "ProcedureCode", "CPT-CODE" };
@@ -277,6 +277,7 @@ namespace emedl_chase.Controllers
             string[] formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss" };
 
             var list = new List<charge_capture>();
+            var extlist = new List<charge_capture>();
             DateTime parsedDate;
 
             using (var package = new ExcelPackage(new FileInfo(filePath)))
@@ -375,6 +376,13 @@ namespace emedl_chase.Controllers
                     if (TryGetColumn(headerColumns, headersForLocation, out int LocCol))
                         model.location = worksheet.Cells[row, LocCol].Text;
 
+                    if (model.encounter_id == null)
+                    {
+                        if (new[] { 1, 5, 21,17, 22 }.Contains(model.org_id))
+                        {
+                            model.encounter_id = model.claim_id;
+                        }
+                    }
                     var match = _charge_captureService.GetAll(patient_id: model.patient_id, dos: model.dos, encounter_id:model.encounter_id,cpt:model.cpt,org_id:get_org_id,claim_id:model.claim_id,patientname:model.patient_name).ToList() ;
 
                     if (match.Count==0)
@@ -384,14 +392,23 @@ namespace emedl_chase.Controllers
                     
                     else
                     {
-                        continue;
+                        extlist.Add(model);
                     }
                 }
 
                 await _charge_captureService.Create(list);
+                var response = new
+                {
+                    TotalRecords = totalRows,
+                    Filename = get_filename,
+                    Provider = get_type,
+                    TotalData= list.Count,
+                    ExistingData=extlist.Count
+                };
+            return Ok(response);
+
             }
 
-            return Ok("Testing");
         }
 
         [NonAction]
@@ -409,7 +426,7 @@ namespace emedl_chase.Controllers
             return false;
         }
 
-        [HttpGet( Name="getrecords")]
+        [HttpGet("getrecords")]
 
         public IActionResult Get(string? patient = null,int? org_id= null,int page=1,int pageSize=10)
         {
@@ -429,6 +446,8 @@ namespace emedl_chase.Controllers
                 model.patient_name = c.patient_name;
                 model.practice = c.practice;
                 model.encounter_id = c.encounter_id!=null ? c.encounter_id : c.claim_id;
+                model.dos = c.dos;
+                model.claim_date=c.claim_date;
 
                 patient_list.Add(model);
 
@@ -457,5 +476,54 @@ namespace emedl_chase.Controllers
         }
 
 
+        [HttpGet("getpatientname")]
+        public IActionResult GetPateint(string? patient_name= null,int ?org_id = null, int page = 1, int pageSize = 10)
+        {
+            var data = _charge_captureService.GetAll(patientname: patient_name, org_id: org_id).ToList();
+
+            var get_cpt = data.GroupBy(a => a.claim_id).ToList();
+            Console.WriteLine(get_cpt.Count);
+
+            var patient_list = new List<ChargeModel>();
+
+            foreach (var c in data)
+            {
+                var model = new ChargeModel();
+                model.Id = c.id;
+                model.patient_id = c.patient_id;
+                model.cpt_code = c.cpt;
+                model.claim_id = c.claim_id;
+                model.patient_name = c.patient_name;
+                model.practice = c.practice;
+                model.encounter_id = c.encounter_id != null ? c.encounter_id : c.claim_id;
+                model.dos = c.dos;
+                model.claim_date = c.claim_date;
+
+                patient_list.Add(model);
+
+            }
+            var totalCount = patient_list.Count();
+            var totalPages = (int)Math.Ceiling(totalCount / (double)pageSize);
+
+            var pagedData = patient_list
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            if (!pagedData.Any())
+            {
+                return NotFound("No data found for the given filter.");
+            }
+            var response = new
+            {
+                TotalRecords = patient_list.Count(),
+                Page = page,
+                PageSize = pageSize,
+                TotalPages = totalPages,
+                Data = pagedData
+            };
+            return Ok(response);
+
+        }
     }
 }
