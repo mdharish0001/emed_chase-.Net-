@@ -42,7 +42,7 @@ namespace emedl_chase.Service
             return oEntity;
         }
 
-        public IQueryable<charge_capture> GetAll(string patientname = null,string practice = null, string cpt = null, int? claim_id=null ,string? patient_id=null,int? encounter_id = null,int?org_id = null,DateTime?dos=null)
+        public IQueryable<charge_capture> GetAll(string patientname = null,string practice = null, string cpt = null, string claim_id=null ,string? patient_id=null,string encounter_id = null,int?org_id = null,DateTime?dos=null)
 
         {
 
@@ -63,7 +63,7 @@ namespace emedl_chase.Service
             {
                 data=data.Where(a=>a.cpt == cpt);
             }
-            if (claim_id >0)
+            if (claim_id !=null )
             {
                 data = data.Where(a => a.claim_id == claim_id);
             }
@@ -72,7 +72,7 @@ namespace emedl_chase.Service
             {
                 data = data.Where(a => a.patient_id == patient_id);
             }
-            if (encounter_id > 0)
+            if (encounter_id!=null )
             {
                 data = data.Where(a => a.encounter_id == encounter_id);
             }

@@ -15,9 +15,9 @@ namespace emedl_chase.DbModel
         public string? patient_id { get; set; }
         public DateTime? dos { get; set; }
         public string ? cpt { get; set; }
-        public int? claim_id { get; set; }
+        public string ? claim_id { get; set; }
         public DateTime? claim_date { get; set; }
-        public int?  encounter_id { get; set; }
+        public string ?  encounter_id { get; set; }
         public DateTime? created_on { get; set; }
         public Boolean isdelete { get; set; }
 

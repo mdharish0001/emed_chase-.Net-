@@ -7,8 +7,8 @@
     public string patient_id { get; set; }
     public string cpt_code { get; set; }
     public string practice { get; set; }
-    public int? claim_id { get; set; }
-    public int? encounter_id { get; set; }
+    public string? claim_id { get; set; }
+    public string encounter_id { get; set; }
     public DateTime? dos { get; set; }
     public DateTime? claim_date { get; set; }
 
