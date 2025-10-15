@@ -7,5 +7,6 @@
         set; }
 
         public string EpicPrivatekeyPath { get; set; }
+        public string AppBasePath { get; set; }
     }
 }

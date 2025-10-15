@@ -1,15 +1,18 @@
-﻿using emedl_chase.DbModel;
-using emedl_chase.Model;
-using emedl_chase.Service;
-using emedl_chase.ViewModel;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using OfficeOpenXml;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.Drawing.Printing;
 using System.Globalization;
 using System.Linq;
 using System.Security.Claims;
+using System.Text.RegularExpressions;
+using emedl_chase.DbModel;
+using emedl_chase.Model;
+using emedl_chase.Option;
+using emedl_chase.Service;
+using emedl_chase.ViewModel;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Extensions.Options;
+using OfficeOpenXml;
 using static emedl_chase.Model.ChargeViewModel;
 using static emedl_chase.Model.Patient;
 
@@ -20,14 +23,15 @@ namespace emedl_chase.Controllers
     public class ChargeController : ControllerBase
     {
         private readonly charge_captureService _charge_captureService;
-
+        private readonly ApplicationConfig _applicationConfig;
 
         private readonly OrganizationService _organizationService;
 
-        public ChargeController(charge_captureService charge_CaptureService,OrganizationService organization)
+        public ChargeController(charge_captureService charge_CaptureService,OrganizationService organization, IOptions<ApplicationConfig> applicationConfig)
         {
             _charge_captureService = charge_CaptureService;
             _organizationService = organization;
+            _applicationConfig = applicationConfig.Value;
         }
 
         [HttpPost("test")]
@@ -101,7 +105,7 @@ namespace emedl_chase.Controllers
              List<string> headersForService = new List<string>
                 {
                       "Service Date",
-                       "ServiceStartDate"
+                      "ServiceStartDate"
                 };
                 List<string> headersForCalim = new List<string>
                 {
@@ -247,14 +251,32 @@ namespace emedl_chase.Controllers
                                                  .Select(x => x.Id)
                                                  .FirstOrDefault();
 
-            string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
-            var filePath = Path.Combine(uploadPath, Path.GetFileName(get_filename));
+            //string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
+            //var filePath = Path.Combine(uploadPath, Path.GetFileName(get_filename));
+
+
+            var fileName = Path.Combine(WBCGlobal.ChargeFiles, System.DateTime.Now.ToString("dd_MMM_yyyy"), get_filename);
+            string entryDestination = Path.Combine(_applicationConfig.AppBasePath, fileName);
+
+            // Create directories if they don't exist
+            Directory.CreateDirectory(Path.GetDirectoryName(entryDestination));
+
+            //  string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
+            //var filePath = Path.Combine(uploadPath, Path.GetFileName(get_filename));
+
+            using (var entryStream = oViewmodel.file.OpenReadStream())
+            using (var destination = System.IO.File.Create(entryDestination))
+            {
+                await entryStream.CopyToAsync(destination);
+            }
+
+
 
             // Save uploaded file to disk
-            using (var stream = new FileStream(filePath, FileMode.Create))
-            {
-                await get_file.CopyToAsync(stream);
-            }
+            //using (var stream = new FileStream(filePath, FileMode.Create))
+            //{
+            //    await get_file.CopyToAsync(stream);
+            //}
 
             // Header matching lists
             List<string> headersToFind = new List<string>
@@ -274,13 +296,13 @@ namespace emedl_chase.Controllers
             List<string> headersForEncounter = new List<string> { "EncounterID" };
             List<string> headersForLocation = new List<string> { "Facility Name", "ServiceLocationName" };
 
-            string[] formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss" };
+            string[] formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss","dd/MM/yyyy","dd/MM/yyyy HH:mm:ss" };
 
             var list = new List<charge_capture>();
             var extlist = new List<charge_capture>();
             DateTime parsedDate;
 
-            using (var package = new ExcelPackage(new FileInfo(filePath)))
+            using (var package = new ExcelPackage(new FileInfo(entryDestination)))
             {
                 var worksheets = package.Workbook.Worksheets;
                 if (worksheets.Count == 0)
