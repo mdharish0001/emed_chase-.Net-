@@ -251,6 +251,11 @@ namespace emedl_chase.Controllers
                                                  .Select(x => x.Id)
                                                  .FirstOrDefault();
 
+            if (get_org_id == 0)
+            {
+                get_org_id = 19;
+            }
+
             //string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
             //var filePath = Path.Combine(uploadPath, Path.GetFileName(get_filename));
 
@@ -284,13 +289,13 @@ namespace emedl_chase.Controllers
                     "Rendering Provider Name", "Patient Name", "Patient Acct No", "Service Date",
                     "CPT Code", "Claim No", "Claim Date", "PatientName", "PatientID", "EncounterID",
                     "ServiceStartDate", "RenderingProviderName", "ProcedureCode", "Procedure code", "CPT-CODE", "ID","CreatedDate","Facility Name","ServiceLocationName",
-                    "Location","Claim#","Encounter Status","Provider","Practice","Patient","DOS","CPT","Billed$","EncounterStatus","Patient ID"
+                    "Location","Claim#","Encounter Status","Provider","Practice","Patient","DOS","CPT","Billed$","EncounterStatus","Patient ID","Patient#"
                 };
 
             List<string> headersForProviderName = new List<string> { "Rendering Provider Name", "RenderingProviderName","Provider" };
             List<string> headersForCPT = new List<string> { "CPT Code", "Procedure code", "ProcedureCode", "CPT-CODE","CPT" };
             List<string> headersForPatient = new List<string> { "Patient Name", "PatientName","Patient" };
-            List<string> headersForPatientID = new List<string> { "PatientID", "Patient Acct No","Patient ID" };
+            List<string> headersForPatientID = new List<string> { "PatientID", "Patient Acct No", "Patient#" };
             List<string> headersForServiceDate = new List<string> { "Service Date", "ServiceStartDate","DOS" };
             List<string> headersForClaimNo = new List<string> { "Claim No", "ID","Claim#" };
             List<string> headersForClaimDate = new List<string> { "Claim Date" , "CreatedDate" };
@@ -300,9 +305,9 @@ namespace emedl_chase.Controllers
             List<string> headersForBilledAmount = new List<string> { "Billed$" };
 
             string[] formats = null;
-            string[] dos_formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss","dd/MM/yyyy","dd/MM/yyyy HH:mm:ss" ,"MM/dd/yyyy","MM-dd-yyyy"};
-            string[] dos_formats2 = { "MM/dd/yyyy","MM-dd-yyyy"};
-             if (new[] {  6, 20, 11, 19 }.Contains(get_org_id))
+            string[] dos_formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss","dd/MM/yyyy","dd/MM/yyyy HH:mm:ss"};
+            string[] dos_formats2 = { "MM-dd-yyyy HH:mm:ss", "MM/dd/yyyy HH:mm:ss", "MM/dd/yyyy", "MM-dd-yyyy" };
+             if (new[] {6, 20, 11, 19 }.Contains(get_org_id))
             {
                 formats = dos_formats2;           
                     
@@ -317,11 +322,12 @@ namespace emedl_chase.Controllers
 
             using (var package = new ExcelPackage(new FileInfo(entryDestination)))
             {
-                var worksheets = package.Workbook.Worksheets;
-                if (worksheets.Count == 0)
+                //sheet.Hidden == eWorkSheetHidden.Visible
+                var worksheets = package.Workbook.Worksheets.Where(a=>a.Hidden== eWorkSheetHidden.Visible)?.ToList();
+                if (worksheets.Count() == 0)
                     return BadRequest("Excel file has no worksheets.");
 
-                var worksheet = worksheets[1]; // 1-based index
+                var worksheet = worksheets[0]; // 1-based index
                 int totalColumns = worksheet.Dimension.End.Column;
                 int totalRows = worksheet.Dimension.End.Row;
 
@@ -346,6 +352,11 @@ namespace emedl_chase.Controllers
                 // Process data rows
                 for (int row = 2; row <= totalRows; row++)
                 {
+
+                    if (row == 590)
+                    { 
+                    
+                    }
                     var model = new charge_capture
                     {
                         practice = get_type,
@@ -358,22 +369,24 @@ namespace emedl_chase.Controllers
 
                     // Provider Name
                     if (TryGetColumn(headerColumns, headersForProviderName, out int providerCol))
-                        model.provider = worksheet.Cells[row, providerCol].Text;
+                        //model.provider = worksheet.Cells[row, providerCol].Text;
+                        model.provider = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, providerCol].Text) && worksheet.Cells[row, providerCol].Text != "NULL") ? worksheet.Cells[row, providerCol].Text : null;
 
                     // Patient Name
                     if (TryGetColumn(headerColumns, headersForPatient, out int nameCol))
-                        model.patient_name = worksheet.Cells[row, nameCol].Text;
+                        model.patient_name = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, nameCol].Text) && worksheet.Cells[row, nameCol].Text != "NULL") ? worksheet.Cells[row, nameCol].Text : null;
 
                     // Patient ID
                     if (TryGetColumn(headerColumns, headersForPatientID, out int patientIdCol))
                     {
-                        string idText = worksheet.Cells[row, patientIdCol].Text;
-                        model.patient_id = worksheet.Cells[row, patientIdCol].Text;
+                        //string idText = worksheet.Cells[row, patientIdCol].Text;
+                        model.patient_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, patientIdCol].Text) && worksheet.Cells[row, patientIdCol].Text != "NULL") ? worksheet.Cells[row, patientIdCol].Text : null;
                     }
 
                     // Service Date
                     if (TryGetColumn(headerColumns, headersForServiceDate, out int dosCol))
                     {
+                        string dateText1 = worksheet.Cells[row, dosCol].Text;
                         string dateText = worksheet.Cells[row, dosCol].Value.ToString();
                         if (DateTime.TryParseExact(dateText, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
                             model.dos = parsedDate;
@@ -381,13 +394,13 @@ namespace emedl_chase.Controllers
 
                     // CPT Code
                     if (TryGetColumn(headerColumns, headersForCPT, out int cptCol))
-                        model.cpt = worksheet.Cells[row, cptCol].Text;
+                        model.cpt = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, cptCol].Text) && worksheet.Cells[row, cptCol].Text != "NULL") ? worksheet.Cells[row, cptCol].Text : null; ;
 
                     // Claim No / Encounter ID
                     if (TryGetColumn(headerColumns, headersForClaimNo, out int claimNoCol))
                     {
-                        string claimIdText = worksheet.Cells[row, claimNoCol].Text;
-                        model.claim_id =  worksheet.Cells[row, claimNoCol].Text;
+                        //string claimIdText = worksheet.Cells[row, claimNoCol].Text;
+                        model.claim_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, claimNoCol].Text) && worksheet.Cells[row, claimNoCol].Text != "NULL") ? worksheet.Cells[row, claimNoCol].Text : null; ;
 
                         //model.encounter_id = int.TryParse(claimIdText, out int eid) ? eid : cid; // Assuming same value
                     }
@@ -397,7 +410,8 @@ namespace emedl_chase.Controllers
                         string EntIdText = worksheet.Cells[row, EntNoCol].Text;
                        
                         //model.encounter_id = int.TryParse(EntIdText, out int eid) ? eid : 0;
-                        model.encounter_id = worksheet.Cells[row, EntNoCol].Text;// Assuming same value
+                        //model.encounter_id = worksheet.Cells[row, EntNoCol].Text;// Assuming same value
+                        model.encounter_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, EntNoCol].Text) && worksheet.Cells[row, EntNoCol].Text != "NULL") ? worksheet.Cells[row, EntNoCol].Text : null;// Assuming same value
                     }
 
                     // Claim Date
@@ -410,7 +424,7 @@ namespace emedl_chase.Controllers
                     }
 
                     if (TryGetColumn(headerColumns, headersForLocation, out int LocCol))
-                        model.location = worksheet.Cells[row, LocCol].Text;
+                        model.location = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, LocCol].Text) && worksheet.Cells[row, LocCol].Text!="NULL")? worksheet.Cells[row, LocCol].Text:null;
 
 
 
@@ -423,7 +437,7 @@ namespace emedl_chase.Controllers
                     }
                     var match = _charge_captureService.GetAll(patient_id: model.patient_id, dos: model.dos, encounter_id:model.encounter_id,cpt:model.cpt,org_id:get_org_id,claim_id:model.claim_id,patientname:model.patient_name).ToList() ;
 
-                    if (match.Count==0 && model.dos!=null && model.patient_id!=null && model.cpt!=null)
+                    if (match.Count==0 && model.dos!=null && model.patient_id!=null && model.cpt!=null && model.claim_id!=null && model.encounter_id!=null)
                     {
                         list.Add(model);
                     }
@@ -437,11 +451,12 @@ namespace emedl_chase.Controllers
                 await _charge_captureService.Create(list);
                 var response = new
                 {
-                    TotalRecords = totalRows,
+                    TotalRecords = totalRows-1,
                     Filename = get_filename,
                     Provider = get_type,
-                    TotalData= list.Count,
-                    ExistingData=extlist.Count
+                    TotalDataverfied= list.Count,
+                    ExistingData=extlist.Count,
+
                 };
             return Ok(response);
 
