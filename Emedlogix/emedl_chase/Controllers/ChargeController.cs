@@ -289,15 +289,15 @@ namespace emedl_chase.Controllers
                     "Rendering Provider Name", "Patient Name", "Patient Acct No", "Service Date",
                     "CPT Code", "Claim No", "Claim Date", "PatientName", "PatientID", "EncounterID",
                     "ServiceStartDate", "RenderingProviderName", "ProcedureCode", "Procedure code", "CPT-CODE", "ID","CreatedDate","Facility Name","ServiceLocationName",
-                    "Location","Claim#","Encounter Status","Provider","Practice","Patient","DOS","CPT","Billed$","EncounterStatus","Patient ID","Patient#"
+                    "Location","Claim#","Encounter Status","Provider","Practice","Patient","DOS","CPT","Billed$","EncounterStatus","Patient ID","Patient#","VisitID"
                 };
 
             List<string> headersForProviderName = new List<string> { "Rendering Provider Name", "RenderingProviderName","Provider" };
             List<string> headersForCPT = new List<string> { "CPT Code", "Procedure code", "ProcedureCode", "CPT-CODE","CPT" };
             List<string> headersForPatient = new List<string> { "Patient Name", "PatientName","Patient" };
-            List<string> headersForPatientID = new List<string> { "PatientID", "Patient Acct No", "Patient#" };
+            List<string> headersForPatientID = new List<string> { "PatientID", "Patient Acct No", "Patient#", "Patient ID" };
             List<string> headersForServiceDate = new List<string> { "Service Date", "ServiceStartDate","DOS" };
-            List<string> headersForClaimNo = new List<string> { "Claim No", "ID","Claim#" };
+            List<string> headersForClaimNo = new List<string> { "Claim No", "ID","Claim#" , "VisitID" };
             List<string> headersForClaimDate = new List<string> { "Claim Date" , "CreatedDate" };
             List<string> headersForEncounter = new List<string> { "EncounterID" };
             List<string> headersForLocation = new List<string> { "Facility Name", "ServiceLocationName","Location" };
@@ -430,7 +430,7 @@ namespace emedl_chase.Controllers
 
                     if (model.encounter_id == null)
                     {
-                        if (new[] { 1, 5, 21,17, 22,6,20,11,19 }.Contains(model.org_id))
+                        if (new[] { 1, 5, 21,17, 22,6,20,11,19,14 }.Contains(model.org_id))
                         {
                             model.encounter_id = model.claim_id;
                         }
