@@ -27,5 +27,6 @@ namespace emedl_chase.DbModel
 
         public string? location { get; set; }
 
+        public int ? billed_amount { get; set; }
     }
 }
