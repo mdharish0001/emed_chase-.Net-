@@ -2658,6 +2658,61 @@ namespace emedl_chase
 
             });
 
+       //     modelBuilder.Entity<charge_capture>(entity =>
+       //     {
+       //         entity.ToTable("charge_capture", schema: "public");
+       //         entity.Property(e => e.id).HasColumnName("id");
+
+       //         entity.Property(e => e.provider)
+       //         .HasMaxLength(100);
+              
+
+       //         entity.Property(e => e.practice)
+       //        .HasMaxLength(100);
+
+       //         entity.Property(e => e.patient_name)
+       //         .HasMaxLength(100);
+
+
+       //         entity.Property(e => e.patient_id)
+       //         .HasMaxLength(100);
+
+
+       //         entity.Property(e => e.claim_id)
+       //         .HasMaxLength(50);
+
+
+       //         entity.Property(e => e.encounter_id)
+       //         .HasMaxLength(50);
+
+       //         entity.Property(e => e.cpt)
+       //         .HasMaxLength(100);
+               
+
+       //         entity.Property(e => e.dos)
+       //         .HasColumnType("timestamp without time zone");
+
+       //         entity.Property(e => e.claim_date)
+       //         .HasColumnType("timestamp without time zone");
+
+       //         entity.Property(e => e.created_on)
+       //         .HasColumnType("timestamp without time zone");
+
+
+       //         entity.Property(e => e.isdelete)
+       //.HasColumnName("isdelete");
+
+       //         entity.Property(e => e.file_name)
+       //        .HasMaxLength(100);
+       //         entity.Property(e => e.state)
+       //        .HasMaxLength(100);
+       //         entity.Property(e => e.org_id)
+       //        .HasMaxLength(10);
+
+       //         entity.Property(e => e.location)
+       //       .HasMaxLength(100);
+
+       //     });
             modelBuilder.Entity<charge_capture>(entity =>
             {
                 entity.ToTable("charge_capture", schema: "public");

@@ -9,6 +9,8 @@
 
             public string? type { get; set; }
 
+            public string?source { get; set; }
+
         }
 
     }

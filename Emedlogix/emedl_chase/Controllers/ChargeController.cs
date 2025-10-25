@@ -248,42 +248,19 @@ namespace emedl_chase.Controllers
             var get_filename = oViewmodel.file.FileName;
             var get_file = oViewmodel.file;
             var get_type = oViewmodel.type;
+            string get_source=oViewmodel.source;
 
-            var get_org_id = _organizationService.GetAll(name: oViewmodel.type)
-                                                 .Select(x => x.Id)
-                                                 .FirstOrDefault();
-
-            if (get_org_id == 0)
-            {
-                get_org_id = 19;
-            }
-
-            //string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
-            //var filePath = Path.Combine(uploadPath, Path.GetFileName(get_filename));
-
-
+            var get_org_id = _organizationService.GetAll(name:get_type.Trim()).Select(x => x.Id).FirstOrDefault();
             var fileName = Path.Combine(WBCGlobal.ChargeFiles, System.DateTime.Now.ToString("dd_MMM_yyyy"), get_type, get_filename);
             string entryDestination = Path.Combine(_hostingEnvironment.WebRootPath, fileName);
 
             // Create directories if they don't exist
             Directory.CreateDirectory(Path.GetDirectoryName(entryDestination));
-
-            //  string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
-            //var filePath = Path.Combine(uploadPath, Path.GetFileName(get_filename));
-
             using (var entryStream = oViewmodel.file.OpenReadStream())
             using (var destination = System.IO.File.Create(entryDestination))
             {
                 await entryStream.CopyToAsync(destination);
             }
-
-
-
-            // Save uploaded file to disk
-            //using (var stream = new FileStream(filePath, FileMode.Create))
-            //{
-            //    await get_file.CopyToAsync(stream);
-            //}
 
             // Header matching lists
             List<string> headersToFind = new List<string>
@@ -291,7 +268,7 @@ namespace emedl_chase.Controllers
                     "Rendering Provider Name", "Patient Name", "Patient Acct No", "Service Date",
                     "CPT Code", "Claim No", "Claim Date", "PatientName", "PatientID", "EncounterID",
                     "ServiceStartDate", "RenderingProviderName", "ProcedureCode", "Procedure code", "CPT-CODE", "ID","CreatedDate","Facility Name","ServiceLocationName",
-                    "Location","Claim#","Encounter Status","Provider","Practice","Patient","DOS","CPT","Billed$","EncounterStatus","Patient ID","Patient#","VisitID","TotalCharges","Billed Charge"
+                    "Location","Claim#","Encounter Status","Provider","Practice","Patient","DOS","CPT","Billed$","EncounterStatus","Patient ID","Patient#","VisitID","TotalCharges","Billed Charge","Charge"
                 };
 
             List<string> headersForProviderName = new List<string> { "Rendering Provider Name", "RenderingProviderName","Provider" };
@@ -304,21 +281,21 @@ namespace emedl_chase.Controllers
             List<string> headersForEncounter = new List<string> { "EncounterID" };
             List<string> headersForLocation = new List<string> { "Facility Name", "ServiceLocationName","Location" };
             List<string> headersForEncounterStatus = new List<string> { "Encounter Status", "EncounterStatus" };
-            List<string> headersForBilledAmount = new List<string> { "Billed$", "TotalCharges", "Billed Charge" };
+            List<string> headersForBilledAmount = new List<string> { "Billed$", "TotalCharges", "Billed Charge", "Charge" };
 
-            string[] formats = null;
+            //string[] formats = null;
             string[] dos_formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss","dd/MM/yyyy","dd/MM/yyyy HH:mm:ss"};
             string[] dos_formats2 = { "MM-dd-yyyy HH:mm:ss", "MM/dd/yyyy HH:mm:ss", "MM/dd/yyyy", "MM-dd-yyyy" };
-             if (new[] {6, 20, 11, 19,4,14 }.Contains(get_org_id))
-            {
-                formats = dos_formats2;           
-                    
-             }
-            else 
-                formats = dos_formats;
-            
+            // if (get_type=="PMSlogix")
+            //{
+            //    formats = dos_formats2;           
 
-                var list = new List<charge_capture>();
+            // }
+            //else
+            //    formats = dos_formats;
+            string[] formats = get_source?.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase) == true ? dos_formats2 : dos_formats;
+
+            var list = new List<charge_capture>();
             var extlist = new List<charge_capture>();
             var invalidlist = new List<charge_capture>();
             DateTime parsedDate;
@@ -353,6 +330,7 @@ namespace emedl_chase.Controllers
                 }
 
                 // Process data rows
+                var chart_cparture_list = _charge_captureService.GetAllTable(org_id: get_org_id).ToList();
                 for (int row = 2; row <= totalRows; row++)
                 {
 
@@ -360,12 +338,12 @@ namespace emedl_chase.Controllers
                     {
                         practice = get_type,
                         file_name = get_filename,
-                        state = "Testing",
+                        state = get_source,
                         created_on = DateTime.Now,
                         org_id= get_org_id
 
                     };
-
+                    
                     // Provider Name
                     if (TryGetColumn(headerColumns, headersForProviderName, out int providerCol))
                         //model.provider = worksheet.Cells[row, providerCol].Text;
@@ -427,36 +405,59 @@ namespace emedl_chase.Controllers
 
                     if (TryGetColumn(headerColumns, headersForBilledAmount, out int billCol))
                     {
-                        string EntIdText = worksheet.Cells[row, billCol].Text;
-                        model.billed_amount = int.TryParse(EntIdText, out int eid) ? eid : 0;
-                        //model.billed_amount = (!str(worksheet.Cells[row, billCol].Text) && worksheet.Cells[row, LocCol].Text != "NULL") ? worksheet.Cells[row, billCol].Text : null;
-                    }
-                    if (model.encounter_id == null)
-                    {
-                        if (new[] { 1, 5, 21,17, 22,6,20,11,19,14,4 }.Contains(model.org_id))
+                        string amountText = worksheet.Cells[row, billCol].Text?.Trim().Replace("$", "");
+
+                        if (double.TryParse(amountText, out double billedAmount))
                         {
-                            model.encounter_id = model.claim_id;
+                            model.billed_amount = billedAmount;
+                        }
+                        else
+                        {
+                            model.billed_amount = 0.0;
                         }
                     }
-                    var match = _charge_captureService.GetAll(patient_id: model.patient_id, dos: model.dos, encounter_id:model.encounter_id,cpt:model.cpt,org_id:get_org_id,claim_id:model.claim_id,patientname:model.patient_name).ToList() ;
+
+
+                    if (get_source.Trim().Equals("ECW", StringComparison.OrdinalIgnoreCase) ||
+     get_source.Trim().Equals("Officially", StringComparison.OrdinalIgnoreCase) ||
+     get_source.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase))
+                    {
+                        model.encounter_id = model.claim_id;
+                    }
+
 
                     if (model.dos == null || model.patient_id == null || model.cpt == null || model.claim_id == null || model.encounter_id == null)
                     {
-
+                        // Missing critical data → mark invalid
                         invalidlist.Add(model);
-
                     }
-
-                    else if (match.Count == 0  )
-                    {
-                        list.Add(model);
-                    }
-
-            
                     else
                     {
-                        extlist.Add(model);
+                        // Try to find an existing record in chart_cparture_list
+                        var oModel = chart_cparture_list.FirstOrDefault(a =>
+                            a.patient_id == model.patient_id &&
+                            a.dos == model.dos &&
+                            a.encounter_id == model.encounter_id &&
+                            a.cpt == model.cpt &&
+                            a.claim_id == model.claim_id &&
+                            a.patient_name == model.patient_name
+                        );
+
+                        if (oModel == null)
+                        {
+                            // Not found → new entry
+                            list.Add(model);
+                        }
+                        else
+                        {
+                            // Found duplicate → existing entry
+                            extlist.Add(model);
+                        }
                     }
+
+
+
+
                 }
 
                 await _charge_captureService.Create(list);
