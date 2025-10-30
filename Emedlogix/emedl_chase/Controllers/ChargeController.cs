@@ -27,13 +27,15 @@ namespace emedl_chase.Controllers
         public readonly IWebHostEnvironment _hostingEnvironment;
 
         private readonly OrganizationService _organizationService;
+        private readonly payment_postService _payment_postService;
 
-        public ChargeController(charge_captureService charge_CaptureService,OrganizationService organization, IOptions<ApplicationConfig> applicationConfig, IWebHostEnvironment hostingEnvironment)
+        public ChargeController(charge_captureService charge_CaptureService,OrganizationService organization, IOptions<ApplicationConfig> applicationConfig, IWebHostEnvironment hostingEnvironment,payment_postService payment_PostService)
         {
             _charge_captureService = charge_CaptureService;
             _organizationService = organization;
             _applicationConfig = applicationConfig.Value;
             _hostingEnvironment = hostingEnvironment;
+            _payment_postService  = payment_PostService;
         }
 
         //[HttpPost("test")]
@@ -711,6 +713,242 @@ namespace emedl_chase.Controllers
 
         }
 
+
+        [HttpPost("PaymentPostFileUpload")]
+        public async Task<IActionResult> PaymentExcelUpload([FromForm] ClientUpload oViewmodel)
+        {
+            if (oViewmodel == null)
+                return Ok("Invalid input.");
+
+            var get_filename = oViewmodel.file.FileName;
+            var get_file = oViewmodel.file;
+            var get_type = oViewmodel.type;
+            string get_source = oViewmodel.source;
+
+            var get_org_id = _organizationService.GetAll(name: get_type.Trim()).Select(x => x.Id).FirstOrDefault();
+            var fileName = Path.Combine(WBCGlobal.PaymnetFiles, System.DateTime.Now.ToString("dd_MMM_yyyy"), get_type, get_filename);
+            string entryDestination = Path.Combine(_hostingEnvironment.WebRootPath, fileName);
+
+            // Create directories if they don't exist
+            Directory.CreateDirectory(Path.GetDirectoryName(entryDestination));
+            using (var entryStream = oViewmodel.file.OpenReadStream())
+            using (var destination = System.IO.File.Create(entryDestination))
+            {
+                await entryStream.CopyToAsync(destination);
+            }
+
+            // Header matching lists
+            List<string> headersToFind = new List<string>
+                {
+                    "Rendering Provider Name", "Patient Name", "Patient Acct No", "Service Date",
+                    "CPT Code", "Claim No", "Claim Date", "PatientName", "PatientID", "EncounterID",
+                    "ServiceStartDate", "RenderingProviderName", "ProcedureCode", "Procedure code", "CPT-CODE", "ID","CreatedDate","Facility Name","ServiceLocationName",
+                    "Location","Claim#","Encounter Status","Provider","Practice","Patient","DOS","CPT","Billed$","EncounterStatus","Patient ID","Patient#","VisitID","TotalCharges","Billed Charge","Charge"
+                };
+
+            List<string> headersForProviderName = new List<string> { "Rendering Provider Name", "RenderingProviderName", "Provider" };
+            List<string> headersForCPT = new List<string> { "CPT Code", "Procedure code", "ProcedureCode", "CPT-CODE", "CPT" };
+            List<string> headersForPatient = new List<string> { "Patient Name", "PatientName", "Patient" };
+            List<string> headersForPatientID = new List<string> { "PatientID", "Patient Acct No", "Patient#", "Patient ID" };
+            List<string> headersForServiceDate = new List<string> { "Service Date", "ServiceStartDate", "DOS" };
+            List<string> headersForClaimNo = new List<string> { "Claim No", "ID", "Claim#", "VisitID" };
+            List<string> headersForClaimDate = new List<string> { "Claim Date", "CreatedDate" };
+            List<string> headersForEncounter = new List<string> { "EncounterID" };
+            List<string> headersForLocation = new List<string> { "Facility Name", "ServiceLocationName", "Location" };
+            List<string> headersForEncounterStatus = new List<string> { "Encounter Status", "EncounterStatus" };
+            List<string> headersForBilledAmount = new List<string> { "Billed$", "TotalCharges", "Billed Charge", "Charge" };
+
+            //string[] formats = null;
+            string[] dos_formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss", "dd/MM/yyyy", "dd/MM/yyyy HH:mm:ss" };
+            string[] dos_formats2 = { "MM-dd-yyyy HH:mm:ss", "MM/dd/yyyy HH:mm:ss", "MM/dd/yyyy", "MM-dd-yyyy" };
+            // if (get_type=="PMSlogix")
+            //{
+            //    formats = dos_formats2;           
+
+            // }
+            //else
+            //    formats = dos_formats;
+            string[] formats = get_source?.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase) == true ? dos_formats2 : dos_formats;
+
+            var list = new List<payment_posting>();
+            var extlist = new List<payment_posting>();
+            var invalidlist = new List<payment_posting>();
+            DateTime parsedDate;
+
+            using (var package = new ExcelPackage(new FileInfo(entryDestination)))
+            {
+                //sheet.Hidden == eWorkSheetHidden.Visible
+                var worksheets = package.Workbook.Worksheets.Where(a => a.Hidden == eWorkSheetHidden.Visible)?.ToList();
+                if (worksheets.Count() == 0)
+                    return BadRequest("Excel file has no worksheets.");
+
+                var worksheet = worksheets[0]; // 1-based index
+                int totalColumns = worksheet.Dimension.End.Column;
+                int totalRows = worksheet.Dimension.End.Row;
+
+                // Map headers
+                Dictionary<string, int> headerColumns = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
+                for (int col = 1; col <= totalColumns; col++)
+                {
+                    string header = worksheet.Cells[1, col].Text.Trim();
+                    if (headersToFind.Contains(header, StringComparer.OrdinalIgnoreCase))
+                    {
+                        headerColumns[header] = col;
+                    }
+                }
+
+                // Warn if expected headers not found
+                foreach (var header in headersToFind)
+                {
+                    if (!headerColumns.ContainsKey(header))
+                        Console.WriteLine($"Warning: Header '{header}' not found.");
+                }
+
+                // Process data rows
+                var payment_post_list = _payment_postService.GetAllTable(org_id: get_org_id).ToList();
+                for (int row = 2; row <= totalRows; row++)
+                {
+
+                    var model = new payment_posting
+                    {
+                        practice = get_type,
+                        created_on = DateTime.UtcNow,
+                        org_id = get_org_id
+
+                    };
+
+                    // Provider Name
+                    if (TryGetColumn(headerColumns, headersForProviderName, out int providerCol))
+                        //model.provider = worksheet.Cells[row, providerCol].Text;
+                        model.provider = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, providerCol].Text) && worksheet.Cells[row, providerCol].Text != "NULL") ? worksheet.Cells[row, providerCol].Text : null;
+
+                    // Patient Name
+                    if (TryGetColumn(headerColumns, headersForPatient, out int nameCol))
+                        model.patient_name = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, nameCol].Text) && worksheet.Cells[row, nameCol].Text != "NULL") ? worksheet.Cells[row, nameCol].Text : null;
+
+                    // Patient ID
+                    if (TryGetColumn(headerColumns, headersForPatientID, out int patientIdCol))
+                    {
+                        //string idText = worksheet.Cells[row, patientIdCol].Text;
+                        model.patient_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, patientIdCol].Text) && worksheet.Cells[row, patientIdCol].Text != "NULL") ? worksheet.Cells[row, patientIdCol].Text : null;
+                    }
+
+                    // Service Date
+                    if (TryGetColumn(headerColumns, headersForServiceDate, out int dosCol))
+                    {
+                        string dateText1 = worksheet.Cells[row, dosCol].Text;
+                        string dateText = worksheet.Cells[row, dosCol].Value.ToString();
+                        if (DateTime.TryParseExact(dateText, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
+                            model.dos = parsedDate;
+                    }
+
+                    // CPT Code
+                    if (TryGetColumn(headerColumns, headersForCPT, out int cptCol))
+                        model.cpt = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, cptCol].Text) && worksheet.Cells[row, cptCol].Text != "NULL") ? worksheet.Cells[row, cptCol].Text : null; ;
+
+                    // Claim No / Encounter ID
+                    if (TryGetColumn(headerColumns, headersForClaimNo, out int claimNoCol))
+                    {
+                        //string claimIdText = worksheet.Cells[row, claimNoCol].Text;
+                        model.claim_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, claimNoCol].Text) && worksheet.Cells[row, claimNoCol].Text != "NULL") ? worksheet.Cells[row, claimNoCol].Text : null; ;
+
+                        //model.encounter_id = int.TryParse(claimIdText, out int eid) ? eid : cid; // Assuming same value
+                    }
+
+                    if (TryGetColumn(headerColumns, headersForEncounter, out int EntNoCol))
+                    {
+                        string EntIdText = worksheet.Cells[row, EntNoCol].Text;
+
+                        //model.encounter_id = int.TryParse(EntIdText, out int eid) ? eid : 0;
+                        //model.encounter_id = worksheet.Cells[row, EntNoCol].Text;// Assuming same value
+                        model.encounter_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, EntNoCol].Text) && worksheet.Cells[row, EntNoCol].Text != "NULL") ? worksheet.Cells[row, EntNoCol].Text : null;// Assuming same value
+                    }
+
+                    // Claim Date
+                    if (TryGetColumn(headerColumns, headersForClaimDate, out int claimDateCol))
+                    {
+                        string dateText = worksheet.Cells[row, claimDateCol].Text;
+                        string dateText2 = worksheet.Cells[row, claimDateCol].Value.ToString();
+                        if (DateTime.TryParseExact(dateText2, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
+                            model.claim_date = parsedDate;
+                    }
+
+                    //if (TryGetColumn(headerColumns, headersForLocation, out int LocCol))
+                    //    model.location = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, LocCol].Text) && worksheet.Cells[row, LocCol].Text != "NULL") ? worksheet.Cells[row, LocCol].Text : null;
+
+                    if (TryGetColumn(headerColumns, headersForBilledAmount, out int billCol))
+                    {
+                        string amountText = worksheet.Cells[row, billCol].Text?.Trim().Replace("$", "");
+
+                        if (double.TryParse(amountText, out double billedAmount))
+                        {
+                            model.paid_amount = billedAmount;
+                        }
+                        else
+                        {
+                            model.paid_amount = 0.0;
+                        }
+                    }
+
+
+                    if (get_source.Trim().Equals("ECW", StringComparison.OrdinalIgnoreCase) ||
+                             get_source.Trim().Equals("Officially", StringComparison.OrdinalIgnoreCase) ||
+                             get_source.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase))
+                    {
+                        model.encounter_id = model.claim_id;
+                    }
+
+
+                    if (model.dos == null || model.patient_id == null || model.cpt == null || model.claim_id == null || model.encounter_id == null)
+                    {
+                        // Missing critical data → mark invalid
+                        invalidlist.Add(model);
+                    }
+                    else
+                    {
+                        // Try to find an existing record in chart_cparture_list
+                        var oModel = payment_post_list.FirstOrDefault(a =>
+                            a.patient_id == model.patient_id &&
+                            a.dos == model.dos &&
+                            a.encounter_id == model.encounter_id &&
+                            a.cpt == model.cpt &&
+                            a.claim_id == model.claim_id &&
+                            a.patient_name == model.patient_name
+                        );
+
+                        if (oModel == null)
+                        {
+                            // Not found → new entry
+                            list.Add(model);
+                        }
+                        else
+                        {
+                            // Found duplicate → existing entry
+                            extlist.Add(model);
+                        }
+                    }
+
+
+
+
+                }
+
+                await _payment_postService.Create(list);
+                var response = new
+                {
+                    TotalRecords = totalRows - 1,
+                    Filename = get_filename,
+                    Provider = get_type,
+                    VerifiedData = list.Count,
+                    ExistingData = extlist.Count,
+                    InvalidData = invalidlist.Count
+
+
+                };
+                return Ok(response);
+
+            }
+        }
 
         [NonAction]
         // 🔧 Helper Method for Matching Headers

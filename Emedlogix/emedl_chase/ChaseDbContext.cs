@@ -2768,6 +2768,22 @@ namespace emedl_chase
               .HasMaxLength(100);
 
             });
+          
+            modelBuilder.Entity<payment_posting>(entity =>
+            {
+                entity.ToTable("Payment_posting", schema: "public");
+
+                entity.Property(e => e.dos)
+                .HasColumnType("timestamp without time zone");
+
+                entity.Property(e => e.claim_date)
+                .HasColumnType("timestamp without time zone");
+
+                entity.Property(e => e.created_on)
+                .HasColumnType("timestamp without time zone");
+
+
+            });
 
         }
 

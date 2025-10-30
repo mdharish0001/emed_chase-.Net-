@@ -17,6 +17,8 @@ builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped<client_uploadsService>();
 builder.Services.AddScoped<charge_captureService>();
 builder.Services.AddScoped<OrganizationService>();
+builder.Services.AddScoped<payment_postService>();
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -36,6 +38,7 @@ builder.Services.AddCors(options =>
 builder.Services.Configure<ApplicationConfig>(
     builder.Configuration.GetSection("ApplicationConfig"));
 
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 builder.Services.AddDbContext<ChaseDbContext>(options =>
 options.UseNpgsql(builder.Configuration.GetConnectionString("DBContext")));
 

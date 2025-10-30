@@ -53,6 +53,7 @@ namespace emedl_chase.Option
         public const string ZIP_FILE_PATH = "ZipFilePathofFilteredImages";
         public const string UPLOADEXCEPTION = "UploadedErrorForDenial";
         public const string ChargeFiles = "ChargeFiles";
+        public const string PaymnetFiles = "PaymentFiles";
 
         public const string RIPEATTACHMENT = "RIPEAttachments";
 

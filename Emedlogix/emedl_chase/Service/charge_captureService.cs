@@ -4,6 +4,7 @@ using emedl_chase.Repository;
 namespace emedl_chase.Service
 {
     public class charge_captureService
+   
     {
 
         IRepository<charge_capture> _repository;
