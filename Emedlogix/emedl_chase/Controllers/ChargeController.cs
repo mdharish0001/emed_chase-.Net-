@@ -286,8 +286,8 @@ namespace emedl_chase.Controllers
             List<string> headersForBilledAmount = new List<string> { "Billed$", "TotalCharges", "Billed Charge", "Charge" };
 
             //string[] formats = null;
-            string[] dos_formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss","dd/MM/yyyy","dd/MM/yyyy HH:mm:ss"};
-            string[] dos_formats2 = { "MM-dd-yyyy HH:mm:ss", "MM/dd/yyyy HH:mm:ss", "MM/dd/yyyy", "MM-dd-yyyy" };
+            //string[] dos_formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss","dd/MM/yyyy","dd/MM/yyyy HH:mm:ss"};
+            string[] formats = { "MM-dd-yyyy HH:mm:ss", "MM/dd/yyyy HH:mm:ss", "MM/dd/yyyy", "MM-dd-yyyy" };
             // if (get_type=="PMSlogix")
             //{
             //    formats = dos_formats2;           
@@ -295,7 +295,7 @@ namespace emedl_chase.Controllers
             // }
             //else
             //    formats = dos_formats;
-            string[] formats = get_source?.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase) == true ? dos_formats2 : dos_formats;
+            //string[] formats = get_source?.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase) == true ? dos_formats2 : dos_formats;
 
             var list = new List<charge_capture>();
             var extlist = new List<charge_capture>();
@@ -365,8 +365,8 @@ namespace emedl_chase.Controllers
                     // Service Date
                     if (TryGetColumn(headerColumns, headersForServiceDate, out int dosCol))
                     {
-                        string dateText1 = worksheet.Cells[row, dosCol].Text;
-                        string dateText = worksheet.Cells[row, dosCol].Value.ToString();
+                        string dateText = worksheet.Cells[row, dosCol].Text;
+                        //string dateText = worksheet.Cells[row, dosCol].Value.ToString();
                         if (DateTime.TryParseExact(dateText, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
                             model.dos = parsedDate;
                     }
@@ -740,13 +740,13 @@ namespace emedl_chase.Controllers
             // Header matching lists
             List<string> headersToFind = new List<string>
                 {
-                    "Rendering Provider Name", "Patient Name", "Patient Acct No", "Service Date",
+                    "Resource Provider Name", "Patient Name", "Patient Acct No", "Service Date",
                     "CPT Code", "Claim No", "Claim Date", "PatientName", "PatientID", "EncounterID",
                     "ServiceStartDate", "RenderingProviderName", "ProcedureCode", "Procedure code", "CPT-CODE", "ID","CreatedDate","Facility Name","ServiceLocationName",
-                    "Location","Claim#","Encounter Status","Provider","Practice","Patient","DOS","CPT","Billed$","EncounterStatus","Patient ID","Patient#","VisitID","TotalCharges","Billed Charge","Charge"
+                    "Location","Claim#","Encounter Status","Provider","Practice","Patient","DOS","CPT","Billed$","EncounterStatus","Patient ID","Patient#","VisitID","TotalCharges","Payment Date","Payment Type","Payment","Posted by","Facility","Payer Name"
                 };
 
-            List<string> headersForProviderName = new List<string> { "Rendering Provider Name", "RenderingProviderName", "Provider" };
+            List<string> headersForProviderName = new List<string> { "Resource Provider Name", "RenderingProviderName", "Provider" };
             List<string> headersForCPT = new List<string> { "CPT Code", "Procedure code", "ProcedureCode", "CPT-CODE", "CPT" };
             List<string> headersForPatient = new List<string> { "Patient Name", "PatientName", "Patient" };
             List<string> headersForPatientID = new List<string> { "PatientID", "Patient Acct No", "Patient#", "Patient ID" };
@@ -757,10 +757,16 @@ namespace emedl_chase.Controllers
             List<string> headersForLocation = new List<string> { "Facility Name", "ServiceLocationName", "Location" };
             List<string> headersForEncounterStatus = new List<string> { "Encounter Status", "EncounterStatus" };
             List<string> headersForBilledAmount = new List<string> { "Billed$", "TotalCharges", "Billed Charge", "Charge" };
+            List<string> headersForPaymentDate = new List<string> { "Payment Date" };
+            List<string> headersForPaymentType = new List<string> { "Payment Type" };
+            List<string> headersForPayment = new List<string> { "Payment" };
+            List<string> headersForPostedBy = new List<string> { "Posted by" };
+            List<string> headersForFacility = new List<string> { "Facility" }; //service location
+            List<string> headersForInsurance = new List<string> { "Payer Name" }; // insurance
 
             //string[] formats = null;
-            string[] dos_formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss", "dd/MM/yyyy", "dd/MM/yyyy HH:mm:ss" };
-            string[] dos_formats2 = { "MM-dd-yyyy HH:mm:ss", "MM/dd/yyyy HH:mm:ss", "MM/dd/yyyy", "MM-dd-yyyy" };
+            //string[] dos_formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss", "dd/MM/yyyy", "dd/MM/yyyy HH:mm:ss" };
+            string[] formats= { "MM-dd-yyyy HH:mm:ss", "MM/dd/yyyy HH:mm:ss", "MM/dd/yyyy", "MM-dd-yyyy" };
             // if (get_type=="PMSlogix")
             //{
             //    formats = dos_formats2;           
@@ -768,7 +774,7 @@ namespace emedl_chase.Controllers
             // }
             //else
             //    formats = dos_formats;
-            string[] formats = get_source?.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase) == true ? dos_formats2 : dos_formats;
+            //string[] formats = get_source?.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase) == true ? dos_formats2 : dos_formats;
 
             var list = new List<payment_posting>();
             var extlist = new List<payment_posting>();
@@ -836,8 +842,8 @@ namespace emedl_chase.Controllers
                     // Service Date
                     if (TryGetColumn(headerColumns, headersForServiceDate, out int dosCol))
                     {
-                        string dateText1 = worksheet.Cells[row, dosCol].Text;
-                        string dateText = worksheet.Cells[row, dosCol].Value.ToString();
+                        string dateText = worksheet.Cells[row, dosCol].Text;
+                       
                         if (DateTime.TryParseExact(dateText, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
                             model.dos = parsedDate;
                     }
@@ -876,7 +882,8 @@ namespace emedl_chase.Controllers
                     //if (TryGetColumn(headerColumns, headersForLocation, out int LocCol))
                     //    model.location = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, LocCol].Text) && worksheet.Cells[row, LocCol].Text != "NULL") ? worksheet.Cells[row, LocCol].Text : null;
 
-                    if (TryGetColumn(headerColumns, headersForBilledAmount, out int billCol))
+                    // payemnt
+                    if (TryGetColumn(headerColumns, headersForPayment, out int billCol))
                     {
                         string amountText = worksheet.Cells[row, billCol].Text?.Trim().Replace("$", "");
 
@@ -889,7 +896,39 @@ namespace emedl_chase.Controllers
                             model.paid_amount = 0.0;
                         }
                     }
+                    //user
+                    if (TryGetColumn(headerColumns, headersForPostedBy, out int postedcol))
+                    {
+                        //string idText = worksheet.Cells[row, patientIdCol].Text;
+                        model.username = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, postedcol].Text) && worksheet.Cells[row, postedcol].Text != "NULL") ? worksheet.Cells[row, postedcol].Text : null;
+                    }
+                    //paymnet type
+                    if (TryGetColumn(headerColumns, headersForPaymentType, out int paytypeCol))
+                    {
+                        //string idText = worksheet.Cells[row, patientIdCol].Text;
+                        model.payment_method = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, paytypeCol].Text) && worksheet.Cells[row, paytypeCol].Text != "NULL") ? worksheet.Cells[row, paytypeCol].Text : null;
+                    }
+                    //payment date
+                    if (TryGetColumn(headerColumns, headersForPaymentDate, out int paydateCol))
+                    {
+                        string dateText= worksheet.Cells[row, paydateCol].Text;
+                       
+                        if (DateTime.TryParseExact(dateText, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
+                            model.payment_date = parsedDate;
+                    }
 
+                    //facility
+                    if (TryGetColumn(headerColumns, headersForFacility, out int facilityCol))
+                    {
+                        //string idText = worksheet.Cells[row, patientIdCol].Text;
+                        model.facility = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, facilityCol].Text) && worksheet.Cells[row, facilityCol].Text != "NULL") ? worksheet.Cells[row, facilityCol].Text : null;
+                    }
+                   // insurance
+                    if (TryGetColumn(headerColumns, headersForInsurance, out int insuranceIdCol))
+                    {
+                        //string idText = worksheet.Cells[row, patientIdCol].Text;
+                        model.insurance = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, insuranceIdCol].Text) && worksheet.Cells[row, insuranceIdCol].Text != "NULL") ? worksheet.Cells[row, insuranceIdCol].Text : null;
+                    }
 
                     if (get_source.Trim().Equals("ECW", StringComparison.OrdinalIgnoreCase) ||
                              get_source.Trim().Equals("Officially", StringComparison.OrdinalIgnoreCase) ||
