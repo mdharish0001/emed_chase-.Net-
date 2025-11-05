@@ -287,7 +287,7 @@ namespace emedl_chase.Controllers
 
             //string[] formats = null;
             //string[] dos_formats = { "dd-MM-yyyy", "dd-MM-yyyy HH:mm:ss","dd/MM/yyyy","dd/MM/yyyy HH:mm:ss"};
-            string[] formats = { "MM-dd-yyyy HH:mm:ss", "MM/dd/yyyy HH:mm:ss", "MM/dd/yyyy", "MM-dd-yyyy" };
+            string[] formats = { "MM-dd-yyyy HH:mm:ss", "MM/dd/yyyy HH:mm:ss", "MM/dd/yyyy", "MM-dd-yyyy", "M-d-yyyy", "M/d/yyyy" };
             // if (get_type=="PMSlogix")
             //{
             //    formats = dos_formats2;           
@@ -366,7 +366,7 @@ namespace emedl_chase.Controllers
                     if (TryGetColumn(headerColumns, headersForServiceDate, out int dosCol))
                     {
                         string dateText = worksheet.Cells[row, dosCol].Text;
-                        //string dateText = worksheet.Cells[row, dosCol].Value.ToString();
+                       // string dateText1 = worksheet.Cells[row, dosCol].Value.ToString();
                         if (DateTime.TryParseExact(dateText, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
                             model.dos = parsedDate;
                     }
@@ -397,8 +397,8 @@ namespace emedl_chase.Controllers
                     if (TryGetColumn(headerColumns, headersForClaimDate, out int claimDateCol))
                     {
                         string dateText = worksheet.Cells[row, claimDateCol].Text;
-                        string dateText2 = worksheet.Cells[row, claimDateCol].Value.ToString();
-                        if (DateTime.TryParseExact(dateText2, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
+                        //string dateText2 = worksheet.Cells[row, claimDateCol].Value.ToString();
+                        if (DateTime.TryParseExact(dateText, formats, CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDate))
                             model.claim_date = parsedDate;
                     }
 
@@ -819,7 +819,9 @@ namespace emedl_chase.Controllers
                     {
                         practice = get_type,
                         created_on = DateTime.UtcNow,
-                        org_id = get_org_id
+                        org_id = get_org_id,
+                        source = get_source,
+                        file_name = get_filename
 
                     };
 

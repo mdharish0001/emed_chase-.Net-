@@ -45,6 +45,10 @@ namespace emedl_chase.DbModel
         public int user_id { get; set; }
         public string? username { get; set; }
         public string? post_type { get; set; }
+        public string? source { get; set; }
+        public string? file_name { get; set; }
+
+        
 
     }
 }
