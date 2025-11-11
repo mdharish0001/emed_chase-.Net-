@@ -76,12 +76,14 @@ namespace emedl_chase.Controllers
                     "Claim date",
                     "Encounter Id",
                     "Payment Method",
-                    "Payement Date",
+                    "Payment Date",
                     "Location/Facility",
                     "Paid Amount",
                     "Insurance",
                     "Username",
-                    "Practice"
+                    "Practice",
+                    "SEPS care ID",
+                    "Check#"
 
                 };
 
@@ -184,8 +186,12 @@ namespace emedl_chase.Controllers
                     {
                         //string claimIdText = worksheet.Cells[row, claimIdCol].Text;
                         //model.claim_id = claimIdText;
-                        model.claim_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, claimIdCol].Text) && worksheet.Cells[row, claimIdCol].Text != "NULL") ? worksheet.Cells[row, claimIdCol].Text : null; 
-                        
+                        model.claim_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, claimIdCol].Text) && worksheet.Cells[row, claimIdCol].Text != "NULL") ? worksheet.Cells[row, claimIdCol].Text : null;
+
+                        if (model.claim_id == "N/A")
+                        {
+                            model.claim_id = null;
+                        }
                     }
 
                     //claim date
@@ -204,8 +210,13 @@ namespace emedl_chase.Controllers
                     {
                         //string encIdText = worksheet.Cells[row, encounterIdCol].Text;
                         //model.encounter_id = encIdText;
-                        model.encounter_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, encounterIdCol].Text) && worksheet.Cells[row, encounterIdCol].Text != "NULL") ? worksheet.Cells[row, encounterIdCol].Text : null; 
+                        model.encounter_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, encounterIdCol].Text) && worksheet.Cells[row, encounterIdCol].Text != "NULL") ? worksheet.Cells[row, encounterIdCol].Text : null;
+                         if (model.encounter_id == "N/A")
+                        {
+                            model.encounter_id = null;
+                        }
                     }
+                
 
                     //insurance
 
@@ -248,9 +259,9 @@ namespace emedl_chase.Controllers
                     }
 
                     //payment date
-                    if (headerColumns.TryGetValue("Payement Date ", out int paydateCol))
+                    if (headerColumns.TryGetValue("Payment Date", out int paydateCol))
                     {
-                        if (DateTime.TryParseExact(worksheet.Cells[row, claimDateCol].Text, formats,
+                        if (DateTime.TryParseExact(worksheet.Cells[row, paydateCol].Text, formats,
                                                    CultureInfo.InvariantCulture,
                                                    DateTimeStyles.None,
                                                    out dob))
@@ -268,12 +279,47 @@ namespace emedl_chase.Controllers
                         model.payment_method = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, paymethodCol].Text) && worksheet.Cells[row, paymethodCol].Text != "NULL") ? worksheet.Cells[row, paymethodCol].Text : null;
                     }
 
-                    if(get_source.Trim().Equals("ECW", StringComparison.OrdinalIgnoreCase) ||
-                                                 get_source.Trim().Equals("Officially", StringComparison.OrdinalIgnoreCase) ||
-                                                 get_source.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase))
+                    //vacre_user_id
+                    if (headerColumns.TryGetValue("SEPS care ID", out int careidCol))
                     {
-                        model.encounter_id = model.claim_id;
+                        //string encIdText = worksheet.Cells[row, paymethodCol].Text;
+                        //model.payment_method = encIdText;
+                        model.sepscare_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, careidCol].Text) && worksheet.Cells[row, careidCol].Text != "NULL") ? worksheet.Cells[row, careidCol].Text : null;
                     }
+
+
+                    //vacre_user_id
+                    if (headerColumns.TryGetValue("Check#", out int checkCol))
+                    {
+                        //string encIdText = worksheet.Cells[row, paymethodCol].Text;
+                        //model.payment_method = encIdText;
+                        model.check_number = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, checkCol].Text) && worksheet.Cells[row, checkCol].Text != "NULL") ? worksheet.Cells[row, checkCol].Text : null;
+                    }
+
+
+                    //get_source.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase)
+                    if (get_source.Trim().Equals("ECW", StringComparison.OrdinalIgnoreCase) ||
+                                                 get_source.Trim().Equals("Officially", StringComparison.OrdinalIgnoreCase)
+                                                 )
+                    {
+                        //if (!string.IsNullOrWhiteSpace(model.claim_id)&& !string.IsNullOrEmpty(model.claim_id))
+                        //{
+
+                        //    model.claim_id = model.encounter_id;
+                        //}
+                        model.claim_id = model.encounter_id;
+                    }
+
+                    if (get_source.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase))
+                    {
+                        //if (!string.IsNullOrWhiteSpace(model.claim_id)&& !string.IsNullOrEmpty(model.claim_id))
+                        //{
+
+                        //    model.claim_id = model.encounter_id;
+                        //}
+                         model.encounter_id = model.claim_id;
+                    }
+
 
 
                     if (model.dos == null || model.patient_id == null || model.cpt == null || model.claim_id == null || model.encounter_id == null || model.username==null)
@@ -325,7 +371,7 @@ namespace emedl_chase.Controllers
                 return Ok(response);
 
             }
-            return Ok("Testing");
+           
         }
 
     }

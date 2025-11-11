@@ -47,6 +47,8 @@ namespace emedl_chase.DbModel
         public string? post_type { get; set; }
         public string? source { get; set; }
         public string? file_name { get; set; }
+        public string? sepscare_id { get; set; }
+        public string? check_number { get; set; }
 
         
 
