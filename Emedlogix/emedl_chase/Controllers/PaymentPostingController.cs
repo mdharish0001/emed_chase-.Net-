@@ -19,14 +19,16 @@ namespace emedl_chase.Controllers
 
         private readonly OrganizationService _organizationService;
         private readonly payment_postService _payment_postService;
+        private readonly payment_post_tempService _payment_postTempService;
 
-        public PaymentPostingController(charge_captureService charge_CaptureService, OrganizationService organization, IOptions<ApplicationConfig> applicationConfig, IWebHostEnvironment hostingEnvironment, payment_postService payment_PostService)
+        public PaymentPostingController(charge_captureService charge_CaptureService, OrganizationService organization, IOptions<ApplicationConfig> applicationConfig, IWebHostEnvironment hostingEnvironment, payment_postService payment_PostService,payment_post_tempService payment_Post_TempService)
         {
             _charge_captureService = charge_CaptureService;
             _organizationService = organization;
             _applicationConfig = applicationConfig.Value;
             _hostingEnvironment = hostingEnvironment;
             _payment_postService = payment_PostService;
+            _payment_postTempService = payment_Post_TempService;
         }
         [HttpGet]
         public IActionResult Index()
@@ -94,6 +96,7 @@ namespace emedl_chase.Controllers
             var list = new List<payment_posting>();
             var extlist = new List<payment_posting>();
             var invalidlist = new List<payment_posting>();
+            var updatelist = new List<payment_posting_temp>();
 
             //ExcelPackage.LicenseContext = LicenseContext.NonCommercial; // Set EPPlus license context
 
@@ -192,6 +195,7 @@ namespace emedl_chase.Controllers
                         {
                             model.claim_id = null;
                         }
+                        model.encounter_id = model.claim_id;
                     }
 
                     //claim date
@@ -206,16 +210,16 @@ namespace emedl_chase.Controllers
 
                     //encounter
 
-                    if (headerColumns.TryGetValue("Encounter Id", out int encounterIdCol))
-                    {
-                        //string encIdText = worksheet.Cells[row, encounterIdCol].Text;
-                        //model.encounter_id = encIdText;
-                        model.encounter_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, encounterIdCol].Text) && worksheet.Cells[row, encounterIdCol].Text != "NULL") ? worksheet.Cells[row, encounterIdCol].Text : null;
-                         if (model.encounter_id == "N/A")
-                        {
-                            model.encounter_id = null;
-                        }
-                    }
+                    //if (headerColumns.TryGetValue("Encounter Id", out int encounterIdCol))
+                    //{
+                    //    //string encIdText = worksheet.Cells[row, encounterIdCol].Text;
+                    //    //model.encounter_id = encIdText;
+                    //    model.encounter_id = (!string.IsNullOrWhiteSpace(worksheet.Cells[row, encounterIdCol].Text) && worksheet.Cells[row, encounterIdCol].Text != "NULL") ? worksheet.Cells[row, encounterIdCol].Text : null;
+                    //     if (model.encounter_id == "N/A")
+                    //    {
+                    //        model.encounter_id = null;
+                    //    }
+                    //}
                 
 
                     //insurance
@@ -297,32 +301,33 @@ namespace emedl_chase.Controllers
                     }
 
 
-                    //get_source.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase)
-                    if (get_source.Trim().Equals("ECW", StringComparison.OrdinalIgnoreCase) ||
-                                                 get_source.Trim().Equals("Officially", StringComparison.OrdinalIgnoreCase)
-                                                 )
-                    {
-                        //if (!string.IsNullOrWhiteSpace(model.claim_id)&& !string.IsNullOrEmpty(model.claim_id))
-                        //{
+                    ////get_source.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase)
+                    //if (get_source.Trim().Equals("ECW", StringComparison.OrdinalIgnoreCase) ||
+                    //                             get_source.Trim().Equals("Officially", StringComparison.OrdinalIgnoreCase)
+                    //                             || get_source.Trim().Equals("TEBRA", StringComparison.OrdinalIgnoreCase)
+                    //                             )
+                    //{
+                    //    //if (!string.IsNullOrWhiteSpace(model.claim_id)&& !string.IsNullOrEmpty(model.claim_id))
+                    //    //{
 
-                        //    model.claim_id = model.encounter_id;
-                        //}
-                        model.claim_id = model.encounter_id;
-                    }
+                    //    //    model.claim_id = model.encounter_id;
+                    //    //}
+                    //    model.encounter_id = model.claim_id ;
+                    //}
 
-                    if (get_source.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase))
-                    {
-                        //if (!string.IsNullOrWhiteSpace(model.claim_id)&& !string.IsNullOrEmpty(model.claim_id))
-                        //{
+                    //if (get_source.Trim().Equals("PMSlogix", StringComparison.OrdinalIgnoreCase))
+                    //{
+                    //    //if (!string.IsNullOrWhiteSpace(model.claim_id)&& !string.IsNullOrEmpty(model.claim_id))
+                    //    //{
 
-                        //    model.claim_id = model.encounter_id;
-                        //}
-                         model.encounter_id = model.claim_id;
-                    }
+                    //    //    model.claim_id = model.encounter_id;
+                    //    //}
+                    //     model.encounter_id = model.claim_id;
+                    //}
 
 
 
-                    if (model.dos == null || model.patient_id == null || model.cpt == null || model.claim_id == null || model.encounter_id == null || model.username==null)
+                    if (model.dos == null || model.patient_id == null || model.cpt == null || model.claim_id == null || model.encounter_id == null || model.username==null || model.sepscare_id==null)
                     {
                         // Missing critical data → mark invalid
                         invalidlist.Add(model);
@@ -336,7 +341,8 @@ namespace emedl_chase.Controllers
                             a.encounter_id == model.encounter_id &&
                             a.cpt == model.cpt &&
                             a.claim_id == model.claim_id &&
-                            a.patient_name == model.patient_name
+                            a.patient_name == model.patient_name &&
+                            a.check_number==model.check_number && a.insurance== model.insurance
                         );
 
                         if (oModel == null)
@@ -347,7 +353,45 @@ namespace emedl_chase.Controllers
                         else
                         {
                             // Found duplicate → existing entry
-                            extlist.Add(model);
+                            if (model.paid_amount == oModel.paid_amount)
+                            {
+                                extlist.Add(model);
+                            }
+                            else
+                            {
+                                var oUpdate = new payment_posting_temp()
+                                {
+                                 patient_id = model.patient_id,
+                                 dos = model.dos,
+                                 encounter_id = model.encounter_id ,
+                                 cpt = model.cpt ,
+                                 claim_id = model.claim_id,
+                                 patient_name = model.patient_name,
+                                 paid_amount= model.paid_amount,
+                                 payment_post_id=oModel.id,
+                                 check_number=model.check_number,
+                                 insurance= model.insurance,
+                                 claim_date=model.claim_date,
+                                 created_on=DateTime.UtcNow,
+                                 sepscare_id=model.sepscare_id,
+                                 username=model.username,
+                                 facility=model.facility,
+                                 file_name= get_filename,
+                                 org_id= model.org_id,
+                                 practice= model.practice,
+                                 provider= model.provider,
+                                 payment_date= model.payment_date,
+                                 payment_method= model.payment_method,
+
+                                };
+                                var check_amount= _payment_postTempService.GetAll().Where(a=>a.payment_post_id==oModel.id).Select(a=>a.paid_amount).FirstOrDefault();
+                                if (check_amount != model.paid_amount)
+                                {
+                                    updatelist.Add(oUpdate);
+                                }
+
+                                Console.WriteLine(model.paid_amount);
+                            }
                         }
                     }
 
@@ -357,6 +401,7 @@ namespace emedl_chase.Controllers
                 }
 
                 await _payment_postService.Create(list);
+                await _payment_postTempService.Create(updatelist);
                 var response = new
                 {
                     TotalRecords = totalRows - 1,

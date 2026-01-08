@@ -18,6 +18,7 @@ builder.Services.AddScoped<client_uploadsService>();
 builder.Services.AddScoped<charge_captureService>();
 builder.Services.AddScoped<OrganizationService>();
 builder.Services.AddScoped<payment_postService>();
+builder.Services.AddScoped<payment_post_tempService>();
 
 
 builder.Services.AddControllers();
