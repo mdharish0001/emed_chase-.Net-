@@ -1,0 +1,278 @@
+wwwroot\DR RISHI CHARGE REPORT FROM 910 TO 0918.xlsx
+wwwroot\Dr Rishi Charge report.csv
+wwwroot\DR RISHI CHARGE REPORT.xlsx
+wwwroot\ECW_EHR_PatientRecords\06_Jun_2026\BLASZCZYK Henryk _CCDA.pdf
+wwwroot\ECW_EHR_PatientRecords\06_Jun_2026\GONZALEZ Lauren _2026-05-30.pdf
+wwwroot\ECW_EHR_PatientRecords\06_Jun_2026\GONZALEZ Lauren _CCDA.pdf
+wwwroot\ECW_EHR_PatientRecords\06_Jun_2026\GONZALEZ Lauren_2026-05-30_full.pdf
+wwwroot\ECW_EHR_PatientRecords\06_Jun_2026\GONZALEZ Lauren_CCDA.pdf
+wwwroot\ECW_EHR_PatientRecords\06_Jun_2026\GRANADO Guillermo_CCDA.pdf
+wwwroot\ECW_EHR_PatientRecords\07_Jun_2026\ACEVEDO Jose_CCDA.pdf
+wwwroot\ECW_EHR_PatientRecords\07_Jun_2026\Clark Emily _CCDA.pdf
+wwwroot\ECW_EHR_PatientRecords\07_Jun_2026\CLARK Emily_2026-06-06.pdf
+wwwroot\ECW_EHR_PatientRecords\07_Jun_2026\CLARK Emily_2026-06-06_encounter.pdf
+wwwroot\ECW_EHR_PatientRecords\07_Jun_2026\CLARK Emily_2026-06-06_full.pdf
+wwwroot\ECW_EHR_PatientRecords\07_Jun_2026\Clark Emily_CCDA.pdf
+wwwroot\ECW_EHR_PatientRecords\07_Jun_2026\MADURA Kimberly_CCDA.pdf
+wwwroot\ECW_EHR_PatientRecords\08_Jun_2026\MADURA Kimberly_CCDA.pdf
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\293_GONZALEZ Lauren_2026-05-30_Full.html
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\293_GONZALEZ Lauren_2026-05-30_Full.rtf
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\293_GONZALEZ Lauren_2026-05-30_Full.txt
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\414_GONZALEZ Lauren_2026-05-30_Full.html
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\414_GONZALEZ Lauren_2026-05-30_Full.rtf
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\414_GONZALEZ Lauren_2026-05-30_Full.txt
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\674_MADURA Kimberly_2026-05-30_Full.html
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\674_MADURA Kimberly_2026-05-30_Full.rtf
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\674_MADURA Kimberly_2026-05-30_Full.txt
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\900_MADURA Kimberly_2026-06-02_Full.html
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\900_MADURA Kimberly_2026-06-02_Full.rtf
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\900_MADURA Kimberly_2026-06-02_Full.txt
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\09_Jun_2026\~$4_MADURA Kimberly_2026-05-30_Full.rtf
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\GONZALEZ Lauren_2026-05-30_Full.pdf
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\MADURA Kimberly_2026-05-30_Full.pdf
+wwwroot\ECW_EHR_PatientRecords\09_Jun_2026\MADURA Kimberly_2026-06-02_Full.pdf
+wwwroot\ECW_EHR_PatientRecords\10_Jun_2026\10_Jun_2026\119_MADURA Kimberly_2026-06-02_full.html
+wwwroot\ECW_EHR_PatientRecords\10_Jun_2026\10_Jun_2026\119_MADURA Kimberly_2026-06-02_full.rtf
+wwwroot\ECW_EHR_PatientRecords\10_Jun_2026\10_Jun_2026\119_MADURA Kimberly_2026-06-02_full.txt
+wwwroot\ECW_EHR_PatientRecords\10_Jun_2026\MADURA Kimberly_2026-06-02_full.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Brinck_Jenna_20050215_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Burkey_Janet_19470531_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Cahill_Patrick_19631028_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Castaneda_Evaristo_19531026_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Cole_Jean_19541024_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Contreras_Daniela_20050519_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Creegan_Mike_19610212_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Creegan_Mike_19610212_NA_1.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Diaz-withers_Lillian_19670213_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Gardiner_Sallie_19630706_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Garner_Maria_19721001_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Gilman_Regina_19601111_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Ledwon_Paulina_20050904_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Lopez_Jerry_19990305_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Miller_Malaika_19900829_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Napier_Pansy_19611124_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Obertis_Nicholas_19520622_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Smith_Roland_19470905_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Sylvester_Caroline_19530912_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Thomas_Aliyah_20021217_NA.pdf
+wwwroot\ECW_EHR_PatientRecords\12_Jun_2026\Williams_Lori-Ann_11241995_NA.pdf
+wwwroot\files\Demo\03_Jun_2026\139_Symanski Vincent_2026-05-26_encounter.html
+wwwroot\files\Demo\03_Jun_2026\139_Symanski Vincent_2026-05-26_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\139_Symanski Vincent_2026-05-26_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\522_BRYANT RAYMOND_2026-01-28_encounter.html
+wwwroot\files\Demo\03_Jun_2026\522_BRYANT RAYMOND_2026-01-28_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\522_BRYANT RAYMOND_2026-01-28_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\546_Symanski Vincent_2026-05-26_encounter.html
+wwwroot\files\Demo\03_Jun_2026\546_Symanski Vincent_2026-05-26_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\546_Symanski Vincent_2026-05-26_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\555_Symanski Vincent_2026-05-26_encounter.html
+wwwroot\files\Demo\03_Jun_2026\555_Symanski Vincent_2026-05-26_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\555_Symanski Vincent_2026-05-26_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\574_BRYANT RAYMOND_2026-01-28_encounter.html
+wwwroot\files\Demo\03_Jun_2026\574_BRYANT RAYMOND_2026-01-28_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\574_BRYANT RAYMOND_2026-01-28_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\65_Symanski Vincent_2026-05-26_encounter.html
+wwwroot\files\Demo\03_Jun_2026\65_Symanski Vincent_2026-05-26_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\65_Symanski Vincent_2026-05-26_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\660_Symanski Vincent_2026-05-26_encounter.html
+wwwroot\files\Demo\03_Jun_2026\660_Symanski Vincent_2026-05-26_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\660_Symanski Vincent_2026-05-26_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\743_Symanski Vincent_2026-05-26_encounter.html
+wwwroot\files\Demo\03_Jun_2026\743_Symanski Vincent_2026-05-26_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\743_Symanski Vincent_2026-05-26_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\750_BRYANT RAYMOND_2026-01-28_encounter.html
+wwwroot\files\Demo\03_Jun_2026\750_BRYANT RAYMOND_2026-01-28_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\750_BRYANT RAYMOND_2026-01-28_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\955_Symanski Vincent_2026-05-26_encounter.html
+wwwroot\files\Demo\03_Jun_2026\955_Symanski Vincent_2026-05-26_encounter.rtf
+wwwroot\files\Demo\03_Jun_2026\955_Symanski Vincent_2026-05-26_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\974_Symanski Vincent_2026-05-26_encounter.txt
+wwwroot\files\Demo\03_Jun_2026\Symanski Vincent_2026-05-26_encounter.xml
+wwwroot\files\Demo\03_Jun_2026\Symanski Vincent_2026-05-26_full.xml
+wwwroot\files\ecw_credentials.json
+wwwroot\files\EPIC\jwks.json
+wwwroot\files\EPIC\private.pem
+wwwroot\files\EPIC\public.pem
+wwwroot\files\EPIC\public_cert_new1.pem
+wwwroot\files\private.pem
+wwwroot\files\RIVERA Ervin_20250729_Empire Plan of New York.pdf
+wwwroot\uploads\01_Jun_2026\DYMOND SANDRA_2026-05-06_encounter.xml
+wwwroot\uploads\01_Jun_2026\DYMOND SANDRA_2026-05-06_full.xml
+wwwroot\uploads\02_Jun_2026\Beach Bryan_2026-05-23_encounter.xml
+wwwroot\uploads\02_Jun_2026\Beach Bryan_2026-05-23_full.xml
+wwwroot\uploads\02_Jun_2026\New Text Document.txt
+wwwroot\uploads\02_Jun_2026\Robertson Rachel_2026-05-22_encounter.xml
+wwwroot\uploads\02_Jun_2026\Robertson Rachel_2026-05-22_full.xml
+wwwroot\uploads\02_Jun_2026\Symanski Vincent_2026-05-26_encounter.xml
+wwwroot\uploads\02_Jun_2026\Symanski Vincent_2026-05-26_full.xml
+wwwroot\uploads\03_Jun_2026\Berger Judith_2026-05-22_encounter.xml
+wwwroot\uploads\03_Jun_2026\Berger Judith_2026-05-22_full.xml
+wwwroot\uploads\03_Jun_2026\BRYANT RAYMOND_2026-01-28_encounter.xml
+wwwroot\uploads\03_Jun_2026\BRYANT RAYMOND_2026-01-28_full.xml
+wwwroot\uploads\03_Jun_2026\DYMOND SANDRA_2026-05-02_encounter.xml
+wwwroot\uploads\03_Jun_2026\DYMOND SANDRA_2026-05-02_full.xml
+wwwroot\uploads\03_Jun_2026\Symanski Vincent_2026-05-26_encounter.xml
+wwwroot\uploads\03_Jun_2026\Symanski Vincent_2026-05-26_full.xml
+wwwroot\uploads\04_Jun_2026\BARBERIO Catherine _2026-05-26_encounter.xml
+wwwroot\uploads\04_Jun_2026\BARBERIO Catherine _2026-05-26_full.xml
+wwwroot\uploads\04_Jun_2026\BERGER Judith _2026-01-06_full.xml
+wwwroot\uploads\04_Jun_2026\BERGER Judith _2026-06-01_encounter.xml
+wwwroot\uploads\04_Jun_2026\BERGER Judith _2026-06-01_full.xml
+wwwroot\uploads\04_Jun_2026\Berger Judith_2026-05-04_encounter.xml
+wwwroot\uploads\04_Jun_2026\Berger Judith_2026-05-04_full.xml
+wwwroot\uploads\04_Jun_2026\Berger Judith_2026-05-22_encounter.xml
+wwwroot\uploads\04_Jun_2026\Berger Judith_2026-05-22_full.xml
+wwwroot\uploads\04_Jun_2026\EISENTRAUT Jacob_2026-05-08_encounter.xml
+wwwroot\uploads\04_Jun_2026\EISENTRAUT Jacob_2026-05-08_full.xml
+wwwroot\uploads\04_Jun_2026\Garvey Edward_2026-05-26_encounter.xml
+wwwroot\uploads\04_Jun_2026\Garvey Edward_2026-05-26_full.xml
+wwwroot\uploads\04_Jun_2026\ROBERTSON Rachel _2026-05-29_full.xml
+wwwroot\uploads\04_Jun_2026\Robertson Rachel_2026-05-29_full.xml
+wwwroot\uploads\05_Jun_2026\BERGER Judith _2026-01-06_full.xml
+wwwroot\uploads\05_Jun_2026\Berger Judith_2026-01-06_encounter.xml
+wwwroot\uploads\05_Jun_2026\Berger Judith_2026-01-06_full.xml
+wwwroot\uploads\05_Jun_2026\EISENTRAUT Jacob_2026-05-08_encounter.xml
+wwwroot\uploads\05_Jun_2026\EISENTRAUT Jacob_2026-05-08_full.xml
+wwwroot\uploads\05_Jun_2026\GONZALEZ Lauren _2026-05-30_full.xml
+wwwroot\uploads\05_Jun_2026\GONZALEZ Lauren_2026-05-30_full.xml
+wwwroot\uploads\05_Jun_2026\Nash Sean_2026-05-29_encounter.xml
+wwwroot\uploads\05_Jun_2026\Nash Sean_2026-05-29_full.xml
+wwwroot\uploads\06_Jun_2026\BLASZCZYK Henryk _2026-05-06.xml
+wwwroot\uploads\06_Jun_2026\GONZALEZ Lauren _2026-05-30.xml
+wwwroot\uploads\06_Jun_2026\GONZALEZ Lauren_2026-05-30.xml
+wwwroot\uploads\06_Jun_2026\GONZALEZ Lauren_2026-05-30_encounter.xml
+wwwroot\uploads\06_Jun_2026\GONZALEZ Lauren_2026-05-30_full.xml
+wwwroot\uploads\06_Jun_2026\GRANADO Guillermo_2026-06-02.xml
+wwwroot\uploads\07_Jun_2026\ACEVEDO Jose_2026-06-03.xml
+wwwroot\uploads\07_Jun_2026\ACEVEDO Jose_2026-06-03_encounter.xml
+wwwroot\uploads\07_Jun_2026\CLARK Emily _2026-06-06.xml
+wwwroot\uploads\07_Jun_2026\CLARK Emily _2026-06-06_encounter.xml
+wwwroot\uploads\07_Jun_2026\CLARK Emily_2026-06-06.xml
+wwwroot\uploads\07_Jun_2026\CLARK Emily_2026-06-06_encounter.xml
+wwwroot\uploads\07_Jun_2026\CLARK Emily_2026-06-06_full.xml
+wwwroot\uploads\07_Jun_2026\GONZALEZ Lauren_2026-05-30.xml
+wwwroot\uploads\07_Jun_2026\GONZALEZ Lauren_2026-05-30_encounter.xml
+wwwroot\uploads\07_Jun_2026\MADURA Kimberly_2026-06-02.xml
+wwwroot\uploads\08_Jun_2026\Berger Judith_2026-06-01.xml
+wwwroot\uploads\08_Jun_2026\Berger Judith_2026-06-01_encounter.xml
+wwwroot\uploads\08_Jun_2026\Berger Judith_2026-06-01_Full.xml
+wwwroot\uploads\08_Jun_2026\GONZALEZ Lauren _2026-05-30.xml
+wwwroot\uploads\08_Jun_2026\GONZALEZ Lauren _2026-05-30_encounter.xml
+wwwroot\uploads\08_Jun_2026\GONZALEZ Lauren _2026-05-30_Full.xml
+wwwroot\uploads\08_Jun_2026\GONZALEZ Lauren_2026-05-30.xml
+wwwroot\uploads\08_Jun_2026\GONZALEZ Lauren_2026-05-30_encounter.xml
+wwwroot\uploads\08_Jun_2026\GONZALEZ Lauren_2026-05-30_Full.xml
+wwwroot\uploads\08_Jun_2026\HERNANDEZ Jose _2026-06-02.xml
+wwwroot\uploads\08_Jun_2026\HERNANDEZ Jose _2026-06-02_Full.xml
+wwwroot\uploads\08_Jun_2026\HERNANDEZ Jose_2026-06-02.xml
+wwwroot\uploads\08_Jun_2026\HERNANDEZ Jose_2026-06-02_Full.xml
+wwwroot\uploads\08_Jun_2026\MADURA Kimberly_2026-06-02.xml
+wwwroot\uploads\08_Jun_2026\MADURA Kimberly_2026-06-02_Full.xml
+wwwroot\uploads\09_Jun_2026\FALLON John_2026-05-11.xml
+wwwroot\uploads\09_Jun_2026\FALLON John_2026-05-11_Full.xml
+wwwroot\uploads\09_Jun_2026\Gonzalez Lauren _ 2026-05-30.xml
+wwwroot\uploads\09_Jun_2026\Gonzalez Lauren _2026-05-30.xml
+wwwroot\uploads\09_Jun_2026\Gonzalez Lauren _2026-05-30_Full.xml
+wwwroot\uploads\09_Jun_2026\GONZALEZ Lauren_2026-05-30.xml
+wwwroot\uploads\09_Jun_2026\GONZALEZ Lauren_2026-05-30_encounter.xml
+wwwroot\uploads\09_Jun_2026\GONZALEZ Lauren_2026-05-30_Full.xml
+wwwroot\uploads\09_Jun_2026\MADURA Kimberly_2026-05-30.xml
+wwwroot\uploads\09_Jun_2026\MADURA Kimberly_2026-05-30_Full.xml
+wwwroot\uploads\09_Jun_2026\MADURA Kimberly_2026-06-02.xml
+wwwroot\uploads\09_Jun_2026\MADURA Kimberly_2026-06-02_Full.xml
+wwwroot\uploads\10_Jun_2026\ACEVEDO Jose_2026-06-03.xml
+wwwroot\uploads\10_Jun_2026\DOOKIE DAVID_2026-06-09.xml
+wwwroot\uploads\10_Jun_2026\FALLON John _2026-05-11.xml
+wwwroot\uploads\10_Jun_2026\FALLON John_2026-05-11.xml
+wwwroot\uploads\10_Jun_2026\GONZALEZ Lauren_2026-05-30.xml
+wwwroot\uploads\10_Jun_2026\GONZALEZ Lauren_2026-05-30_encounter.xml
+wwwroot\uploads\10_Jun_2026\GONZALEZ, Lauren_2026-05-30.xml
+wwwroot\uploads\10_Jun_2026\GONZALEZ, Lauren_2026-05-30_encounter.xml
+wwwroot\uploads\10_Jun_2026\GRANADO Guillermo_2026-06-02.xml
+wwwroot\uploads\10_Jun_2026\HERNANDEZ Jose_2026-06-02.xml
+wwwroot\uploads\10_Jun_2026\INGRASSIA Cynthia_2026-06-02.xml
+wwwroot\uploads\10_Jun_2026\MADURA Kimberly_2026-06-02.xml
+wwwroot\uploads\10_Jun_2026\MADURA Kimberly_2026-06-02_encounter.xml
+wwwroot\uploads\10_Jun_2026\MADURA Kimberly_2026-06-02_full.xml
+wwwroot\uploads\10_Jun_2026\POLANCO Lesly_2026-06-09.xml
+wwwroot\uploads\10_Jun_2026\POLANCO Lesly_2026-06-09_encounter.xml
+wwwroot\uploads\12_Jun_2026\Brinck Jenna_2026-05-30.xml
+wwwroot\uploads\12_Jun_2026\Brinck Jenna_2026-05-30_encounter.xml
+wwwroot\uploads\12_Jun_2026\Burkey Janet_2026-06-08.xml
+wwwroot\uploads\12_Jun_2026\Burkey Janet_2026-06-08_encounter.xml
+wwwroot\uploads\12_Jun_2026\Cahill Patrick_2026-06-09.xml
+wwwroot\uploads\12_Jun_2026\Cahill Patrick_2026-06-09_encounter.xml
+wwwroot\uploads\12_Jun_2026\Castaneda Evaristo_2026-05-30.xml
+wwwroot\uploads\12_Jun_2026\Castaneda Evaristo_2026-05-30_encounter.xml
+wwwroot\uploads\12_Jun_2026\Cole Jean_2026-05-29.xml
+wwwroot\uploads\12_Jun_2026\Cole Jean_2026-05-29_encounter.xml
+wwwroot\uploads\12_Jun_2026\Contreras Daniela_2026-05-29.xml
+wwwroot\uploads\12_Jun_2026\Contreras Daniela_2026-05-29_encounter.xml
+wwwroot\uploads\12_Jun_2026\Creegan Mike_2026-05-29.xml
+wwwroot\uploads\12_Jun_2026\Creegan Mike_2026-05-29_encounter.xml
+wwwroot\uploads\12_Jun_2026\Diaz-withers Lillian_2026-05-30.xml
+wwwroot\uploads\12_Jun_2026\Diaz-withers Lillian_2026-05-30_encounter.xml
+wwwroot\uploads\12_Jun_2026\Gardiner Sallie_2026-05-30.xml
+wwwroot\uploads\12_Jun_2026\Gardiner Sallie_2026-05-30_encounter.xml
+wwwroot\uploads\12_Jun_2026\Garner Maria_2026-05-30.xml
+wwwroot\uploads\12_Jun_2026\Garner Maria_2026-05-30_encounter.xml
+wwwroot\uploads\12_Jun_2026\Gilman Regina_2026-06-09.xml
+wwwroot\uploads\12_Jun_2026\Gilman Regina_2026-06-09_encounter.xml
+wwwroot\uploads\12_Jun_2026\Ledwon Paulina_2026-06-09.xml
+wwwroot\uploads\12_Jun_2026\Ledwon Paulina_2026-06-09_encounter.xml
+wwwroot\uploads\12_Jun_2026\Lopez Jerry_2026-05-28.xml
+wwwroot\uploads\12_Jun_2026\Lopez Jerry_2026-05-28_encounter.xml
+wwwroot\uploads\12_Jun_2026\Miller Malaika_2026-05-30.xml
+wwwroot\uploads\12_Jun_2026\Miller Malaika_2026-05-30_encounter.xml
+wwwroot\uploads\12_Jun_2026\Napier Pansy_2026-05-29.xml
+wwwroot\uploads\12_Jun_2026\Napier Pansy_2026-05-29_encounter.xml
+wwwroot\uploads\12_Jun_2026\Obertis Nicholas_2026-06-09.xml
+wwwroot\uploads\12_Jun_2026\Obertis Nicholas_2026-06-09_encounter.xml
+wwwroot\uploads\12_Jun_2026\POLANCO Lesly_2026-06-09.xml
+wwwroot\uploads\12_Jun_2026\POLANCO Lesly_2026-06-09_encounter.xml
+wwwroot\uploads\12_Jun_2026\Smith Roland_2026-05-28.xml
+wwwroot\uploads\12_Jun_2026\Smith Roland_2026-05-28_encounter.xml
+wwwroot\uploads\12_Jun_2026\Sylvester Caroline_2026-06-03_encounter.xml
+wwwroot\uploads\12_Jun_2026\Sylvester Caroline_2026-06-10.xml
+wwwroot\uploads\12_Jun_2026\Sylvester Caroline_2026-06-10_encounter.xml
+wwwroot\uploads\12_Jun_2026\Thomas Aliyah_2026-05-30.xml
+wwwroot\uploads\12_Jun_2026\Thomas Aliyah_2026-05-30_encounter.xml
+wwwroot\uploads\12_Jun_2026\Williams Lori-Ann_2026-06-10.xml
+wwwroot\uploads\12_Jun_2026\Williams Lori-Ann_2026-06-10_encounter.xml
+wwwroot\uploads\15_Sep_2025\data short.xlsx
+wwwroot\uploads\17_Sep_2025\Amanna Courtney_2025-09-15_encounter.xml
+wwwroot\uploads\17_Sep_2025\Amanna Courtney_2025-09-15_full.xml
+wwwroot\uploads\17_Sep_2025\Balestra Katherine_2025-09-15_encounter.xml
+wwwroot\uploads\17_Sep_2025\Balestra Katherine_2025-09-15_full.xml
+wwwroot\uploads\17_Sep_2025\Barrett Bruce_2025-09-15_encounter.xml
+wwwroot\uploads\17_Sep_2025\Barrett Bruce_2025-09-15_full.xml
+wwwroot\uploads\17_Sep_2025\Bergeron Christine_2025-09-15_encounter.xml
+wwwroot\uploads\17_Sep_2025\Bergeron Christine_2025-09-15_full.xml
+wwwroot\uploads\17_Sep_2025\Bonner Antione_2025-09-11_encounter.xml
+wwwroot\uploads\17_Sep_2025\Bonner Antione_2025-09-11_full.xml
+wwwroot\uploads\17_Sep_2025\Callanan Richard_2025-09-15_encounter.xml
+wwwroot\uploads\17_Sep_2025\Callanan Richard_2025-09-15_full.xml
+wwwroot\uploads\17_Sep_2025\Cardoza Luisa Maricell_2025-09-15_encounter.xml
+wwwroot\uploads\17_Sep_2025\Cardoza Luisa Maricell_2025-09-15_full.xml
+wwwroot\uploads\17_Sep_2025\Coamey Veronica_2025-09-12_encounter.xml
+wwwroot\uploads\17_Sep_2025\Coamey Veronica_2025-09-12_full.xml
+wwwroot\uploads\17_Sep_2025\Cullen Gary_2025-09-15_encounter.xml
+wwwroot\uploads\17_Sep_2025\Cullen Gary_2025-09-15_full.xml
+wwwroot\uploads\17_Sep_2025\EncounterReport_1758090921204.XLSX
+wwwroot\uploads\17_Sep_2025\Van Arsdale Corinne_2025-09-15_encounter.xml
+wwwroot\uploads\17_Sep_2025\Van Arsdale Corinne_2025-09-15_full.xml
+wwwroot\uploads\30_May_2026\DYMOND SANDRA_2026-04-15_encounter.xml
+wwwroot\uploads\30_May_2026\DYMOND SANDRA_2026-04-15_full.xml
+wwwroot\uploads\30_May_2026\DYMOND SANDRA_2026-05-06_encounter.xml
+wwwroot\uploads\30_May_2026\DYMOND SANDRA_2026-05-06_full.xml
+wwwroot\uploads\30_May_2026\McNee Megan_2026-05-26_encounter.xml
+wwwroot\uploads\30_May_2026\McNee Megan_2026-05-26_full.xml
+wwwroot\uploads\30_May_2026\Smith Lynnette_2026-05-20_encounter.xml
+wwwroot\uploads\30_May_2026\Smith Lynnette_2026-05-20_full.xml
+wwwroot\uploads\31_May_2026\DYMOND SANDRA_2026-05-06_encounter.xml
+wwwroot\uploads\31_May_2026\DYMOND SANDRA_2026-05-06_full.xml
+wwwroot\uploads\31_May_2026\DYMOND SANDRA_2026-05-12_encounter.xml
+wwwroot\uploads\31_May_2026\DYMOND SANDRA_2026-05-12_full.xml
+wwwroot\uploads\31_May_2026\Juras Paola_2026-05-21_encounter.xml
+wwwroot\uploads\31_May_2026\Juras Paola_2026-05-21_full.xml
+wwwroot\uploads\12_Jun_2026\Young Gregoria_2026-06-09_encounter.xml
