@@ -1,6 +1,6 @@
 ﻿namespace emedl_chase.Model
 {
-    public class Patient
+    public class PatientDTO
     {
         public class Rootobject
         {
@@ -106,6 +106,7 @@
             public string birthDate { get; set; }
 
             public DateTime lastUpdated { get; set; }
+            //public DateTime lastUpdated { get; set; }
 
             public string fullurl { get; set; }
 
@@ -115,5 +116,33 @@
 
         }
 
+        
+
+    }
+
+
+    public class PatientHeaderDTO
+    {
+        public string FhirId { get; set; }
+
+        public string Name { get; set; }
+
+        public string Gender { get; set; }
+
+        public string BirthDate { get; set; }
+
+        public DateTime? LastUpdated { get; set; }
+    }
+    public class PatientInfoforPDF
+    {
+        public string Name { get; set; }
+        public string DOB { get; set; }
+        public string Age { get; set; }
+        public string Gender { get; set; }
+        public string AccountNumber { get; set; }
+        public string DateOfService { get; set; }
+        public string Phone { get; set; }
+        public string Address { get; set; }
+        public string Provider { get; set; }
     }
 }

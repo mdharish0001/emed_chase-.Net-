@@ -7,9 +7,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using System;
+using QuestPDF.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
+QuestPDF.Settings.License = LicenseType.Community;
 // Add services to the container.
 
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
@@ -19,7 +21,7 @@ builder.Services.AddScoped<charge_captureService>();
 builder.Services.AddScoped<OrganizationService>();
 builder.Services.AddScoped<payment_postService>();
 builder.Services.AddScoped<payment_post_tempService>();
-
+builder.Services.AddScoped<IClinicalPdfService, ClinicalPdfService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

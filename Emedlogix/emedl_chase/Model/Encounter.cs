@@ -1,6 +1,6 @@
 ﻿namespace emedl_chase.Model
 {
-    public class Encounter
+    public class EncounterDTO
     {
 
         public class Rootobject

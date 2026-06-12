@@ -1,22 +1,18 @@
-Summarization of Episode Note
+Patient Health Record
 
-91 Sugarloaf Mountain Rd
+7 Lakeshore Dr South
 
-Chester
-
-NY
-
-10918
+Lincolndale
 
 US
 
 US
 
-Cheryl
+Emily
 
-Johnson
+Clark
 
-eClinicalWorks CCDA V12.0.2.04000331_20
+eClinicalWorks CCDA V12.0.2.04000466
 
 eClinicalWorks
 
@@ -44,37 +40,17 @@ NY
 
 US
 
-4 HDSN VLY PROF PLZ
+7 Lakeshore Dr South
 
-Suite B
-
-NEWBURGH
-
-NY
-
-12550-3157
+lincolndale
 
 US
 
-Marin
+Robin
 
-Citlalli
+Clark
 
-91 Sugarloaf Mountain Rd
-
-Chester
-
-NY
-
-10918
-
-US
-
-Hailey
-
-Johnson
-
-Rendering provider
+Appointment provider
 
 4 HDSN VLY PROF PLZ
 
@@ -92,6 +68,8 @@ BAJAJ
 
 RISHI
 
+MD
+
 Appointment provider
 
 4 HDSN VLY PROF PLZ
@@ -106,9 +84,13 @@ NY
 
 US
 
-Marin
+DISCIGLIO
 
-Citlalli
+KAILA
+
+FNP
+
+Appointment provider
 
 4 HDSN VLY PROF PLZ
 
@@ -122,21 +104,11 @@ NY
 
 US
 
-Marin
+OTTAVIANO
 
-Citlalli
+SOPHIA
 
-EM Middletown Office
-
-528 East Main St
-
-MIDDLETOWN
-
-NY
-
-10940-2632
-
-US
+PA-C
 
 Allergies
 
@@ -150,13 +122,21 @@ Reason For Referral
 
 No Information
 
-REASON FOR VISIT
-
-Weight management
-
 Medications
 
-No Information
+Adderall
+
+Active
+
+TEVA SELECT BRANDS
+
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
 
 Immunizations
 
@@ -164,15 +144,25 @@ No Information
 
 Social History
 
-No Information
+Sex Observation
+
+Sex Observation
+
+Female
+
+Social History
+
+nonsmoker, social ETOH user
+
+NEW - Monticello Office
 
 Problems
 
 Problem
 
-Morbid obesity (238136002)
+Attention-deficit hyperactivity disorder, unspecified type (F90.9)
 
-Obesities, morbid (E66.01)
+Added On:06/07/2026
 
 Active
 
@@ -182,141 +172,73 @@ Scribe
 
 India
 
-EM Middletown Office
+Newburgh Office
 
 Vital Signs
 
-126 mm Hg
-
-10/29/2025
-
-88 mm Hg
-
-10/29/2025
-
-71 /min
-
-10/29/2025
-
-16 /min
-
-10/29/2025
-
-65 in
-
-10/29/2025
-
-181.2 lbs
-
-10/29/2025
-
-30.15 kg/m2
-
-10/29/2025
-
-96 %
-
-10/29/2025
-
-165.1 cm
-
-10/29/2025
-
-82.19 kg
-
-10/29/2025
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Marin
-
-Citlalli
-
-EM Middletown Office
-
-Marin
-
-Citlalli
-
-EM Middletown Office
+No Information
 
 Procedures
 
-No Information
+PROLNG OFF/OP E/M EA 15 MIN
+
+06/06/2026
+
+Complex e/m visit add on
+
+06/06/2026
+
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
+
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
 
 Encounters
 
-EM Middletown Office
+06/06/2026
 
-528 East Main St MIDDLETOWN, NY 10940-2632
+02:00 PM
 
-10/29/2025
+Office Visit, New Pt., Level 5 (99205)
 
-Citlalli Marin
+Newburgh Office
 
-Annual physical exam Z00.00 ; Obesities, morbid E66.01 ; Pain in leg, unspecified M79.606 ; Leg heaviness R29.898 ; Leg swelling M79.89 ; Shortness of breath on exertion R06.02 ; Dizziness R42 ; Lightheadedness R42 ; Decreased pedal pulses R09.89 and Abnormal ankle brachial index (ABI) R68.89
+4 HDSN VLY PROF PLZ Suite B NEWBURGH, NY 12550-3157
 
-Citlalli
+KAILA DISCIGLIO
 
-Marin
+Encounter for therapeutic drug level monitoring Z51.81 ; Attention-deficit hyperactivity disorder, unspecified type F90.9 ; Family history of other mental and behavioral disorders Z81.8 ; Tachycardia, unspecified R00.0 and Decreased pedal pulses R09.89
 
-528 East Main St
+KAILA
 
-MIDDLETOWN
+DISCIGLIO
+
+FNP
+
+4 HDSN VLY PROF PLZ
+
+Suite B
+
+NEWBURGH
 
 NY
 
-10940-2632
+12550-3157
 
 US
 
-EM Middletown Office
+Newburgh Office
 
 Medical Equipment
 
@@ -324,89 +246,137 @@ No Information
 
 Assessments
 
-10/29/2025
+06/06/2026
 
-Annual physical exam (ICD-10 - Z00.00)
+Attention-deficit hyperactivity disorder, unspecified type (ICD-10 - F90.9)
 
-10/29/2025
+06/06/2026
 
-Obesities, morbid (ICD-10 - E66.01)
+Encounter for therapeutic drug level monitoring (ICD-10 - Z51.81)
 
-Learning About Obesity material was printed
+06/06/2026
 
-10/29/2025
+Family history of other mental and behavioral disorders (ICD-10 - Z81.8)
 
-Pain in leg, unspecified (ICD-10 - M79.606)
+06/06/2026
 
-10/29/2025
+Tachycardia, unspecified (ICD-10 - R00.0)
 
-Leg heaviness (ICD-10 - R29.898)
-
-10/29/2025
-
-Leg swelling (ICD-10 - M79.89)
-
-10/29/2025
-
-Shortness of breath on exertion (ICD-10 - R06.02)
-
-10/29/2025
-
-Dizziness (ICD-10 - R42)
-
-10/29/2025
-
-Lightheadedness (ICD-10 - R42)
-
-10/29/2025
+06/06/2026
 
 Decreased pedal pulses (ICD-10 - R09.89)
 
-10/29/2025
-
-Abnormal ankle brachial index (ABI) (ICD-10 - R68.89)
-
-10/29/2025
+06/06/2026
 
 Other
 
-Semaglutide 0.25 mg was administered SC to the left abdomen without complications. She understands that the long-term side effects of Semaglutide are not well known. She also understands the importance of maintaining an ongoing caloric deficit for optimal weight reduction. We discussed the importance of increasing her hydration, activity level, and intake of high-protein meals. She is to continue follow-up with Dr. Echebin for ongoing management and evaluation of her left hip vascular necrosis. She is also scheduled to see Dr. Lemnentowski on January 13th for further evaluation of vascular necrosis. During today's visit, we will arrange for a complete arterial doppler for evaluation of decreased pedal pulses and abnormal ABI. Preliminary images were reviewed and discussed, which revealed mild atherosclerotic plaque. We strongly encourage continued aquatic physical therapy twice weekly. All questions and concerns were answered and addressed. A heart-healthy diet and healthy lifestyle were encouraged and endorsed. She will follow up in 1 week or sooner if symptoms arise. She agrees to the plan of care.
+Today,
 
- The patient was monitored for over 15 minutes post procedure. The patient was evaluated for any adverse or allergic reaction. Vital signs remained stable. No indication of any adverse reaction to the site or to any allergic reaction. Blood pressure remained stable.
+for her clearance of starting Adderall, a full cardiovascular assessment will
 
-Provided education on diet modifications, proper food choices, nutritional counseling and review of diet journal.
+be performed as increased heart rate and elevated blood pressure were also
 
-Face-to-face behavioral counseling for 15 minutes completed for diagnosis of obesity, which included discussion of diet importance of exercise, behavioral modification strategies, and patient specific goals set to ensure positive outcomes from the visit.
+noted to be on exam and for long-term use of Adderall, we will be obtaining an
+
+EKG at next visit. Echocardiogram, ETT, ABI, and for decreased pedal pulses
+
+felt on lower extremities, a venous reflux will also be obtained at next exam. She
+
+will follow-up also for fasting labs. We will give her a urine drug screening
+
+script to be obtained before Adderall placement, and she will follow-up in 1 week
+
+to perform cardiovascular testing prior to starting medication. All questions
+
+and concerns were answered and addressed. A heart-healthy diet and healthy
+
+lifestyle was encouraged and endorsed.  The
+
+patient agrees to the plan of care.
+
+Time Spent: Total time spent 88 minutes in face-to-face conversation, examination, reviewing records, discussing treatment options and procedures, pathophysiology, and anatomy. Diet and lifestyle modifications were discussed in great detail.  Images were personally reviewed by me in front of the patient and/or family member and explained on our graphic diagram.  Treatment options, risks, benefits and alternative treatments discussed with the patient in detail. All questions and concerns answered.
 
 Plan Of Treatment
 
-Treatment Notes
-
-Obesities, morbid
-
-Learning About Obesity material was printed
-
-Other
-
-Semaglutide 0.25 mg was administered SC to the left abdomen without complications. She understands that the long-term side effects of Semaglutide are not well known. She also understands the importance of maintaining an ongoing caloric deficit for optimal weight reduction. We discussed the importance of increasing her hydration, activity level, and intake of high-protein meals. She is to continue follow-up with Dr. Echebin for ongoing management and evaluation of her left hip vascular necrosis. She is also scheduled to see Dr. Lemnentowski on January 13th for further evaluation of vascular necrosis. During today's visit, we will arrange for a complete arterial doppler for evaluation of decreased pedal pulses and abnormal ABI. Preliminary images were reviewed and discussed, which revealed mild atherosclerotic plaque. We strongly encourage continued aquatic physical therapy twice weekly. All questions and concerns were answered and addressed. A heart-healthy diet and healthy lifestyle were encouraged and endorsed. She will follow up in 1 week or sooner if symptoms arise. She agrees to the plan of care.
-
- The patient was monitored for over 15 minutes post procedure. The patient was evaluated for any adverse or allergic reaction. Vital signs remained stable. No indication of any adverse reaction to the site or to any allergic reaction. Blood pressure remained stable.
-
-Provided education on diet modifications, proper food choices, nutritional counseling and review of diet journal.
-
-Face-to-face behavioral counseling for 15 minutes completed for diagnosis of obesity, which included discussion of diet importance of exercise, behavioral modification strategies, and patient specific goals set to ensure positive outcomes from the visit.
-
 Pending Test
 
-Ultrasound : Artery Doppler Low Ext Bilat
+DRUG MONITOR, PANEL 5, SCREEN, URINE (39420)
 
-10/29/2025
+06/06/2026
+
+Future Test
+
+Echocardiogram
+
+06/07/2026
+
+ABI/PVR
+
+06/07/2026
+
+Electrocardiogram (EKG)
+
+06/07/2026
+
+Exercise Treadmill Stress Test (TMST)
+
+06/07/2026
+
+Venous Reflux
+
+06/07/2026
 
 Next Appt
 
-Follow Up: 1 Week, Reason: 
+Provider Name:RISHI BAJAJ, 06/10/2026 11:30:00 AM, 4 HDSN VLY PROF PLZ, Suite B, NEWBURGH, NY, 12550-3157, 877-374-2362
 
-Provider Name:Citlalli Marin, 11/05/2025 12:45:00 PM, 528 East Main St, MIDDLETOWN, NY, 10940-2632, 877-374-2362
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
+
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
+
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
+
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
+
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
+
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
 
 Goals Section
 
@@ -416,75 +386,17 @@ Health Concerns
 
 No Information
 
-Insurance Providers
+Medical (General) History
 
-Emblem GHI HMO select
+Medical History
 
-PO BOX 2844 NEW YORK, NY 10116-2845
-
-800-471-2033
-
-K6040199201
-
-Johnson, Cheryl
-
-Self - patient is the insured
-
-PO BOX 2844
-
-NEW YORK
-
-NY
-
-10116-2845
-
-US
-
-Emblem GHI HMO select
-
-91 Sugarloaf Mountain Rd
-
-Chester
-
-NY
-
-10918
-
-US
-
-Johnson
-
-Cheryl
-
-91 Sugarloaf Mountain Rd
-
-Chester
-
-NY
-
-10918
-
-US
-
-Johnson
-
-Cheryl
-
-91 Sugarloaf Mountain Rd
-
-Chester
-
-NY
-
-10918
-
-US
-
-Emblem GHI HMO select
+ADHD
 
 Progress Notes
 
 Examination
+
+06/06/2026
 
 General Examination
 
@@ -524,10 +436,6 @@ Neurologic:
 
 nonfocal, alert, awake and oriented to person, place and time
 
-Skin:
-
-left abdomen SC injection site clean, no redness, swelling or induration noted post-injection.
-
 Extremities:
 
 full range of motion, no upper extremity edema, no lower extremity edema
@@ -540,9 +448,35 @@ Oral cavity:
 
 tongue midline, mucosa moist
 
-Marin
+DISCIGLIO
 
-Citlalli
+KAILA
 
-EM Middletown Office
+FNP
+
+Newburgh Office
+
+History and Physical Notes
+
+HPI (History of Present Illness)
+
+06/06/2026
+
+Transition of Care
+
+This is a 30-year-old female, new patient, nonsmoker, social ETOH user, with a significant past medical history of ADHD, referred by Zocdoc, who presents today for initial consultation to discuss Adderall. She has no past surgical history. Family history is significant for dad with ADHD. She works as a teacher, has no children, lives in Somers. Her primary doctor is Dr. Reiner at Optum. She states she currently takes 20 mg of Adderall three times a day. She has been on it for over 18 years and she is looking for a new provider to prescribe it and states she is currently going for her masters for teaching and has trouble concentrating and focusing on tasks. She has had ADHD since middle school. She denies any active chest pain, chest pressure, syncope, or near-syncopal events.
+
+Today, for her clearance of starting Adderall, a full cardiovascular assessment will be performed as increased heart rate and elevated blood pressure were also noted to be on exam and for long-term use of Adderall, we will be obtaining an EKG at next visit. Echocardiogram, ETT, ABI, and for decreased pedal pulses felt on lower extremities, a venous reflux will also be obtained at next exam. She will follow-up also for fasting labs. We will give her a urine drug screening script to be obtained before Adderall placement, and she will follow-up in 1 week to perform cardiovascular testing prior to starting medication. All questions and concerns were answered and addressed. A heart-healthy diet and healthy lifestyle was encouraged and endorsed.  The patient agrees to the plan of care.
+
+DISCIGLIO
+
+KAILA
+
+FNP
+
+Newburgh Office
+
+Physical Findings
+
+No Information
 

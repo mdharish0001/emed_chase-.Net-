@@ -2,171 +2,63 @@
 {
     public class DocRefreshEncounterWithPatient
     {
+        public class finalresonse
+        {
+            public string encounterxmldata { get; set; }  // decoded XML string
+            public string encounterdate { get; set; }
+        }
 
+        // FHIR Bundle
         public class Rootobject
         {
             public string resourceType { get; set; }
-            public string id { get; set; }
-            public Meta meta { get; set; }
-            public string type { get; set; }
             public int total { get; set; }
-            public Link[] link { get; set; }
             public Entry[] entry { get; set; }
-        }
-
-        public class Meta
-        {
-            public DateTime lastUpdated { get; set; }
-        }
-
-        public class Link
-        {
-            public string relation { get; set; }
-            public string url { get; set; }
         }
 
         public class Entry
         {
-            public string fullUrl { get; set; }
             public Resource resource { get; set; }
-            public Search search { get; set; }
         }
 
         public class Resource
         {
             public string resourceType { get; set; }
             public string id { get; set; }
-            public Meta1 meta { get; set; }
-            public string contentType { get; set; }
-            public string data { get; set; }
-            public Text text { get; set; }
-            public Identifier[] identifier { get; set; }
             public string status { get; set; }
-            public Type type { get; set; }
-            public Category[] category { get; set; }
-            public Subject subject { get; set; }
-            public DateTime date { get; set; }
-            public Author[] author { get; set; }
-            public Custodian custodian { get; set; }
-            public Content[] content { get; set; }
+            public Content[] content { get; set; }  // ← data lives here
             public Context context { get; set; }
+            public string data { get; set; }
         }
 
-        public class Meta1
-        {
-            public string[] profile { get; set; }
-            public DateTime lastUpdated { get; set; }
-        }
-
-        public class Text
-        {
-            public string status { get; set; }
-            public string div { get; set; }
-        }
-
-        public class Type
-        {
-            public Coding[] coding { get; set; }
-            public string text { get; set; }
-        }
-
-        public class Coding
-        {
-            public string system { get; set; }
-            public string code { get; set; }
-            public string display { get; set; }
-        }
-
-        public class Subject
-        {
-            public string reference { get; set; }
-            public string type { get; set; }
-        }
-
-        public class Custodian
-        {
-            public string reference { get; set; }
-            public string type { get; set; }
-        }
-
-        public class Context
-        {
-            public Encounter[] encounter { get; set; }
-            public Period period { get; set; }
-        }
-
-        public class Period
-        {
-            public DateTime start { get; set; }
-            public DateTime end { get; set; }
-        }
-
-        public class Encounter
-        {
-            public string reference { get; set; }
-            public string type { get; set; }
-        }
-
-        public class Identifier
-        {
-            public string system { get; set; }
-            public string value { get; set; }
-        }
-
-        public class Category
-        {
-            public Coding1[] coding { get; set; }
-            public string text { get; set; }
-        }
-
-        public class Coding1
-        {
-            public string system { get; set; }
-            public string code { get; set; }
-            public string display { get; set; }
-        }
-
-        public class Author
-        {
-            public string reference { get; set; }
-            public string type { get; set; }
-        }
-
+        // content[].attachment.data  ← this is where the base64 XML lives
         public class Content
         {
             public Attachment attachment { get; set; }
-            public Format format { get; set; }
         }
 
         public class Attachment
         {
-            public string contentType { get; set; }
-            public string url { get; set; }
+            public string contentType { get; set; }  // "application/xml" or "text/plain"
+            public string data { get; set; }  // base64 encoded content
+            public string url { get; set; }  // OR a URL to fetch separately
         }
 
-        public class Format
+        public class Context
         {
-            public string system { get; set; }
-            public string code { get; set; }
-            public string display { get; set; }
+            public Period period { get; set; }
+            public Encounter[] encounter { get; set; }
         }
 
-        public class Search
+        public class Encounter
         {
-            public string mode { get; set; }
+            public string reference { get; set; }  // "Encounter/123"
         }
-        public class finalresonse
+
+        public class Period
         {
-            public string encounterid { get; set; }
-
-            public string type { get; set; }
-
-            public string  ? encounterdate { get; set; }
-            public string ? encountereason { get; set; }
-            public string ? encounterxmldata { get; set; }
-
-
+            public DateTime? start { get; set; }
+            public DateTime? end { get; set; }
         }
-
     }
 }

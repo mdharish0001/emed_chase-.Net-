@@ -1,6 +1,6 @@
 ﻿namespace emedl_chase.Model
 {
-    public class Binary
+    public class BinaryDTO
     {
         public class Rootobject
         {

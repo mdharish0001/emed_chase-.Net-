@@ -1,16 +1,23 @@
-﻿using emedl_chase.Helper;
+﻿using emedl_chase.DbModel;
+using emedl_chase.Helper;
 using emedl_chase.Model;
+using emedl_chase.Service;
+using Hl7.Fhir.Model;
+using Hl7.Fhir.Utility;
 using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
+using Newtonsoft.Json;
 using OfficeOpenXml;
+using OfficeOpenXml.Style;
 using System.Globalization;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
+using System.Text;
 using System.Text.Json;
 using System.Xml.Linq;
-using static emedl_chase.Model.Patient;
+using static emedl_chase.Model.PatientDTO;
 
 namespace emedl_chase.Controllers
 {
@@ -19,10 +26,12 @@ namespace emedl_chase.Controllers
     public class chaseController : ControllerBase
     {
         private readonly IWebHostEnvironment _webHostEnvironment;
+        private readonly IClinicalPdfService _clinicalPdfService;
 
-        public chaseController (IWebHostEnvironment webHostEnvironment)
+        public chaseController (IWebHostEnvironment webHostEnvironment, IClinicalPdfService clinicalPdfService)
         {
             _webHostEnvironment = webHostEnvironment;
+            _clinicalPdfService = clinicalPdfService;
         }
 
 
@@ -38,12 +47,13 @@ namespace emedl_chase.Controllers
 
             var json_data = System.IO.File.ReadAllText(filepath);
 
-            var jsonser = JsonSerializer.Deserialize<ECWConfig>(json_data);
+            var jsonser = System.Text.Json.JsonSerializer.Deserialize<ECWConfig>(json_data);
 
             var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
 
             return Ok(bearer);
         }
+
         [HttpGet("ecw-patient")]
         public async Task<IActionResult> GetFile(string name = null , DateTime? dos=null )
         {
@@ -53,7 +63,6 @@ namespace emedl_chase.Controllers
             {
                 return Ok("Enter the name");
             }
-
             
             var convert_dos=dos?.ToString("yyyy-MM-dd");
 
@@ -64,7 +73,7 @@ namespace emedl_chase.Controllers
 
             var json_data = System.IO.File.ReadAllText(filepath);
 
-            var jsonser = JsonSerializer.Deserialize<ECWConfig>(json_data);
+            var jsonser = System.Text.Json.JsonSerializer.Deserialize<ECWConfig>(json_data);
 
             var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
 
@@ -77,7 +86,29 @@ namespace emedl_chase.Controllers
             {
                 fhir_id = item.fhir_id;
             }
-            var get_encounter_json = await FhirApiCaller.CallApiForEncounter(bearer, fhir_id, convert_dos);
+
+
+            //var final = FhirApiCaller.GetUnifiedPatientRecord(bearer, fhir_id);
+
+            //var get_patient_Medication = await FhirApiCaller.MedicationAPI(bearer, fhir_id);
+
+            var get_encounter_json = await FhirApiCaller.EncounterAPI(bearer, fhir_id, convert_dos);
+
+            //var get_patient_AllergyIntolerance = await FhirApiCaller.AllergyIntoleranceAPI(bearer, fhir_id);
+
+            //var get_patient_Condition = await FhirApiCaller.ConditionAPI(bearer, fhir_id);
+
+            ////var get_patient_Observation = await FhirApiCaller.ObservationAPI(bearer, fhir_id);
+
+            //var procedures = await FhirApiCaller.ProcedureAPI(bearer, fhir_id);
+
+            //var reports = await ECWFHIRApi.DiagnosticReportAPI(bearer, fhir_id);
+
+            //var immunizations = await FhirApiCaller.ImmunizationAPI(bearer, fhir_id);
+
+            var documents = await FhirApiCaller.DocumentReferenceAPI(bearer, fhir_id);            
+
+            var encounter = get_encounter_json.FirstOrDefault();
 
             var encounter_id = "";
 
@@ -88,12 +119,232 @@ namespace emedl_chase.Controllers
 
             var get_docencounterwithpatient_json = await FhirApiCaller.CallApiForDocrefreshEncounterwithPatient(bearer, fhir_id, encounter_id);
 
+            
             var type = "encounter";
 
-            var call_xml_reader_file = XmlConvertor.XmlConvertorUpdated(get_docencounterwithpatient_json.encounterxmldata, name, convert_dos, type);
+            if (get_docencounterwithpatient_json != null)
+            {
+                var call_xml_reader_file = XmlConvertor.XmlConvertorUpdated(get_docencounterwithpatient_json.encounterxmldata, name, convert_dos, type);
+            }
 
             var get_binary_data = await FhirApiCaller.CallApiForDocrefresh(bearer, fhir_id);
 
+            var get_binary = get_binary_data.binaryid;
+           
+            var get_binary_xmldate = await FhirApiCaller.CallApiForBinary(bearer, get_binary);
+           
+            var type1 = "full";
+
+            var call_xml_reader_file_1 = XmlConvertor.XmlConvertorUpdated(get_binary_xmldate, name, convert_dos,type1);
+
+            //var xmlContent = Encoding.UTF8.GetString( Convert.FromBase64String(get_binary_xmldate));
+            //await _clinicalPdfService.GenerateClinicalPdfAsync(xmlContent, @"D:\ECWPDF\clinical1.pdf", encounter?.dos, encounter?.encounternote);
+
+            var result = XmlConvertor.ReadCCDAFile(call_xml_reader_file_1);
+
+            return Ok(get_patient_json);
+            
+        }
+
+
+        [HttpGet("ECW-Patient-Record")]
+        public async Task<IActionResult> GetPatientRecord(string name = null, DateTime? dos = null)
+        {
+            var filepath = Path.Combine(_webHostEnvironment.WebRootPath, "files", "ecw_credentials.json");
+
+            if (name == null)
+            {
+                return Ok("Enter the name");
+            }
+
+            var convert_dos = dos?.ToString("yyyy-MM-dd");
+
+            if (!System.IO.File.Exists(filepath))
+            {
+                return Ok("file not found");
+            }
+
+            var json_data = System.IO.File.ReadAllText(filepath);
+
+            var jsonser = System.Text.Json.JsonSerializer.Deserialize<ECWConfig>(json_data);
+
+            var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
+
+
+            var get_patient_json = await FhirApiCaller.CallApiforPatientDemo(bearer, name);
+
+            var fhir_id = "";
+
+            foreach (var item in get_patient_json)
+            {
+                fhir_id = item.fhir_id;
+            }
+
+
+            var final = FhirApiCaller.GetUnifiedPatientRecord(bearer, fhir_id, name);
+            //var filepath = Path.Combine(_webHostEnvironment.WebRootPath, "files", "ecw_credentials.json");
+
+            //if (name == null)
+            //{
+            //    return Ok("Enter the name");
+            //}
+
+            //var convert_dos = dos?.ToString("yyyy-MM-dd");
+
+            //if (!System.IO.File.Exists(filepath))
+            //{
+            //    return Ok("file not found");
+            //}
+
+            //var json_data = System.IO.File.ReadAllText(filepath);
+
+            //var jsonser = System.Text.Json.JsonSerializer.Deserialize<ECWConfig>(json_data);
+
+            //var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
+
+
+            //var get_patient_json = await ECWFHIRApi.PatientDemoAPI(bearer, name);
+
+            //var fhir_id = "";
+
+            //foreach (var item in get_patient_json)
+            //{
+            //    fhir_id = item.fhir_id;
+            //}
+
+            //var get_patient_Medication = await ECWFHIRApi.MedicationAPI(bearer, fhir_id);
+
+            ////var get_encounter_json = await ECWFHIRApi.EncounterAPI(bearer, fhir_id, convert_dos);
+            //var get_encounter_json = await FhirApiCaller.EncounterAPI(bearer, fhir_id, convert_dos);
+
+            //var get_patient_AllergyIntolerance = await ECWFHIRApi.AllergyAPI(bearer, fhir_id);
+
+            //var conditions = await ECWFHIRApi.ConditionAPI(  bearer, fhir_id);
+
+            //var observations = await ECWFHIRApi.ObservationAPI( bearer,fhir_id);
+
+            //var procedures = await ECWFHIRApi.ProcedureAPI( bearer, fhir_id);
+
+            //var reports = await ECWFHIRApi.DiagnosticReportAPI( bearer,fhir_id);
+
+            //var immunizations =  await ECWFHIRApi.ImmunizationAPI(  bearer, fhir_id);
+
+            //var documents =  await ECWFHIRApi.DocumentReferenceAPI(  bearer,  fhir_id);
+
+
+            //var patient = get_patient_json.FirstOrDefault();
+
+
+            //var summary = new PatientClinicalSummary
+            //{
+            //    Patient = new PatientHeaderDTO
+            //    {
+            //        FhirId = patient?.fhir_id,
+            //        Name = patient?.name,
+            //        Gender = patient?.gender,
+            //        BirthDate = patient?.birthDate,
+            //        LastUpdated = patient?.lastUpdated
+            //    },
+
+            //    //Encounters = get_encounter_json,            
+            //    Medications = get_patient_Medication,   
+
+            //    Allergies = get_patient_AllergyIntolerance,
+            //    Conditions = conditions,
+            //    Observations = observations,
+            //    Procedures = procedures,
+            //    DiagnosticReports = reports,
+            //    Immunizations = immunizations
+            //};
+
+
+            return Ok(get_patient_json);
+
+        }
+
+
+
+        [HttpGet("Retrieve-Patient-Record")]
+        public async Task<IActionResult> RetrievePatientRecords(string name = null, DateTime? dos = null)
+        {
+            var filepath = Path.Combine(_webHostEnvironment.WebRootPath, "files", "ecw_credentials.json");
+
+            if (name == null)
+            {
+                return Ok("Enter the name");
+            }
+
+            var convert_dos = dos?.ToString("yyyy-MM-dd");
+
+            if (!System.IO.File.Exists(filepath))
+            {
+                return Ok("file not found");
+            }
+
+            var json_data = System.IO.File.ReadAllText(filepath);
+
+            var jsonser = System.Text.Json.JsonSerializer.Deserialize<ECWConfig>(json_data);
+
+            var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
+
+
+            var get_patient_json = await FhirApiCaller.CallApiforPatientDemo(bearer, name);
+
+           
+
+            var fhir_id = "";
+
+            foreach (var item in get_patient_json)
+            {
+                fhir_id = item.fhir_id;
+            }
+                        
+
+            var get_patient_Medication = await FhirApiCaller.MedicationAPI(bearer, fhir_id);
+
+            var get_encounter_json = await FhirApiCaller.EncounterAPI(bearer, fhir_id, convert_dos);
+
+            var get_patient_AllergyIntolerance = await FhirApiCaller.AllergyIntoleranceAPI(bearer, fhir_id);
+
+            var get_patient_Condition = await FhirApiCaller.ConditionAPI(bearer, fhir_id);
+
+            //var get_patient_Observation = await FhirApiCaller.ObservationAPI(bearer, fhir_id);
+
+            var procedures = await FhirApiCaller.ProcedureAPI(bearer, fhir_id);
+
+            var reports = await ECWFHIRApi.DiagnosticReportAPI(bearer, fhir_id);
+
+            var immunizations = await FhirApiCaller.ImmunizationAPI(bearer, fhir_id);
+
+            var documents = await ECWFHIRApi.DocumentReferenceAPI(bearer, fhir_id);
+                     
+
+            var encounter = get_encounter_json.FirstOrDefault();
+
+            var encounter_id = "";
+
+            foreach (var item in get_encounter_json)
+            {
+                encounter_id = item.encounterid;
+            }
+
+            var get_docencounterwithpatient_json = await FhirApiCaller.CallApiForDocrefreshEncounterwithPatient(bearer, fhir_id, encounter_id);
+
+
+            var type = "encounter";
+
+            if (get_docencounterwithpatient_json != null)
+            {
+                var call_xml_reader_file = XmlConvertor.XmlConvertorUpdated(get_docencounterwithpatient_json.encounterxmldata, name, convert_dos, type);
+
+                Console.WriteLine(call_xml_reader_file.Contains("Reason for Appointment"));
+
+                Console.WriteLine(call_xml_reader_file.Contains("Review of recent testing"));
+
+                Console.WriteLine(call_xml_reader_file.Contains("Transition of Care"));
+            }
+
+            var get_binary_data = await FhirApiCaller.CallApiForDocrefresh(bearer, fhir_id);
 
             var get_binary = get_binary_data.binaryid;
 
@@ -101,12 +352,17 @@ namespace emedl_chase.Controllers
 
             var type1 = "full";
 
-            var call_xml_reader_file_1 = XmlConvertor.XmlConvertorUpdated(get_binary_xmldate, name, convert_dos,type1);
+            var call_xml_reader_file_1 = XmlConvertor.XmlConvertorUpdated(get_binary_xmldate, name, convert_dos, type1);
 
-            //return Ok(get_patient_json);
+            //var xmlContent = Encoding.UTF8.GetString( Convert.FromBase64String(get_binary_xmldate));
+            //await _clinicalPdfService.GenerateClinicalPdfAsync(xmlContent, @"D:\ECWPDF\clinical1.pdf", encounter?.dos, encounter?.encounternote);
+
+            var result = XmlConvertor.ReadCCDAFile(call_xml_reader_file_1);
+
             return Ok(get_patient_json);
-            
+
         }
+
 
         [HttpGet("CCDAFileRead")]
 
@@ -116,13 +372,12 @@ namespace emedl_chase.Controllers
 
             if (filepath == null) {
 
-                return Ok("No data fiund");
-            
+                return Ok("No data fiund");            
             }
 
-             var content = XmlConvertor.CCDAFilread(filepath);
+           var content = XmlConvertor.CCDAFilread(filepath);
            var result=  XmlConvertor.ReadCCDAFile(filepath);
-            return Ok(result);
+           return Ok(result);
         }
 
         [HttpPost("ChasefileUpload")]
@@ -226,7 +481,7 @@ namespace emedl_chase.Controllers
 
             var json_data = System.IO.File.ReadAllText(filepath);
 
-            var jsonser = JsonSerializer.Deserialize<ECWConfig>(json_data);
+            var jsonser = System.Text.Json.JsonSerializer.Deserialize<ECWConfig>(json_data);
 
             var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
 
@@ -248,7 +503,7 @@ namespace emedl_chase.Controllers
             {
                 fhir_id = item.fhir_id;
             }
-            var get_encounter_json = await FhirApiCaller.CallApiForEncounter(bearer, fhir_id, convert_dos);
+            var get_encounter_json = await FhirApiCaller.EncounterAPI(bearer, fhir_id, convert_dos);
 
             var encounter_id = "";
 
@@ -295,7 +550,7 @@ namespace emedl_chase.Controllers
 
             var json_data = System.IO.File.ReadAllText(filepath);
 
-            var jsonser = JsonSerializer.Deserialize<ECWConfig>(json_data);
+            var jsonser = System.Text.Json.JsonSerializer.Deserialize<ECWConfig>(json_data);
 
             var bearer = await ECWTokenHelper.GetECWTokenAsync(jsonser);
 

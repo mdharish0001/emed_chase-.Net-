@@ -80,7 +80,6 @@ public class ECWTokenHelper
             throw new Exception($"Token generation error: {e.Message}");
         }
     }
-
     private static string GenerateEcwJwt(ECWConfig cred)
     {
         var now = DateTimeOffset.UtcNow.ToUnixTimeSeconds();
@@ -95,7 +94,7 @@ public class ECWTokenHelper
             {
                 KeyId = cred.kid
             },
-            SecurityAlgorithms.RsaSha384
+            SecurityAlgorithms.RsaSha384    
         );
 
         var header = new JwtHeader(signingCredentials);
